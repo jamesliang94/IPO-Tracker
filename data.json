@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T21:29:27.977Z",
+  "updated": "2026-09-02T23:44:58.300Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
@@ -64,6 +64,15 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-02",
       "source": "https://www.sec.gov/Archives/edgar/data/2027722/000121390026096486/0001213900-26-096486-index.htm"
+    },
+    {
+      "name": "A12B - ETF Opportunities Trust",
+      "cik": "0001771146",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001747/0001771146-26-001747-index.htm"
     },
     {
       "name": "1/A - CYABRA, INC.",
@@ -163,6 +172,33 @@
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-09-01",
       "source": "https://www.sec.gov/Archives/edgar/data/2089447/000149315226040933/0001493152-26-040933-index.htm"
+    },
+    {
+      "name": "A12B - Tidal Trust IV",
+      "cik": "0002043390",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126019474/0001999371-26-019474-index.htm"
+    },
+    {
+      "name": "A12B/A - HORNBECK OFFSHORE SERVICES, INC.",
+      "cik": "0000866829",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/866829/000119312526378590/0001193125-26-378590-index.htm"
+    },
+    {
+      "name": "A12B - MFS Active Exchange Traded Funds Trust",
+      "cik": "0002018846",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2018846/000091293826000839/0000912938-26-000839-index.htm"
     },
     {
       "name": "1 - SB Energy, Inc.",
@@ -300,6 +336,24 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2146310/000121390026095396/0001213900-26-095396-index.htm"
     },
     {
+      "name": "A12B - Tidal Trust V",
+      "cik": "0002081107",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126019340/0001999371-26-019340-index.htm"
+    },
+    {
+      "name": "A12B - Collaborative Investment Series Trust",
+      "cik": "0001719812",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126019304/0001999371-26-019304-index.htm"
+    },
+    {
       "name": "A12B - Axos Financial, Inc.",
       "cik": "0001299709",
       "status": "priced",
@@ -325,15 +379,6 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-08-24",
       "source": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626006381/0001445546-26-006381-index.htm"
-    },
-    {
-      "name": "A12B - ETF Opportunities Trust",
-      "cik": "0001771146",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001710/0001771146-26-001710-index.htm"
     },
     {
       "name": "A12B - Themes ETF Trust",
@@ -363,15 +408,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1467093/000175392626001602/0001753926-26-001602-index.htm"
     },
     {
-      "name": "A12B - Tidal Trust V",
-      "cik": "0002081107",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018548/0001999371-26-018548-index.htm"
-    },
-    {
       "name": "A12B - Zcash ETF",
       "cik": "0001720265",
       "status": "priced",
@@ -388,15 +424,6 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-08-24",
       "source": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018520/0001999371-26-018520-index.htm"
-    },
-    {
-      "name": "A12B - Tidal Trust IV",
-      "cik": "0002043390",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126018510/0001999371-26-018510-index.htm"
     },
     {
       "name": "A12B - KLX Energy Services Holdings, Inc.",
