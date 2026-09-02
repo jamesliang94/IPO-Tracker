@@ -2,9 +2,50 @@
 <html>
 <head>
   <title>IPO Tracker</title>
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
+    .summary { background: #f3f4f6; border-left: 3px solid #6b7280; padding: 14px 16px; margin: 20px 0 28px; line-height: 1.6; }
+    .summary-label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin-bottom: 6px; }
+    .card { border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 12px; }
+    .name { font-weight: 600; font-size: 18px; }
+    .meta { color: #666; font-size: 14px; margin-top: 4px; }
+    .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 12px; }
+    .filed { background: #dbeafe; color: #1e40af; }
+    .rumored { background: #fef3c7; color: #92400e; }
+    .priced { background: #dcfce7; color: #166534; }
+  </style>
 </head>
 <body>
   <h1>IPO Tracker</h1>
-  <p>Auto-deploy test 1</p>
+  <p id="updated">Loading...</p>
+
+  <div class="summary">
+    <div class="summary-label">Summary</div>
+    <div id="summary"></div>
+  </div>
+
+  <div id="list"></div>
+
+  <script>
+    fetch('data.json')
+      .then(response => response.json())
+      .then(data => {
+        document.getElementById('updated').textContent = 'Last updated: ' + data.updated;
+        document.getElementById('summary').textContent = data.summary || 'No summary available.';
+        const list = document.getElementById('list');
+        data.companies.forEach(company => {
+          const card = document.createElement('div');
+          card.className = 'card';
+          card.innerHTML =
+            '<div class="name">' + company.name + '</div>' +
+            '<span class="badge ' + company.status + '">' + company.status + '</span>' +
+            '<div class="meta">' + company.signal + ' &middot; ' + company.date + ' &middot; confidence ' + company.confidence + '%</div>';
+          list.appendChild(card);
+        });
+      })
+      .catch(error => {
+        document.getElementById('updated').textContent = 'Could not load data.json';
+      });
+  </script>
 </body>
 </html>
