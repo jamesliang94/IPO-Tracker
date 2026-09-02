@@ -15,14 +15,8 @@ jobs:
       - name: Get the repo files
         uses: actions/checkout@v4
 
-      - name: Write a timestamp into data.json
-        run: |
-          node -e "
-          const fs = require('fs');
-          const data = JSON.parse(fs.readFileSync('data.json', 'utf8'));
-          data.updated = new Date().toISOString();
-          fs.writeFileSync('data.json', JSON.stringify(data, null, 2));
-          "
+      - name: Run the collector
+        run: node scripts/collect.js
 
       - name: Commit and push
         run: |
