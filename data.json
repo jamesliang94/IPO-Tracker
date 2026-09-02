@@ -1,0 +1,27 @@
+{
+  "updated": "2026-09-01T14:00:00Z",
+  "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
+  "companies": [
+    {
+      "name": "Acme Robotics Inc.",
+      "status": "filed",
+      "confidence": 95,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-08-22"
+    },
+    {
+      "name": "Northwind Data",
+      "status": "rumored",
+      "confidence": 40,
+      "signal": "Reuters reports bank selection",
+      "date": "2026-08-20"
+    },
+    {
+      "name": "Beacon Health",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "424B4 filed, listing Thursday",
+      "date": "2026-08-28"
+    }
+  ]
+}
