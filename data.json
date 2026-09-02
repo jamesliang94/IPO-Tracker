@@ -1,27 +1,447 @@
 {
-  "updated": "2026-09-02T18:53:39.312Z",
+  "updated": "2026-09-02T21:29:27.977Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
-      "name": "Acme Robotics Inc.",
+      "name": "1/A - Aura Consolidated Group, Inc.",
+      "cik": "0002055301",
       "status": "filed",
-      "confidence": 95,
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/2055301/000162828026060183/0001628280-26-060183-index.htm"
+    },
+    {
+      "name": "1 - Accelevation Holdings Corp.",
+      "cik": "0002141406",
+      "status": "filed",
+      "confidence": 90,
       "signal": "S-1 filed with SEC",
-      "date": "2026-08-22"
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/2141406/000162828026060083/0001628280-26-060083-index.htm"
     },
     {
-      "name": "Northwind Data",
-      "status": "rumored",
-      "confidence": 40,
-      "signal": "Reuters reports bank selection",
-      "date": "2026-08-20"
+      "name": "1/A - Haymaker Acquisition Corp V",
+      "cik": "0002111838",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/2111838/000119312526380080/0001193125-26-380080-index.htm"
     },
     {
-      "name": "Beacon Health",
+      "name": "1/A - Sensei Harbor Corp.",
+      "cik": "0002112634",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/2112634/000168316826006875/0001683168-26-006875-index.htm"
+    },
+    {
+      "name": "1/A - Devonian Health Group Inc.",
+      "cik": "0002000684",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/2000684/000110465926104757/0001104659-26-104757-index.htm"
+    },
+    {
+      "name": "1/A - HengHong Technology Inc.",
+      "cik": "0002050020",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/2050020/000121390026096741/0001213900-26-096741-index.htm"
+    },
+    {
+      "name": "1 - Grande Group Ltd/HK",
+      "cik": "0002027722",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-02",
+      "source": "https://www.sec.gov/Archives/edgar/data/2027722/000121390026096486/0001213900-26-096486-index.htm"
+    },
+    {
+      "name": "1/A - CYABRA, INC.",
+      "cik": "0002032341",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2032341/000121390026096300/0001213900-26-096300-index.htm"
+    },
+    {
+      "name": "1 - FingerMotion, Inc.",
+      "cik": "0001602409",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226041059/0001493152-26-041059-index.htm"
+    },
+    {
+      "name": "1 - RainRock Acquisition Corp.",
+      "cik": "0002089787",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2089787/000121390026095969/0001213900-26-095969-index.htm"
+    },
+    {
+      "name": "11/A - CAPSTONE 72, INC.",
+      "cik": "0002066925",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2066925/000149315226040914/0001493152-26-040914-index.htm"
+    },
+    {
+      "name": "1/A - ENTRATA, INC.",
+      "cik": "0002028464",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2028464/000162828026059692/0001628280-26-059692-index.htm"
+    },
+    {
+      "name": "1 - LiPower New Energy Holdings Ltd",
+      "cik": "0002080577",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2080577/000121390026096406/0001213900-26-096406-index.htm"
+    },
+    {
+      "name": "1/A - NewGenIvf Group Ltd",
+      "cik": "0001981662",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/1981662/000121390026096245/0001213900-26-096245-index.htm"
+    },
+    {
+      "name": "1 - Bogd FT Ltd",
+      "cik": "0002113733",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2113733/000121390026096115/0001213900-26-096115-index.htm"
+    },
+    {
+      "name": "1/A - Elong Power Holding Ltd.",
+      "cik": "0002015691",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2015691/000149315226040913/0001493152-26-040913-index.htm"
+    },
+    {
+      "name": "Three Lions Acquisition Corp.",
+      "cik": "0002128462",
       "status": "priced",
       "confidence": 99,
-      "signal": "424B4 filed, listing Thursday",
-      "date": "2026-08-28"
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2128462/000119312526378248/0001193125-26-378248-index.htm"
+    },
+    {
+      "name": "Advance JV Group Ltd",
+      "cik": "0002089447",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-01",
+      "source": "https://www.sec.gov/Archives/edgar/data/2089447/000149315226040933/0001493152-26-040933-index.htm"
+    },
+    {
+      "name": "1 - SB Energy, Inc.",
+      "cik": "0002133037",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026059639/0001628280-26-059639-index.htm"
+    },
+    {
+      "name": "1 - StableCoinX Inc.",
+      "cik": "0002080215",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026095808/0001213900-26-095808-index.htm"
+    },
+    {
+      "name": "1/A - TECOGEN INC.",
+      "cik": "0001537435",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1537435/000153743526000071/0001537435-26-000071-index.htm"
+    },
+    {
+      "name": "1/A - Tailored Brands, Inc. / DE",
+      "cik": "0002045151",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2045151/000121390026095715/0001213900-26-095715-index.htm"
+    },
+    {
+      "name": "1/A - Onconetix, Inc.",
+      "cik": "0001782107",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1782107/000121390026095703/0001213900-26-095703-index.htm"
+    },
+    {
+      "name": "1 - Wella Co",
+      "cik": "0002125056",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2125056/000162828026059572/0001628280-26-059572-index.htm"
+    },
+    {
+      "name": "1/A - Syntiant Corp.",
+      "cik": "0001718728",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1718728/000119312526376166/0001193125-26-376166-index.htm"
+    },
+    {
+      "name": "1 - LOGOOM TECHNOLOGIES, INC.",
+      "cik": "0002124913",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2124913/000164033426001434/0001640334-26-001434-index.htm"
+    },
+    {
+      "name": "1 - GRAYBAR ELECTRIC CO INC",
+      "cik": "0000205402",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/205402/000020540226000041/0000205402-26-000041-index.htm"
+    },
+    {
+      "name": "1 - La Beaute Inc.",
+      "cik": "0002151905",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2151905/000215190526000001/0002151905-26-000001-index.htm"
+    },
+    {
+      "name": "1 - GLGHK Ltd",
+      "cik": "0002119287",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2119287/000149315226040908/0001493152-26-040908-index.htm"
+    },
+    {
+      "name": "1 - Kainan Holding Group Ltd",
+      "cik": "0002120528",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2120528/000157587226000634/0001575872-26-000634-index.htm"
+    },
+    {
+      "name": "1 - Zhibao Technology Inc.",
+      "cik": "0001966750",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1966750/000121390026095337/0001213900-26-095337-index.htm"
+    },
+    {
+      "name": "First Breach, Inc.",
+      "cik": "0001892704",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/1892704/000149315226040850/0001493152-26-040850-index.htm"
+    },
+    {
+      "name": "Inflection Point Acquisition Corp. VIII",
+      "cik": "0002146310",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-08-31",
+      "source": "https://www.sec.gov/Archives/edgar/data/2146310/000121390026095396/0001213900-26-095396-index.htm"
+    },
+    {
+      "name": "A12B - Axos Financial, Inc.",
+      "cik": "0001299709",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1299709/000129970926000063/0001299709-26-000063-index.htm"
+    },
+    {
+      "name": "A12B - Tema ETF Trust",
+      "cik": "0001944285",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1944285/000182912626009266/0001829126-26-009266-index.htm"
+    },
+    {
+      "name": "A12B - FIRST TRUST EXCHANGE-TRADED FUND IV",
+      "cik": "0001517936",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626006381/0001445546-26-006381-index.htm"
+    },
+    {
+      "name": "A12B - ETF Opportunities Trust",
+      "cik": "0001771146",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001710/0001771146-26-001710-index.htm"
+    },
+    {
+      "name": "A12B - Themes ETF Trust",
+      "cik": "0001976322",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009254/0001829126-26-009254-index.htm"
+    },
+    {
+      "name": "A12B - Managed Portfolio Series",
+      "cik": "0001511699",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926022926/0000894189-26-022926-index.htm"
+    },
+    {
+      "name": "A12B - Scorpio Gold Corp",
+      "cik": "0001467093",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1467093/000175392626001602/0001753926-26-001602-index.htm"
+    },
+    {
+      "name": "A12B - Tidal Trust V",
+      "cik": "0002081107",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018548/0001999371-26-018548-index.htm"
+    },
+    {
+      "name": "A12B - Zcash ETF",
+      "cik": "0001720265",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1720265/000119312526362505/0001193125-26-362505-index.htm"
+    },
+    {
+      "name": "A12B - Tidal Trust II",
+      "cik": "0001924868",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018520/0001999371-26-018520-index.htm"
+    },
+    {
+      "name": "A12B - Tidal Trust IV",
+      "cik": "0002043390",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126018510/0001999371-26-018510-index.htm"
+    },
+    {
+      "name": "A12B - KLX Energy Services Holdings, Inc.",
+      "cik": "0001738827",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1738827/000119312526361713/0001193125-26-361713-index.htm"
+    },
+    {
+      "name": "A12B - Haleon US Capital LLC",
+      "cik": "0002149389",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-21",
+      "source": "https://www.sec.gov/Archives/edgar/data/2149389/000110465926099647/0001104659-26-099647-index.htm"
+    },
+    {
+      "name": "A12B - Haleon plc",
+      "cik": "0001900304",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-21",
+      "source": "https://www.sec.gov/Archives/edgar/data/1900304/000110465926099647/0001104659-26-099647-index.htm"
+    },
+    {
+      "name": "A12B - NORTHERN FUNDS",
+      "cik": "0000916620",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-21",
+      "source": "https://www.sec.gov/Archives/edgar/data/916620/000119312526360591/0001193125-26-360591-index.htm"
+    },
+    {
+      "name": "A12B - WESTLAKE CORP",
+      "cik": "0001262823",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-21",
+      "source": "https://www.sec.gov/Archives/edgar/data/1262823/000126282326000060/0001262823-26-000060-index.htm"
     }
   ]
 }
