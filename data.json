@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03T19:33:45.528Z",
+  "updated": "2026-09-03T22:07:11.891Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
@@ -24,8 +24,8 @@
       "name": "1/A - V Capital Consulting Group Ltd",
       "cik": "0002052443",
       "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/2052443/000121390026097031/0001213900-26-097031-index.htm"
     },
@@ -82,6 +82,51 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000094/0001805526-26-000094-index.htm"
+    },
+    {
+      "name": "1 - T3 Defense Inc.",
+      "cik": "0001787518",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026097287/0001213900-26-097287-index.htm"
+    },
+    {
+      "name": "1 - VenHub Global, Inc.",
+      "cik": "0001972234",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1972234/000121390026097253/0001213900-26-097253-index.htm"
+    },
+    {
+      "name": "1 - Nexalin Technology, Inc.",
+      "cik": "0001527352",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1527352/000182912626009723/0001829126-26-009723-index.htm"
+    },
+    {
+      "name": "1 - Oura Inc.",
+      "cik": "0002133022",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2133022/000119312526381855/0001193125-26-381855-index.htm"
+    },
+    {
+      "name": "WeShop Holdings Ltd",
+      "cik": "0002048271",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2048271/000149315226041390/0001493152-26-041390-index.htm"
     },
     {
       "name": "1/A - Aura Consolidated Group, Inc.",
@@ -541,6 +586,132 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-08-21",
       "source": "https://www.sec.gov/Archives/edgar/data/1262823/000126282326000060/0001262823-26-000060-index.htm"
+    },
+    {
+      "name": "A12B - Lyntris Inc.",
+      "cik": "0002132582",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2132582/000119312526353318/0001193125-26-353318-index.htm"
+    },
+    {
+      "name": "A12B - GraniteShares ETF Trust",
+      "cik": "0001689873",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226038643/0001493152-26-038643-index.htm"
+    },
+    {
+      "name": "A12B - NEIGHBORHOOD INTELLIGENCE, INC.",
+      "cik": "0001130713",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1130713/000114036126033179/0001140361-26-033179-index.htm"
+    },
+    {
+      "name": "A12B - Harbor ETF Trust",
+      "cik": "0001860434",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526351510/0001193125-26-351510-index.htm"
+    },
+    {
+      "name": "A12B - HSBC HOLDINGS PLC",
+      "cik": "0001089113",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1089113/000119312526351476/0001193125-26-351476-index.htm"
+    },
+    {
+      "name": "A12B - ADAMAS TRUST, INC.",
+      "cik": "0001273685",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1273685/000110465926096769/0001104659-26-096769-index.htm"
+    },
+    {
+      "name": "A12B - Virtus ETF Trust II",
+      "cik": "0001648403",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1648403/000199937126017940/0001999371-26-017940-index.htm"
+    },
+    {
+      "name": "A12B - Air Water Ventures Ltd",
+      "cik": "0002092314",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/2092314/000121390026089501/0001213900-26-089501-index.htm"
+    },
+    {
+      "name": "A12B - CASTLE BIOSCIENCES INC",
+      "cik": "0001447362",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1447362/000162828026056924/0001628280-26-056924-index.htm"
+    },
+    {
+      "name": "A12B/A - Green Circle Decarbonize Technology Ltd",
+      "cik": "0001926293",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000175392626001500/0001753926-26-001500-index.htm"
+    },
+    {
+      "name": "A12B - Nuran Wireless Inc.",
+      "cik": "0001680637",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001494/0001753926-26-001494-index.htm"
+    },
+    {
+      "name": "A12B - Duke Energy CORP",
+      "cik": "0001326160",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-13",
+      "source": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926095984/0001104659-26-095984-index.htm"
+    },
+    {
+      "name": "A12B - ETF Series Solutions",
+      "cik": "0001540305",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-13",
+      "source": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926022278/0000894189-26-022278-index.htm"
+    },
+    {
+      "name": "A12B - EA Series Trust",
+      "cik": "0001592900",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-08-13",
+      "source": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003871/0001592900-26-003871-index.htm"
     }
   ]
 }
