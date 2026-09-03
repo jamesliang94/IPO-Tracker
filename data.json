@@ -1,7 +1,70 @@
 {
-  "updated": "2026-09-03T12:26:53.911Z",
+  "updated": "2026-09-03T16:50:10.085Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
+    {
+      "name": "1/A - LiPower New Energy Holdings Ltd",
+      "cik": "0002080577",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2080577/000121390026097067/0001213900-26-097067-index.htm"
+    },
+    {
+      "name": "1 - First Breach, Inc.",
+      "cik": "0001892704",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1892704/000149315226041268/0001493152-26-041268-index.htm"
+    },
+    {
+      "name": "1/A - V Capital Consulting Group Ltd",
+      "cik": "0002052443",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2052443/000121390026097031/0001213900-26-097031-index.htm"
+    },
+    {
+      "name": "1MEF - Lianhe Sowell International Group Ltd",
+      "cik": "0002004024",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2004024/000121390026096969/0001213900-26-096969-index.htm"
+    },
+    {
+      "name": "Lianhe Sowell International Group Ltd",
+      "cik": "0002004024",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2004024/000121390026096975/0001213900-26-096975-index.htm"
+    },
+    {
+      "name": "Aptevo Therapeutics Inc.",
+      "cik": "0001671584",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526381149/0001193125-26-381149-index.htm"
+    },
+    {
+      "name": "A12B - BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "cik": "0000842180",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/842180/000110465926104989/0001104659-26-104989-index.htm"
+    },
     {
       "name": "1/A - Aura Consolidated Group, Inc.",
       "cik": "0002055301",
@@ -118,15 +181,6 @@
       "signal": "S-1 amended",
       "date": "2026-09-01",
       "source": "https://www.sec.gov/Archives/edgar/data/2028464/000162828026059692/0001628280-26-059692-index.htm"
-    },
-    {
-      "name": "1 - LiPower New Energy Holdings Ltd",
-      "cik": "0002080577",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/2080577/000121390026096406/0001213900-26-096406-index.htm"
     },
     {
       "name": "1/A - NewGenIvf Group Ltd",
