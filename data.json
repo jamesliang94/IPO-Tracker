@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-03T16:50:10.085Z",
+  "updated": "2026-09-03T19:33:45.528Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
       "name": "1/A - LiPower New Energy Holdings Ltd",
       "cik": "0002080577",
       "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/2080577/000121390026097067/0001213900-26-097067-index.htm"
     },
@@ -64,6 +64,24 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/842180/000110465926104989/0001104659-26-104989-index.htm"
+    },
+    {
+      "name": "A12B - VanEck ETF Trust",
+      "cik": "0001137360",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000847/0001137360-26-000847-index.htm"
+    },
+    {
+      "name": "A12B - DeFi Development Corp.",
+      "cik": "0001805526",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000094/0001805526-26-000094-index.htm"
     },
     {
       "name": "1/A - Aura Consolidated Group, Inc.",
