@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-03T22:07:11.891Z",
+  "updated": "2026-09-04T00:36:30.022Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
       "name": "1/A - LiPower New Energy Holdings Ltd",
       "cik": "0002080577",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/2080577/000121390026097067/0001213900-26-097067-index.htm"
     },
@@ -24,8 +24,8 @@
       "name": "1/A - V Capital Consulting Group Ltd",
       "cik": "0002052443",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/2052443/000121390026097031/0001213900-26-097031-index.htm"
     },
@@ -127,6 +127,33 @@
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/2048271/000149315226041390/0001493152-26-041390-index.htm"
+    },
+    {
+      "name": "A12B - Reliance Global Group, Inc.",
+      "cik": "0001812727",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226041373/0001493152-26-041373-index.htm"
+    },
+    {
+      "name": "A12B - TCW ETF Trust",
+      "cik": "0001831313",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1831313/000182912626009708/0001829126-26-009708-index.htm"
+    },
+    {
+      "name": "A12B - Xtend AI Robotics, Inc.",
+      "cik": "0002111860",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2111860/000119312526381865/0001193125-26-381865-index.htm"
     },
     {
       "name": "1/A - Aura Consolidated Group, Inc.",
