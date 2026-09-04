@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T17:59:38.419Z",
+  "updated": "2026-09-04T20:20:27.290Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
@@ -55,6 +55,24 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-04",
       "source": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426016648/0001398344-26-016648-index.htm"
+    },
+    {
+      "name": "1/A - Albatross Acquisition Corp",
+      "cik": "0002135163",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2135163/000182912626009779/0001829126-26-009779-index.htm"
+    },
+    {
+      "name": "1/A - CGL Logistics Holdings Ltd",
+      "cik": "0001934387",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226041504/0001493152-26-041504-index.htm"
     },
     {
       "name": "1/A - LiPower New Energy Holdings Ltd",
