@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T14:42:49.342Z",
+  "updated": "2026-09-04T17:59:38.419Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
@@ -19,6 +19,42 @@
       "signal": "F-1 amended",
       "date": "2026-09-04",
       "source": "https://www.sec.gov/Archives/edgar/data/2113605/000121390026097374/0001213900-26-097374-index.htm"
+    },
+    {
+      "name": "A12B - Tidal Trust V",
+      "cik": "0002081107",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126019896/0001999371-26-019896-index.htm"
+    },
+    {
+      "name": "1/A - Star Integratia Ltd",
+      "cik": "0002099952",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2099952/000149315226041482/0001493152-26-041482-index.htm"
+    },
+    {
+      "name": "A12B - VegaShares ETF Trust",
+      "cik": "0002068712",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2068712/000121390026097560/0001213900-26-097560-index.htm"
+    },
+    {
+      "name": "A12B - Roundhill ETF Trust",
+      "cik": "0001976517",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426016648/0001398344-26-016648-index.htm"
     },
     {
       "name": "1/A - LiPower New Energy Holdings Ltd",
@@ -177,8 +213,8 @@
       "name": "1/A - AIxCrypto Holdings, Inc.",
       "cik": "0001460702",
       "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
+      "confidence": 92,
+      "signal": "S-1 amended",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226041428/0001493152-26-041428-index.htm"
     },
@@ -195,8 +231,8 @@
       "name": "1/A - PBT Land &amp; Minerals, Inc.",
       "cik": "0002142855",
       "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
+      "confidence": 92,
+      "signal": "S-1 amended",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/2142855/000121390026097366/0001213900-26-097366-index.htm"
     },
@@ -204,8 +240,8 @@
       "name": "1/A - ECOMINAS CORP.",
       "cik": "0001115864",
       "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
+      "confidence": 92,
+      "signal": "S-1 amended",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/1115864/000147793226005410/0001477932-26-005410-index.htm"
     },
@@ -541,15 +577,6 @@
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-08-31",
       "source": "https://www.sec.gov/Archives/edgar/data/2146310/000121390026095396/0001213900-26-095396-index.htm"
-    },
-    {
-      "name": "A12B - Tidal Trust V",
-      "cik": "0002081107",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-31",
-      "source": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126019340/0001999371-26-019340-index.htm"
     },
     {
       "name": "A12B - Collaborative Investment Series Trust",
