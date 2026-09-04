@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T20:20:27.290Z",
+  "updated": "2026-09-04T22:42:18.784Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
@@ -73,6 +73,69 @@
       "signal": "F-1 amended",
       "date": "2026-09-04",
       "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226041504/0001493152-26-041504-index.htm"
+    },
+    {
+      "name": "1/A - SB Energy, Inc.",
+      "cik": "0002133037",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026060761/0001628280-26-060761-index.htm"
+    },
+    {
+      "name": "1 - New Iceland Arctic Acquisition Corp.",
+      "cik": "0002148245",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2148245/000118518526003850/0001185185-26-003850-index.htm"
+    },
+    {
+      "name": "1 - Laser Photonics Corp",
+      "cik": "0001807887",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226041613/0001493152-26-041613-index.htm"
+    },
+    {
+      "name": "1 - ADARx Pharmaceuticals, Inc.",
+      "cik": "0001802369",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526383838/0001193125-26-383838-index.htm"
+    },
+    {
+      "name": "1/A - Game Your Game Inc.",
+      "cik": "0002111846",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2111846/000121390026097734/0001213900-26-097734-index.htm"
+    },
+    {
+      "name": "1/A - CLEARONE INC",
+      "cik": "0000840715",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/840715/000175392626001724/0001753926-26-001724-index.htm"
+    },
+    {
+      "name": "10/A - ARES STRATEGIC MINING INC.",
+      "cik": "0001804792",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1804792/000121390026097771/0001213900-26-097771-index.htm"
     },
     {
       "name": "1/A - LiPower New Energy Holdings Ltd",
@@ -460,15 +523,6 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-01",
       "source": "https://www.sec.gov/Archives/edgar/data/2018846/000091293826000839/0000912938-26-000839-index.htm"
-    },
-    {
-      "name": "1 - SB Energy, Inc.",
-      "cik": "0002133037",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-08-31",
-      "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026059639/0001628280-26-059639-index.htm"
     },
     {
       "name": "1 - StableCoinX Inc.",
