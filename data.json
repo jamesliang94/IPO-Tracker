@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-04T05:19:23.717Z",
+  "updated": "2026-09-04T10:19:16.055Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
+    {
+      "name": "1/A - RUI Holdings Inc",
+      "cik": "0002094989",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2094989/000118518526003841/0001185185-26-003841-index.htm"
+    },
+    {
+      "name": "1/A - Chilwa Minerals Ltd",
+      "cik": "0002113605",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2113605/000121390026097374/0001213900-26-097374-index.htm"
+    },
     {
       "name": "1/A - LiPower New Energy Holdings Ltd",
       "cik": "0002080577",
@@ -154,6 +172,51 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-03",
       "source": "https://www.sec.gov/Archives/edgar/data/2111860/000119312526381865/0001193125-26-381865-index.htm"
+    },
+    {
+      "name": "1/A - AIxCrypto Holdings, Inc.",
+      "cik": "0001460702",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226041428/0001493152-26-041428-index.htm"
+    },
+    {
+      "name": "1 - Legion Capital Acquisition Corp.",
+      "cik": "0002151558",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2151558/000121390026097368/0001213900-26-097368-index.htm"
+    },
+    {
+      "name": "1/A - PBT Land &amp; Minerals, Inc.",
+      "cik": "0002142855",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2142855/000121390026097366/0001213900-26-097366-index.htm"
+    },
+    {
+      "name": "1/A - ECOMINAS CORP.",
+      "cik": "0001115864",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1115864/000147793226005410/0001477932-26-005410-index.htm"
+    },
+    {
+      "name": "1/A - Cumberland Farms Ltd",
+      "cik": "0002123232",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2123232/000119312526382176/0001193125-26-382176-index.htm"
     },
     {
       "name": "1/A - Aura Consolidated Group, Inc.",
