@@ -1,5 +1,330 @@
 {
-  "updated": "",
+  "updated": "2026-09-08T18:45:04.766Z",
   "summary": "",
-  "companies": []
+  "companies": [
+    {
+      "name": "Rothe Development, Inc.",
+      "cik": "0002108671",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2108671/000149315226041590/0001493152-26-041590-index.htm"
+    },
+    {
+      "name": "Evolution Metals &amp; Technologies Corp.",
+      "cik": "0001866226",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026097822/0001213900-26-097822-index.htm"
+    },
+    {
+      "name": "Ocean Power Technologies, Inc.",
+      "cik": "0001378140",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226041658/0001493152-26-041658-index.htm"
+    },
+    {
+      "name": "Holtec Nuclear Corp",
+      "cik": "0002104277",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526384287/0001193125-26-384287-index.htm"
+    },
+    {
+      "name": "SIYATA PTT",
+      "cik": "0002110025",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2110025/000121390026097968/0001213900-26-097968-index.htm"
+    },
+    {
+      "name": "Prenetics Global Ltd",
+      "cik": "0001876431",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026060821/0001628280-26-060821-index.htm"
+    },
+    {
+      "name": "Laser Photonics Corp",
+      "cik": "0001807887",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226041613/0001493152-26-041613-index.htm"
+    },
+    {
+      "name": "ADARx Pharmaceuticals, Inc.",
+      "cik": "0001802369",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526383838/0001193125-26-383838-index.htm"
+    },
+    {
+      "name": "SB Energy, Inc.",
+      "cik": "0002133037",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026060761/0001628280-26-060761-index.htm"
+    },
+    {
+      "name": "Game Your Game Inc.",
+      "cik": "0002111846",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2111846/000121390026097734/0001213900-26-097734-index.htm"
+    },
+    {
+      "name": "CLEARONE INC",
+      "cik": "0000840715",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/840715/000175392626001724/0001753926-26-001724-index.htm"
+    },
+    {
+      "name": "Jingrui Wang Pu Holdings Group Ltd.",
+      "cik": "0001998284",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1998284/000110465926105582/0001104659-26-105582-index.htm"
+    },
+    {
+      "name": "ARES STRATEGIC MINING INC.",
+      "cik": "0001804792",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1804792/000121390026097771/0001213900-26-097771-index.htm"
+    },
+    {
+      "name": "CGL Logistics Holdings Ltd",
+      "cik": "0001934387",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226041504/0001493152-26-041504-index.htm"
+    },
+    {
+      "name": "Star Integratia Ltd",
+      "cik": "0002099952",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2099952/000149315226041482/0001493152-26-041482-index.htm"
+    },
+    {
+      "name": "RUI Holdings Inc",
+      "cik": "0002094989",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2094989/000118518526003841/0001185185-26-003841-index.htm"
+    },
+    {
+      "name": "Chilwa Minerals Ltd",
+      "cik": "0002113605",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/2113605/000121390026097374/0001213900-26-097374-index.htm"
+    },
+    {
+      "name": "AIxCrypto Holdings, Inc.",
+      "cik": "0001460702",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226041428/0001493152-26-041428-index.htm"
+    },
+    {
+      "name": "PBT Land &amp; Minerals, Inc.",
+      "cik": "0002142855",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2142855/000121390026097366/0001213900-26-097366-index.htm"
+    },
+    {
+      "name": "ECOMINAS CORP.",
+      "cik": "0001115864",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1115864/000147793226005410/0001477932-26-005410-index.htm"
+    },
+    {
+      "name": "T3 Defense Inc.",
+      "cik": "0001787518",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1787518/000121390026097287/0001213900-26-097287-index.htm"
+    },
+    {
+      "name": "VenHub Global, Inc.",
+      "cik": "0001972234",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1972234/000121390026097253/0001213900-26-097253-index.htm"
+    },
+    {
+      "name": "Nexalin Technology, Inc.",
+      "cik": "0001527352",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1527352/000182912626009723/0001829126-26-009723-index.htm"
+    },
+    {
+      "name": "Oura Inc.",
+      "cik": "0002133022",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2133022/000119312526381855/0001193125-26-381855-index.htm"
+    },
+    {
+      "name": "First Breach, Inc.",
+      "cik": "0001892704",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1892704/000149315226041268/0001493152-26-041268-index.htm"
+    },
+    {
+      "name": "Cumberland Farms Ltd",
+      "cik": "0002123232",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2123232/000119312526382176/0001193125-26-382176-index.htm"
+    },
+    {
+      "name": "LiPower New Energy Holdings Ltd",
+      "cik": "0002080577",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2080577/000121390026097067/0001213900-26-097067-index.htm"
+    },
+    {
+      "name": "V Capital Consulting Group Ltd",
+      "cik": "0002052443",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2052443/000121390026097031/0001213900-26-097031-index.htm"
+    },
+    {
+      "name": "Lianhe Sowell International Group Ltd",
+      "cik": "0002004024",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2004024/000121390026096969/0001213900-26-096969-index.htm"
+    },
+    {
+      "name": "WeShop Holdings Ltd",
+      "cik": "0002048271",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2048271/000149315226041390/0001493152-26-041390-index.htm"
+    },
+    {
+      "name": "Lianhe Sowell International Group Ltd",
+      "cik": "0002004024",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2004024/000121390026096975/0001213900-26-096975-index.htm"
+    },
+    {
+      "name": "Aptevo Therapeutics Inc.",
+      "cik": "0001671584",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526381149/0001193125-26-381149-index.htm"
+    },
+    {
+      "name": "Reliance Global Group, Inc.",
+      "cik": "0001812727",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226041373/0001493152-26-041373-index.htm"
+    },
+    {
+      "name": "Xtend AI Robotics, Inc.",
+      "cik": "0002111860",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/2111860/000119312526381865/0001193125-26-381865-index.htm"
+    },
+    {
+      "name": "DeFi Development Corp.",
+      "cik": "0001805526",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000094/0001805526-26-000094-index.htm"
+    },
+    {
+      "name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
+      "cik": "0000842180",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-03",
+      "source": "https://www.sec.gov/Archives/edgar/data/842180/000110465926104989/0001104659-26-104989-index.htm"
+    }
+  ]
 }
