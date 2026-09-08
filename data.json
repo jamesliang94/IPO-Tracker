@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T12:29:14.318Z",
+  "updated": "2026-09-08T14:41:49.940Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
@@ -19,6 +19,42 @@
       "signal": "S-1 amended",
       "date": "2026-09-08",
       "source": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526384287/0001193125-26-384287-index.htm"
+    },
+    {
+      "name": "A12B - Tidal Trust II",
+      "cik": "0001924868",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020021/0001999371-26-020021-index.htm"
+    },
+    {
+      "name": "1 - Rothe Development, Inc.",
+      "cik": "0002108671",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2108671/000149315226041590/0001493152-26-041590-index.htm"
+    },
+    {
+      "name": "1 - Evolution Metals &amp; Technologies Corp.",
+      "cik": "0001866226",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026097822/0001213900-26-097822-index.htm"
+    },
+    {
+      "name": "1/A - Prenetics Global Ltd",
+      "cik": "0001876431",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026060821/0001628280-26-060821-index.htm"
     },
     {
       "name": "1/A - RUI Holdings Inc",
@@ -750,15 +786,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1720265/000119312526362505/0001193125-26-362505-index.htm"
     },
     {
-      "name": "A12B - Tidal Trust II",
-      "cik": "0001924868",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018520/0001999371-26-018520-index.htm"
-    },
-    {
       "name": "A12B - KLX Energy Services Holdings, Inc.",
       "cik": "0001738827",
       "status": "priced",
@@ -874,33 +901,6 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-08-14",
       "source": "https://www.sec.gov/Archives/edgar/data/2092314/000121390026089501/0001213900-26-089501-index.htm"
-    },
-    {
-      "name": "A12B - CASTLE BIOSCIENCES INC",
-      "cik": "0001447362",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1447362/000162828026056924/0001628280-26-056924-index.htm"
-    },
-    {
-      "name": "A12B/A - Green Circle Decarbonize Technology Ltd",
-      "cik": "0001926293",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000175392626001500/0001753926-26-001500-index.htm"
-    },
-    {
-      "name": "A12B - Nuran Wireless Inc.",
-      "cik": "0001680637",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001494/0001753926-26-001494-index.htm"
     }
   ]
 }
