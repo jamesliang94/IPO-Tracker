@@ -1,7 +1,25 @@
 {
-  "updated": "2026-09-08T07:39:55.899Z",
+  "updated": "2026-09-08T12:29:14.318Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
+    {
+      "name": "1 - Ocean Power Technologies, Inc.",
+      "cik": "0001378140",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226041658/0001493152-26-041658-index.htm"
+    },
+    {
+      "name": "1/A - Holtec Nuclear Corp",
+      "cik": "0002104277",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526384287/0001193125-26-384287-index.htm"
+    },
     {
       "name": "1/A - RUI Holdings Inc",
       "cik": "0002094989",
@@ -136,6 +154,15 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-04",
       "source": "https://www.sec.gov/Archives/edgar/data/1804792/000121390026097771/0001213900-26-097771-index.htm"
+    },
+    {
+      "name": "1 - Jingrui Wang Pu Holdings Group Ltd.",
+      "cik": "0001998284",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/1998284/000110465926105582/0001104659-26-105582-index.htm"
     },
     {
       "name": "1/A - LiPower New Energy Holdings Ltd",
@@ -874,33 +901,6 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-08-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1680637/000175392626001494/0001753926-26-001494-index.htm"
-    },
-    {
-      "name": "A12B - Duke Energy CORP",
-      "cik": "0001326160",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1326160/000110465926095984/0001104659-26-095984-index.htm"
-    },
-    {
-      "name": "A12B - ETF Series Solutions",
-      "cik": "0001540305",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926022278/0000894189-26-022278-index.htm"
-    },
-    {
-      "name": "A12B - EA Series Trust",
-      "cik": "0001592900",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-08-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003871/0001592900-26-003871-index.htm"
     }
   ]
 }
