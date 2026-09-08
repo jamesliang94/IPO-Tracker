@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T14:41:49.940Z",
+  "updated": "2026-09-08T15:46:15.653Z",
   "summary": "Placeholder summary. Three filings tracked this week, weighted toward enterprise software. Beacon Health is the nearest catalyst, pricing Thursday.",
   "companies": [
     {
@@ -51,8 +51,8 @@
       "name": "1/A - Prenetics Global Ltd",
       "cik": "0001876431",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-08",
       "source": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026060821/0001628280-26-060821-index.htm"
     },
