@@ -59,7 +59,7 @@ async function fetchForm(form) {
     if (!titleMatch) continue;
 
     const title = titleMatch[1];
-    const nameMatch = title.match(/-\s*(.+?)\s*\(\d{7,10}\)/);
+    const nameMatch = title.match(/^\S+\s+-\s+(.+?)\s*\(\d{7,10}\)/);
     const cikMatch = title.match(/\((\d{7,10})\)/);
     if (!nameMatch) continue;
     if (!isRealCompany(nameMatch[1])) continue;
