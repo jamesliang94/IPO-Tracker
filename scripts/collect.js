@@ -11,6 +11,32 @@ const FORMS = {
   '8-A12B':  { status: 'priced',  confidence: 98, signal: 'Exchange registration, listing imminent' }
 };
 
+const EXCLUDE_PATTERNS = [
+  /\bETF\b/i,
+  /\bTRUST\b/i,
+  /\bFUND\b/i,
+  /\bFUNDS\b/i,
+  /\bINDEX\b/i,
+  /\bSHARES\b/i,
+  /\bPORTFOLIO\b/i,
+  /\bSERIES\s+TRUST\b/i,
+  /\bISHARES\b/i,
+  /\bSPDR\b/i,
+  /\bPROSHARES\b/i,
+  /\bINVESCO\b/i,
+  /\bVANGUARD\b/i,
+  /\bDIREXION\b/i,
+  /\bGRAYSCALE\b/i,
+  /\bACQUISITION\s+CORP/i,
+  /\bBLANK\s+CHECK\b/i,
+  /\bDEPOSITARY\b/i,
+  /\bSTATUTORY\s+TRUST\b/i,
+  /\bREIT\b/i
+];
+
+function isRealCompany(name) {
+  return !EXCLUDE_PATTERNS.some(pattern => pattern.test(name));
+}
 async function fetchForm(form) {
   const url = 'https://www.sec.gov/cgi-bin/browse-edgar'
     + '?action=getcurrent&type=' + encodeURIComponent(form)
@@ -36,6 +62,7 @@ async function fetchForm(form) {
     const nameMatch = title.match(/-\s*(.+?)\s*\(\d{7,10}\)/);
     const cikMatch = title.match(/\((\d{7,10})\)/);
     if (!nameMatch) continue;
+    if (!isRealCompany(nameMatch[1])) continue;
 
     const meta = FORMS[form];
     results.push({
