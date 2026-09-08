@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T19:46:18.727Z",
+  "updated": "2026-09-08T22:15:20.723Z",
   "summary": "",
   "companies": [
     {
@@ -55,6 +55,42 @@
       "signal": "F-1 amended",
       "date": "2026-09-08",
       "source": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026060821/0001628280-26-060821-index.htm"
+    },
+    {
+      "name": "CDT Equity Inc.",
+      "cik": "0001896212",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1896212/000149315226041808/0001493152-26-041808-index.htm"
+    },
+    {
+      "name": "Acurx Pharmaceuticals, Inc.",
+      "cik": "0001736243",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1736243/000110465926105917/0001104659-26-105917-index.htm"
+    },
+    {
+      "name": "BTC Digital Ltd.",
+      "cik": "0001796514",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1796514/000121390026098075/0001213900-26-098075-index.htm"
+    },
+    {
+      "name": "Kraft Heinz Co",
+      "cik": "0001637459",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000061/0001637459-26-000061-index.htm"
     },
     {
       "name": "Laser Photonics Corp",
