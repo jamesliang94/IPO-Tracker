@@ -79,7 +79,97 @@ async function fetchForm(form) {
   console.log('OK ' + form + ': ' + results.length + ' filings');
   return results;
 }
+const NEWS_QUERIES = [
+  'company "plans IPO" 2026',
+  'company "confidentially filed" IPO',
+  '"IPO" "has hired" banks underwriters',
+  '"going public" "next year" startup',
+  'IPO "as soon as" listing US'
+];
 
+const NEWS_STOPWORDS = new Set([
+  'The','A','An','US','U.S.','IPO','Wall','Street','New','York','Nasdaq','NYSE',
+  'Reuters','Bloomberg','CNBC','Report','Exclusive','Sources','Why','How','What'
+]);
+
+function extractCompany(headline) {
+  const clean = headline.replace(/\s+-\s+[^-]+$/, '').trim();
+  const words = clean.split(/\s+/);
+  const captured = [];
+
+  for (const word of words) {
+    const bare = word.replace(/[^A-Za-z0-9&.']/g, '');
+    if (!bare) break;
+    const isCapitalised = /^[A-Z]/.test(bare);
+    if (isCapitalised && !NEWS_STOPWORDS.has(bare)) {
+      captured.push(bare);
+      if (captured.length >= 4) break;
+    } else if (captured.length > 0) {
+      break;
+    }
+  }
+
+  const name = captured.join(' ');
+  return name.length >= 3 ? name : null;
+}
+
+async function fetchNews() {
+  const results = [];
+
+  for (const query of NEWS_QUERIES) {
+    const url = 'https://news.google.com/rss/search?q='
+      + encodeURIComponent(query) + '&hl=en-US&gl=US&ceid=US:en';
+
+    try {
+      const response = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+      if (!response.ok) {
+        console.log('NEWS FAILED: HTTP ' + response.status);
+        continue;
+      }
+
+      const xml = await response.text();
+      const items = xml.split('<item>').slice(1);
+
+      for (const item of items) {
+        const titleMatch = item.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/);
+        const linkMatch = item.match(/<link>([\s\S]*?)<\/link>/);
+        const dateMatch = item.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
+        if (!titleMatch) continue;
+
+        const headline = titleMatch[1].trim();
+        const name = extractCompany(headline);
+        if (!name) continue;
+        if (!isRealCompany(name)) continue;
+
+        results.push({
+          name: name,
+          cik: null,
+          status: 'rumored',
+          confidence: 35,
+          signal: headline.slice(0, 140),
+          date: dateMatch ? new Date(dateMatch[1]).toISOString().slice(0, 10)
+                          : new Date().toISOString().slice(0, 10),
+          source: linkMatch ? linkMatch[1].trim() : null
+        });
+      }
+    } catch (error) {
+      console.log('NEWS ERROR: ' + error.message);
+    }
+
+    await new Promise(resolve => setTimeout(resolve, 500));
+  }
+
+  const seen = new Set();
+  const unique = results.filter(item => {
+    const key = item.name.toLowerCase();
+    if (seen.has(key)) return false;
+    seen.add(key);
+    return true;
+  });
+
+  console.log('OK news: ' + unique.length + ' rumors from ' + results.length + ' headlines');
+  return unique;
+}
 async function main() {
   const existing = JSON.parse(fs.readFileSync('data.json', 'utf8'));
   const byKey = {};
@@ -96,6 +186,11 @@ async function main() {
       if (!prior || filing.date >= prior.date) byKey[key] = filing;
     }
     await new Promise(resolve => setTimeout(resolve, 500));
+  }
+  const rumors = await fetchNews();
+  for (const rumor of rumors) {
+    const key = rumor.name.toLowerCase() + '|rumored';
+    if (!byKey[key]) byKey[key] = rumor;
   }
 
   const companies = Object.values(byKey)
