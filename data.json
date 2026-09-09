@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T05:42:47.306Z",
+  "updated": "2026-09-09T10:33:33.032Z",
   "summary": "",
   "companies": [
     {
@@ -91,6 +91,42 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-08",
       "source": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000061/0001637459-26-000061-index.htm"
+    },
+    {
+      "name": "AfterNext Acquisition I Corp.",
+      "cik": "0002087035",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2087035/000149315226041834/0001493152-26-041834-index.htm"
+    },
+    {
+      "name": "Securetech Innovations, Inc.",
+      "cik": "0001703157",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/1703157/000101738626000136/0001017386-26-000136-index.htm"
+    },
+    {
+      "name": "General Fusion Group Ltd.",
+      "cik": "0002074850",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2074850/000110465926106033/0001104659-26-106033-index.htm"
+    },
+    {
+      "name": "ROZE AI INC.",
+      "cik": "0002075335",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-08",
+      "source": "https://www.sec.gov/Archives/edgar/data/2075335/000121390026098134/0001213900-26-098134-index.htm"
     },
     {
       "name": "Laser Photonics Corp",
