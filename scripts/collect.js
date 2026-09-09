@@ -89,21 +89,27 @@ const NEWS_QUERIES = [
 
 const NEWS_STOPWORDS = new Set([
   'The','A','An','US','U.S.','IPO','Wall','Street','New','York','Nasdaq','NYSE',
-  'Reuters','Bloomberg','CNBC','Report','Exclusive','Sources','Why','How','What'
+  'Reuters','Bloomberg','CNBC','Report','Exclusive','Sources','Why','How','What','Plans','Rare','Safety','Chinese','Firm','Say','Says','Backed'
 ]);
 
 function extractCompany(headline) {
-  const clean = headline.replace(/\s+-\s+[^-]+$/, '').trim();
+  let clean = headline.replace(/\s+-\s+[^-]+$/, '').trim();
+  clean = clean.replace(/['\u2019]s\b/g, '');
+
+  const anchors = clean.match(/\b([A-Z][A-Za-z0-9&.\-]*(?:\s+[A-Z][A-Za-z0-9&.\-]*){0,2})\s+(?:firm|startup|maker|group|holdings)?\s*(?:plans|files|weighs|targets|eyes|seeks|hires|confidentially|to\s+go\s+public|IPO)/);
+  if (anchors && anchors[1]) {
+    const candidate = anchors[1].split(/\s+/).filter(w => !NEWS_STOPWORDS.has(w)).join(' ');
+    if (candidate.length >= 3) return candidate;
+  }
+
   const words = clean.split(/\s+/);
   const captured = [];
-
   for (const word of words) {
-    const bare = word.replace(/[^A-Za-z0-9&.']/g, '');
+    const bare = word.replace(/[^A-Za-z0-9&.\-]/g, '');
     if (!bare) break;
-    const isCapitalised = /^[A-Z]/.test(bare);
-    if (isCapitalised && !NEWS_STOPWORDS.has(bare)) {
+    if (/^[A-Z]/.test(bare) && !NEWS_STOPWORDS.has(bare)) {
       captured.push(bare);
-      if (captured.length >= 4) break;
+      if (captured.length >= 3) break;
     } else if (captured.length > 0) {
       break;
     }
