@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-10T07:44:22.132Z",
+  "updated": "2026-09-10T12:35:03.149Z",
   "summary": "",
   "companies": [
+    {
+      "name": "Shanghai",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 93.3 The Drive",
+      "date": "2026-09-10",
+      "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmFqUzQxMDMwUk1oT2kwZ1FfaGdVb0NLeTR4VV8tVUViSktyVEVQaXo2WWlkRmJXR0k1OWN6dGJGbTc1UWRtdUE1Vy1iWk8wSUNrT2xKbUlnYkhEd0lwWkVsY3MzVFJ0bmdqLWlHX1RFZUpXV2VvOEtKREhMc0tJbmFvRjdBeXVWZ3pTeGk4S2RsVk92bkN0TFpqblBwTklCNXhTam5yTVFXVnNQUkJaV256dnJsTlpfeE1sOXFB?oc=5"
+    },
     {
       "name": "AIxCrypto Holdings, Inc.",
       "cik": "0001460702",
@@ -100,6 +109,33 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-09",
       "source": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526386648/0001193125-26-386648-index.htm"
+    },
+    {
+      "name": "Elevation Acquisition Group Inc.",
+      "cik": "0002131124",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-09",
+      "source": "https://www.sec.gov/Archives/edgar/data/2131124/000175392626001740/0001753926-26-001740-index.htm"
+    },
+    {
+      "name": "OLB GROUP, INC.",
+      "cik": "0001314196",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-09",
+      "source": "https://www.sec.gov/Archives/edgar/data/1314196/000118518526003902/0001185185-26-003902-index.htm"
+    },
+    {
+      "name": "DeepSeek Eyes Shanghai",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "DeepSeek Eyes Shanghai IPO Amid AI Funding Race - Sharecafe",
+      "date": "2026-09-09",
+      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1NKM1Q4VW5fSlNrRE1HWGctdjdYV2tKNWkta0NlNXpoaXRXaS10aFMxWFdfOTFyTFozZ05JX0E0cUh6Yk8wSS1fNzZEb1UyVEU4UHJmeUxBOENyMzNZZGlLbjEtaThBYlZLdWNHdFJOSkNtenBKY1loVjNJRlJORzA2RHYzM191YjJnUDdWbjdhUQ?oc=5"
     },
     {
       "name": "Gas",
@@ -503,7 +539,7 @@
       "status": "rumored",
       "confidence": 35,
       "signal": "Nscale eyes $3B US IPO in AI data center listing rush - Dealroom",
-      "date": "2026-08-22",
+      "date": "2026-08-21",
       "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFdnU2RwbE5WV1g2ajUwdXNOVDVRaFREcTROd1R3bXlYT1F3bExra0VFcThCZkRQdy03ck9iQmxsbF9mUFVkUndjaHpwekxVTWlfeVhFbmVWVUJ2M085SzhZOG9WZTJTNDhfQ19ZZGRHb3NTa196S29qMklVdkw1R0dCV0k3MmRLdWVxU0s4WQ?oc=5"
     },
     {
@@ -556,7 +592,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push - The Economic Times",
+      "signal": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push - economictimes.com",
       "date": "2026-08-13",
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVS1VZ3RBdkZfbHpzVmdTTmpSRFZTTVBQSmY2c2U5c1dPRDhnZWNTdk9Sd1N4S2JmT3llQTlUU3VxQ0hpTlUwblU3eEwzTzN5SUtxc1RiOFZtMWItUmF6SW9lak5EeTYxd3hhajYwSEJ6cXBXV1JtLUNPNUU3MklEaWxRbU5GRmJUcmtrZGVKejdxdGx0UlRoNUd2Z2ZtaVhCaXZqOFVpSkZFMTBkSzBvSk1WRG1iXzM1Y1NMLXlQYWhDRzZfbWdUWdIBzgFBVV95cUxQeWI0UnlGZHJoLW5KRHVNLU5ualhVNU9hcm8ya2V1Vkp3VEk3ZEpuLThfckd6MUdMUjBnUDU3di1GaDRhbXhFZUxTOWJhVUlVOFRoMlRBZklVeHhKb3dvLUd6eFJoUFpzdFVSWXIxc3hNV3F1dUZubHBSM1VteEhHN3U5MVdzNE9sNjZObkhFWWhVNDZxaER0eDlmRkhTdGdmTGFjalZIdnEtaDRmTTRwOEJDd2ZyQ3hPTU4yOFQtRHZtYy0xR243Z1JFMVp3Zw?oc=5"
     },
@@ -586,6 +622,15 @@
       "signal": "Vantage Data Centers explores IPO at US$100 billion valuation or sale, sources say - BNN Bloomberg",
       "date": "2026-08-13",
       "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOEtHeXpFSUNKeXQ0OWo0ZGY2RG5wVGFOelBvbTd4ZkFtRDMwQTVURHVNcm9SSldIcFo0cVBQOVhvSktvUUlEVW5KT0xFT1V3S3RISlVMYTJydnh5bnlGMHdtN08zTXVwdHUzSVh0LUJtbVUzLU44RDZEajJrcGlCQnFoSU5YU1YwNDNGY0pwUUVaLUJCLS1VUFhBVlIyVlJnOWg4YmNQRi1FR1BtbktiUzJPT1RYX1o5X0dfUHNGNWRqdkU4SlpYbEJydXg5bmpMV01FQUVmR0RvZw?oc=5"
+    },
+    {
+      "name": "Singapore-based",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Singapore-based data centre operator is said to confidentially file for US$5 bil IPO in US - The Edge Malaysia",
+      "date": "2026-08-11",
+      "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44Uk5lVl9RejFvQUZBbU8tYlVlYkx2TVp5UG9COVgtVkU0QjEzWmQtenZ1MVNqSWo1TTJLUVJnLTFLWGQwMHJqTWFkVjFGRW5W?oc=5"
     },
     {
       "name": "Data Center",
@@ -675,7 +720,7 @@
       "confidence": 35,
       "signal": "Chinese GPU start-up MetaX confidentially files for Hong Kong listing: sources - South China Morning Post",
       "date": "2026-07-24",
-      "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX2dTa2Y1WlUtb0hMNHFIV0xVbEtjQXlCZUYzUmNZNzVVVG5QdmFvRlZfQ25TMnJkbmpZLVg5UVlIb0F4MXVQWi1VQWQwcXdzTjlSVkI2OGhId2xrTGlIM3pxNmRTQUQxaUJ4akxCRnZFbnNSc1F1TTdUc0dpbjRrM3FxMUN6Nm9kd2hNaEFqUVVZeG9ZS1otdi1UVDR6c2NlNjNuNkNBdG1Gc0x6cUgyT0NicFRGLUZOUi1XVC1TazcwazRROGdJaGF0a2N5RGhRMUFwdjNud0ltVll30gHcAUFVX3lxTE5UdFB1cWIwWVd2bkZ6aUNLdFJYRmZNWFA5bUliaTQtZ0VjQVVIdjhwandnU3o5T0xzcHRLQmFiX0UzMGpoVFBMTlNROGlNb2QwUURnaWlibmUtZFFzc213NExGNWYwSEdhbWJhZWlpakZKSWcyQzNyT0I3Z3JJMFlTYk1xYkE3d29fVVp6TUVaM1RMbkFpR3FIazNSX3dqQldtNlVFMDNiWmFLSjVYckFGeHlrLVN4eHowMU5nM2wwMGVGSWFNQ28zYV9Wa24yeFNlSXhfWHlweGt4NFo?oc=5"
+      "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX2dTa2Y1WlUtb0hMNHFIV0xVbEtjQXlCZUYzUmNZNzVVVG5QdmFvRlZfQ25TMnJkbmpZLVg5UVlIb0F4MXVQWi1VQWQwcXdzTjlSVkI2OGhId2xrTGlIM3pxNmRTQUQxaUJ4akxCRnZFbnNSc1F1TTdUc0dpbjRrM3FxMUN6Nm9kd2hNaEFqUVVZeG9ZS1otdi1UVDR6c2NlNjNuNkNBdG1Gc0x6cUgyT0NicFRGLUZOUi1XVC1TazcwazRROGdJaGF0a2N5RGhRMUFwdjNud0ltVll3?oc=5"
     },
     {
       "name": "Xiaohongshu",
@@ -709,7 +754,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s Innolight eyes US$8 billion Hong Kong IPO, potentially city’s largest in 7 years - businesstimes.com.sg",
+      "signal": "China’s Innolight eyes US$8 billion Hong Kong IPO, potentially city’s largest in 7 years - The Business Times",
       "date": "2026-07-20",
       "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkxRWmI4SUNYbEJJSWZRNHdXTzg2OFFfU19RbUs2ZV9XRVRKWEFjZ0ZhQkljZEJrQXkyZXNob3VpRHFKcWoxYTlRemQxTndGZmhieXBzbWpKdzd1WjdPaFVqX0JHbVFTUUV5azRLcjF3N3BiOVIxdVQwZThaYWtRVTRMQWFEMzc0Y1lUMTd0VjVzbmltendub0hGX0JUVGFja2ljcmpGNTVOV1BkS1dma3NRS2VMRHRvODFjbDhIZG02czZwZUtJTENEUlk?oc=5"
     },
@@ -763,7 +808,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s DeepSeek to raise fresh capital at US$74 billion valuation ahead of onshore IPO - businesstimes.com.sg",
+      "signal": "China’s DeepSeek to raise fresh capital at US$74 billion valuation ahead of onshore IPO - The Business Times",
       "date": "2026-07-15",
       "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0tncGctVVhmWGJTYWF6aGVEQk1YNlNSaGdvU0tkSTdYNVRTN284aUdWZXZuZzRuM1ZCSjlmdTUyVEFvWkhZdk9pa2RTUXYwenFJZkRWTVZ4bVJuaUg5eElpVlMtVGxudEpmTU51d2NfME9HSzB5VmZucTAwNmZxeTIzeUxSV18wbzZPRFRqN0QtTnlnOHdGUUwxUDBwVVprN0tabU5mV0lfX2RraWFsWG1PZ05GaHhxbkxRZlA0MF93MVFhZHhGYnlyeWZnVlU?oc=5"
     },
@@ -853,54 +898,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Online retailer iHerb selects banks for US$500 million IPO this year: sources - businesstimes.com.sg",
+      "signal": "Online retailer iHerb selects banks for US$500 million IPO this year: sources - The Business Times",
       "date": "2026-07-01",
       "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXN5MW1GMHJCcTNSV1d6ZnNNYjR6WHUyODI5NEdjdW5VUjlUa3p5ZlIwTy0tSzc1T3oxQkotc0RwUHRabXJUNzFGd1cyMUxKNkJRUEZwdVhQZG4yNmlPZmYzTkFHb2VVM0tjV1UwdlZKQzY2MmtKV1loekNDMGNNQWNQclJlWDFRZmdZWFZvRWVTVE41aFB2UUI1T3UzUVd0QVp4RzF2cURZU3JFSi0wTlYySmd1ZmFLbHZrM19NTFpLOGlBUUFmX25DdnllNjNWM0RR?oc=5"
-    },
-    {
-      "name": "Alopexx",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Cambridge biotech Alopexx files to go public with $30M IPO - The Business Journals",
-      "date": "2026-06-29",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XNE9mR3RUWkFNQ09oMFRhRENmUWU1X3pjWjNFbHQ1VEZqbXZUR1FEbGlVaDVpWGJPblZqQmhtdWxrdHlFc2FHcDlyTmlud2hkbFV3MnNfMEdaMjZRR0QzeHhCX3FMRXltc290VXY0RjBic1RLVXNPbHNSSUEzUQ?oc=5"
-    },
-    {
-      "name": "PE-Backed Insurance Broker",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "PE-Backed Insurance Broker Hub International Files Confidentially for US IPO - Insurance Journal",
-      "date": "2026-06-29",
-      "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wSV9wS3FHZUVqUS1talpsQ2ZaR1ViVGJURV92XzFFQXhLTHN0aDVmbTFSUV9lQ1ZMNUVacnVoNnlfdE5fOEZWVlNtMm1zNWpmYXRHcmRjR2RCaTNxcHVqaUNzTUkyRUVCaFZxQ3owZjgxNjBxNWVn?oc=5"
-    },
-    {
-      "name": "OpenAI Leans Toward",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "OpenAI Leans Toward Waiting Until Next Year for I.P.O. - The New York Times",
-      "date": "2026-06-25",
-      "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX1h6bTA1cUUtN3ZZdWpZcnNZUG5IS2VsekVLdDBkNWpGQjFXUXJaODl4Q3pweU1mbmFjRmVXZTB1ZURPOVhreWpJZnRoTThaV1dsMXNKYVBSR3h4LWJUSUhjYklrcHhPZDk4Y0d5OU84dGNXTklvRUxZUzNDNV9kZWZCbFF2UmxkLUNtNGtR?oc=5"
-    },
-    {
-      "name": "OpenAI Mulls Delaying",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "OpenAI Mulls Delaying IPO Until 2027: Report - Investor's Business Daily",
-      "date": "2026-06-25",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEg5ek85WmpVWUk4REtQSmdoSEU5ekdNQ3MtRzlWUnVXYWZsS0xrbEFiSHc0RER6b0JyMnZvOTJZN1pHTmpnSjVCVGRyaEJsMFczOWlqY3hrZWlpRHFzUEpDeXNTdUJhSW92ZTAtQXU0cGdzM002aXAwbHdhMjk0eDlXLUlfc3BtNHVsQ2phWkNUR0RFSXdJeFJRYVZvdw?oc=5"
-    },
-    {
-      "name": "Slate Auto",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Slate Auto says $24,950 electric truck will be profitable; targets positive cash flow next year - CNBC",
-      "date": "2026-06-24",
-      "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTViY00xRm8xLWtCNkRBNXZLSTdGRTByaGF2akpDMEw0SW9WS2Iza3U1eUJPVkhxaVp1RWZ2ckltMVRVU2Z1cHJMbEE1dkdnMTFEYlV1dHZKdHctQTRRcXlxaUNQbEY1NnlpWG5sZGh0WndGYXRZcTY5aExDVndLazlJNNIBiAFBVV95cUxQNGNLWnlfcTRZN0RwN2NPNUhUcG5uYjVfR2FtaXViWnk5bFdISmtuTFdqUjN0c1JUcmhjWlpmQm1iZkl1SXE5QUNRSjB6enpnVlBlODF4ZGFMZWtncWJpMjRucldUZ2tDRDNCNGYxTnBCYU03NU5Yc045OU13VjJsYk9QVWh2dTdT?oc=5"
     }
   ]
 }
