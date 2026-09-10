@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T02:30:43.702Z",
+  "updated": "2026-09-10T07:44:22.132Z",
   "summary": "",
   "companies": [
     {
@@ -100,15 +100,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-09",
       "source": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526386648/0001193125-26-386648-index.htm"
-    },
-    {
-      "name": "DeepSeek Eyes Shanghai",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "DeepSeek Eyes Shanghai IPO Amid AI Funding Race - Sharecafe",
-      "date": "2026-09-09",
-      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1NKM1Q4VW5fSlNrRE1HWGctdjdYV2tKNWkta0NlNXpoaXRXaS10aFMxWFdfOTFyTFozZ05JX0E0cUh6Yk8wSS1fNzZEb1UyVEU4UHJmeUxBOENyMzNZZGlLbjEtaThBYlZLdWNHdFJOSkNtenBKY1loVjNJRlJORzA2RHYzM191YjJnUDdWbjdhUQ?oc=5"
     },
     {
       "name": "Gas",
@@ -430,18 +421,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - wsj.com",
+      "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - WSJ",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MyYnEzbkZYd19tMEFCczNsNGdlTmptMjdNM3VDV1lvUTRBOFQ3NHBtcW02VEdiRV9NZ2tvVllya3BaWS1HS2tGNFllSThRakFobXJLM2tGcWl3WEl0dnNMX0NzWmlUWmxTMnoxXzNGQVlQNDE4RTEwV2c1Mk1GSGZybjlnb2tWUDlHVlU5ZG1JRFBm?oc=5"
-    },
-    {
-      "name": "Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
     },
     {
       "name": "Company Payward Delays",
@@ -451,6 +433,15 @@
       "signal": "Kraken Parent Company Payward Delays IPO - Yahoo Finance",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0FxN1RwaHluMFBuQ0RSS3h5SmpkMUVVZFl6d3NHRl9yeFNkaWgyZU1qTjI5NVJ1Qmh2cjRpQXJIdksweHNWTUdValhMckIzNVBReTBYQTFxYkdZaGdNSnNNSktkMjdQMl9QLWUtTE1tMlYyMWRscjB2MS1ZbWZsQWxPOEpFVXBFTVBDd1hrS0JrclgzX29pSGtWRFYyLXp4MDZj?oc=5"
+    },
+    {
+      "name": "Hong Kong",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
+      "date": "2026-09-03",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDg?oc=5"
     },
     {
       "name": "Kraken",
@@ -502,7 +493,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - athletechnews.com",
+      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - Athletech News",
       "date": "2026-08-24",
       "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm5WWU9uRUdGUWRsU3k0VU9jQnpMUFVVX2RleVR0NWdIUHB0MS1nLXllU3ZGcDQ0aHkyODQtczQtRGxZYWpoNm0xc1hzdnh1SlJTSXhReGhQMHg0UHA2RkQ0QUc3NGtKdFZFajJhMFczdGxSOEZqa09pUzZpZVBmTHNoSQ?oc=5"
     },
@@ -529,7 +520,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive - cryptobriefing.com",
+      "signal": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive - Crypto Briefing",
       "date": "2026-08-17",
       "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wUkJWMWxrNkJ3dDFjT2RlX0tpeF9ZQ2otMVozSlF3a3k1MW9CVjhNTVlKb0R1eU9nOUxzMUNtMF9maEN0c1BhWGZfMUNRUGVJU1NDVTMzSkVyTGU1T0kzLVI0d3gyVzEtem1QUjZHYmNYSEJx?oc=5"
     },
@@ -556,7 +547,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - cryptobriefing.com",
+      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - Crypto Briefing",
       "date": "2026-08-14",
       "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZG56MWlDdTJoWTVFTnNIYlF4ZjVvMzhFc1RRanA3VXNkajFGbGdhQXdvcVUxR2dzQUtkcDFoODJLNHRBWXYzM1RDaGZxWHdabGkzTUhNbFBxVGtkS0JLQndSYjhmYTFtamplWWZ6SmF2bWM0Z3REQWI0MktZLWNYag?oc=5"
     },
@@ -628,7 +619,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Westinghouse Electric Files Confidentially for IPO - wsj.com",
+      "signal": "Westinghouse Electric Files Confidentially for IPO - WSJ",
       "date": "2026-07-31",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
     },
@@ -718,7 +709,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s Innolight eyes US$8 billion Hong Kong IPO, potentially city’s largest in 7 years - The Business Times",
+      "signal": "China’s Innolight eyes US$8 billion Hong Kong IPO, potentially city’s largest in 7 years - businesstimes.com.sg",
       "date": "2026-07-20",
       "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkxRWmI4SUNYbEJJSWZRNHdXTzg2OFFfU19RbUs2ZV9XRVRKWEFjZ0ZhQkljZEJrQXkyZXNob3VpRHFKcWoxYTlRemQxTndGZmhieXBzbWpKdzd1WjdPaFVqX0JHbVFTUUV5azRLcjF3N3BiOVIxdVQwZThaYWtRVTRMQWFEMzc0Y1lUMTd0VjVzbmltendub0hGX0JUVGFja2ljcmpGNTVOV1BkS1dma3NRS2VMRHRvODFjbDhIZG02czZwZUtJTENEUlk?oc=5"
     },
@@ -772,7 +763,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s DeepSeek to raise fresh capital at US$74 billion valuation ahead of onshore IPO - The Business Times",
+      "signal": "China’s DeepSeek to raise fresh capital at US$74 billion valuation ahead of onshore IPO - businesstimes.com.sg",
       "date": "2026-07-15",
       "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0tncGctVVhmWGJTYWF6aGVEQk1YNlNSaGdvU0tkSTdYNVRTN284aUdWZXZuZzRuM1ZCSjlmdTUyVEFvWkhZdk9pa2RTUXYwenFJZkRWTVZ4bVJuaUg5eElpVlMtVGxudEpmTU51d2NfME9HSzB5VmZucTAwNmZxeTIzeUxSV18wbzZPRFRqN0QtTnlnOHdGUUwxUDBwVVprN0tabU5mV0lfX2RraWFsWG1PZ05GaHhxbkxRZlA0MF93MVFhZHhGYnlyeWZnVlU?oc=5"
     },
@@ -862,7 +853,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Online retailer iHerb selects banks for US$500 million IPO this year: sources - The Business Times",
+      "signal": "Online retailer iHerb selects banks for US$500 million IPO this year: sources - businesstimes.com.sg",
       "date": "2026-07-01",
       "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXN5MW1GMHJCcTNSV1d6ZnNNYjR6WHUyODI5NEdjdW5VUjlUa3p5ZlIwTy0tSzc1T3oxQkotc0RwUHRabXJUNzFGd1cyMUxKNkJRUEZwdVhQZG4yNmlPZmYzTkFHb2VVM0tjV1UwdlZKQzY2MmtKV1loekNDMGNNQWNQclJlWDFRZmdZWFZvRWVTVE41aFB2UUI1T3UzUVd0QVp4RzF2cURZU3JFSi0wTlYySmd1ZmFLbHZrM19NTFpLOGlBUUFmX25DdnllNjNWM0RR?oc=5"
     },
@@ -901,6 +892,15 @@
       "signal": "OpenAI Mulls Delaying IPO Until 2027: Report - Investor's Business Daily",
       "date": "2026-06-25",
       "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMEg5ek85WmpVWUk4REtQSmdoSEU5ekdNQ3MtRzlWUnVXYWZsS0xrbEFiSHc0RER6b0JyMnZvOTJZN1pHTmpnSjVCVGRyaEJsMFczOWlqY3hrZWlpRHFzUEpDeXNTdUJhSW92ZTAtQXU0cGdzM002aXAwbHdhMjk0eDlXLUlfc3BtNHVsQ2phWkNUR0RFSXdJeFJRYVZvdw?oc=5"
+    },
+    {
+      "name": "Slate Auto",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Slate Auto says $24,950 electric truck will be profitable; targets positive cash flow next year - CNBC",
+      "date": "2026-06-24",
+      "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSTViY00xRm8xLWtCNkRBNXZLSTdGRTByaGF2akpDMEw0SW9WS2Iza3U1eUJPVkhxaVp1RWZ2ckltMVRVU2Z1cHJMbEE1dkdnMTFEYlV1dHZKdHctQTRRcXlxaUNQbEY1NnlpWG5sZGh0WndGYXRZcTY5aExDVndLazlJNNIBiAFBVV95cUxQNGNLWnlfcTRZN0RwN2NPNUhUcG5uYjVfR2FtaXViWnk5bFdISmtuTFdqUjN0c1JUcmhjWlpmQm1iZkl1SXE5QUNRSjB6enpnVlBlODF4ZGFMZWtncWJpMjRucldUZ2tDRDNCNGYxTnBCYU03NU5Yc045OU13VjJsYk9QVWh2dTdT?oc=5"
     }
   ]
 }
