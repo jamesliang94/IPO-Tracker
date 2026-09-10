@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-10T16:50:15.445Z",
+  "updated": "2026-09-10T19:24:54.262Z",
   "summary": "",
   "companies": [
     {
@@ -12,13 +12,13 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1702123/000110465926106628/0001104659-26-106628-index.htm"
     },
     {
-      "name": "Brooks Automation Files",
+      "name": "Galaxea AI",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
+      "signal": "Regulatory Uncertainty Clouds Chinese Robot Firm Galaxea AI’s IPO Plan - WSJ",
       "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
+      "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEJxc09UVTVHUGw3WVFudGdLaWlfZlhCQzRqbUtockI2M2xnZGF4bnVWdS1nZExGTTI2TVhXdHlQQ3g3SldpbEVnZHl6N0pzcUVqb2tjMVptS1M3OGdIV3k5MnZxRm1qbEJ5TWpGc2dhSDF2Yjcwelc4eUFsWXN0RnFHMFRPSUZJcU1SLWZDSktZTnZoMVdyNWdXQ01XenpUNTA1MUs3TS0tcFU?oc=5"
     },
     {
       "name": "Shanghai",
@@ -322,7 +322,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - fiercebiotech.com",
+      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - Fierce Biotech",
       "date": "2026-09-06",
       "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
     },
@@ -466,7 +466,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Yotta Data Services Plans IPO, Pre-IPO Funding for AI Infrastructure Push - datacenters.economictimes.indiatimes.com",
+      "signal": "Yotta Data Services Plans IPO, Pre-IPO Funding for AI Infrastructure Push - ET Datacenters",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTVuUUVGbm9TeUp4LW1ZbEhKRnZKZW92cU5qbk5MVFJuMGRrUll0RkhHR191M2pDSnNHb0hwQ1NENnZRUHlmNlQxX3B5MmpqckZHb2pKY2FpZUtmd0tfUnRKd2NGRmY1VVpiSGJBc2kyX3lOd1FFQlpTc1QtV18tdjNYTVYybWQxN0VheF9kS2M0c3haQzY5RG93ZGktemxxQ1Z4ZXBMNmFDUS11LVFWZHRPZGxYNUMzMEd5Z0hmSjlqQ3pBb2o2YkpEdTRPYnpzY1RmMEFfVmJBZWVFWXo3elUzLUxHNWpv0gHuAUFVX3lxTE5yTTRrOE9qcUtoeVRDQkhCeVBOMG1sVW5CdWM5S2hCRlFFYUpSSlJmVTN2S2NGREc2OEdIcUlXMTIyaTRtT25YMTB1OEZLTGFUdTZ5TkplY1FzaTBwZUdOckdFVEZ0TDk0ZE1aTV9PdWpoRi1rbjNKeVNtX3lYRU05U0d5dW9LWE1HS1RINEswTjdTQkozYTdpZmQtaDBnWjE2d3VwbXR4dTNwUGU3OFhRSWFqZ1JaYnE5LU9SQkNmUDlnNlBmUlZ6R3RqZXU3d3poUzc5ZWFkbDdCSnZUN1RMYzJIQ2V1elVfMUNOc1E?oc=5"
     },
@@ -480,6 +480,15 @@
       "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MyYnEzbkZYd19tMEFCczNsNGdlTmptMjdNM3VDV1lvUTRBOFQ3NHBtcW02VEdiRV9NZ2tvVllya3BaWS1HS2tGNFllSThRakFobXJLM2tGcWl3WEl0dnNMX0NzWmlUWmxTMnoxXzNGQVlQNDE4RTEwV2c1Mk1GSGZybjlnb2tWUDlHVlU5ZG1JRFBm?oc=5"
     },
     {
+      "name": "Hong Kong",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
+      "date": "2026-09-03",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
+    },
+    {
       "name": "Company Payward Delays",
       "cik": null,
       "status": "rumored",
@@ -487,15 +496,6 @@
       "signal": "Kraken Parent Company Payward Delays IPO - Yahoo Finance",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0FxN1RwaHluMFBuQ0RSS3h5SmpkMUVVZFl6d3NHRl9yeFNkaWgyZU1qTjI5NVJ1Qmh2cjRpQXJIdksweHNWTUdValhMckIzNVBReTBYQTFxYkdZaGdNSnNNSktkMjdQMl9QLWUtTE1tMlYyMWRscjB2MS1ZbWZsQWxPOEpFVXBFTVBDd1hrS0JrclgzX29pSGtWRFYyLXp4MDZj?oc=5"
-    },
-    {
-      "name": "Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDg?oc=5"
     },
     {
       "name": "Kraken",
@@ -556,7 +556,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Nscale eyes $3B US IPO in AI data center listing rush - Dealroom",
+      "signal": "Nscale eyes $3B US IPO in AI data center listing rush - app.dealroom.co",
       "date": "2026-08-22",
       "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFdnU2RwbE5WV1g2ajUwdXNOVDVRaFREcTROd1R3bXlYT1F3bExra0VFcThCZkRQdy03ck9iQmxsbF9mUFVkUndjaHpwekxVTWlfeVhFbmVWVUJ2M085SzhZOG9WZTJTNDhfQ19ZZGRHb3NTa196S29qMklVdkw1R0dCV0k3MmRLdWVxU0s4WQ?oc=5"
     },
@@ -583,25 +583,25 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive - cryptobriefing.com",
+      "signal": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive - Crypto Briefing",
       "date": "2026-08-17",
       "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wUkJWMWxrNkJ3dDFjT2RlX0tpeF9ZQ2otMVozSlF3a3k1MW9CVjhNTVlKb0R1eU9nOUxzMUNtMF9maEN0c1BhWGZfMUNRUGVJU1NDVTMzSkVyTGU1T0kzLVI0d3gyVzEtem1QUjZHYmNYSEJx?oc=5"
     },
     {
-      "name": "Could Launch Trillion-Dollar",
+      "name": "Purple Style Labs",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Annualized Revenue Tops $65 Billion, Could Launch Trillion-Dollar IPO as Soon as Fall - TradingKey",
-      "date": "2026-08-17",
-      "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOc2FkdTVKa2llUlpPeWQzenJTWXFodEc0cGpYU3ZVMGhUSi1FU240VXp5TGVpZ1NpRk5kQ2RVRVhxdXc0OHdDaVY1R3Z2blN3OE5pSmJiT2MwanZfUjZQRzZtckkwX1VGaUdxbUxiMVBEdEtId1dxay1nbHJSWE9XbGZhTUdDQWxUZk9pVWNpZTZTV3hMWFU4WFJIMzZaVWtBc2d0M3AwbUxabVFrNWROSEFmODBKdVhwVmdVTDJwbURHMHMtVExJ?oc=5"
+      "signal": "Pernia’s Pop-Up Shop parent Purple Style Labs plans Rs 660-crore IPO by August-end - Moneycontrol.com",
+      "date": "2026-08-15",
+      "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQUZ5S2FtUlZsSUJVdlN6U2lRN0p3dGo4eml6NGlHMGh1dVRCZGptekZhN0lwZnE5elpTU3J6dFJZd2hhNFpGLTR6cHZzcTFYVTg2eWpfTDFkMlBJMUVQTExBcHRRdk5Vd2wyNV9HVUxLcTNxLVBGT0pqSl9LSlRtd0lOUE5OUXRnQXVKb3dNcVdneDVnZmtXUHVKcFg5WVRBQkxISndzUkpPMHpJRHdsWmtQWmZDV19SS1dVNkhCeWJFYjVPTl9HMXotTWx0ZGZYTFhtaGJTQzdwVm_SAeABQVVfeXFMUGxvZlBMZmFmSXhuS1lpemZyOW9hVkpkTlZBcHpIMk9xWHVYR3ItVFUxdUN2NXRGQTB0RlpwNy1zWDJMd0RhQjFjc1RFcmJ4cUVZUHo2NTdzMEJCbi1PaVozanpaRi03a2tiaEFHN0Q3cDZJS2lQdXdFZkFHY2NnNWtCVkVCcHhmU0xUZzBBXzFSM2Q2OUdaOXlqWnkwNE1BalhvQUVubEVCNlhMeTluMHF0MjdtTHhsTDkwVGl5cGRjYTdCTG1POEo5VjhLejlBYVFTRy1rZVk5SnhDeVUtSjA?oc=5"
     },
     {
       "name": "Stablecoin",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - cryptobriefing.com",
+      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - Crypto Briefing",
       "date": "2026-08-14",
       "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZG56MWlDdTJoWTVFTnNIYlF4ZjVvMzhFc1RRanA3VXNkajFGbGdhQXdvcVUxR2dzQUtkcDFoODJLNHRBWXYzM1RDaGZxWHdabGkzTUhNbFBxVGtkS0JLQndSYjhmYTFtamplWWZ6SmF2bWM0Z3REQWI0MktZLWNYag?oc=5"
     },
@@ -646,9 +646,18 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
+      "signal": "Data Center Firm Switch to File Confidentially for IPO - bloomberg.com",
       "date": "2026-08-07",
       "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
+    },
+    {
+      "name": "PSX",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Pakistan’s first fruit exporter plans PSX IPO worth Rs1.9b - Profit by Pakistan Today",
+      "date": "2026-08-05",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTV5eVBIR2hRYjhvX05TdDZ3MVVnT1FPMVhwVGxGTkJRRXAyRXNrelJhcF9uTVRaNnVaYUxWcXNWQzNoRktvYWktNlpMVkhybXl5WVRQTUk2M2ZSZ21ZdkxXdl9aSEtMYjN4RkxXRkJDaGN1ZzhhTTJGTGNNT3ZIUEpQWTJ3OExINkE0c2F2WUJaTHhNemdlZFVLU0R2OE1zMTMwLS1tcTFnUWN6bmU3LUN0Q2tHT3M?oc=5"
     },
     {
       "name": "Upcoming",
@@ -709,7 +718,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Food technology firm GrubMarket confidentially files for US IPO - CNA",
+      "signal": "Food technology firm GrubMarket confidentially files for US IPO - channelnewsasia.com",
       "date": "2026-07-28",
       "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXFpSWs1NnFmLUdzUnExRlNYT3NkQTg1WTdQcDM4WnNvMC1QUXJSQ082UDdmT2phRk1xelZHNl9ndFotLTdoUVFjM1M4cFJYeWFFQjY1STNFSXpIVV9EVHZ5TTQzNVg2WmtDQkpJb0FENG1heGNJZXJ1QlllZEQwaF9aZk1Ua3U5RnJ6ZllEOUhTN3RuV3VGMWw4aTJpaHoxNTl2b1JkNUVfVmtJ?oc=5"
     },
@@ -772,7 +781,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s Moonshot plans IPO in six months after AI breakthrough - The Japan Times",
+      "signal": "China’s Moonshot plans IPO in six months after AI breakthrough - japantimes.co.jp",
       "date": "2026-07-19",
       "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRYbW5PU2M2SF9iZ0ZXa0VrYXd0SlFYOTJCczVnYlVkbGduOGVQUnBycm9CeFU4SHRxaEZ4dlhiRFoyWm9nVFpFTE9qTG9sWnBDeVoyYlh6Q0MzZ1lqbk5NQkl3X0d6QmVUMWhYMFM0b2VJNEVNYjBVRU05QS02RWx3?oc=5"
     },
@@ -790,7 +799,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Eyes October IPO After Reaching $965 Billion Valuation - tradingview.com",
+      "signal": "Anthropic Eyes October IPO After Reaching $965 Billion Valuation - TradingView",
       "date": "2026-07-16",
       "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRDkybzVsOHg0bW5wdWNndE5oOHFCOExfeE1SRWtQdDJRSTJRa1dKYzA2d0J1ZnRmZTJ3ZDBSSjJvOVF4ei12RmNqeGFYUjBvWW4wR3hhOXYtcVhtQUlfM2d4c2hJRlhnc3JvRmlaQ2g4ejk3ZEZZdnpBUkVRSEZtTVRfNW1sY1U5STJKS29jVlpubmNTRGtody1MUklzUmdQVENBLU90bTNDQ0ZQamQzZXhfX1JvVmJLUVdKUGNMUEY?oc=5"
     },
@@ -799,7 +808,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Is Said to Plan IPO Investor Meetings as Listing Nears - Bloomberg.com",
+      "signal": "Anthropic Is Said to Plan IPO Investor Meetings as Listing Nears - bloomberg.com",
       "date": "2026-07-15",
       "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmoxVDhqZ1NBaXFHcUJtX3plQ0t6dDl4dGk2SXZjVk42RVJGR1BVbWJCei0zMWtVUzI3WTRxSGJYRk1jSTAyY0hRSjJBSGJIcG1BMlZkbmRVcFl5UVNFYXB6RW1vZlNJOV96YkhTVXl6SWlVZUhUVzBUVXFsQ1dwQmFzUGRqcWl3T0hoblpDR2ZiWmpHWkV3Z1RVVWQyWl9yQ280UDNaYm1rTzhGUDhBQ3Q1dHNDdw?oc=5"
     },
@@ -880,7 +889,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "IDX Mulls Revising 2026 IPO Target - en.tempo.co",
+      "signal": "IDX Mulls Revising 2026 IPO Target - Tempo.co English",
       "date": "2026-07-09",
       "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50N196VmZQaHBJSjVseWJ2MVpiRE1wclpuME9XcnhQankzbHVhZXNMbUU0eHdJNTIzUGNsSGMyTEhiNXk0TzJFeXU2R2NlQXFiTUlmQ3MwckFvdkQtbnBiRTJTRUV1dlcwdjcwcXlqVGhEZHF6V2c?oc=5"
     },
@@ -892,15 +901,6 @@
       "signal": "SK Hynix U.S. IPO: Everything Memory Stock Investors Should Know About the New ADR - marketwise.com",
       "date": "2026-07-09",
       "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORE5NWW9WTkJwVDBwR2ZmQ1NkXzIzVXl1ZXAyakc3LV9XMExOc2cwV2VETTV4dktNV1dIb2paU1pHb2Q5R05Yb1NiMl9QWU5kR1BRclJSSlNSTVBPS1liVVpfaDZLVm01bTdISFd5bE80cEkwMkxkYno3RXNSb29XRW1sSk5FV1c0S1V3OVRGVEpOQ0hxMlZiVlBFYkwxREM3Q3U3d1BXZHBLeUcw?oc=5"
-    },
-    {
-      "name": "Carlsberg",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Danish brewer Carlsberg files for India unit IPO - Reuters",
-      "date": "2026-07-02",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVFRIZjF2ZkgtNXNnSE4xWVNndUdmT2g4eWFsYzFQQUF5eWd2ZkFVcER5Wm5pZkJUckZuTnVFbnJsYXR2VWlwZUN5aDlwbzlvc1gyb2FCVkNsbEhWUHdVU2lXLVdGajJnQlpzV2hUTVN4clRQdkFiUkdHUnc1WWJqeTE3VFdpcW02czVpUjI4VThWblNIT3FCV1VNY0hoNDdfMEk3OE02b0VTY1VOUEF5TXFQNTQ3blE?oc=5"
     }
   ]
 }
