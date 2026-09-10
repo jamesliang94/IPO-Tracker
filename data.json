@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-09T23:45:05.239Z",
+  "updated": "2026-09-10T02:30:43.702Z",
   "summary": "",
   "companies": [
     {
@@ -430,9 +430,18 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - WSJ",
+      "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - wsj.com",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MyYnEzbkZYd19tMEFCczNsNGdlTmptMjdNM3VDV1lvUTRBOFQ3NHBtcW02VEdiRV9NZ2tvVllya3BaWS1HS2tGNFllSThRakFobXJLM2tGcWl3WEl0dnNMX0NzWmlUWmxTMnoxXzNGQVlQNDE4RTEwV2c1Mk1GSGZybjlnb2tWUDlHVlU5ZG1JRFBm?oc=5"
+    },
+    {
+      "name": "Hong Kong",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
+      "date": "2026-09-03",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
     },
     {
       "name": "Company Payward Delays",
@@ -442,15 +451,6 @@
       "signal": "Kraken Parent Company Payward Delays IPO - Yahoo Finance",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0FxN1RwaHluMFBuQ0RSS3h5SmpkMUVVZFl6d3NHRl9yeFNkaWgyZU1qTjI5NVJ1Qmh2cjRpQXJIdksweHNWTUdValhMckIzNVBReTBYQTFxYkdZaGdNSnNNSktkMjdQMl9QLWUtTE1tMlYyMWRscjB2MS1ZbWZsQWxPOEpFVXBFTVBDd1hrS0JrclgzX29pSGtWRFYyLXp4MDZj?oc=5"
-    },
-    {
-      "name": "Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - scmp.com",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
     },
     {
       "name": "Kraken",
@@ -484,7 +484,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
+      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
       "date": "2026-08-26",
       "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
     },
@@ -502,7 +502,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - Athletech News",
+      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - athletechnews.com",
       "date": "2026-08-24",
       "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm5WWU9uRUdGUWRsU3k0VU9jQnpMUFVVX2RleVR0NWdIUHB0MS1nLXllU3ZGcDQ0aHkyODQtczQtRGxZYWpoNm0xc1hzdnh1SlJTSXhReGhQMHg0UHA2RkQ0QUc3NGtKdFZFajJhMFczdGxSOEZqa09pUzZpZVBmTHNoSQ?oc=5"
     },
@@ -529,7 +529,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive - Crypto Briefing",
+      "signal": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive - cryptobriefing.com",
       "date": "2026-08-17",
       "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wUkJWMWxrNkJ3dDFjT2RlX0tpeF9ZQ2otMVozSlF3a3k1MW9CVjhNTVlKb0R1eU9nOUxzMUNtMF9maEN0c1BhWGZfMUNRUGVJU1NDVTMzSkVyTGU1T0kzLVI0d3gyVzEtem1QUjZHYmNYSEJx?oc=5"
     },
@@ -556,7 +556,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - Crypto Briefing",
+      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - cryptobriefing.com",
       "date": "2026-08-14",
       "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZG56MWlDdTJoWTVFTnNIYlF4ZjVvMzhFc1RRanA3VXNkajFGbGdhQXdvcVUxR2dzQUtkcDFoODJLNHRBWXYzM1RDaGZxWHdabGkzTUhNbFBxVGtkS0JLQndSYjhmYTFtamplWWZ6SmF2bWM0Z3REQWI0MktZLWNYag?oc=5"
     },
@@ -615,15 +615,6 @@
       "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVFiaTdrNURUTlAtUlBTWHdVOFdhSFJNbHdyNmtrQjZXUXd1MkswSXV4bHZERTRwVWthQW9tOS1RVFJFcEJxYWZ3RzRacVRzUDRLU0txMGJrZGhORkdReFpGSlFVX3pkYVpvdE1TTXpQcGJ3Sngtb3BOOVVlYUM4VUF3?oc=5"
     },
     {
-      "name": "Westinghouse Electric Files",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Westinghouse Electric Files Confidentially for IPO - WSJ",
-      "date": "2026-07-31",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
-    },
-    {
       "name": "Westinghouse",
       "cik": null,
       "status": "rumored",
@@ -631,6 +622,15 @@
       "signal": "Nuclear firm Westinghouse confidentially files for US IPO - The Spokesman-Review",
       "date": "2026-07-31",
       "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5"
+    },
+    {
+      "name": "Westinghouse Electric Files",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Westinghouse Electric Files Confidentially for IPO - wsj.com",
+      "date": "2026-07-31",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
     },
     {
       "name": "Food Technology",
@@ -646,7 +646,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Produce Tech Firm GrubMarket Confidentially Files for IPO After $50M Raise - briefs.co",
+      "signal": "Produce Tech Firm GrubMarket Confidentially Files for IPO After $50M Raise - Briefs Finance",
       "date": "2026-07-28",
       "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZndzRfNmhuVDJBbjRRUmJoZHpwbFFzNDdleWNBZlNkQjJKa2d5TDgtdFF3cVF4Rk1CMFR1Z3lpU3V5MnU1WURzOEF2SWUzYUZJOWluVVhfMlNEbF95VlJOQmZ0QWxMcUh0R2ZBcnNYTllhLTlLN2R0TjdDeTc0WEs0V2pqRjdnNXJJSmROdlJIQQ?oc=5"
     },
@@ -682,7 +682,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Chinese GPU start-up MetaX confidentially files for Hong Kong listing: sources - scmp.com",
+      "signal": "Chinese GPU start-up MetaX confidentially files for Hong Kong listing: sources - South China Morning Post",
       "date": "2026-07-24",
       "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX2dTa2Y1WlUtb0hMNHFIV0xVbEtjQXlCZUYzUmNZNzVVVG5QdmFvRlZfQ25TMnJkbmpZLVg5UVlIb0F4MXVQWi1VQWQwcXdzTjlSVkI2OGhId2xrTGlIM3pxNmRTQUQxaUJ4akxCRnZFbnNSc1F1TTdUc0dpbjRrM3FxMUN6Nm9kd2hNaEFqUVVZeG9ZS1otdi1UVDR6c2NlNjNuNkNBdG1Gc0x6cUgyT0NicFRGLUZOUi1XVC1TazcwazRROGdJaGF0a2N5RGhRMUFwdjNud0ltVll30gHcAUFVX3lxTE5UdFB1cWIwWVd2bkZ6aUNLdFJYRmZNWFA5bUliaTQtZ0VjQVVIdjhwandnU3o5T0xzcHRLQmFiX0UzMGpoVFBMTlNROGlNb2QwUURnaWlibmUtZFFzc213NExGNWYwSEdhbWJhZWlpakZKSWcyQzNyT0I3Z3JJMFlTYk1xYkE3d29fVVp6TUVaM1RMbkFpR3FIazNSX3dqQldtNlVFMDNiWmFLSjVYckFGeHlrLVN4eHowMU5nM2wwMGVGSWFNQ28zYV9Wa24yeFNlSXhfWHlweGt4NFo?oc=5"
     },
