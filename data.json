@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T21:30:34.309Z",
+  "updated": "2026-09-11T23:46:07.655Z",
   "summary": "",
   "companies": [
     {
@@ -145,6 +145,24 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/845982/000095010326013830/0000950103-26-013830-index.htm"
+    },
+    {
+      "name": "Eloxx Pharmaceuticals, Inc.",
+      "cik": "0001035354",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1035354/000119312526389422/0001193125-26-389422-index.htm"
+    },
+    {
+      "name": "Meey Global Corp",
+      "cik": "0002134106",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/2134106/000121390026099370/0001213900-26-099370-index.htm"
     },
     {
       "name": "Smarter Web Company",
@@ -547,7 +565,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - Fierce Biotech",
+      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - fiercebiotech.com",
       "date": "2026-09-06",
       "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
     },
@@ -646,7 +664,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - Yellow.com",
+      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - yellow.com",
       "date": "2026-09-04",
       "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EV2ZMWFVyNXhUUnNuUHIweGhRa2NWbWo3WFlmV3d5cUpsX2dIdzZvTmpyT3ZjcWRzNG1LV1VoaDZzYjc3cFNrcFVTS1FfZk5yVzhnS2hWMzZvUGEyQ0lBRmtJalFZRm00a1ZPcWd4VnFXOEF3M3F0U1RNbw?oc=5"
     },
@@ -799,7 +817,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - athletechnews.com",
+      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - Athletech News",
       "date": "2026-08-24",
       "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm5WWU9uRUdGUWRsU3k0VU9jQnpMUFVVX2RleVR0NWdIUHB0MS1nLXllU3ZGcDQ0aHkyODQtczQtRGxZYWpoNm0xc1hzdnh1SlJTSXhReGhQMHg0UHA2RkQ0QUc3NGtKdFZFajJhMFczdGxSOEZqa09pUzZpZVBmTHNoSQ?oc=5"
     },
@@ -883,24 +901,6 @@
       "signal": "Vantage Data Centers explores IPO at US$100 billion valuation or sale, sources say - BNN Bloomberg",
       "date": "2026-08-13",
       "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOEtHeXpFSUNKeXQ0OWo0ZGY2RG5wVGFOelBvbTd4ZkFtRDMwQTVURHVNcm9SSldIcFo0cVBQOVhvSktvUUlEVW5KT0xFT1V3S3RISlVMYTJydnh5bnlGMHdtN08zTXVwdHUzSVh0LUJtbVUzLU44RDZEajJrcGlCQnFoSU5YU1YwNDNGY0pwUUVaLUJCLS1VUFhBVlIyVlJnOWg4YmNQRi1FR1BtbktiUzJPT1RYX1o5X0dfUHNGNWRqdkU4SlpYbEJydXg5bmpMV01FQUVmR0RvZw?oc=5"
-    },
-    {
-      "name": "Data Center",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
-      "date": "2026-08-07",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
-    },
-    {
-      "name": "PSX",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Pakistan’s first fruit exporter plans PSX IPO worth Rs1.9b - Profit by Pakistan Today",
-      "date": "2026-08-05",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTV5eVBIR2hRYjhvX05TdDZ3MVVnT1FPMVhwVGxGTkJRRXAyRXNrelJhcF9uTVRaNnVaYUxWcXNWQzNoRktvYWktNlpMVkhybXl5WVRQTUk2M2ZSZ21ZdkxXdl9aSEtMYjN4RkxXRkJDaGN1ZzhhTTJGTGNNT3ZIUEpQWTJ3OExINkE0c2F2WUJaTHhNemdlZFVLU0R2OE1zMTMwLS1tcTFnUWN6bmU3LUN0Q2tHT3M?oc=5"
     }
   ]
 }
