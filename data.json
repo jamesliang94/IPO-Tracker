@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T18:04:29.259Z",
+  "updated": "2026-09-11T21:30:34.309Z",
   "summary": "",
   "companies": [
     {
@@ -55,6 +55,105 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/1089113/000162828026061501/0001628280-26-061501-index.htm"
+    },
+    {
+      "name": "DYADIC INTERNATIONAL INC",
+      "cik": "0001213809",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226042435/0001493152-26-042435-index.htm"
+    },
+    {
+      "name": "QVC Group, Inc.",
+      "cik": "0001254699",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1254699/000110465926107125/0001104659-26-107125-index.htm"
+    },
+    {
+      "name": "Barrel Energy Inc.",
+      "cik": "0001631463",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1631463/000147793226005542/0001477932-26-005542-index.htm"
+    },
+    {
+      "name": "SeeQC, Inc.",
+      "cik": "0001779977",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026099300/0001213900-26-099300-index.htm"
+    },
+    {
+      "name": "Accelevation Holdings Corp.",
+      "cik": "0002141406",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/2141406/000162828026061542/0001628280-26-061542-index.htm"
+    },
+    {
+      "name": "DENISON MINES CORP.",
+      "cik": "0001063259",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1063259/000110465926107121/0001104659-26-107121-index.htm"
+    },
+    {
+      "name": "Lixiang Education Holding Co. Ltd.",
+      "cik": "0001814067",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1814067/000121390026099306/0001213900-26-099306-index.htm"
+    },
+    {
+      "name": "Air Water Ventures Ltd",
+      "cik": "0002092314",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/2092314/000121390026099277/0001213900-26-099277-index.htm"
+    },
+    {
+      "name": "iOThree Ltd",
+      "cik": "0001997637",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/1997637/000121390026099264/0001213900-26-099264-index.htm"
+    },
+    {
+      "name": "SMITH &amp; NEPHEW PLC",
+      "cik": "0000845982",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-11",
+      "source": "https://www.sec.gov/Archives/edgar/data/845982/000095010326013830/0000950103-26-013830-index.htm"
+    },
+    {
+      "name": "Smarter Web Company",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "The Smarter Web Company's IPO of Perpetual Shares - The Cryptonomist",
+      "date": "2026-09-11",
+      "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rLUFHdW92RUY1bHdZVTNkRlZ1RG1KTkF4VmZsa2xVRkZza2ZsbWRiRG5sY25zc1A4bUFXeEFGcllOT3hMa2FTZjNlNXRYVlRpdEJIeVV4YkZfc2J1MXJpNzNSeEI1ejRrOFZmc3lDTQ?oc=5"
     },
     {
       "name": "Cardiol Therapeutics Inc.",
@@ -421,7 +520,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Holtec Nuclear targets $10.2 billion valuation in US IPO as fall window kicks off - aol.com",
+      "signal": "Holtec Nuclear targets $10.2 billion valuation in US IPO as fall window kicks off - AOL.com",
       "date": "2026-09-08",
       "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNN1FCQjM0M1UzME9tSG1LT1RDaHhyb1BWSkJnc1ZvSkk5SFhfQ01XRTR3QWpLUVVaTk0tSFdqNUlBeHAyWW9CZE5tR3hWSk1JeEFwUFRlOFlmSEpfWjhzQUVCREtaY3c0MkZCbUhOSGZxLVoxTFI2UnZNSQ?oc=5"
     },
@@ -646,7 +745,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Kraken Parent Company Payward Delays IPO - finance.yahoo.com",
+      "signal": "Kraken Parent Company Payward Delays IPO - Yahoo Finance",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0FxN1RwaHluMFBuQ0RSS3h5SmpkMUVVZFl6d3NHRl9yeFNkaWgyZU1qTjI5NVJ1Qmh2cjRpQXJIdksweHNWTUdValhMckIzNVBReTBYQTFxYkdZaGdNSnNNSktkMjdQMl9QLWUtTE1tMlYyMWRscjB2MS1ZbWZsQWxPOEpFVXBFTVBDd1hrS0JrclgzX29pSGtWRFYyLXp4MDZj?oc=5"
     },
@@ -682,7 +781,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
+      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
       "date": "2026-08-26",
       "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
     },
@@ -700,9 +799,18 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - Athletech News",
+      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - athletechnews.com",
       "date": "2026-08-24",
       "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm5WWU9uRUdGUWRsU3k0VU9jQnpMUFVVX2RleVR0NWdIUHB0MS1nLXllU3ZGcDQ0aHkyODQtczQtRGxZYWpoNm0xc1hzdnh1SlJTSXhReGhQMHg0UHA2RkQ0QUc3NGtKdFZFajJhMFczdGxSOEZqa09pUzZpZVBmTHNoSQ?oc=5"
+    },
+    {
+      "name": "Nscale",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Nscale eyes $3B US IPO in AI data center listing rush - Dealroom",
+      "date": "2026-08-22",
+      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFdnU2RwbE5WV1g2ajUwdXNOVDVRaFREcTROd1R3bXlYT1F3bExra0VFcThCZkRQdy03ck9iQmxsbF9mUFVkUndjaHpwekxVTWlfeVhFbmVWVUJ2M085SzhZOG9WZTJTNDhfQ19ZZGRHb3NTa196S29qMklVdkw1R0dCV0k3MmRLdWVxU0s4WQ?oc=5"
     },
     {
       "name": "Anthropic Could Aim",
@@ -739,6 +847,15 @@
       "signal": "Pernia’s Pop-Up Shop parent Purple Style Labs plans Rs 660-crore IPO by August-end - Moneycontrol.com",
       "date": "2026-08-15",
       "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQUZ5S2FtUlZsSUJVdlN6U2lRN0p3dGo4eml6NGlHMGh1dVRCZGptekZhN0lwZnE5elpTU3J6dFJZd2hhNFpGLTR6cHZzcTFYVTg2eWpfTDFkMlBJMUVQTExBcHRRdk5Vd2wyNV9HVUxLcTNxLVBGT0pqSl9LSlRtd0lOUE5OUXRnQXVKb3dNcVdneDVnZmtXUHVKcFg5WVRBQkxISndzUkpPMHpJRHdsWmtQWmZDV19SS1dVNkhCeWJFYjVPTl9HMXotTWx0ZGZYTFhtaGJTQzdwVm_SAeABQVVfeXFMUGxvZlBMZmFmSXhuS1lpemZyOW9hVkpkTlZBcHpIMk9xWHVYR3ItVFUxdUN2NXRGQTB0RlpwNy1zWDJMd0RhQjFjc1RFcmJ4cUVZUHo2NTdzMEJCbi1PaVozanpaRi03a2tiaEFHN0Q3cDZJS2lQdXdFZkFHY2NnNWtCVkVCcHhmU0xUZzBBXzFSM2Q2OUdaOXlqWnkwNE1BalhvQUVubEVCNlhMeTluMHF0MjdtTHhsTDkwVGl5cGRjYTdCTG1POEo5VjhLejlBYVFTRy1rZVk5SnhDeVUtSjA?oc=5"
+    },
+    {
+      "name": "Stablecoin",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - Crypto Briefing",
+      "date": "2026-08-14",
+      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZG56MWlDdTJoWTVFTnNIYlF4ZjVvMzhFc1RRanA3VXNkajFGbGdhQXdvcVUxR2dzQUtkcDFoODJLNHRBWXYzM1RDaGZxWHdabGkzTUhNbFBxVGtkS0JLQndSYjhmYTFtamplWWZ6SmF2bWM0Z3REQWI0MktZLWNYag?oc=5"
     },
     {
       "name": "Yotta",
@@ -784,123 +901,6 @@
       "signal": "Pakistan’s first fruit exporter plans PSX IPO worth Rs1.9b - Profit by Pakistan Today",
       "date": "2026-08-05",
       "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTV5eVBIR2hRYjhvX05TdDZ3MVVnT1FPMVhwVGxGTkJRRXAyRXNrelJhcF9uTVRaNnVaYUxWcXNWQzNoRktvYWktNlpMVkhybXl5WVRQTUk2M2ZSZ21ZdkxXdl9aSEtMYjN4RkxXRkJDaGN1ZzhhTTJGTGNNT3ZIUEpQWTJ3OExINkE0c2F2WUJaTHhNemdlZFVLU0R2OE1zMTMwLS1tcTFnUWN6bmU3LUN0Q2tHT3M?oc=5"
-    },
-    {
-      "name": "Westinghouse Electric Files",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Westinghouse Electric Files Confidentially for IPO - WSJ",
-      "date": "2026-08-01",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
-    },
-    {
-      "name": "Westinghouse",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Nuclear firm Westinghouse confidentially files for US IPO - The Spokesman-Review",
-      "date": "2026-07-31",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5"
-    },
-    {
-      "name": "Food Technology",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Food Technology Firm GrubMarket Confidentially Files for U.S. IPO - thepacker.com",
-      "date": "2026-07-28",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDRMSGxvZE9zSXNPZkYxWlJfMElhM2ZINGtJRGR0YXBOX0tvNjcweDlyZ2FiWkFuRDg5Ymp4Ql8xNW9McGNDUjduS004MnczZGF6NVFORnh3SHl4UndaWC1HLXl0dnBHU0FnQmVEVDhySkFNekFaNFNyT2pQSEF5Z0w2dHRUam81M3RWVndQdElqWU5LaFE?oc=5"
-    },
-    {
-      "name": "Produce Tech",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Produce Tech Firm GrubMarket Confidentially Files for IPO After $50M Raise - Briefs Finance",
-      "date": "2026-07-28",
-      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZndzRfNmhuVDJBbjRRUmJoZHpwbFFzNDdleWNBZlNkQjJKa2d5TDgtdFF3cVF4Rk1CMFR1Z3lpU3V5MnU1WURzOEF2SWUzYUZJOWluVVhfMlNEbF95VlJOQmZ0QWxMcUh0R2ZBcnNYTllhLTlLN2R0TjdDeTc0WEs0V2pqRjdnNXJJSmROdlJIQQ?oc=5"
-    },
-    {
-      "name": "Xiaohongshu Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Xiaohongshu's Hong Kong IPO plans face scrutiny after complaint about corporate structure - Reuters",
-      "date": "2026-07-28",
-      "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMHpfZ2szTV9KckEyMXpqZDJzTUdBNXJaUVVQZWlpc1p5T3k1Tnh1VHFoTkdZSkhYSzFsdkNCcHdRSXg4ZUkwYXB5UElDNG9iQ3RyLV96ZTB0ZXBZbkVXTDgzb3kxN2I3cGtndjU3RS15LUplU0Roa3BySG13d1ZYbXBmcEdxNXNNQTVtSlhyU0l4dEZ5akU5NXlzbFZXZmJtZ3pTZTVIWTNmLWtpMUNzYzhyeGQwN2VndlNfbWQzTW54ZmtoTUxlUmUzdEM4dw?oc=5"
-    },
-    {
-      "name": "GrubMarket Files Confidentially",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "GrubMarket Files Confidentially for US IPO After Reaching $4.5 Billion Valuation - finance.biggo.com",
-      "date": "2026-07-28",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vcG1EUERWUFdNVGlsT215Yjh0VnhBSUFyYjZtNmtLcjc5Yy1pdGNyQ1pyc2E5Qng2enhYQWdtb2lNUTNGWDNKdnFlNjhrZm8yc3NjUldJcmR2YV9YUnVmUmlSb3d0bUplMWV0QmVJY2kzM0lIT0E?oc=5"
-    },
-    {
-      "name": "GrubMarket",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Food technology firm GrubMarket confidentially files for US IPO - CNA",
-      "date": "2026-07-28",
-      "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbXFpSWs1NnFmLUdzUnExRlNYT3NkQTg1WTdQcDM4WnNvMC1QUXJSQ082UDdmT2phRk1xelZHNl9ndFotLTdoUVFjM1M4cFJYeWFFQjY1STNFSXpIVV9EVHZ5TTQzNVg2WmtDQkpJb0FENG1heGNJZXJ1QlllZEQwaF9aZk1Ua3U5RnJ6ZllEOUhTN3RuV3VGMWw4aTJpaHoxNTl2b1JkNUVfVmtJ?oc=5"
-    },
-    {
-      "name": "Manipal Health",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Manipal Health IPO: Expansion in Kerala, Hyderabad, NCR - Rediff MoneyWiz",
-      "date": "2026-07-24",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSkxobk82QXFKWkxLaTJpT2YwLUxHRkM5TWlLM21iUExPcmc3aERZRWtnS3VHSDI4NWFwWFV2cUhqXzBCbzJlUWFZTUxSQ2lVbEVLM2drSG93QW5ES1ZmQVEwVHEtcUJwN3NQbVhPOWt5R3FYZVJFRnJ2ZWZqODBTRlBQRkk1TW16QVhINDRCQm9DQnVNOV90cWwyX0xPelYwQS03Y2V3VdIBrAFBVV95cUxNMEgxa2xCd1dtSm52RkYweC0xVFo0ZzhLWTZHODZOSFFKb3R5WnRJRDNrT3c2alEyVW51S2d5alF4Q29CbWpNQXFFd1A3bjFLOUxDNEtDTGo4OVVJbE9KMXNfTk44RXhsRnVRRU1SY1ZtSXotcnFwQm8yc0QzZV9yREpkTWZadzg5Ry1tRWwyYlJETEZZcmViellzNkszX0J1bzM3NEo3ZGx6N0l3?oc=5"
-    },
-    {
-      "name": "MetaX",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Chinese GPU start-up MetaX confidentially files for Hong Kong listing: sources - South China Morning Post",
-      "date": "2026-07-24",
-      "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX2dTa2Y1WlUtb0hMNHFIV0xVbEtjQXlCZUYzUmNZNzVVVG5QdmFvRlZfQ25TMnJkbmpZLVg5UVlIb0F4MXVQWi1VQWQwcXdzTjlSVkI2OGhId2xrTGlIM3pxNmRTQUQxaUJ4akxCRnZFbnNSc1F1TTdUc0dpbjRrM3FxMUN6Nm9kd2hNaEFqUVVZeG9ZS1otdi1UVDR6c2NlNjNuNkNBdG1Gc0x6cUgyT0NicFRGLUZOUi1XVC1TazcwazRROGdJaGF0a2N5RGhRMUFwdjNud0ltVll30gHcAUFVX3lxTE5UdFB1cWIwWVd2bkZ6aUNLdFJYRmZNWFA5bUliaTQtZ0VjQVVIdjhwandnU3o5T0xzcHRLQmFiX0UzMGpoVFBMTlNROGlNb2QwUURnaWlibmUtZFFzc213NExGNWYwSEdhbWJhZWlpakZKSWcyQzNyT0I3Z3JJMFlTYk1xYkE3d29fVVp6TUVaM1RMbkFpR3FIazNSX3dqQldtNlVFMDNiWmFLSjVYckFGeHlrLVN4eHowMU5nM2wwMGVGSWFNQ28zYV9Wa24yeFNlSXhfWHlweGt4NFo?oc=5"
-    },
-    {
-      "name": "Million Reenergy",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Million Reenergy plans IPO to open 5 new branches - The Malaysian Reserve",
-      "date": "2026-07-20",
-      "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnp3dWJsUU45UlZEOHB4cHhYS05YekhESUQxMHNGeDdWbThzaWRuS0NqVnhld3BMeW5yUWZvOS1ObXZDRk4tdTFjeUhDQlZRZ0xDMjJnckc5ekQ5ZThmcFRpa1A5dk0teU5zb0oyZVNFN2pSYnkyLS1fWW9TMGFyc2pURVViOFRPcjNFZmYwalZwaWEtMU5vNg?oc=5"
-    },
-    {
-      "name": "Artificial",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Artificial intelligence IPOs shift the paradigm - International Bar Association | IBA",
-      "date": "2026-07-20",
-      "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5MaDdpaDZWdzNVVWtsQzFnaWZLdEVqeGZIaVpmYjRkYU9tVVdCTkJVbkF6dDZGWWpDaWFSZnlyNnJzOU9mSzJ0XzY0WlZfSGhIY2dXb1V2TURudl8tV0l2d3NvSnF4dXFUQmZmY0JvdzBVTVEtbGZqS2d3?oc=5"
-    },
-    {
-      "name": "China Innolight",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "China’s Innolight eyes US$8 billion Hong Kong IPO, potentially city’s largest in 7 years - businesstimes.com.sg",
-      "date": "2026-07-20",
-      "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOVkxRWmI4SUNYbEJJSWZRNHdXTzg2OFFfU19RbUs2ZV9XRVRKWEFjZ0ZhQkljZEJrQXkyZXNob3VpRHFKcWoxYTlRemQxTndGZmhieXBzbWpKdzd1WjdPaFVqX0JHbVFTUUV5azRLcjF3N3BiOVIxdVQwZThaYWtRVTRMQWFEMzc0Y1lUMTd0VjVzbmltendub0hGX0JUVGFja2ljcmpGNTVOV1BkS1dma3NRS2VMRHRvODFjbDhIZG02czZwZUtJTENEUlk?oc=5"
-    },
-    {
-      "name": "China Moonshot",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "China’s Moonshot plans IPO in six months after AI breakthrough - The Japan Times",
-      "date": "2026-07-19",
-      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRYbW5PU2M2SF9iZ0ZXa0VrYXd0SlFYOTJCczVnYlVkbGduOGVQUnBycm9CeFU4SHRxaEZ4dlhiRFoyWm9nVFpFTE9qTG9sWnBDeVoyYlh6Q0MzZ1lqbk5NQkl3X0d6QmVUMWhYMFM0b2VJNEVNYjBVRU05QS02RWx3?oc=5"
     }
   ]
 }
