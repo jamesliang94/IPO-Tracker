@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T00:45:07.767Z",
+  "updated": "2026-09-11T05:30:33.169Z",
   "summary": "",
   "companies": [
     {
@@ -57,6 +57,15 @@
       "source": "https://www.sec.gov/Archives/edgar/data/66740/000110465926106711/0001104659-26-106711-index.htm"
     },
     {
+      "name": "Brooks Automation Files",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
+      "date": "2026-09-10",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
+    },
+    {
       "name": "Galaxea AI",
       "cik": null,
       "status": "rumored",
@@ -79,9 +88,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WKZO",
+      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
       "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQS0dBT1lsLVNNYzdHY1hxQUJIb19Jb3BHWXBmcWozSndudFI4OV9NTWxvVmlIbmEtTmRjZHJfZ3BSVnpSbE5kOG5MSnBuZlppaldHeDlraEJWek5aV2Jxa2VFN1F6Y1FBaFRfTUNJcDhqamNQRlFob1RJck9JM1o1QUlxdEtLM3JKR2ZYU1AtQzkxQXBJQkRuNmRSLTBUVTRhandfc3p2bjRhNkI4a3JIUVoxdE9QZWhPZTVuelpkZi1TN3NzTi03aExXY0VpVkxSbVgwTnRJTkZ6RTRx?oc=5"
+      "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
     },
     {
       "name": "AIxCrypto Holdings, Inc.",
@@ -199,15 +208,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-09",
       "source": "https://www.sec.gov/Archives/edgar/data/1314196/000118518526003902/0001185185-26-003902-index.htm"
-    },
-    {
-      "name": "DeepSeek Eyes Shanghai",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "DeepSeek Eyes Shanghai IPO Amid AI Funding Race - Sharecafe",
-      "date": "2026-09-09",
-      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOa1NKM1Q4VW5fSlNrRE1HWGctdjdYV2tKNWkta0NlNXpoaXRXaS10aFMxWFdfOTFyTFozZ05JX0E0cUh6Yk8wSS1fNzZEb1UyVEU4UHJmeUxBOENyMzNZZGlLbjEtaThBYlZLdWNHdFJOSkNtenBKY1loVjNJRlJORzA2RHYzM191YjJnUDdWbjdhUQ?oc=5"
     },
     {
       "name": "Gas",
@@ -367,7 +367,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Kuku to build 1,000-member AI team ahead of Rs 3,500 Cr IPO - entrackr.com",
+      "signal": "Kuku to build 1,000-member AI team ahead of Rs 3,500 Cr IPO - Entrackr",
       "date": "2026-09-08",
       "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3ZFUjlnS2pUazROS2E0TjlKbi1SMkhiQlVLQmFwU0FlZHpoeEk5ekNUYUdQV1F3eHNIZlp0dFY5cjBtM1pVS3gwbUN3Tk95bHV6RWhiZmNETlhianBtSk5xQjNYY3RYY3BQRHNrdGFuZ2Z1WnNNOFFxMmJRa0hkbE55RUpaR3dhTHZJNU54NjAzenJURlRB0gGXAUFVX3lxTFBXdkVSOWdLalRrNE5LYTROOUpuLVIySGJCVUtCYXBTQWVkemh4STl6Q1RhR1BXUXd4c0hmWnR0VjlyMG0zWlVLeDBtQ3dOT3lsdXpFaGJmY0ROWGJqcG1KTnFCM1hjdFhjcFBEc2t0YW5nZnVac004UXEyYlFrSGRsTnlFSlpHd2FMdkk1Tng2MDN6clRGVEE?oc=5"
     },
@@ -619,7 +619,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
+      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - smartasset.com",
       "date": "2026-08-26",
       "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
     },
@@ -646,25 +646,16 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
+      "signal": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - nytimes.com",
       "date": "2026-08-21",
       "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5"
-    },
-    {
-      "name": "Nscale",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Nscale eyes $3B US IPO in AI data center listing rush - Dealroom",
-      "date": "2026-08-21",
-      "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFdnU2RwbE5WV1g2ajUwdXNOVDVRaFREcTROd1R3bXlYT1F3bExra0VFcThCZkRQdy03ck9iQmxsbF9mUFVkUndjaHpwekxVTWlfeVhFbmVWVUJ2M085SzhZOG9WZTJTNDhfQ19ZZGRHb3NTa196S29qMklVdkw1R0dCV0k3MmRLdWVxU0s4WQ?oc=5"
     },
     {
       "name": "OpenAI",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - CNBC",
+      "signal": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees - cnbc.com",
       "date": "2026-08-19",
       "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjVnJGYzVGcWt5c0F3WTY3elk5SkRrSUV3U3Y2OFdIV1dCRm4wVU5PZF8wV1VXT2Q4cVZZU3NZWlRFRTVhZTNYNTZNbEh2bmZ1aDJEWnFINFR6dlVqdGVsQ1RRSmhBV0dKYkFwcTZpQk56MGlZ0gF6QVVfeXFMTnhrRVAzUVl4M3FxY3gxcjdrZFhGODd4X2sxYzRpS1JTaHNJaXNxVEFuSExkOWlNVkYwZnJKX0xXV1hCOUxORnVjLWM1UEszb3BLa1gxMmZVa3dDQ2JNc3hyMERhMXFibThXczd5Y05BRFo5QlRONXdxQ3c?oc=5"
     },
@@ -676,6 +667,15 @@
       "signal": "Robotera plans IPO in Hong Kong as humanoid robot funding hits overdrive - Crypto Briefing",
       "date": "2026-08-17",
       "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9wUkJWMWxrNkJ3dDFjT2RlX0tpeF9ZQ2otMVozSlF3a3k1MW9CVjhNTVlKb0R1eU9nOUxzMUNtMF9maEN0c1BhWGZfMUNRUGVJU1NDVTMzSkVyTGU1T0kzLVI0d3gyVzEtem1QUjZHYmNYSEJx?oc=5"
+    },
+    {
+      "name": "Purple Style Labs",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Pernia’s Pop-Up Shop parent Purple Style Labs plans Rs 660-crore IPO by August-end - Moneycontrol.com",
+      "date": "2026-08-15",
+      "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQUZ5S2FtUlZsSUJVdlN6U2lRN0p3dGo4eml6NGlHMGh1dVRCZGptekZhN0lwZnE5elpTU3J6dFJZd2hhNFpGLTR6cHZzcTFYVTg2eWpfTDFkMlBJMUVQTExBcHRRdk5Vd2wyNV9HVUxLcTNxLVBGT0pqSl9LSlRtd0lOUE5OUXRnQXVKb3dNcVdneDVnZmtXUHVKcFg5WVRBQkxISndzUkpPMHpJRHdsWmtQWmZDV19SS1dVNkhCeWJFYjVPTl9HMXotTWx0ZGZYTFhtaGJTQzdwVm_SAeABQVVfeXFMUGxvZlBMZmFmSXhuS1lpemZyOW9hVkpkTlZBcHpIMk9xWHVYR3ItVFUxdUN2NXRGQTB0RlpwNy1zWDJMd0RhQjFjc1RFcmJ4cUVZUHo2NTdzMEJCbi1PaVozanpaRi03a2tiaEFHN0Q3cDZJS2lQdXdFZkFHY2NnNWtCVkVCcHhmU0xUZzBBXzFSM2Q2OUdaOXlqWnkwNE1BalhvQUVubEVCNlhMeTluMHF0MjdtTHhsTDkwVGl5cGRjYTdCTG1POEo5VjhLejlBYVFTRy1rZVk5SnhDeVUtSjA?oc=5"
     },
     {
       "name": "Stablecoin",
@@ -696,15 +696,6 @@
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVS1VZ3RBdkZfbHpzVmdTTmpSRFZTTVBQSmY2c2U5c1dPRDhnZWNTdk9Sd1N4S2JmT3llQTlUU3VxQ0hpTlUwblU3eEwzTzN5SUtxc1RiOFZtMWItUmF6SW9lak5EeTYxd3hhajYwSEJ6cXBXV1JtLUNPNUU3MklEaWxRbU5GRmJUcmtrZGVKejdxdGx0UlRoNUd2Z2ZtaVhCaXZqOFVpSkZFMTBkSzBvSk1WRG1iXzM1Y1NMLXlQYWhDRzZfbWdUWdIBzgFBVV95cUxQeWI0UnlGZHJoLW5KRHVNLU5ualhVNU9hcm8ya2V1Vkp3VEk3ZEpuLThfckd6MUdMUjBnUDU3di1GaDRhbXhFZUxTOWJhVUlVOFRoMlRBZklVeHhKb3dvLUd6eFJoUFpzdFVSWXIxc3hNV3F1dUZubHBSM1VteEhHN3U5MVdzNE9sNjZObkhFWWhVNDZxaER0eDlmRkhTdGdmTGFjalZIdnEtaDRmTTRwOEJDd2ZyQ3hPTU4yOFQtRHZtYy0xR243Z1JFMVp3Zw?oc=5"
     },
     {
-      "name": "Anthropic CFO Krishna",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Anthropic CFO Krishna Rao is leading early IPO meetings with investors and has not discussed valuation, sources say - CNBC",
-      "date": "2026-08-13",
-      "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPRlZFSERVa2Z4YzhjRVpKc0V1YktMcks5QWRlS2NIZ1Nzd0hLb2lONVVELXZILThaWnh1SXNvYURMZTVQcWRDUWkwZ2ZDMjFLNHJ3T05QQzhhVHRLazVOSzZxYmNoYnhvTW1pLW1fZy1kdUhQbjVuODRDRUgxLXE0QVd5cFp0d9IBiwFBVV95cUxPb29DaEVJYXY5Ym5xeXNLVlVuM0dKZlFsQVN4Y2FnZElCUzhSaUphd0h5RnRLT1BOdkpCQk9sbHBIZWw1cXgza3gxM1JjYkp4M1BKSUZkMF9DZTdxWjRxX2p6ei1oS2RhLVpHSEY3Q1otQUlKcmRLLXVMV095U2Rsclp2ZFl1NU9fVHZF?oc=5"
-    },
-    {
       "name": "Vantage",
       "cik": null,
       "status": "rumored",
@@ -723,15 +714,6 @@
       "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOEtHeXpFSUNKeXQ0OWo0ZGY2RG5wVGFOelBvbTd4ZkFtRDMwQTVURHVNcm9SSldIcFo0cVBQOVhvSktvUUlEVW5KT0xFT1V3S3RISlVMYTJydnh5bnlGMHdtN08zTXVwdHUzSVh0LUJtbVUzLU44RDZEajJrcGlCQnFoSU5YU1YwNDNGY0pwUUVaLUJCLS1VUFhBVlIyVlJnOWg4YmNQRi1FR1BtbktiUzJPT1RYX1o5X0dfUHNGNWRqdkU4SlpYbEJydXg5bmpMV01FQUVmR0RvZw?oc=5"
     },
     {
-      "name": "Singapore-based",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Singapore-based data centre operator is said to confidentially file for US$5 bil IPO in US - The Edge Malaysia",
-      "date": "2026-08-11",
-      "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE44Uk5lVl9RejFvQUZBbU8tYlVlYkx2TVp5UG9COVgtVkU0QjEzWmQtenZ1MVNqSWo1TTJLUVJnLTFLWGQwMHJqTWFkVjFGRW5W?oc=5"
-    },
-    {
       "name": "Data Center",
       "cik": null,
       "status": "rumored",
@@ -739,6 +721,15 @@
       "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
       "date": "2026-08-07",
       "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
+    },
+    {
+      "name": "PSX",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Pakistan’s first fruit exporter plans PSX IPO worth Rs1.9b - Profit by Pakistan Today",
+      "date": "2026-08-05",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTV5eVBIR2hRYjhvX05TdDZ3MVVnT1FPMVhwVGxGTkJRRXAyRXNrelJhcF9uTVRaNnVaYUxWcXNWQzNoRktvYWktNlpMVkhybXl5WVRQTUk2M2ZSZ21ZdkxXdl9aSEtMYjN4RkxXRkJDaGN1ZzhhTTJGTGNNT3ZIUEpQWTJ3OExINkE0c2F2WUJaTHhNemdlZFVLU0R2OE1zMTMwLS1tcTFnUWN6bmU3LUN0Q2tHT3M?oc=5"
     },
     {
       "name": "Upcoming",
@@ -750,22 +741,22 @@
       "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVFiaTdrNURUTlAtUlBTWHdVOFdhSFJNbHdyNmtrQjZXUXd1MkswSXV4bHZERTRwVWthQW9tOS1RVFJFcEJxYWZ3RzRacVRzUDRLU0txMGJrZGhORkdReFpGSlFVX3pkYVpvdE1TTXpQcGJ3Sngtb3BOOVVlYUM4VUF3?oc=5"
     },
     {
-      "name": "Westinghouse",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Nuclear firm Westinghouse confidentially files for US IPO - spokesman.com",
-      "date": "2026-07-31",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5"
-    },
-    {
       "name": "Westinghouse Electric Files",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
       "signal": "Westinghouse Electric Files Confidentially for IPO - WSJ",
-      "date": "2026-07-31",
+      "date": "2026-08-01",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
+    },
+    {
+      "name": "Westinghouse",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Nuclear firm Westinghouse confidentially files for US IPO - The Spokesman-Review",
+      "date": "2026-07-31",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5"
     },
     {
       "name": "Food Technology",
@@ -781,7 +772,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Produce Tech Firm GrubMarket Confidentially Files for IPO After $50M Raise - Briefs Finance",
+      "signal": "Produce Tech Firm GrubMarket Confidentially Files for IPO After $50M Raise - briefs.co",
       "date": "2026-07-28",
       "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMUZndzRfNmhuVDJBbjRRUmJoZHpwbFFzNDdleWNBZlNkQjJKa2d5TDgtdFF3cVF4Rk1CMFR1Z3lpU3V5MnU1WURzOEF2SWUzYUZJOWluVVhfMlNEbF95VlJOQmZ0QWxMcUh0R2ZBcnNYTllhLTlLN2R0TjdDeTc0WEs0V2pqRjdnNXJJSmROdlJIQQ?oc=5"
     },
@@ -822,20 +813,11 @@
       "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX2dTa2Y1WlUtb0hMNHFIV0xVbEtjQXlCZUYzUmNZNzVVVG5QdmFvRlZfQ25TMnJkbmpZLVg5UVlIb0F4MXVQWi1VQWQwcXdzTjlSVkI2OGhId2xrTGlIM3pxNmRTQUQxaUJ4akxCRnZFbnNSc1F1TTdUc0dpbjRrM3FxMUN6Nm9kd2hNaEFqUVVZeG9ZS1otdi1UVDR6c2NlNjNuNkNBdG1Gc0x6cUgyT0NicFRGLUZOUi1XVC1TazcwazRROGdJaGF0a2N5RGhRMUFwdjNud0ltVll3?oc=5"
     },
     {
-      "name": "Xiaohongshu",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Xiaohongshu denies IPO rumours amid compliance disputes - The Standard (HK)",
-      "date": "2026-07-22",
-      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNDRydldreml2b1lLTUVsTkFwLTl2R2lpXzg4NEdlT245bVdyQXRBQTVNQU95MnpWal9RNHZRakQ4WHZCa2ROMkI0TDR3anUzSE9zT3d6OHlLZEJrWndfRWhmTlVTTENhSjBFcWRHZWwzdGgwVnR2MTVjS291UlRFZXpkUXBIbFRnOTFxQTVER0hPNTFBQTM0WXRDNkw4VmI0ci13Y1hMYWY5dnNsblE?oc=5"
-    },
-    {
       "name": "Million Reenergy",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Million Reenergy plans IPO to open 5 new branches - themalaysianreserve.com",
+      "signal": "Million Reenergy plans IPO to open 5 new branches - The Malaysian Reserve",
       "date": "2026-07-20",
       "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWnp3dWJsUU45UlZEOHB4cHhYS05YekhESUQxMHNGeDdWbThzaWRuS0NqVnhld3BMeW5yUWZvOS1ObXZDRk4tdTFjeUhDQlZRZ0xDMjJnckc5ekQ5ZThmcFRpa1A5dk0teU5zb0oyZVNFN2pSYnkyLS1fWW9TMGFyc2pURVViOFRPcjNFZmYwalZwaWEtMU5vNg?oc=5"
     },
@@ -876,6 +858,15 @@
       "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVFhmd1NkQmE4UGNnWUR6bXRObC13VnVRV2xuSXNVWWtKMXhEcGNyYmNGRjZ3MXhTNkVYbUt3YUR6RGEzSDhkNFl5azlVc0ZUaUw4bVJORDFmQ2h5YXM4NXBhaEJSYmtueHVWZV94QlpQeDNMbmZZRk5CcDR0Q1N6NlZnOGtoVDVtQmFRV1lWdkRNbi1SMFE?oc=5"
     },
     {
+      "name": "Anthropic Eyes October",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Anthropic Eyes October IPO After Reaching $965 Billion Valuation - TradingView",
+      "date": "2026-07-16",
+      "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRDkybzVsOHg0bW5wdWNndE5oOHFCOExfeE1SRWtQdDJRSTJRa1dKYzA2d0J1ZnRmZTJ3ZDBSSjJvOVF4ei12RmNqeGFYUjBvWW4wR3hhOXYtcVhtQUlfM2d4c2hJRlhnc3JvRmlaQ2g4ejk3ZEZZdnpBUkVRSEZtTVRfNW1sY1U5STJKS29jVlpubmNTRGtody1MUklzUmdQVENBLU90bTNDQ0ZQamQzZXhfX1JvVmJLUVdKUGNMUEY?oc=5"
+    },
+    {
       "name": "Plan",
       "cik": null,
       "status": "rumored",
@@ -883,6 +874,15 @@
       "signal": "Anthropic Is Said to Plan IPO Investor Meetings as Listing Nears - Bloomberg.com",
       "date": "2026-07-15",
       "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUmoxVDhqZ1NBaXFHcUJtX3plQ0t6dDl4dGk2SXZjVk42RVJGR1BVbWJCei0zMWtVUzI3WTRxSGJYRk1jSTAyY0hRSjJBSGJIcG1BMlZkbmRVcFl5UVNFYXB6RW1vZlNJOV96YkhTVXl6SWlVZUhUVzBUVXFsQ1dwQmFzUGRqcWl3T0hoblpDR2ZiWmpHWkV3Z1RVVWQyWl9yQ280UDNaYm1rTzhGUDhBQ3Q1dHNDdw?oc=5"
+    },
+    {
+      "name": "Anthropic Reportedly",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Anthropic Reportedly Plans IPO Investor Meeting, Could List as Soon as This October - TradingKey",
+      "date": "2026-07-15",
+      "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObTV5MTJXdlVqczA1RXlIUEYyMUNtQlNKZXdrVV91MC1tdjdGakE5SEZpd01ZTnRTWDQ2RWloX3oxU1JoWGM4N1BtUXExVVhtX3VWb3I4VG5JeUota2I5SzBIcDZsVnZTUVVLemVPVmFqQlRodS1RdVprZ0ktY05nRmkzSmVXd2Ywck5XSmFBWGp3c0RMMGhISU1jZG0zUnRUR04yRWI5amFUdVhLa1B1cWlpekp2alRXSHBDUHBnN0twZDdxN295cGN5Vlo5YzdxOTdFWFg3cWNEczN2YVRieUhCOURTcGJN?oc=5"
     },
     {
       "name": "DeepSeek",
@@ -894,13 +894,13 @@
       "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZmh3MV9GYmQyQUpSalZ3NU9aV0VqMmxBQ1NUUlh1MGQ0NzZPOVBVWmhORHh5cXVjQnhRM01HMkhCcmpzbDR6dks5RzRRc1hfZUNtbDdkRFNKTEFPc2QxWnVpZmhCQURlYlZoblBFbEtkQjktakluRTBybUg2TUFNeVdmUzIxdDd6X3VndDYwY192bzI3M2FIZ0N2Rm9Yam5QT1AtYUlR?oc=5"
     },
     {
-      "name": "Anthropic Reportedly",
+      "name": "China DeepSeek",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Reportedly Plans IPO Investor Meeting, Could List as Soon as This October - TradingKey",
+      "signal": "China’s DeepSeek to raise fresh capital at US$74 billion valuation ahead of onshore IPO - The Business Times",
       "date": "2026-07-15",
-      "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxObTV5MTJXdlVqczA1RXlIUEYyMUNtQlNKZXdrVV91MC1tdjdGakE5SEZpd01ZTnRTWDQ2RWloX3oxU1JoWGM4N1BtUXExVVhtX3VWb3I4VG5JeUota2I5SzBIcDZsVnZTUVVLemVPVmFqQlRodS1RdVprZ0ktY05nRmkzSmVXd2Ywck5XSmFBWGp3c0RMMGhISU1jZG0zUnRUR04yRWI5amFUdVhLa1B1cWlpekp2alRXSHBDUHBnN0twZDdxN295cGN5Vlo5YzdxOTdFWFg3cWNEczN2YVRieUhCOURTcGJN?oc=5"
+      "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPZ0tncGctVVhmWGJTYWF6aGVEQk1YNlNSaGdvU0tkSTdYNVRTN284aUdWZXZuZzRuM1ZCSjlmdTUyVEFvWkhZdk9pa2RTUXYwenFJZkRWTVZ4bVJuaUg5eElpVlMtVGxudEpmTU51d2NfME9HSzB5VmZucTAwNmZxeTIzeUxSV18wbzZPRFRqN0QtTnlnOHdGUUwxUDBwVVprN0tabU5mV0lfX2RraWFsWG1PZ05GaHhxbkxRZlA0MF93MVFhZHhGYnlyeWZnVlU?oc=5"
     }
   ]
 }
