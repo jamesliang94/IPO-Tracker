@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11T23:46:07.655Z",
+  "updated": "2026-09-12T02:32:41.863Z",
   "summary": "",
   "companies": [
     {
@@ -174,6 +174,15 @@
       "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rLUFHdW92RUY1bHdZVTNkRlZ1RG1KTkF4VmZsa2xVRkZza2ZsbWRiRG5sY25zc1A4bUFXeEFGcllOT3hMa2FTZjNlNXRYVlRpdEJIeVV4YkZfc2J1MXJpNzNSeEI1ejRrOFZmc3lDTQ?oc=5"
     },
     {
+      "name": "Billion-Plus",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Intel-Backed Altera Prepares $2 Billion-Plus IPO As Semiconductor Listings Rebound - Tekedia",
+      "date": "2026-09-11",
+      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajNUSVA5SkJSQU0xQWJLQTZ6Uy04eHMxN1hDUTNaMUFObURzb3pFSUdqQVdQVG0tU3E2MkhUdFg4THF4ZDRnaXZvendHUHVqM0x3UmdCV1V3LXl2cnJzZWhlcXFfUE0yNlpwMUo0SnNfU3NNeFBMaUpNLW44a0xpY05wb3VLUjNJMndPa3ZNWlZVN0JhTTJONF80UmJZbVhfQW9ueTF1bmN4UQ?oc=5"
+    },
+    {
       "name": "Cardiol Therapeutics Inc.",
       "cik": "0001702123",
       "status": "filed",
@@ -237,20 +246,11 @@
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
     },
     {
-      "name": "Galaxea AI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Regulatory Uncertainty Clouds Chinese Robot Firm Galaxea AI’s IPO Plan - WSJ",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZEJxc09UVTVHUGw3WVFudGdLaWlfZlhCQzRqbUtockI2M2xnZGF4bnVWdS1nZExGTTI2TVhXdHlQQ3g3SldpbEVnZHl6N0pzcUVqb2tjMVptS1M3OGdIV3k5MnZxRm1qbEJ5TWpGc2dhSDF2Yjcwelc4eUFsWXN0RnFHMFRPSUZJcU1SLWZDSktZTnZoMVdyNWdXQ01XenpUNTA1MUs3TS0tcFU?oc=5"
-    },
-    {
       "name": "Shanghai",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 93.3 The Drive",
+      "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 933thedrive.com",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmFqUzQxMDMwUk1oT2kwZ1FfaGdVb0NLeTR4VV8tVUViSktyVEVQaXo2WWlkRmJXR0k1OWN6dGJGbTc1UWRtdUE1Vy1iWk8wSUNrT2xKbUlnYkhEd0lwWkVsY3MzVFJ0bmdqLWlHX1RFZUpXV2VvOEtKREhMc0tJbmFvRjdBeXVWZ3pTeGk4S2RsVk92bkN0TFpqblBwTklCNXhTam5yTVFXVnNQUkJaV256dnJsTlpfeE1sOXFB?oc=5"
     },
@@ -565,7 +565,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - fiercebiotech.com",
+      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - Fierce Biotech",
       "date": "2026-09-06",
       "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
     },
@@ -664,7 +664,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - yellow.com",
+      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - Yellow.com",
       "date": "2026-09-04",
       "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EV2ZMWFVyNXhUUnNuUHIweGhRa2NWbWo3WFlmV3d5cUpsX2dIdzZvTmpyT3ZjcWRzNG1LV1VoaDZzYjc3cFNrcFVTS1FfZk5yVzhnS2hWMzZvUGEyQ0lBRmtJalFZRm00a1ZPcWd4VnFXOEF3M3F0U1RNbw?oc=5"
     },
@@ -741,15 +741,6 @@
       "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTVuUUVGbm9TeUp4LW1ZbEhKRnZKZW92cU5qbk5MVFJuMGRrUll0RkhHR191M2pDSnNHb0hwQ1NENnZRUHlmNlQxX3B5MmpqckZHb2pKY2FpZUtmd0tfUnRKd2NGRmY1VVpiSGJBc2kyX3lOd1FFQlpTc1QtV18tdjNYTVYybWQxN0VheF9kS2M0c3haQzY5RG93ZGktemxxQ1Z4ZXBMNmFDUS11LVFWZHRPZGxYNUMzMEd5Z0hmSjlqQ3pBb2o2YkpEdTRPYnpzY1RmMEFfVmJBZWVFWXo3elUzLUxHNWpv0gHuAUFVX3lxTE5yTTRrOE9qcUtoeVRDQkhCeVBOMG1sVW5CdWM5S2hCRlFFYUpSSlJmVTN2S2NGREc2OEdIcUlXMTIyaTRtT25YMTB1OEZLTGFUdTZ5TkplY1FzaTBwZUdOckdFVEZ0TDk0ZE1aTV9PdWpoRi1rbjNKeVNtX3lYRU05U0d5dW9LWE1HS1RINEswTjdTQkozYTdpZmQtaDBnWjE2d3VwbXR4dTNwUGU3OFhRSWFqZ1JaYnE5LU9SQkNmUDlnNlBmUlZ6R3RqZXU3d3poUzc5ZWFkbDdCSnZUN1RMYzJIQ2V1elVfMUNOc1E?oc=5"
     },
     {
-      "name": "Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
-    },
-    {
       "name": "Filed Hong Kong",
       "cik": null,
       "status": "rumored",
@@ -757,6 +748,15 @@
       "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - WSJ",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MyYnEzbkZYd19tMEFCczNsNGdlTmptMjdNM3VDV1lvUTRBOFQ3NHBtcW02VEdiRV9NZ2tvVllya3BaWS1HS2tGNFllSThRakFobXJLM2tGcWl3WEl0dnNMX0NzWmlUWmxTMnoxXzNGQVlQNDE4RTEwV2c1Mk1GSGZybjlnb2tWUDlHVlU5ZG1JRFBm?oc=5"
+    },
+    {
+      "name": "Hong Kong",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - scmp.com",
+      "date": "2026-09-03",
+      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
     },
     {
       "name": "Company Payward Delays",
@@ -790,7 +790,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Solar engineering firm CoVolt Power plans IPO to meet rising electricity demand - The Business Journals",
+      "signal": "Solar engineering firm CoVolt Power plans IPO to meet rising electricity demand - bizjournals.com",
       "date": "2026-08-27",
       "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnpSZUJ6RTlSdUFwVjZ2dF9JZ1A2TExyR3plZ2VxZmVWNld5eTRmV2NZSlNldnR6UlR6ekdVQTdPYlJtcm5PVUd4Q3k1aElTM2FIeWJfRWdqWnI2dnZZdmxBTTNhekcyWjFJMmNLMjM2SjlUR1hhOVU3S1FmMlY5UTBvdlpwaEZJaHZpT2ItMURuekdfQmxHeWZkTU00LUgwbGlKTjdB?oc=5"
     },
@@ -799,7 +799,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
+      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
       "date": "2026-08-26",
       "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
     },
@@ -867,15 +867,6 @@
       "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQUZ5S2FtUlZsSUJVdlN6U2lRN0p3dGo4eml6NGlHMGh1dVRCZGptekZhN0lwZnE5elpTU3J6dFJZd2hhNFpGLTR6cHZzcTFYVTg2eWpfTDFkMlBJMUVQTExBcHRRdk5Vd2wyNV9HVUxLcTNxLVBGT0pqSl9LSlRtd0lOUE5OUXRnQXVKb3dNcVdneDVnZmtXUHVKcFg5WVRBQkxISndzUkpPMHpJRHdsWmtQWmZDV19SS1dVNkhCeWJFYjVPTl9HMXotTWx0ZGZYTFhtaGJTQzdwVm_SAeABQVVfeXFMUGxvZlBMZmFmSXhuS1lpemZyOW9hVkpkTlZBcHpIMk9xWHVYR3ItVFUxdUN2NXRGQTB0RlpwNy1zWDJMd0RhQjFjc1RFcmJ4cUVZUHo2NTdzMEJCbi1PaVozanpaRi03a2tiaEFHN0Q3cDZJS2lQdXdFZkFHY2NnNWtCVkVCcHhmU0xUZzBBXzFSM2Q2OUdaOXlqWnkwNE1BalhvQUVubEVCNlhMeTluMHF0MjdtTHhsTDkwVGl5cGRjYTdCTG1POEo5VjhLejlBYVFTRy1rZVk5SnhDeVUtSjA?oc=5"
     },
     {
-      "name": "Stablecoin",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Stablecoin firm RedotPay postpones billion-dollar US listing plans - Crypto Briefing",
-      "date": "2026-08-14",
-      "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZG56MWlDdTJoWTVFTnNIYlF4ZjVvMzhFc1RRanA3VXNkajFGbGdhQXdvcVUxR2dzQUtkcDFoODJLNHRBWXYzM1RDaGZxWHdabGkzTUhNbFBxVGtkS0JLQndSYjhmYTFtamplWWZ6SmF2bWM0Z3REQWI0MktZLWNYag?oc=5"
-    },
-    {
       "name": "Yotta",
       "cik": null,
       "status": "rumored",
@@ -901,6 +892,15 @@
       "signal": "Vantage Data Centers explores IPO at US$100 billion valuation or sale, sources say - BNN Bloomberg",
       "date": "2026-08-13",
       "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOEtHeXpFSUNKeXQ0OWo0ZGY2RG5wVGFOelBvbTd4ZkFtRDMwQTVURHVNcm9SSldIcFo0cVBQOVhvSktvUUlEVW5KT0xFT1V3S3RISlVMYTJydnh5bnlGMHdtN08zTXVwdHUzSVh0LUJtbVUzLU44RDZEajJrcGlCQnFoSU5YU1YwNDNGY0pwUUVaLUJCLS1VUFhBVlIyVlJnOWg4YmNQRi1FR1BtbktiUzJPT1RYX1o5X0dfUHNGNWRqdkU4SlpYbEJydXg5bmpMV01FQUVmR0RvZw?oc=5"
+    },
+    {
+      "name": "Data Center",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
+      "date": "2026-08-07",
+      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
     }
   ]
 }
