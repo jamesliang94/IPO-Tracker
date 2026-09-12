@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T02:32:41.863Z",
+  "updated": "2026-09-12T07:32:43.416Z",
   "summary": "",
   "companies": [
     {
@@ -250,7 +250,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 933thedrive.com",
+      "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 93.3 The Drive",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmFqUzQxMDMwUk1oT2kwZ1FfaGdVb0NLeTR4VV8tVUViSktyVEVQaXo2WWlkRmJXR0k1OWN6dGJGbTc1UWRtdUE1Vy1iWk8wSUNrT2xKbUlnYkhEd0lwWkVsY3MzVFJ0bmdqLWlHX1RFZUpXV2VvOEtKREhMc0tJbmFvRjdBeXVWZ3pTeGk4S2RsVk92bkN0TFpqblBwTklCNXhTam5yTVFXVnNQUkJaV256dnJsTlpfeE1sOXFB?oc=5"
     },
@@ -271,6 +271,15 @@
       "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
+    },
+    {
+      "name": "EXCLUSIVE Silver Lake",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - Reuters",
+      "date": "2026-09-10",
+      "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlhfdjkzd3dXZ3dqYVIxSW5HemVEb0EwdGUzWFBIUGJmWHpUN1dVWXBPeUJpQXh1SzJnQzhkbDJLSklhNlFZV1pZZFNPLXNMWVRXN0ZJeEF3eEw3ZnBDa0NHY3R3V1F2bTM0QU54TVFLMHZWdUo1WFNRMHg1NWJYbnFvMzlVODlndUhLcFR3X2c4WXNRdHRRbUowdEczWjl4Z0t0VDROWkl3TmdwdDNmNk1mRzlRWk9fbXc?oc=5"
     },
     {
       "name": "Gas",
@@ -754,7 +763,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - scmp.com",
+      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
     },
@@ -781,7 +790,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - Crunchbase News",
+      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - news.crunchbase.com",
       "date": "2026-09-02",
       "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa01EWG1UMndEZVgzUkhDUnZDVU1xWUs4TEZLU2xRV3AyczlVWXhqTFJhY0ItSXp0VVZndGRXaUxua1Q2NU9GWGVFbUk3X3dyTWgwMTFVTExQQW03X3lOQXBaYlpQOC1xa05IQXRzQjJkSFZFOFJfQnN2V0ExS1hWUEwwX2UwUQ?oc=5"
     },
@@ -790,7 +799,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Solar engineering firm CoVolt Power plans IPO to meet rising electricity demand - bizjournals.com",
+      "signal": "Solar engineering firm CoVolt Power plans IPO to meet rising electricity demand - The Business Journals",
       "date": "2026-08-27",
       "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnpSZUJ6RTlSdUFwVjZ2dF9JZ1A2TExyR3plZ2VxZmVWNld5eTRmV2NZSlNldnR6UlR6ekdVQTdPYlJtcm5PVUd4Q3k1aElTM2FIeWJfRWdqWnI2dnZZdmxBTTNhekcyWjFJMmNLMjM2SjlUR1hhOVU3S1FmMlY5UTBvdlpwaEZJaHZpT2ItMURuekdfQmxHeWZkTU00LUgwbGlKTjdB?oc=5"
     },
@@ -829,15 +838,6 @@
       "signal": "Nscale eyes $3B US IPO in AI data center listing rush - Dealroom",
       "date": "2026-08-22",
       "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFdnU2RwbE5WV1g2ajUwdXNOVDVRaFREcTROd1R3bXlYT1F3bExra0VFcThCZkRQdy03ck9iQmxsbF9mUFVkUndjaHpwekxVTWlfeVhFbmVWVUJ2M085SzhZOG9WZTJTNDhfQ19ZZGRHb3NTa196S29qMklVdkw1R0dCV0k3MmRLdWVxU0s4WQ?oc=5"
-    },
-    {
-      "name": "Anthropic Could Aim",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O. - The New York Times",
-      "date": "2026-08-21",
-      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUXg2WVgtendKTnJablIxTHFpMzE2Nm91VTR2enZZSk5wWld3Y2pFTGVWQjE2OVpPcTFyUTJRNFU1SkpMOS1ZajQwSDM5RV8tYlEybi1kUGVlWEZhV2pKdW9DYS1Pc1M5cGgzanlUVncyV192cXVxT2VHRFF4dVUyVkNn?oc=5"
     },
     {
       "name": "OpenAI",
