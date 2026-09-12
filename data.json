@@ -1,13 +1,22 @@
 {
-  "updated": "2026-09-12T19:59:00.219Z",
+  "updated": "2026-09-12T22:00:02.446Z",
   "summary": "",
   "companies": [
+    {
+      "name": "Day After",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - Yellow.com",
+      "date": "2026-09-12",
+      "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMHlnVThFVTZXYmF3eTM0OEVqR2ZSTTBuSUU1N1oxVmdsZnF1Q1VyNmNpMnFnZTEtM3ZKVWt4a1BuYVozbFhucDE5c3k2QkpXWVR5d0lBNVR1NTNFLXZyUFlxMEpZLV9kM1BxOFJNbHFwZFFPRk5sZVBWS0h5Tk9JaXlObXBsVGJaTWlBelRYSjFQOWYtemJPUWpQd090enJnRjBaeVZMek4tLThaQVR4R3BDdkhjUGxwb3YyOC1VdURJQQ?oc=5"
+    },
     {
       "name": "RUI Holdings Inc",
       "cik": "0002094989",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/2094989/000118518526003929/0001185185-26-003929-index.htm"
     },
@@ -42,8 +51,8 @@
       "name": "Cuprina Holdings (Cayman) LTD",
       "cik": "0001995704",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/1995704/000149315226042322/0001493152-26-042322-index.htm"
     },
@@ -277,7 +286,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - Reuters",
+      "signal": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - reuters.com",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlhfdjkzd3dXZ3dqYVIxSW5HemVEb0EwdGUzWFBIUGJmWHpUN1dVWXBPeUJpQXh1SzJnQzhkbDJLSklhNlFZV1pZZFNPLXNMWVRXN0ZJeEF3eEw3ZnBDa0NHY3R3V1F2bTM0QU54TVFLMHZWdUo1WFNRMHg1NWJYbnFvMzlVODlndUhLcFR3X2c4WXNRdHRRbUowdEczWjl4Z0t0VDROWkl3TmdwdDNmNk1mRzlRWk9fbXc?oc=5"
     },
@@ -565,7 +574,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - Fierce Biotech",
+      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - fiercebiotech.com",
       "date": "2026-09-06",
       "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
     },
@@ -655,18 +664,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say - Reuters",
+      "signal": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say - reuters.com",
       "date": "2026-09-04",
       "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp?oc=5"
-    },
-    {
-      "name": "Day After",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - yellow.com",
-      "date": "2026-09-04",
-      "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EV2ZMWFVyNXhUUnNuUHIweGhRa2NWbWo3WFlmV3d5cUpsX2dIdzZvTmpyT3ZjcWRzNG1LV1VoaDZzYjc3cFNrcFVTS1FfZk5yVzhnS2hWMzZvUGEyQ0lBRmtJalFZRm00a1ZPcWd4VnFXOEF3M3F0U1RNbw?oc=5"
     },
     {
       "name": "WeShop Holdings Ltd",
@@ -781,7 +781,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - news.crunchbase.com",
+      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - Crunchbase News",
       "date": "2026-09-02",
       "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa01EWG1UMndEZVgzUkhDUnZDVU1xWUs4TEZLU2xRV3AyczlVWXhqTFJhY0ItSXp0VVZndGRXaUxua1Q2NU9GWGVFbUk3X3dyTWgwMTFVTExQQW03X3lOQXBaYlpQOC1xa05IQXRzQjJkSFZFOFJfQnN2V0ExS1hWUEwwX2UwUQ?oc=5"
     },
@@ -799,7 +799,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
+      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
       "date": "2026-08-26",
       "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
     },
@@ -894,13 +894,13 @@
       "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOEtHeXpFSUNKeXQ0OWo0ZGY2RG5wVGFOelBvbTd4ZkFtRDMwQTVURHVNcm9SSldIcFo0cVBQOVhvSktvUUlEVW5KT0xFT1V3S3RISlVMYTJydnh5bnlGMHdtN08zTXVwdHUzSVh0LUJtbVUzLU44RDZEajJrcGlCQnFoSU5YU1YwNDNGY0pwUUVaLUJCLS1VUFhBVlIyVlJnOWg4YmNQRi1FR1BtbktiUzJPT1RYX1o5X0dfUHNGNWRqdkU4SlpYbEJydXg5bmpMV01FQUVmR0RvZw?oc=5"
     },
     {
-      "name": "Data Center",
+      "name": "Singapore-based",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Data Center Firm Switch to File Confidentially for IPO - bloomberg.com",
-      "date": "2026-08-07",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
+      "signal": "Singapore-based data firm DayOne ‘confidentially files’ for $6.4b IPO in US - The Straits Times",
+      "date": "2026-08-11",
+      "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTFsSEgydEdDRkRBQXZoT3UtbVdlbEVUNTRDRVZqbUZvRURIRnA3d29BeVNxVU5NT2lMa0p4TmtabjAyMW5DcFE2WG1obi1SUjh3R3JURy05VWF0YXc4MTBTc3B3U08yYnVyaDRaN1ZvVy1BYVVCVUFybWNraVRwRG5WVkhvYVIwUGdaWEFjODdTV3Y3WjM0aDA3dWljSFcwaHRSeHdCaU5mTEQ4RGhrdzBtanRuZ2xaY2dCcVhockNFR3FRR3c?oc=5"
     }
   ]
 }
