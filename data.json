@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-12T17:38:07.535Z",
+  "updated": "2026-09-12T19:59:00.219Z",
   "summary": "",
   "companies": [
     {
       "name": "RUI Holdings Inc",
       "cik": "0002094989",
       "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/2094989/000118518526003929/0001185185-26-003929-index.htm"
     },
@@ -42,8 +42,8 @@
       "name": "Cuprina Holdings (Cayman) LTD",
       "cik": "0001995704",
       "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/1995704/000149315226042322/0001493152-26-042322-index.htm"
     },
@@ -271,6 +271,15 @@
       "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
+    },
+    {
+      "name": "EXCLUSIVE Silver Lake",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - Reuters",
+      "date": "2026-09-10",
+      "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlhfdjkzd3dXZ3dqYVIxSW5HemVEb0EwdGUzWFBIUGJmWHpUN1dVWXBPeUJpQXh1SzJnQzhkbDJLSklhNlFZV1pZZFNPLXNMWVRXN0ZJeEF3eEw3ZnBDa0NHY3R3V1F2bTM0QU54TVFLMHZWdUo1WFNRMHg1NWJYbnFvMzlVODlndUhLcFR3X2c4WXNRdHRRbUowdEczWjl4Z0t0VDROWkl3TmdwdDNmNk1mRzlRWk9fbXc?oc=5"
     },
     {
       "name": "AIxCrypto Holdings, Inc.",
@@ -538,7 +547,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Kuku to build 1,000-member AI team ahead of Rs 3,500 Cr IPO - entrackr.com",
+      "signal": "Kuku to build 1,000-member AI team ahead of Rs 3,500 Cr IPO - Entrackr",
       "date": "2026-09-08",
       "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQV3ZFUjlnS2pUazROS2E0TjlKbi1SMkhiQlVLQmFwU0FlZHpoeEk5ekNUYUdQV1F3eHNIZlp0dFY5cjBtM1pVS3gwbUN3Tk95bHV6RWhiZmNETlhianBtSk5xQjNYY3RYY3BQRHNrdGFuZ2Z1WnNNOFFxMmJRa0hkbE55RUpaR3dhTHZJNU54NjAzenJURlRB0gGXAUFVX3lxTFBXdkVSOWdLalRrNE5LYTROOUpuLVIySGJCVUtCYXBTQWVkemh4STl6Q1RhR1BXUXd4c0hmWnR0VjlyMG0zWlVLeDBtQ3dOT3lsdXpFaGJmY0ROWGJqcG1KTnFCM1hjdFhjcFBEc2t0YW5nZnVac004UXEyYlFrSGRsTnlFSlpHd2FMdkk1Tng2MDN6clRGVEE?oc=5"
     },
@@ -655,7 +664,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - Yellow.com",
+      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - yellow.com",
       "date": "2026-09-04",
       "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EV2ZMWFVyNXhUUnNuUHIweGhRa2NWbWo3WFlmV3d5cUpsX2dIdzZvTmpyT3ZjcWRzNG1LV1VoaDZzYjc3cFNrcFVTS1FfZk5yVzhnS2hWMzZvUGEyQ0lBRmtJalFZRm00a1ZPcWd4VnFXOEF3M3F0U1RNbw?oc=5"
     },
@@ -772,7 +781,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - Crunchbase News",
+      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - news.crunchbase.com",
       "date": "2026-09-02",
       "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa01EWG1UMndEZVgzUkhDUnZDVU1xWUs4TEZLU2xRV3AyczlVWXhqTFJhY0ItSXp0VVZndGRXaUxua1Q2NU9GWGVFbUk3X3dyTWgwMTFVTExQQW03X3lOQXBaYlpQOC1xa05IQXRzQjJkSFZFOFJfQnN2V0ExS1hWUEwwX2UwUQ?oc=5"
     },
@@ -799,7 +808,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Aggreko NYSE IPO Reveals AI Data Centers at 19% of Sales; Oura Targets $16B Listing - techtimes.com",
+      "signal": "Aggreko NYSE IPO Reveals AI Data Centers at 19% of Sales; Oura Targets $16B Listing - Tech Times",
       "date": "2026-08-25",
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDlZdG1QM0Eydi1GZkFkbnlfZ3B1Q2V6X1pEYXdwOFYtMFltbXJlLUl2emVBY1R2NWhHbnJDTi1QcGFkcWloQzFfbjEwYzljdXJfN1NQWngzcnBjVkNiXzhGYXNPel9hUF9ZTUx1VU9IMmFyVzlfaGFYN1h3SDUzdzJkNGhKTVJNZ3dfMlNlZTBFeXk4ODlqUkhaclRIa1ZWRWV0RHJmdFBXeEJqcnR1Yi1OYXNkaVcydTBzZDB1enZoWkJtcDYxOA?oc=5"
     },
@@ -862,7 +871,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push - economictimes.com",
+      "signal": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push - The Economic Times",
       "date": "2026-08-13",
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVS1VZ3RBdkZfbHpzVmdTTmpSRFZTTVBQSmY2c2U5c1dPRDhnZWNTdk9Sd1N4S2JmT3llQTlUU3VxQ0hpTlUwblU3eEwzTzN5SUtxc1RiOFZtMWItUmF6SW9lak5EeTYxd3hhajYwSEJ6cXBXV1JtLUNPNUU3MklEaWxRbU5GRmJUcmtrZGVKejdxdGx0UlRoNUd2Z2ZtaVhCaXZqOFVpSkZFMTBkSzBvSk1WRG1iXzM1Y1NMLXlQYWhDRzZfbWdUWdIBzgFBVV95cUxQeWI0UnlGZHJoLW5KRHVNLU5ualhVNU9hcm8ya2V1Vkp3VEk3ZEpuLThfckd6MUdMUjBnUDU3di1GaDRhbXhFZUxTOWJhVUlVOFRoMlRBZklVeHhKb3dvLUd6eFJoUFpzdFVSWXIxc3hNV3F1dUZubHBSM1VteEhHN3U5MVdzNE9sNjZObkhFWWhVNDZxaER0eDlmRkhTdGdmTGFjalZIdnEtaDRmTTRwOEJDd2ZyQ3hPTU4yOFQtRHZtYy0xR243Z1JFMVp3Zw?oc=5"
     },
@@ -889,18 +898,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
+      "signal": "Data Center Firm Switch to File Confidentially for IPO - bloomberg.com",
       "date": "2026-08-07",
       "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
-    },
-    {
-      "name": "PSX",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Pakistan’s first fruit exporter plans PSX IPO worth Rs1.9b - Profit by Pakistan Today",
-      "date": "2026-08-05",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOLTV5eVBIR2hRYjhvX05TdDZ3MVVnT1FPMVhwVGxGTkJRRXAyRXNrelJhcF9uTVRaNnVaYUxWcXNWQzNoRktvYWktNlpMVkhybXl5WVRQTUk2M2ZSZ21ZdkxXdl9aSEtMYjN4RkxXRkJDaGN1ZzhhTTJGTGNNT3ZIUEpQWTJ3OExINkE0c2F2WUJaTHhNemdlZFVLU0R2OE1zMTMwLS1tcTFnUWN6bmU3LUN0Q2tHT3M?oc=5"
     }
   ]
 }
