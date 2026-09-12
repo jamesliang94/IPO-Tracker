@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T07:32:43.416Z",
+  "updated": "2026-09-12T11:52:14.534Z",
   "summary": "",
   "companies": [
     {
@@ -579,15 +579,6 @@
       "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
     },
     {
-      "name": "Moonshot",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say - Reuters",
-      "date": "2026-09-05",
-      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp?oc=5"
-    },
-    {
       "name": "ADARx Pharmaceuticals, Inc.",
       "cik": "0001802369",
       "status": "filed",
@@ -667,6 +658,15 @@
       "signal": "F-1 amended",
       "date": "2026-09-04",
       "source": "https://www.sec.gov/Archives/edgar/data/2113605/000121390026097374/0001213900-26-097374-index.htm"
+    },
+    {
+      "name": "Moonshot",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say - Reuters",
+      "date": "2026-09-04",
+      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp?oc=5"
     },
     {
       "name": "Day After",
@@ -772,7 +772,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Kraken Parent Company Payward Delays IPO - Yahoo Finance",
+      "signal": "Kraken Parent Company Payward Delays IPO - finance.yahoo.com",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQ0FxN1RwaHluMFBuQ0RSS3h5SmpkMUVVZFl6d3NHRl9yeFNkaWgyZU1qTjI5NVJ1Qmh2cjRpQXJIdksweHNWTUdValhMckIzNVBReTBYQTFxYkdZaGdNSnNNSktkMjdQMl9QLWUtTE1tMlYyMWRscjB2MS1ZbWZsQWxPOEpFVXBFTVBDd1hrS0JrclgzX29pSGtWRFYyLXp4MDZj?oc=5"
     },
@@ -790,7 +790,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - news.crunchbase.com",
+      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - Crunchbase News",
       "date": "2026-09-02",
       "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa01EWG1UMndEZVgzUkhDUnZDVU1xWUs4TEZLU2xRV3AyczlVWXhqTFJhY0ItSXp0VVZndGRXaUxua1Q2NU9GWGVFbUk3X3dyTWgwMTFVTExQQW03X3lOQXBaYlpQOC1xa05IQXRzQjJkSFZFOFJfQnN2V0ExS1hWUEwwX2UwUQ?oc=5"
     },
