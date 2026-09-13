@@ -1,16 +1,7 @@
 {
-  "updated": "2026-09-12T23:53:10.242Z",
+  "updated": "2026-09-13T02:31:43.791Z",
   "summary": "",
   "companies": [
-    {
-      "name": "OpenAI Altman",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "OpenAI’s Altman says no IPO in 2026, company will prioritize safety - The Seattle Times",
-      "date": "2026-09-12",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1lpNnhWTGo5RXcydGxUMktUTF9kSERzeUFwekNnYVJlVGREVzhOajItNExfRDJCSUIwajBnMnVDN1k5TlBhcmd0cWZVRHg1eE1DSmpkVU5iZGxuY21ST2o1UWVoRFFmVW1iUTdFaXhLYUU2VlNuOVF1ck94YkRXY0g0UC1jbGtUN0tRWnVDQk1xa1JZQlZ5NGZZRmJzWkp1SDZ4TjJINA?oc=5"
-    },
     {
       "name": "Day After",
       "cik": null,
@@ -268,18 +259,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 933thedrive.com",
+      "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 93.3 The Drive",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmFqUzQxMDMwUk1oT2kwZ1FfaGdVb0NLeTR4VV8tVUViSktyVEVQaXo2WWlkRmJXR0k1OWN6dGJGbTc1UWRtdUE1Vy1iWk8wSUNrT2xKbUlnYkhEd0lwWkVsY3MzVFJ0bmdqLWlHX1RFZUpXV2VvOEtKREhMc0tJbmFvRjdBeXVWZ3pTeGk4S2RsVk92bkN0TFpqblBwTklCNXhTam5yTVFXVnNQUkJaV256dnJsTlpfeE1sOXFB?oc=5"
-    },
-    {
-      "name": "Global Files Confidential",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Carlyle-backed Knack Global Files Confidential IPO Papers - Rediff MoneyWiz",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUl94eFU4RG4yOGFVeFlLdlFVOVc5VXl2SmVqWUhKLVJMRHBGaUZIcm44Y3dFeThjcWVSZ0tSamVnWEdFX1NMamJINVJ1MHlxQW9lX0NuMUppQXphVzJ5MkRnM3oyZVlLblQ3T2FWX0pKUXJWVm93bmU3VS11dDdyOGZKbnZDZFg4TUlaekp6NnlRajZYNGRHU0dJbHEwYVNDaHZDdDZrSVFKYWE2Z2fSAbMBQVVfeXFMUExSMmhOWTcxUVVCMnIwdm1XOEhBbnk1QVhVR2o0WDFrbEo4Ylo4QmZsT3ktS2R1MWxPMkdPVHRIdmJGWEVWUV9laVFscFhuazYxTElCeDU3NWd5alNLdTFDbVhxYUE0NEo1cU92bjBqZkR1amtTbnBZa1RqaGJsTmpreEJCMi1DNWRoOS1ZOEUtSkY0Njl0SnZPdkVTajhUMHZzbm1CcUJCV2lwOUpacHRjdjA?oc=5"
     },
     {
       "name": "Exclusive-Silver Lake Intel-backed",
@@ -817,7 +799,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Aggreko NYSE IPO Reveals AI Data Centers at 19% of Sales; Oura Targets $16B Listing - techtimes.com",
+      "signal": "Aggreko NYSE IPO Reveals AI Data Centers at 19% of Sales; Oura Targets $16B Listing - Tech Times",
       "date": "2026-08-25",
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDlZdG1QM0Eydi1GZkFkbnlfZ3B1Q2V6X1pEYXdwOFYtMFltbXJlLUl2emVBY1R2NWhHbnJDTi1QcGFkcWloQzFfbjEwYzljdXJfN1NQWngzcnBjVkNiXzhGYXNPel9hUF9ZTUx1VU9IMmFyVzlfaGFYN1h3SDUzdzJkNGhKTVJNZ3dfMlNlZTBFeXk4ODlqUkhaclRIa1ZWRWV0RHJmdFBXeEJqcnR1Yi1OYXNkaVcydTBzZDB1enZoWkJtcDYxOA?oc=5"
     },
@@ -901,6 +883,24 @@
       "signal": "Singapore-based data firm DayOne ‘confidentially files’ for $6.4b IPO in US - The Straits Times",
       "date": "2026-08-11",
       "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTFsSEgydEdDRkRBQXZoT3UtbVdlbEVUNTRDRVZqbUZvRURIRnA3d29BeVNxVU5NT2lMa0p4TmtabjAyMW5DcFE2WG1obi1SUjh3R3JURy05VWF0YXc4MTBTc3B3U08yYnVyaDRaN1ZvVy1BYVVCVUFybWNraVRwRG5WVkhvYVIwUGdaWEFjODdTV3Y3WjM0aDA3dWljSFcwaHRSeHdCaU5mTEQ4RGhrdzBtanRuZ2xaY2dCcVhockNFR3FRR3c?oc=5"
+    },
+    {
+      "name": "Data Center",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
+      "date": "2026-08-07",
+      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
+    },
+    {
+      "name": "Westinghouse",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Nuclear firm Westinghouse confidentially files for US IPO - The Spokesman-Review",
+      "date": "2026-07-31",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5"
     }
   ]
 }
