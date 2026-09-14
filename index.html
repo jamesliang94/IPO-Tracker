@@ -8,6 +8,8 @@
     .summary-label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin-bottom: 6px; }
     .card { border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 12px; }
     .name { font-weight: 600; font-size: 18px; }
+    a.name { display: block; color: inherit; text-decoration: none; }
+    a.name:hover { text-decoration: underline; color: #1e40af; }
     .meta { color: #666; font-size: 14px; margin-top: 4px; }
     .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 12px; }
     .filed { background: #dbeafe; color: #1e40af; }
@@ -37,7 +39,9 @@
           const card = document.createElement('div');
           card.className = 'card';
           card.innerHTML =
-            '<div class="name">' + company.name + '</div>' +
+            (company.source
+              ? '<a class="name" href="' + company.source + '" target="_blank" rel="noopener">' + company.name + '</a>'
+              : '<div class="name">' + company.name + '</div>') +
             '<span class="badge ' + company.status + '">' + company.status + '</span>' +
             '<div class="meta">' + company.signal + ' &middot; ' + company.date + ' &middot; confidence ' + company.confidence + '%</div>';
           list.appendChild(card);
