@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T11:25:52.217Z",
+  "updated": "2026-09-14T16:01:46.886Z",
   "summary": "",
   "companies": [
     {
@@ -21,13 +21,22 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526389755/0001193125-26-389755-index.htm"
     },
     {
+      "name": "Laser Photonics Corp",
+      "cik": "0001807887",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226042518/0001493152-26-042518-index.htm"
+    },
+    {
       "name": "OpenAI",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic, OpenAI IPO paths diverge as firms sound alarm bells for civilization - Wealth Professional",
-      "date": "2026-09-14",
-      "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONWFKT2NaX0tVNGRHUFV6eFd0dHZQVEZaTDdxVjYwY2h1bVhkd05XNFpqdmRCZGIzVmlzSlNRRExoeU5oWmJrYkhLQ2xtUGIyTjg5T19ialZYZ2E0ZUFLVW1IcE9Cb0QwR0txa2Qxd01KbjBqVUFlNmhkZzRZbVh6Sk1mYnNNdjJvSVZDQXh4VGdyMldyUW1yd1hWYkxKM294SlhFUjNDTHRvS1VQV0NFTTQwSlN5Q2pNMnFNdEhPY2pudV9RWDFkOVM4ek5OQ1AxVUFsVQ?oc=5"
+      "signal": "OpenAI's IPO Plans Delayed Due to AI Safety Issues - finway.com.ua",
+      "date": "2026-09-13",
+      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03cVF1ZnB1UkxQUjVxZHZfRkJXU0tocms3clRBX0tYUGdVdUxnMUw4c0pXSUExdXRESUdsT0o0bUxpVDU5X2xibUg4OGN2YkRPdmVpamhKdnVJVEVIWHpWLVc4OA?oc=5"
     },
     {
       "name": "October",
@@ -37,6 +46,15 @@
       "signal": "Anthropic said to choose Nasdaq for potential October IPO: report - The Business Times",
       "date": "2026-09-13",
       "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVE5ldjBIUlljdW1lUDN3ekxIT1pIaVNseFBiakhZQ1pqWWcwX3lPWVYybnFoV29SN3dDdW9GUXZqam1fNmRPZEZrTDZRQ3g2dWRSbGtqWnRPQ2w1S2Y5WkdrWTlDMEtleGpyY3RxX25ubmxDRVhLWnhBSzJJdkRGdzA0cWxWclR0aVo2MUFpTEtiR19jaVJiVUZVSVItRkgtaTBUYlN5SHVjcEVSWWVEYWxmMzJZNGNFOEVqSWxzYkU3NU43?oc=5"
+    },
+    {
+      "name": "OpenAI Altman",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "OpenAI’s Altman says no IPO in 2026, company will prioritize safety - seattletimes.com",
+      "date": "2026-09-12",
+      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1lpNnhWTGo5RXcydGxUMktUTF9kSERzeUFwekNnYVJlVGREVzhOajItNExfRDJCSUIwajBnMnVDN1k5TlBhcmd0cWZVRHg1eE1DSmpkVU5iZGxuY21ST2o1UWVoRFFmVW1iUTdFaXhLYUU2VlNuOVF1ck94YkRXY0g0UC1jbGtUN0tRWnVDQk1xa1JZQlZ5NGZZRmJzWkp1SDZ4TjJINA?oc=5"
     },
     {
       "name": "Day After",
@@ -304,7 +322,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - wtvbam.com",
+      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
     },
@@ -570,20 +588,11 @@
       "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNN1FCQjM0M1UzME9tSG1LT1RDaHhyb1BWSkJnc1ZvSkk5SFhfQ01XRTR3QWpLUVVaTk0tSFdqNUlBeHAyWW9CZE5tR3hWSk1JeEFwUFRlOFlmSEpfWjhzQUVCREtaY3c0MkZCbUhOSGZxLVoxTFI2UnZNSQ?oc=5"
     },
     {
-      "name": "Upcoming",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Upcoming IPOs 2026: 40+ Startups in the IPO Pipeline - accessipos.com",
-      "date": "2026-09-07",
-      "source": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1wa2owUkNTZG1zQk56MEsyUU5uZ2h5T19sNVgyOTZ4aVdYMWVrR0tmYWVQLWNicGIxaXc4R1E2TzB1YzlyVFdYaDljSy0tUQ?oc=5"
-    },
-    {
       "name": "AbbVie-backed ADARx",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - Fierce Biotech",
+      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - fiercebiotech.com",
       "date": "2026-09-06",
       "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
     },
@@ -795,20 +804,11 @@
       "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnpSZUJ6RTlSdUFwVjZ2dF9JZ1A2TExyR3plZ2VxZmVWNld5eTRmV2NZSlNldnR6UlR6ekdVQTdPYlJtcm5PVUd4Q3k1aElTM2FIeWJfRWdqWnI2dnZZdmxBTTNhekcyWjFJMmNLMjM2SjlUR1hhOVU3S1FmMlY5UTBvdlpwaEZJaHZpT2ItMURuekdfQmxHeWZkTU00LUgwbGlKTjdB?oc=5"
     },
     {
-      "name": "OpenAI Stock",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
-      "date": "2026-08-26",
-      "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
-    },
-    {
       "name": "Aggreko",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Aggreko NYSE IPO Reveals AI Data Centers at 19% of Sales; Oura Targets $16B Listing - Tech Times",
+      "signal": "Aggreko NYSE IPO Reveals AI Data Centers at 19% of Sales; Oura Targets $16B Listing - techtimes.com",
       "date": "2026-08-25",
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTDlZdG1QM0Eydi1GZkFkbnlfZ3B1Q2V6X1pEYXdwOFYtMFltbXJlLUl2emVBY1R2NWhHbnJDTi1QcGFkcWloQzFfbjEwYzljdXJfN1NQWngzcnBjVkNiXzhGYXNPel9hUF9ZTUx1VU9IMmFyVzlfaGFYN1h3SDUzdzJkNGhKTVJNZ3dfMlNlZTBFeXk4ODlqUkhaclRIa1ZWRWV0RHJmdFBXeEJqcnR1Yi1OYXNkaVcydTBzZDB1enZoWkJtcDYxOA?oc=5"
     },
@@ -817,7 +817,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - Athletech News",
+      "signal": "Smart Ring Maker Oura Seeks Up to $3B in IPO - athletechnews.com",
       "date": "2026-08-24",
       "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbm5WWU9uRUdGUWRsU3k0VU9jQnpMUFVVX2RleVR0NWdIUHB0MS1nLXllU3ZGcDQ0aHkyODQtczQtRGxZYWpoNm0xc1hzdnh1SlJTSXhReGhQMHg0UHA2RkQ0QUc3NGtKdFZFajJhMFczdGxSOEZqa09pUzZpZVBmTHNoSQ?oc=5"
     },
@@ -826,7 +826,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Nscale eyes $3B US IPO in AI data center listing rush - app.dealroom.co",
+      "signal": "Nscale eyes $3B US IPO in AI data center listing rush - Dealroom",
       "date": "2026-08-22",
       "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUFdnU2RwbE5WV1g2ajUwdXNOVDVRaFREcTROd1R3bXlYT1F3bExra0VFcThCZkRQdy03ck9iQmxsbF9mUFVkUndjaHpwekxVTWlfeVhFbmVWVUJ2M085SzhZOG9WZTJTNDhfQ19ZZGRHb3NTa196S29qMklVdkw1R0dCV0k3MmRLdWVxU0s4WQ?oc=5"
     },
@@ -844,7 +844,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push - economictimes.com",
+      "signal": "Yotta plans IPO of up to Rs 8,000 cr to fund AI infra push - The Economic Times",
       "date": "2026-08-13",
       "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQVS1VZ3RBdkZfbHpzVmdTTmpSRFZTTVBQSmY2c2U5c1dPRDhnZWNTdk9Sd1N4S2JmT3llQTlUU3VxQ0hpTlUwblU3eEwzTzN5SUtxc1RiOFZtMWItUmF6SW9lak5EeTYxd3hhajYwSEJ6cXBXV1JtLUNPNUU3MklEaWxRbU5GRmJUcmtrZGVKejdxdGx0UlRoNUd2Z2ZtaVhCaXZqOFVpSkZFMTBkSzBvSk1WRG1iXzM1Y1NMLXlQYWhDRzZfbWdUWdIBzgFBVV95cUxQeWI0UnlGZHJoLW5KRHVNLU5ualhVNU9hcm8ya2V1Vkp3VEk3ZEpuLThfckd6MUdMUjBnUDU3di1GaDRhbXhFZUxTOWJhVUlVOFRoMlRBZklVeHhKb3dvLUd6eFJoUFpzdFVSWXIxc3hNV3F1dUZubHBSM1VteEhHN3U5MVdzNE9sNjZObkhFWWhVNDZxaER0eDlmRkhTdGdmTGFjalZIdnEtaDRmTTRwOEJDd2ZyQ3hPTU4yOFQtRHZtYy0xR243Z1JFMVp3Zw?oc=5"
     },
@@ -867,6 +867,15 @@
       "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOEtHeXpFSUNKeXQ0OWo0ZGY2RG5wVGFOelBvbTd4ZkFtRDMwQTVURHVNcm9SSldIcFo0cVBQOVhvSktvUUlEVW5KT0xFT1V3S3RISlVMYTJydnh5bnlGMHdtN08zTXVwdHUzSVh0LUJtbVUzLU44RDZEajJrcGlCQnFoSU5YU1YwNDNGY0pwUUVaLUJCLS1VUFhBVlIyVlJnOWg4YmNQRi1FR1BtbktiUzJPT1RYX1o5X0dfUHNGNWRqdkU4SlpYbEJydXg5bmpMV01FQUVmR0RvZw?oc=5"
     },
     {
+      "name": "Billion",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Singapore-based Data Center Operator Is Said to Confidentially File for $5 Billion IPO in US - Bloomberg.com",
+      "date": "2026-08-11",
+      "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONGpDUDN3QVVyb05qT3c1ckoybzZvaVc0XzlQTW51Wm42ZmQ0eVJpczVVa01wc2p6eGtTbGNQR0JDTjJTcmt6eVlsMUlrT2hzcElLaGV0aE9KQzZYOVRPdmN0V0pYeVpENWltQmgxWHlpTHotQ1JfMTJxcjhqeTFJRVdRbTBTYkp4SXAwUnEwajZkQ2t1ZEQwZEg3dWg0eTBkVm1YRWF4SUF6Q3VVOVdiVkZHUGZHQnpfVVY0?oc=5"
+    },
+    {
       "name": "Singapore-based",
       "cik": null,
       "status": "rumored",
@@ -885,22 +894,13 @@
       "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
     },
     {
-      "name": "Westinghouse",
+      "name": "Upcoming",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Nuclear firm Westinghouse confidentially files for US IPO - The Spokesman-Review",
-      "date": "2026-07-31",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5"
-    },
-    {
-      "name": "Westinghouse Electric Files",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Westinghouse Electric Files Confidentially for IPO - WSJ",
-      "date": "2026-07-31",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
+      "signal": "Upcoming IPOs to Watch in 2026: Dates, Valuations &amp; How to Trade - ThinkMarkets",
+      "date": "2026-08-04",
+      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVVFiaTdrNURUTlAtUlBTWHdVOFdhSFJNbHdyNmtrQjZXUXd1MkswSXV4bHZERTRwVWthQW9tOS1RVFJFcEJxYWZ3RzRacVRzUDRLU0txMGJrZGhORkdReFpGSlFVX3pkYVpvdE1TTXpQcGJ3Sngtb3BOOVVlYUM4VUF3?oc=5"
     }
   ]
 }
