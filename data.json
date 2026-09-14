@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T00:34:38.070Z",
+  "updated": "2026-09-14T05:37:14.260Z",
   "summary": "",
   "companies": [
     {
@@ -7,18 +7,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic said to choose Nasdaq for potential October IPO: report - The Business Times",
+      "signal": "Anthropic said to choose Nasdaq for potential October IPO: report - businesstimes.com.sg",
       "date": "2026-09-13",
       "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVE5ldjBIUlljdW1lUDN3ekxIT1pIaVNseFBiakhZQ1pqWWcwX3lPWVYybnFoV29SN3dDdW9GUXZqam1fNmRPZEZrTDZRQ3g2dWRSbGtqWnRPQ2w1S2Y5WkdrWTlDMEtleGpyY3RxX25ubmxDRVhLWnhBSzJJdkRGdzA0cWxWclR0aVo2MUFpTEtiR19jaVJiVUZVSVItRkgtaTBUYlN5SHVjcEVSWWVEYWxmMzJZNGNFOEVqSWxzYkU3NU43?oc=5"
-    },
-    {
-      "name": "OpenAI Altman",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "OpenAI’s Altman says no IPO in 2026, company will prioritize safety - The Seattle Times",
-      "date": "2026-09-12",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd1lpNnhWTGo5RXcydGxUMktUTF9kSERzeUFwekNnYVJlVGREVzhOajItNExfRDJCSUIwajBnMnVDN1k5TlBhcmd0cWZVRHg1eE1DSmpkVU5iZGxuY21ST2o1UWVoRFFmVW1iUTdFaXhLYUU2VlNuOVF1ck94YkRXY0g0UC1jbGtUN0tRWnVDQk1xa1JZQlZ5NGZZRmJzWkp1SDZ4TjJINA?oc=5"
     },
     {
       "name": "Day After",
@@ -268,7 +259,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Brooks Automation Files Confidentially for IPO - wsj.com",
+      "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
     },
@@ -543,15 +534,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000061/0001637459-26-000061-index.htm"
     },
     {
-      "name": "Anthropic Targets",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Anthropic Targets $2 Trillion Valuation in IPO - thelec.net",
-      "date": "2026-09-08",
-      "source": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE93bFNZMkUwVTVITnZkSndUV2lUZnZWbXRwY0FrTkFDMkRRR19lTzBEWWg3V01KYjd4Tld0UjJ4bnFLbnFIOXIyTnE2V2szV2RHOHB2U0p1a3cyOFJldDlBM2o3WmFlNzA?oc=5"
-    },
-    {
       "name": "Upcoming",
       "cik": null,
       "status": "rumored",
@@ -664,7 +646,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - wsj.com",
+      "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - WSJ",
       "date": "2026-09-04",
       "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MyYnEzbkZYd19tMEFCczNsNGdlTmptMjdNM3VDV1lvUTRBOFQ3NHBtcW02VEdiRV9NZ2tvVllya3BaWS1HS2tGNFllSThRakFobXJLM2tGcWl3WEl0dnNMX0NzWmlUWmxTMnoxXzNGQVlQNDE4RTEwV2c1Mk1GSGZybjlnb2tWUDlHVlU5ZG1JRFBm?oc=5"
     },
@@ -750,6 +732,15 @@
       "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
     },
     {
+      "name": "Kraken",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest - CoinDesk",
+      "date": "2026-09-02",
+      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRmFlOWtTMmNZRzRmX3hCTm0xNkM5NlZScUUyNkhFTmdwRFZIN1ZUV2NDWGR5WlBiTHM2VDFaWjgxb09yZmMzbWhKTWNnWEhxdmlVUERseXhCdmk2aGdHMFR4WVlqVk5BTTRZcTJTN0hrODdDcXhMUWQwZkRTendSQkg3NzhaMUZXRkVfSUFJY0NtUTJLM1ZUSlRha1JMaC1LbTFJaGxJclB2Zw?oc=5"
+    },
+    {
       "name": "Window Is Closing.",
       "cik": null,
       "status": "rumored",
@@ -772,7 +763,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset",
+      "signal": "OpenAI Stock IPO: Expected Valuation, Timeline and Investment Options - SmartAsset.com",
       "date": "2026-08-26",
       "source": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE15OEdhUlNaM0Z5cjB2VFdVbU5kYlU1VXNKcGF6YXpBbVZvTEhSTnFNbWo1LUZPdkxmbG1FcGJSRTI0bkgwTWxLNERtVFQ2S1lvaXpqaC03RWVoa1FJN1E?oc=5"
     },
@@ -826,7 +817,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Vantage explores $100B IPO as four data center operators line up listings - SiliconANGLE",
+      "signal": "Vantage explores $100B IPO as four data center operators line up listings - siliconangle.com",
       "date": "2026-08-13",
       "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjR0aDZtNENWVGdOb3R6YzhUbXNWVE5yWm9CQld3dG4xVERsMXV4akFxMWtkV0hMdjEtX0RodGgxWWN5aktiWnprTjYzTHJLQmloMk5DVk9ua1F0VFVuMHNxSV8zQ0lmekNYNVVzZmR6aUlMTlZYNTVPYjRZblRqdVlKTmg2dlZGTjQ4QXJiTkxMcDltVUpvemU1bjNXSndGVWN4Zi13?oc=5"
     },
@@ -844,7 +835,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Singapore-based data firm DayOne ‘confidentially files’ for $6.4b IPO in US - straitstimes.com",
+      "signal": "Singapore-based data firm DayOne ‘confidentially files’ for $6.4b IPO in US - The Straits Times",
       "date": "2026-08-11",
       "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTFsSEgydEdDRkRBQXZoT3UtbVdlbEVUNTRDRVZqbUZvRURIRnA3d29BeVNxVU5NT2lMa0p4TmtabjAyMW5DcFE2WG1obi1SUjh3R3JURy05VWF0YXc4MTBTc3B3U08yYnVyaDRaN1ZvVy1BYVVCVUFybWNraVRwRG5WVkhvYVIwUGdaWEFjODdTV3Y3WjM0aDA3dWljSFcwaHRSeHdCaU5mTEQ4RGhrdzBtanRuZ2xaY2dCcVhockNFR3FRR3c?oc=5"
     },
@@ -853,7 +844,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Data Center Firm Switch to File Confidentially for IPO - bloomberg.com",
+      "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
       "date": "2026-08-07",
       "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5"
     },
@@ -871,7 +862,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Westinghouse Electric Files Confidentially for IPO - wsj.com",
+      "signal": "Westinghouse Electric Files Confidentially for IPO - WSJ",
       "date": "2026-07-31",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
     },
@@ -901,6 +892,15 @@
       "signal": "Xiaohongshu's Hong Kong IPO plans face scrutiny after complaint about corporate structure - Reuters",
       "date": "2026-07-28",
       "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMHpfZ2szTV9KckEyMXpqZDJzTUdBNXJaUVVQZWlpc1p5T3k1Tnh1VHFoTkdZSkhYSzFsdkNCcHdRSXg4ZUkwYXB5UElDNG9iQ3RyLV96ZTB0ZXBZbkVXTDgzb3kxN2I3cGtndjU3RS15LUplU0Roa3BySG13d1ZYbXBmcEdxNXNNQTVtSlhyU0l4dEZ5akU5NXlzbFZXZmJtZ3pTZTVIWTNmLWtpMUNzYzhyeGQwN2VndlNfbWQzTW54ZmtoTUxlUmUzdEM4dw?oc=5"
+    },
+    {
+      "name": "GrubMarket Files Confidentially",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "GrubMarket Files Confidentially for US IPO After Reaching $4.5 Billion Valuation - finance.biggo.com",
+      "date": "2026-07-28",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9vcG1EUERWUFdNVGlsT215Yjh0VnhBSUFyYjZtNmtLcjc5Yy1pdGNyQ1pyc2E5Qng2enhYQWdtb2lNUTNGWDNKdnFlNjhrZm8yc3NjUldJcmR2YV9YUnVmUmlSb3d0bUplMWV0QmVJY2kzM0lIT0E?oc=5"
     }
   ]
 }
