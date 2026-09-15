@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T15:23:34.512Z",
+  "updated": "2026-09-15T19:25:17.733Z",
   "summary": "",
   "companies": [
     {
@@ -15,8 +15,8 @@
       "name": "Amaero Inc.",
       "cik": "0002141616",
       "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
       "date": "2026-09-15",
       "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526391284/0001193125-26-391284-index.htm"
     },
@@ -46,6 +46,60 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-15",
       "source": "https://www.sec.gov/Archives/edgar/data/732026/000143774926030403/0001437749-26-030403-index.htm"
+    },
+    {
+      "name": "FDCTECH, INC.",
+      "cik": "0001722731",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1722731/000149315226042707/0001493152-26-042707-index.htm"
+    },
+    {
+      "name": "EvoNexus Group LTD",
+      "cik": "0002075036",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2075036/000118518526004022/0001185185-26-004022-index.htm"
+    },
+    {
+      "name": "Law&#39;s Business Group Holding Ltd",
+      "cik": "0002075589",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2075589/000121390026099995/0001213900-26-099995-index.htm"
+    },
+    {
+      "name": "GLAXOSMITHKLINE CAPITAL INC",
+      "cik": "0001224462",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1224462/000119312526391619/0001193125-26-391619-index.htm"
+    },
+    {
+      "name": "GSK plc",
+      "cik": "0001131399",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1131399/000119312526391619/0001193125-26-391619-index.htm"
+    },
+    {
+      "name": "SANTANDER UK GROUP HOLDINGS PLC",
+      "cik": "0001649373",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1649373/000110465926107804/0001104659-26-107804-index.htm"
     },
     {
       "name": "Bamboo Insurance Services, Inc.",
@@ -249,8 +303,8 @@
       "name": "KiNRG, Inc.",
       "cik": "0000095572",
       "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
       "date": "2026-09-14",
       "source": "https://www.sec.gov/Archives/edgar/data/95572/000121390026099804/0001213900-26-099804-index.htm"
     },
@@ -847,60 +901,6 @@
       "signal": "F-1 amended",
       "date": "2026-09-08",
       "source": "https://www.sec.gov/Archives/edgar/data/1796514/000121390026098075/0001213900-26-098075-index.htm"
-    },
-    {
-      "name": "SIYATA PTT",
-      "cik": "0002110025",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/2110025/000121390026097968/0001213900-26-097968-index.htm"
-    },
-    {
-      "name": "Prenetics Global Ltd",
-      "cik": "0001876431",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026060821/0001628280-26-060821-index.htm"
-    },
-    {
-      "name": "Kraft Heinz Co",
-      "cik": "0001637459",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/1637459/000163745926000061/0001637459-26-000061-index.htm"
-    },
-    {
-      "name": "AbbVie-backed ADARx",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - Fierce Biotech",
-      "date": "2026-09-06",
-      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
-    },
-    {
-      "name": "SB Energy, Inc.",
-      "cik": "0002133037",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-04",
-      "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026060761/0001628280-26-060761-index.htm"
-    },
-    {
-      "name": "Game Your Game Inc.",
-      "cik": "0002111846",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-04",
-      "source": "https://www.sec.gov/Archives/edgar/data/2111846/000121390026097734/0001213900-26-097734-index.htm"
     }
   ]
 }
