@@ -176,6 +176,49 @@ async function fetchNews() {
   console.log('OK news: ' + unique.length + ' rumors from ' + results.length + ' headlines');
   return unique;
 }
+async function extractNamesWithGemini(headlines) {
+  const key = process.env.GEMINI_API_KEY;
+  if (!key) {
+    console.log('No GEMINI_API_KEY set, skipping AI extraction');
+    return null;
+  }
+
+  const prompt = 'For each numbered headline below, identify the company that is going public '
+    + 'or planning an IPO. Ignore exchanges (Nasdaq, NYSE), months, countries, and publication names. '
+    + 'If no specific company is going public, use null.\n\n'
+    + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe"},{"i":1,"company":null}] '
+    + 'with no other text and no markdown fences.\n\n'
+    + headlines.map((h, i) => i + ': ' + h).join('\n');
+
+  const url = 'https://generativelanguage.googleapis.com/v1beta/models/'
+    + 'gemini-2.0-flash:generateContent?key=' + key;
+
+  try {
+    const response = await fetch(url, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        contents: [{ parts: [{ text: prompt }] }],
+        generationConfig: { temperature: 0, maxOutputTokens: 4000 }
+      })
+    });
+
+    if (!response.ok) {
+      console.log('GEMINI FAILED: HTTP ' + response.status);
+      return null;
+    }
+
+    const data = await response.json();
+    const text = data.candidates[0].content.parts[0].text;
+    const cleaned = text.replace(/```json/g, '').replace(/```/g, '').trim();
+    const parsed = JSON.parse(cleaned);
+    console.log('OK gemini: parsed ' + parsed.length + ' headlines');
+    return parsed;
+  } catch (error) {
+    console.log('GEMINI ERROR: ' + error.message);
+    return null;
+  }
+}
 async function main() {
   const existing = JSON.parse(fs.readFileSync('data.json', 'utf8'));
   const byKey = {};
