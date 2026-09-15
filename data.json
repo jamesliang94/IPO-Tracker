@@ -1,7 +1,16 @@
 {
-  "updated": "2026-09-15T05:39:17.254Z",
+  "updated": "2026-09-15T10:48:53.811Z",
   "summary": "",
   "companies": [
+    {
+      "name": "Syngenta",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Syngenta files for Hong Kong IPO, aiming to raise at least $5 billion, sources say - CNA",
+      "date": "2026-09-15",
+      "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN0t2aHlrcHhNNTJoT25CYXE4VmxHdGZQX3pYTnBvVUtKODVNV0lZRDJQZEJOdVN5c3NMUWc4dEdoWFl3MXBzTEM3bEVDd3IwMndBVkZ5MExaSk9nRDNqOWhianJMc3gzYVo2b0JqdFFJbWxqYXZ0LXF6NktfNmhWUXZUdnZXenE1ZTNKc290UDhYdVEzM2lNdDBiaG1oTWlxZmY0U09oTDRVbU9XWnNFQ0hRQmpvOWZISVE?oc=5"
+    },
     {
       "name": "Bamboo Insurance Services, Inc.",
       "cik": "0002125355",
@@ -78,8 +87,8 @@
       "name": "CCH Holdings Ltd",
       "cik": "0002074123",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-14",
       "source": "https://www.sec.gov/Archives/edgar/data/2074123/000121390026099644/0001213900-26-099644-index.htm"
     },
@@ -183,6 +192,96 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2152813/000110465926107563/0001104659-26-107563-index.htm"
     },
     {
+      "name": "Hyperliquid Strategies Inc",
+      "cik": "0002078856",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/2078856/000119312526391097/0001193125-26-391097-index.htm"
+    },
+    {
+      "name": "Creatd, Inc.",
+      "cik": "0001357671",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1357671/000121390026099866/0001213900-26-099866-index.htm"
+    },
+    {
+      "name": "KiNRG, Inc.",
+      "cik": "0000095572",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/95572/000121390026099804/0001213900-26-099804-index.htm"
+    },
+    {
+      "name": "MP Agregador, S. de R.L. de C.V.",
+      "cik": "0001876711",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1876711/000114036126036517/0001140361-26-036517-index.htm"
+    },
+    {
+      "name": "Mercado Livre Brasil Ltda.",
+      "cik": "0001833442",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1833442/000114036126036517/0001140361-26-036517-index.htm"
+    },
+    {
+      "name": "MercadoLibre Colombia Ltda.",
+      "cik": "0001833425",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1833425/000114036126036517/0001140361-26-036517-index.htm"
+    },
+    {
+      "name": "MercadoLibre S.R.L.",
+      "cik": "0001833424",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1833424/000114036126036517/0001140361-26-036517-index.htm"
+    },
+    {
+      "name": "DeRemate.com of Mexico, S. de R.L. de C.V.",
+      "cik": "0001833420",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1833420/000114036126036517/0001140361-26-036517-index.htm"
+    },
+    {
+      "name": "MercadoLibre Chile Ltda.",
+      "cik": "0001833418",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1833418/000114036126036517/0001140361-26-036517-index.htm"
+    },
+    {
+      "name": "MERCADOLIBRE INC",
+      "cik": "0001099590",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1099590/000114036126036517/0001140361-26-036517-index.htm"
+    },
+    {
       "name": "OpenAI",
       "cik": null,
       "status": "rumored",
@@ -196,7 +295,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic said to choose Nasdaq for potential October IPO: report - The Business Times",
+      "signal": "Anthropic said to choose Nasdaq for potential October IPO: report - businesstimes.com.sg",
       "date": "2026-09-13",
       "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVE5ldjBIUlljdW1lUDN3ekxIT1pIaVNseFBiakhZQ1pqWWcwX3lPWVYybnFoV29SN3dDdW9GUXZqam1fNmRPZEZrTDZRQ3g2dWRSbGtqWnRPQ2w1S2Y5WkdrWTlDMEtleGpyY3RxX25ubmxDRVhLWnhBSzJJdkRGdzA0cWxWclR0aVo2MUFpTEtiR19jaVJiVUZVSVItRkgtaTBUYlN5SHVjcEVSWWVEYWxmMzJZNGNFOEVqSWxzYkU3NU43?oc=5"
     },
@@ -460,6 +559,15 @@
       "signal": "Chinese AI firm Moonshot to explore dual Hong Kong and Shanghai IPOs, SCMP reports - 93.3 The Drive",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQmFqUzQxMDMwUk1oT2kwZ1FfaGdVb0NLeTR4VV8tVUViSktyVEVQaXo2WWlkRmJXR0k1OWN6dGJGbTc1UWRtdUE1Vy1iWk8wSUNrT2xKbUlnYkhEd0lwWkVsY3MzVFJ0bmdqLWlHX1RFZUpXV2VvOEtKREhMc0tJbmFvRjdBeXVWZ3pTeGk4S2RsVk92bkN0TFpqblBwTklCNXhTam5yTVFXVnNQUkJaV256dnJsTlpfeE1sOXFB?oc=5"
+    },
+    {
+      "name": "Global Files Confidential",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Carlyle-backed Knack Global Files Confidential IPO Papers - Rediff MoneyWiz",
+      "date": "2026-09-10",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUl94eFU4RG4yOGFVeFlLdlFVOVc5VXl2SmVqWUhKLVJMRHBGaUZIcm44Y3dFeThjcWVSZ0tSamVnWEdFX1NMamJINVJ1MHlxQW9lX0NuMUppQXphVzJ5MkRnM3oyZVlLblQ3T2FWX0pKUXJWVm93bmU3VS11dDdyOGZKbnZDZFg4TUlaekp6NnlRajZYNGRHU0dJbHEwYVNDaHZDdDZrSVFKYWE2Z2fSAbMBQVVfeXFMUExSMmhOWTcxUVVCMnIwdm1XOEhBbnk1QVhVR2o0WDFrbEo4Ylo4QmZsT3ktS2R1MWxPMkdPVHRIdmJGWEVWUV9laVFscFhuazYxTElCeDU3NWd5alNLdTFDbVhxYUE0NEo1cU92bjBqZkR1amtTbnBZa1RqaGJsTmpreEJCMi1DNWRoOS1ZOEUtSkY0Njl0SnZPdkVTajhUMHZzbm1CcUJCV2lwOUpacHRjdjA?oc=5"
     },
     {
       "name": "Exclusive-Silver Lake Intel-backed",
@@ -793,114 +901,6 @@
       "signal": "F-1 amended",
       "date": "2026-09-04",
       "source": "https://www.sec.gov/Archives/edgar/data/2099952/000149315226041482/0001493152-26-041482-index.htm"
-    },
-    {
-      "name": "Chilwa Minerals Ltd",
-      "cik": "0002113605",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-04",
-      "source": "https://www.sec.gov/Archives/edgar/data/2113605/000121390026097374/0001213900-26-097374-index.htm"
-    },
-    {
-      "name": "Moonshot",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Chinese AI firm Moonshot files confidentially for Hong Kong IPO, sources say - Reuters",
-      "date": "2026-09-04",
-      "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNT3M0Q2ZhaUlPQkc5bzU5MUEyMlpEaFFMVU5uakRWOEJkek85Z2ZsVWxjc0JnR3NrTFdXOGRIdDRQWmhobmhCZU9iVE9sakxTTVE0ejBhRnAyX1BaM0huMlVvZEJHREh6YzRQMzRLaXZRU2xtRld0THVvODFwTmJwa3BhOU9TQ1ZoQ2UxMldKVzlwcThoWTlEcVctbjhuZ2FqQVc4UTZwejhYeGtvWXJCdTBMaHVnSTVFbDVZSG1nVXYwOEtp?oc=5"
-    },
-    {
-      "name": "WeShop Holdings Ltd",
-      "cik": "0002048271",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-09-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/2048271/000149315226041390/0001493152-26-041390-index.htm"
-    },
-    {
-      "name": "Lianhe Sowell International Group Ltd",
-      "cik": "0002004024",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-09-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/2004024/000121390026096975/0001213900-26-096975-index.htm"
-    },
-    {
-      "name": "Aptevo Therapeutics Inc.",
-      "cik": "0001671584",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-09-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526381149/0001193125-26-381149-index.htm"
-    },
-    {
-      "name": "Reliance Global Group, Inc.",
-      "cik": "0001812727",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/1812727/000149315226041373/0001493152-26-041373-index.htm"
-    },
-    {
-      "name": "Xtend AI Robotics, Inc.",
-      "cik": "0002111860",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/2111860/000119312526381865/0001193125-26-381865-index.htm"
-    },
-    {
-      "name": "DeFi Development Corp.",
-      "cik": "0001805526",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/1805526/000180552626000094/0001805526-26-000094-index.htm"
-    },
-    {
-      "name": "BANCO BILBAO VIZCAYA ARGENTARIA, S.A.",
-      "cik": "0000842180",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/842180/000110465926104989/0001104659-26-104989-index.htm"
-    },
-    {
-      "name": "Data Services",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Yotta Data Services Plans IPO, Pre-IPO Funding for AI Infrastructure Push - ET Datacenters",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPUTVuUUVGbm9TeUp4LW1ZbEhKRnZKZW92cU5qbk5MVFJuMGRrUll0RkhHR191M2pDSnNHb0hwQ1NENnZRUHlmNlQxX3B5MmpqckZHb2pKY2FpZUtmd0tfUnRKd2NGRmY1VVpiSGJBc2kyX3lOd1FFQlpTc1QtV18tdjNYTVYybWQxN0VheF9kS2M0c3haQzY5RG93ZGktemxxQ1Z4ZXBMNmFDUS11LVFWZHRPZGxYNUMzMEd5Z0hmSjlqQ3pBb2o2YkpEdTRPYnpzY1RmMEFfVmJBZWVFWXo3elUzLUxHNWpv0gHuAUFVX3lxTE5yTTRrOE9qcUtoeVRDQkhCeVBOMG1sVW5CdWM5S2hCRlFFYUpSSlJmVTN2S2NGREc2OEdIcUlXMTIyaTRtT25YMTB1OEZLTGFUdTZ5TkplY1FzaTBwZUdOckdFVEZ0TDk0ZE1aTV9PdWpoRi1rbjNKeVNtX3lYRU05U0d5dW9LWE1HS1RINEswTjdTQkozYTdpZmQtaDBnWjE2d3VwbXR4dTNwUGU3OFhRSWFqZ1JaYnE5LU9SQkNmUDlnNlBmUlZ6R3RqZXU3d3poUzc5ZWFkbDdCSnZUN1RMYzJIQ2V1elVfMUNOc1E?oc=5"
-    },
-    {
-      "name": "Filed Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - WSJ",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MyYnEzbkZYd19tMEFCczNsNGdlTmptMjdNM3VDV1lvUTRBOFQ3NHBtcW02VEdiRV9NZ2tvVllya3BaWS1HS2tGNFllSThRakFobXJLM2tGcWl3WEl0dnNMX0NzWmlUWmxTMnoxXzNGQVlQNDE4RTEwV2c1Mk1GSGZybjlnb2tWUDlHVlU5ZG1JRFBm?oc=5"
-    },
-    {
-      "name": "Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
     }
   ]
 }
