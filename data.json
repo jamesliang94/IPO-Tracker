@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-15T19:25:17.733Z",
+  "updated": "2026-09-15T22:37:13.120Z",
   "summary": "",
   "companies": [
     {
@@ -15,8 +15,8 @@
       "name": "Amaero Inc.",
       "cik": "0002141616",
       "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
+      "confidence": 92,
+      "signal": "S-1 amended",
       "date": "2026-09-15",
       "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526391284/0001193125-26-391284-index.htm"
     },
@@ -100,6 +100,69 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-15",
       "source": "https://www.sec.gov/Archives/edgar/data/1649373/000110465926107804/0001104659-26-107804-index.htm"
+    },
+    {
+      "name": "Change Agents Corporation.",
+      "cik": "0001630212",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1630212/000121390026100214/0001213900-26-100214-index.htm"
+    },
+    {
+      "name": "Bitari Inc",
+      "cik": "0002091680",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526004027/0001185185-26-004027-index.htm"
+    },
+    {
+      "name": "SIYATA PTT",
+      "cik": "0002110025",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2110025/000121390026100115/0001213900-26-100115-index.htm"
+    },
+    {
+      "name": "Yi Feng Holdings Ltd.",
+      "cik": "0002084038",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2084038/000121390026100091/0001213900-26-100091-index.htm"
+    },
+    {
+      "name": "Uber Technologies, Inc",
+      "cik": "0001543151",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1543151/000155278126000487/0001552781-26-000487-index.htm"
+    },
+    {
+      "name": "Orion180 Insurance Group Inc.",
+      "cik": "0002124472",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2124472/000162828026062084/0001628280-26-062084-index.htm"
+    },
+    {
+      "name": "Syngenta",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Syngenta files for Hong Kong IPO, aiming to raise at least $5 billion, sources say - Reuters",
+      "date": "2026-09-15",
+      "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXluWEpvOWJoTzMyMVVhWmZOS2ZfT1owOUZnLThYaHRvb2NfSEMtLTJkZVhxNlowaDNWWE4xTlhIazlSc0NaNFBWajE4UXhYeHJnb3VUYWcwVl9tbmFlOWljdG9kdUtFMzEzdTdULVA3RHc5eEJ5ZDE1SGV4eExEWmY0VWlEWHVCS2stOENaTk1LTHZFcTRiY0w4YS1VZkU4aUlWVzd1bGJYZ2p0TE02cC1lcFN5b3BjQUFwT0Y2LWl5UGpfM2V0dWVVazlCdTA?oc=5"
     },
     {
       "name": "Bamboo Insurance Services, Inc.",
@@ -303,8 +366,8 @@
       "name": "KiNRG, Inc.",
       "cik": "0000095572",
       "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
+      "confidence": 92,
+      "signal": "S-1 amended",
       "date": "2026-09-14",
       "source": "https://www.sec.gov/Archives/edgar/data/95572/000121390026099804/0001213900-26-099804-index.htm"
     },
@@ -646,7 +709,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Brooks Automation Files Confidentially for IPO - wsj.com",
+      "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
     },
@@ -669,15 +732,6 @@
       "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUl94eFU4RG4yOGFVeFlLdlFVOVc5VXl2SmVqWUhKLVJMRHBGaUZIcm44Y3dFeThjcWVSZ0tSamVnWEdFX1NMamJINVJ1MHlxQW9lX0NuMUppQXphVzJ5MkRnM3oyZVlLblQ3T2FWX0pKUXJWVm93bmU3VS11dDdyOGZKbnZDZFg4TUlaekp6NnlRajZYNGRHU0dJbHEwYVNDaHZDdDZrSVFKYWE2Z2fSAbMBQVVfeXFMUExSMmhOWTcxUVVCMnIwdm1XOEhBbnk1QVhVR2o0WDFrbEo4Ylo4QmZsT3ktS2R1MWxPMkdPVHRIdmJGWEVWUV9laVFscFhuazYxTElCeDU3NWd5alNLdTFDbVhxYUE0NEo1cU92bjBqZkR1amtTbnBZa1RqaGJsTmpreEJCMi1DNWRoOS1ZOEUtSkY0Njl0SnZPdkVTajhUMHZzbm1CcUJCV2lwOUpacHRjdjA?oc=5"
     },
     {
-      "name": "Exclusive-Silver Lake Intel-backed",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
-    },
-    {
       "name": "EXCLUSIVE Silver Lake",
       "cik": null,
       "status": "rumored",
@@ -685,6 +739,15 @@
       "signal": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - Reuters",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlhfdjkzd3dXZ3dqYVIxSW5HemVEb0EwdGUzWFBIUGJmWHpUN1dVWXBPeUJpQXh1SzJnQzhkbDJLSklhNlFZV1pZZFNPLXNMWVRXN0ZJeEF3eEw3ZnBDa0NHY3R3V1F2bTM0QU54TVFLMHZWdUo1WFNRMHg1NWJYbnFvMzlVODlndUhLcFR3X2c4WXNRdHRRbUowdEczWjl4Z0t0VDROWkl3TmdwdDNmNk1mRzlRWk9fbXc?oc=5"
+    },
+    {
+      "name": "Exclusive-Silver Lake Intel-backed",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
+      "date": "2026-09-10",
+      "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
     },
     {
       "name": "AIxCrypto Holdings, Inc.",
@@ -838,69 +901,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-08",
       "source": "https://www.sec.gov/Archives/edgar/data/1736243/000110465926105917/0001104659-26-105917-index.htm"
-    },
-    {
-      "name": "Rothe Development, Inc.",
-      "cik": "0002108671",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/2108671/000149315226041590/0001493152-26-041590-index.htm"
-    },
-    {
-      "name": "Evolution Metals &amp; Technologies Corp.",
-      "cik": "0001866226",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/1866226/000121390026097822/0001213900-26-097822-index.htm"
-    },
-    {
-      "name": "Ocean Power Technologies, Inc.",
-      "cik": "0001378140",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226041658/0001493152-26-041658-index.htm"
-    },
-    {
-      "name": "Holtec Nuclear Corp",
-      "cik": "0002104277",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/2104277/000119312526384287/0001193125-26-384287-index.htm"
-    },
-    {
-      "name": "General Fusion Group Ltd.",
-      "cik": "0002074850",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/2074850/000110465926106033/0001104659-26-106033-index.htm"
-    },
-    {
-      "name": "ROZE AI INC.",
-      "cik": "0002075335",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/2075335/000121390026098134/0001213900-26-098134-index.htm"
-    },
-    {
-      "name": "BTC Digital Ltd.",
-      "cik": "0001796514",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-08",
-      "source": "https://www.sec.gov/Archives/edgar/data/1796514/000121390026098075/0001213900-26-098075-index.htm"
     }
   ]
 }
