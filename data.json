@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T21:16:46.736Z",
+  "updated": "2026-09-15T00:08:46.492Z",
   "summary": "",
   "companies": [
     {
@@ -154,6 +154,33 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-14",
       "source": "https://www.sec.gov/Archives/edgar/data/818686/000119312526390559/0001193125-26-390559-index.htm"
+    },
+    {
+      "name": "Veri MedTech Holdings, Inc.",
+      "cik": "0002078149",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/2078149/000109690626001366/0001096906-26-001366-index.htm"
+    },
+    {
+      "name": "Polar Power, Inc.",
+      "cik": "0001622345",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1622345/000149315226042616/0001493152-26-042616-index.htm"
+    },
+    {
+      "name": "MFB Bancorp, Inc.",
+      "cik": "0002152813",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/2152813/000110465926107563/0001104659-26-107563-index.htm"
     },
     {
       "name": "OpenAI",
@@ -358,7 +385,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "The Smarter Web Company's IPO of Perpetual Shares - The Cryptonomist",
+      "signal": "The Smarter Web Company's IPO of Perpetual Shares - en.cryptonomist.ch",
       "date": "2026-09-11",
       "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rLUFHdW92RUY1bHdZVTNkRlZ1RG1KTkF4VmZsa2xVRkZza2ZsbWRiRG5sY25zc1A4bUFXeEFGcllOT3hMa2FTZjNlNXRYVlRpdEJIeVV4YkZfc2J1MXJpNzNSeEI1ejRrOFZmc3lDTQ?oc=5"
     },
@@ -700,7 +727,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Holtec Nuclear targets $10.2 billion valuation in US IPO as fall window kicks off - aol.com",
+      "signal": "Holtec Nuclear targets $10.2 billion valuation in US IPO as fall window kicks off - AOL.com",
       "date": "2026-09-08",
       "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNN1FCQjM0M1UzME9tSG1LT1RDaHhyb1BWSkJnc1ZvSkk5SFhfQ01XRTR3QWpLUVVaTk0tSFdqNUlBeHAyWW9CZE5tR3hWSk1JeEFwUFRlOFlmSEpfWjhzQUVCREtaY3c0MkZCbUhOSGZxLVoxTFI2UnZNSQ?oc=5"
     },
@@ -874,33 +901,6 @@
       "signal": "China’s Moonshot AI Confidentially Filed Hong Kong IPO - WSJ",
       "date": "2026-09-03",
       "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM0MyYnEzbkZYd19tMEFCczNsNGdlTmptMjdNM3VDV1lvUTRBOFQ3NHBtcW02VEdiRV9NZ2tvVllya3BaWS1HS2tGNFllSThRakFobXJLM2tGcWl3WEl0dnNMX0NzWmlUWmxTMnoxXzNGQVlQNDE4RTEwV2c1Mk1GSGZybjlnb2tWUDlHVlU5ZG1JRFBm?oc=5"
-    },
-    {
-      "name": "Hong Kong",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Moonshot AI – creator of Kimi K3 model – has filed for Hong Kong IPO: sources - South China Morning Post",
-      "date": "2026-09-03",
-      "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQkZ2VVk5MzV1UVMzcTUtLXNxbTVRS1d5ZG5CM0g2SDdpd1AzUXZYMjQybkZlUzd3Z2pueklIVHM0d29JSjhxcHpScXdReXZVUk1GWGZrb2tvMWUyQmpsSUxxcm1GYzNZenNoX01IZVNwcVVQT04tRFpVQXF3RlJuV01JT3l0b1FvNUpld05uOVhiSGFLcENlZWVZdzhrdF9tSEhyWGhIY2RaTkVpRXI2WUlCeU5LZDjSAbcBQVVfeXFMT3M5ZjRrMGFOdEttTXJBeW9UTHNPclhXd2N4Q0l4NjBWWTI1ME0wakdad3B2bmlDY3dYWDNMV0pIZWYyWFB6TUI1VXpEdWgybVdKOWlxaDVlaG1RZXJrdVNoTTFRck5pLWM1ZUR0WURVZEJoS2RLaXBfNEtyRDdwN0l1Wi1ZMjFPdEtCUzNpSDBXOWVXVzIya3pXX3FIdGtGWEtPdnc4TUV2RFNxWmxvbVdQMEo1R2xF?oc=5"
-    },
-    {
-      "name": "Kraken",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Kraken parent Payward delays IPO to second quarter of 2027 at earliest - coindesk.com",
-      "date": "2026-09-02",
-      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRmFlOWtTMmNZRzRmX3hCTm0xNkM5NlZScUUyNkhFTmdwRFZIN1ZUV2NDWGR5WlBiTHM2VDFaWjgxb09yZmMzbWhKTWNnWEhxdmlVUERseXhCdmk2aGdHMFR4WVlqVk5BTTRZcTJTN0hrODdDcXhMUWQwZkRTendSQkg3NzhaMUZXRkVfSUFJY0NtUTJLM1ZUSlRha1JMaC1LbTFJaGxJclB2Zw?oc=5"
-    },
-    {
-      "name": "Window Is Closing.",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "The IPO Window Is Closing. Here Are 8 Startups To Watch. - Crunchbase News",
-      "date": "2026-09-02",
-      "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQa01EWG1UMndEZVgzUkhDUnZDVU1xWUs4TEZLU2xRV3AyczlVWXhqTFJhY0ItSXp0VVZndGRXaUxua1Q2NU9GWGVFbUk3X3dyTWgwMTFVTExQQW03X3lOQXBaYlpQOC1xa05IQXRzQjJkSFZFOFJfQnN2V0ExS1hWUEwwX2UwUQ?oc=5"
     }
   ]
 }
