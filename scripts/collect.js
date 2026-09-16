@@ -43,6 +43,8 @@ const NEWS_QUERIES = [
   '"IPO" "has hired" banks underwriters',
   '"going public" "next year" startup',
   'IPO "as soon as" listing US'
+  '"ADR" IPO "New York" listing',
+  'foreign company "US listing" IPO Nasdaq NYSE'
 ];
 
 const NEWS_STOPWORDS = new Set([
@@ -133,10 +135,11 @@ async function extractNamesWithGemini(headlines) {
     + 'For each numbered headline, return the company that is going public.\n'
     + 'Rules:\n'
     + '- Return null unless a specific named company is going public.\n'
-    + '- Return null if the listing is on a non-US exchange (Hong Kong, London, India, Tokyo, etc).\n'
-    + '- Never return an exchange (Nasdaq, NYSE), a city, a country, a month, or a news outlet.\n'
+    + '- Include foreign companies listing in the US (ADRs, F-1 filings, "US IPO", "New York listing").\n'
+    + '- Return null if the listing is on a non-US exchange only (Hong Kong, London, India, Tokyo, Shanghai).\n'
+    + '- Never return an exchange, city, country, month, or news outlet as the company.\n'
     + '- Return the company name only, no descriptors.\n\n'
-    + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe"},{"i":1,"company":null}] '
+    + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe","us":true},{"i":1,"company":null,"us":false}] '
     + 'with no other text and no markdown fences.\n\n'
     + headlines.map((h, i) => i + ': ' + h).join('\n');
 
@@ -216,7 +219,8 @@ async function fetchNews() {
   const aiNames = await extractNamesWithGemini(results.map(r => r.signal));
   if (aiNames) {
     for (const item of aiNames) {
-      if (results[item.i]) results[item.i].name = item.company || null;
+      if (!results[item.i]) continue;
+      results[item.i].name = (item.company && item.us !== false) ? item.company : null;
     }
   }
 
