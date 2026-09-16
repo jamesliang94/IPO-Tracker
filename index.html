@@ -20,6 +20,7 @@
 
     .name { font-weight: 600; font-size: 16px; display: block; color: inherit; text-decoration: none; }
     a.name:hover { text-decoration: underline; color: #1e40af; }
+    .chance { display: inline-block; margin-top: 6px; padding: 2px 8px; border-radius: 12px; font-size: 12px; font-weight: 600; background: #ede9fe; color: #5b21b6; }
     .signal { color: #444; font-size: 14px; margin-top: 5px; line-height: 1.45; }
     .stamp { color: #888; font-size: 12px; margin-top: 7px; }
     .empty { color: #9ca3af; font-size: 14px; font-style: italic; padding: 8px 0; }
@@ -73,18 +74,26 @@
       return date + ' \u00b7 ' + days + ' days ago';
     }
 
-    function buildCard(company) {
+       function buildCard(company) {
       const card = document.createElement('div');
       card.className = 'card ' + company.status;
+
       const title = company.source
         ? '<a class="name" href="' + company.source + '" target="_blank" rel="noopener">' + company.name + '</a>'
         : '<span class="name">' + company.name + '</span>';
+
+      const isMarket = /kalshi/i.test(company.signal || '');
+      const chance = isMarket && company.confidence != null
+        ? '<span class="chance">' + company.confidence + '% chance</span>'
+        : '';
+
       card.innerHTML = title
+        + chance
         + '<div class="signal">' + (company.signal || '') + '</div>'
         + '<div class="stamp">' + fmtStamp(company.date) + '</div>';
       return card;
     }
-
+    
     function renderColumn(list, containerId, countId, emptyText) {
       const container = document.getElementById(containerId);
       container.innerHTML = '';
