@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T15:16:28.515Z",
+  "updated": "2026-09-16T17:27:21.104Z",
   "summary": "",
   "companies": [
     {
@@ -15,8 +15,8 @@
       "name": "World Road Inc.",
       "cik": "0002049348",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2049348/000182912626010133/0001829126-26-010133-index.htm"
     },
@@ -204,8 +204,8 @@
       "name": "GLGHK Ltd",
       "cik": "0002119287",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-15",
       "source": "https://www.sec.gov/Archives/edgar/data/2119287/000149315226042799/0001493152-26-042799-index.htm"
     },
@@ -700,7 +700,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "The Smarter Web Company's IPO of Perpetual Shares - en.cryptonomist.ch",
+      "signal": "The Smarter Web Company's IPO of Perpetual Shares - The Cryptonomist",
       "date": "2026-09-11",
       "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rLUFHdW92RUY1bHdZVTNkRlZ1RG1KTkF4VmZsa2xVRkZza2ZsbWRiRG5sY25zc1A4bUFXeEFGcllOT3hMa2FTZjNlNXRYVlRpdEJIeVV4YkZfc2J1MXJpNzNSeEI1ejRrOFZmc3lDTQ?oc=5"
     },
@@ -763,7 +763,7 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
+      "signal": "Brooks Automation Files Confidentially for IPO - wsj.com",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
     },
