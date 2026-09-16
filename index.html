@@ -5,9 +5,7 @@
   <style>
     body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 40px auto; padding: 0 20px; color: #111; }
     h1 { margin-bottom: 4px; }
-    .updated { color: #666; font-size: 13px; margin: 0 0 20px; }
-    .summary { background: #f3f4f6; border-left: 3px solid #6b7280; padding: 14px 16px; margin: 0 0 28px; line-height: 1.6; }
-    .summary-label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin-bottom: 6px; }
+    .updated { color: #666; font-size: 13px; margin: 0 0 24px; }
 
     .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
     @media (max-width: 760px) { .columns { grid-template-columns: 1fr; } }
@@ -26,9 +24,15 @@
     .stamp { color: #888; font-size: 12px; margin-top: 7px; }
     .empty { color: #9ca3af; font-size: 14px; font-style: italic; padding: 8px 0; }
 
-    details { margin-top: 32px; border-top: 1px solid #e5e7eb; padding-top: 16px; }
-    summary { cursor: pointer; font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; }
+    details { margin-top: 6px; }
+    summary { cursor: pointer; font-size: 13px; color: #6b7280; padding: 6px 0; list-style: none; }
+    summary::-webkit-details-marker { display: none; }
     summary:hover { color: #111; }
+    summary::before { content: '\25b8  '; }
+    details[open] summary::before { content: '\25be  '; }
+
+    .priced-block { margin-top: 32px; border-top: 1px solid #e5e7eb; padding-top: 12px; }
+    .priced-block summary { text-transform: uppercase; letter-spacing: 0.05em; }
     .priced-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 24px; margin-top: 14px; }
     @media (max-width: 760px) { .priced-grid { grid-template-columns: 1fr; } }
   </style>
@@ -36,11 +40,6 @@
 <body>
   <h1>IPO Tracker</h1>
   <p class="updated" id="updated">Loading...</p>
-
-  <div class="summary">
-    <div class="summary-label">Summary</div>
-    <div id="summary"></div>
-  </div>
 
   <div class="columns">
     <div>
@@ -53,71 +52,16 @@
     </div>
   </div>
 
-  <details>
-    <summary id="priced-summary">Priced</summary>
-    <div class="priced-grid" id="priced"></div>
-  </details>
+  <div class="priced-block">
+    <details>
+      <summary id="priced-summary">Priced</summary>
+      <div class="priced-grid" id="priced"></div>
+    </details>
+  </div>
 
   <script>
+    const VISIBLE = 10;
+
     function fmtStamp(iso) {
       if (!iso) return '';
-      const d = new Date(iso);
-      if (isNaN(d)) return iso;
-      const days = Math.floor((Date.now() - d.getTime()) / 86400000);
-      const date = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-      if (days <= 0) return date + ' \u00b7 today';
-      if (days === 1) return date + ' \u00b7 yesterday';
-      return date + ' \u00b7 ' + days + ' days ago';
-    }
-
-    function buildCard(company) {
-      const card = document.createElement('div');
-      card.className = 'card ' + company.status;
-
-      const title = company.source
-        ? '<a class="name" href="' + company.source + '" target="_blank" rel="noopener">' + company.name + '</a>'
-        : '<span class="name">' + company.name + '</span>';
-
-      card.innerHTML = title
-        + '<div class="signal">' + (company.signal || '') + '</div>'
-        + '<div class="stamp">' + fmtStamp(company.date) + '</div>';
-      return card;
-    }
-
-    function render(list, containerId, countId, emptyText) {
-      const container = document.getElementById(containerId);
-      container.innerHTML = '';
-      if (list.length === 0) {
-        container.innerHTML = '<div class="empty">' + emptyText + '</div>';
-      } else {
-        list.forEach(company => container.appendChild(buildCard(company)));
-      }
-      if (countId) document.getElementById(countId).textContent = '(' + list.length + ')';
-    }
-
-    fetch('data.json')
-      .then(response => response.json())
-      .then(data => {
-        document.getElementById('updated').textContent =
-          'Last updated ' + new Date(data.updated).toLocaleString();
-        document.getElementById('summary').textContent =
-          data.summary || 'No summary available.';
-
-        const all = (data.companies || [])
-          .slice()
-          .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
-
-        render(all.filter(c => c.status === 'filed'), 'filed', 'filed-count', 'Nothing filed recently.');
-        render(all.filter(c => c.status === 'rumored'), 'rumored', 'rumored-count', 'No rumors tracked.');
-
-        const priced = all.filter(c => c.status === 'priced');
-        render(priced, 'priced', null, 'No priced deals.');
-        document.getElementById('priced-summary').textContent =
-          'Priced \u2014 ' + priced.length + ' deals';
-      })
-      .catch(error => {
-        document.getElementById('updated').textContent = 'Could not load data.json';
-      });
-  </script>
-</body>
-</html>
+      const d = new
