@@ -42,7 +42,7 @@ const NEWS_QUERIES = [
   'company "confidentially filed" IPO',
   '"IPO" "has hired" banks underwriters',
   '"going public" "next year" startup',
-  'IPO "as soon as" listing US'
+  'IPO "as soon as" listing US',
   '"ADR" IPO "New York" listing',
   'foreign company "US listing" IPO Nasdaq NYSE'
 ];
