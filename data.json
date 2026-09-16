@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T18:53:30.338Z",
+  "updated": "2026-09-16T19:12:29.260Z",
   "summary": "",
   "companies": [
     {
@@ -46,15 +46,6 @@
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-09-16",
       "source": "https://www.sec.gov/Archives/edgar/data/1995704/000149315226042872/0001493152-26-042872-index.htm"
-    },
-    {
-      "name": "Syngenta Confidentially Files",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Syngenta Confidentially Files for Hong Kong IPO, Targeting at Least $5 Billion - finance.biggo.com",
-      "date": "2026-09-16",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTWFtT2JXNjQxZlBPa0p2ZTBPUjFqbTkzT0s0enVTN0d4cHplTWVsc19sWkRLOFNhM2o4NE9CbHNJdDN5TUE2OFUwVW1jcUlTblZtdklKT2RkVklTSjRyNWEzejFaN1ZCNHdxWXNYekg3cm95NVE?oc=5"
     },
     {
       "name": "Oceanhawk Acquisition II Corp.",
@@ -228,22 +219,13 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2119287/000149315226042799/0001493152-26-042799-index.htm"
     },
     {
-      "name": "Chipmaker Altera",
+      "name": "Altera",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
       "signal": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand - Reuters",
       "date": "2026-09-15",
       "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkFQajNXclRkalhsUnFQNTNSeW5wUzVvZU1aSUhITHItTTN2VW1yV2V4NGtzZ0xaa1NlcjFwZXotcldDRkt2cGRmbzExa1BycXVJMElxTHlwOGVaSGd2cDJmeWJGSm1xeXc0NzZ5akQydlBJa1lCVkJQajRiWmxzS2dZc0g1ZFdKSVlBOEFNZjZUU3M?oc=5"
-    },
-    {
-      "name": "Syngenta",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Syngenta files for Hong Kong IPO, aiming to raise at least $5 billion, sources say - Reuters",
-      "date": "2026-09-15",
-      "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXluWEpvOWJoTzMyMVVhWmZOS2ZfT1owOUZnLThYaHRvb2NfSEMtLTJkZVhxNlowaDNWWE4xTlhIazlSc0NaNFBWajE4UXhYeHJnb3VUYWcwVl9tbmFlOWljdG9kdUtFMzEzdTdULVA3RHc5eEJ5ZDE1SGV4eExEWmY0VWlEWHVCS2stOENaTk1LTHZFcTRiY0w4YS1VZkU4aUlWVzd1bGJYZ2p0TE02cC1lcFN5b3BjQUFwT0Y2LWl5UGpfM2V0dWVVazlCdTA?oc=5"
     },
     {
       "name": "Bamboo Insurance Services, Inc.",
@@ -516,15 +498,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1099590/000114036126036517/0001140361-26-036517-index.htm"
     },
     {
-      "name": "Anthropic OpenAI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Anthropic, OpenAI IPO paths diverge as firms sound alarm bells for civilization - InvestmentNews",
-      "date": "2026-09-14",
-      "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdWNsN2FEMS1OckY4TUxNaDRwZ2NsbDNCeTFvZ1BmbGctdExIckRYMmdKUExId1gzWU50Z0FRV1ZmWUtDRlY3RVZ3NFVON1lUcS1jZm85RWpsTkhIcEZRMWVCajZUZm9HTE81OUpGVGpxcTZyRXB5UzlpeWJMR2FDU2lXRGxhLTUwaFVKOWw5T0ZJZTFQNmRLaTZncW9CQXc2OExtY0thUVRndjI4N1hka1ZYNFBHRXRPdllOV01TWQ?oc=5"
-    },
-    {
       "name": "OpenAI",
       "cik": null,
       "status": "rumored",
@@ -532,15 +505,6 @@
       "signal": "OpenAI's IPO Plans Delayed Due to AI Safety Issues - finway.com.ua",
       "date": "2026-09-13",
       "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03cVF1ZnB1UkxQUjVxZHZfRkJXU0tocms3clRBX0tYUGdVdUxnMUw4c0pXSUExdXRESUdsT0o0bUxpVDU5X2xibUg4OGN2YkRPdmVpamhKdnVJVEVIWHpWLVc4OA?oc=5"
-    },
-    {
-      "name": "Anthropic Opens Claude",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - yellow.com",
-      "date": "2026-09-12",
-      "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2lkeEswemtVTW0xMzEyODM4WDNWYjlWTldVNXlPc3hVckE1bU9DWXZsSXRfQ1VTVmFfOUZ1VGxyb0RvWlhiektZUnRSUHk2Wjh1dEVHRGtpdGZ3bW5lalJfc0dOc3BtdHVUWm91V2hCeWt4ZU5YT2ltYzlDMjMzeEhvdFlLS28?oc=5"
     },
     {
       "name": "RUI Holdings Inc",
@@ -714,22 +678,13 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2095096/000149315226042440/0001493152-26-042440-index.htm"
     },
     {
-      "name": "Smarter Web Company",
+      "name": "The Smarter Web Company",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
       "signal": "The Smarter Web Company's IPO of Perpetual Shares - The Cryptonomist",
       "date": "2026-09-11",
       "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rLUFHdW92RUY1bHdZVTNkRlZ1RG1KTkF4VmZsa2xVRkZza2ZsbWRiRG5sY25zc1A4bUFXeEFGcllOT3hMa2FTZjNlNXRYVlRpdEJIeVV4YkZfc2J1MXJpNzNSeEI1ejRrOFZmc3lDTQ?oc=5"
-    },
-    {
-      "name": "Intel-Backed Altera Prepares",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Intel-Backed Altera Prepares $2 Billion-Plus IPO As Semiconductor Listings Rebound - Tekedia",
-      "date": "2026-09-11",
-      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajNUSVA5SkJSQU0xQWJLQTZ6Uy04eHMxN1hDUTNaMUFObURzb3pFSUdqQVdQVG0tU3E2MkhUdFg4THF4ZDRnaXZvendHUHVqM0x3UmdCV1V3LXl2cnJzZWhlcXFfUE0yNlpwMUo0SnNfU3NNeFBMaUpNLW44a0xpY05wb3VLUjNJMndPa3ZNWlZVN0JhTTJONF80UmJZbVhfQW9ueTF1bmN4UQ?oc=5"
     },
     {
       "name": "VenHub Global, Inc.",
@@ -777,31 +732,13 @@
       "source": "https://www.sec.gov/Archives/edgar/data/66740/000110465926106711/0001104659-26-106711-index.htm"
     },
     {
-      "name": "Brooks Automation Files",
+      "name": "Brooks Automation",
       "cik": null,
       "status": "rumored",
       "confidence": 35,
       "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
       "date": "2026-09-10",
       "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
-    },
-    {
-      "name": "Exclusive-Silver Lake Intel-backed",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
-    },
-    {
-      "name": "EXCLUSIVE Silver Lake",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - Reuters",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlhfdjkzd3dXZ3dqYVIxSW5HemVEb0EwdGUzWFBIUGJmWHpUN1dVWXBPeUJpQXh1SzJnQzhkbDJLSklhNlFZV1pZZFNPLXNMWVRXN0ZJeEF3eEw3ZnBDa0NHY3R3V1F2bTM0QU54TVFLMHZWdUo1WFNRMHg1NWJYbnFvMzlVODlndUhLcFR3X2c4WXNRdHRRbUowdEczWjl4Z0t0VDROWkl3TmdwdDNmNk1mRzlRWk9fbXc?oc=5"
     },
     {
       "name": "AIxCrypto Holdings, Inc.",
@@ -901,6 +838,69 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-09",
       "source": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526386648/0001193125-26-386648-index.htm"
+    },
+    {
+      "name": "ADARx",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "AbbVie-backed ADARx plans IPO to fund array of siRNA med trials - Fierce Biotech",
+      "date": "2026-09-06",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5"
+    },
+    {
+      "name": "CoVolt Power",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Solar engineering firm CoVolt Power plans IPO to meet rising electricity demand - The Business Journals",
+      "date": "2026-08-27",
+      "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSnpSZUJ6RTlSdUFwVjZ2dF9JZ1A2TExyR3plZ2VxZmVWNld5eTRmV2NZSlNldnR6UlR6ekdVQTdPYlJtcm5PVUd4Q3k1aElTM2FIeWJfRWdqWnI2dnZZdmxBTTNhekcyWjFJMmNLMjM2SjlUR1hhOVU3S1FmMlY5UTBvdlpwaEZJaHZpT2ItMURuekdfQmxHeWZkTU00LUgwbGlKTjdB?oc=5"
+    },
+    {
+      "name": "Westinghouse",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Nuclear firm Westinghouse confidentially files for US IPO - The Spokesman-Review",
+      "date": "2026-07-31",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5"
+    },
+    {
+      "name": "Westinghouse Electric",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Westinghouse Electric Files Confidentially for IPO - WSJ",
+      "date": "2026-07-31",
+      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd05FYnBZWFZ4Z2w1cGhxb0w0MTV0QkdTaEE1QjhFUmd2Ql9aWERqTzNnUktlb3RRUl80SEZyMkZWZlA0V1VpUHJwNlBmTUZ0bm95V3FaeVJucmx2cmhPWjBlSTQxWDBwbHBfOXNjS1k4XzA0ZGhyeUxTenJUNU0yVXN2aWZiZW0tS2d2NmJHdGJCRTN4MVQ1NC1B?oc=5"
+    },
+    {
+      "name": "GrubMarket",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Food Technology Firm GrubMarket Confidentially Files for U.S. IPO - The Packer",
+      "date": "2026-07-28",
+      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDRMSGxvZE9zSXNPZkYxWlJfMElhM2ZINGtJRGR0YXBOX0tvNjcweDlyZ2FiWkFuRDg5Ymp4Ql8xNW9McGNDUjduS004MnczZGF6NVFORnh3SHl4UndaWC1HLXl0dnBHU0FnQmVEVDhySkFNekFaNFNyT2pQSEF5Z0w2dHRUam81M3RWVndQdElqWU5LaFE?oc=5"
+    },
+    {
+      "name": "Alopexx",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Cambridge biotech Alopexx files to go public with $30M IPO - The Business Journals",
+      "date": "2026-06-29",
+      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XNE9mR3RUWkFNQ09oMFRhRENmUWU1X3pjWjNFbHQ1VEZqbXZUR1FEbGlVaDVpWGJPblZqQmhtdWxrdHlFc2FHcDlyTmlud2hkbFV3MnNfMEdaMjZRR0QzeHhCX3FMRXltc290VXY0RjBic1RLVXNPbHNSSUEzUQ?oc=5"
+    },
+    {
+      "name": "Hub International",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Hub International Confidentially Files for U.S. Initial Public Offering - programbusiness.com",
+      "date": "2026-06-29",
+      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTFRV3hTTjl2TXpJZ3Bfb3dsNDNOTHBOMEdlakROZzdONURQam9LYWcwek43bWp2R190M1NnSnJZa1NmSVpCM2RHVUJwdzNnZ2pmb3g5OEh3WEQ0cUhkUUdjTU9NdnRrM3l5VjktZGd0UVBfR25WbVlCSVRLTDVLUmlsc1pNVWl2ZC1yeDFiTnBzcmloWmhJbkZMdVp5cFIxcTVwa1J4SQ?oc=5"
     }
   ]
 }
