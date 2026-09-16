@@ -12,25 +12,11 @@ const FORMS = {
 };
 
 const EXCLUDE_PATTERNS = [
-  /\bETF\b/i,
-  /\bTRUST\b/i,
-  /\bFUND\b/i,
-  /\bFUNDS\b/i,
-  /\bINDEX\b/i,
-  /\bSHARES\b/i,
-  /\bPORTFOLIO\b/i,
-  /\bISHARES\b/i,
-  /\bSPDR\b/i,
-  /\bPROSHARES\b/i,
-  /\bINVESCO\b/i,
-  /\bVANGUARD\b/i,
-  /\bDIREXION\b/i,
-  /\bGRAYSCALE\b/i,
-  /\bACQUISITION\s+CORP/i,
-  /\bBLANK\s+CHECK\b/i,
-  /\bDEPOSITARY\b/i,
-  /\bSTATUTORY\s+TRUST\b/i,
-  /\bREIT\b/i
+  /\bETF\b/i, /\bTRUST\b/i, /\bFUND\b/i, /\bFUNDS\b/i, /\bINDEX\b/i,
+  /\bSHARES\b/i, /\bPORTFOLIO\b/i, /\bISHARES\b/i, /\bSPDR\b/i,
+  /\bPROSHARES\b/i, /\bINVESCO\b/i, /\bVANGUARD\b/i, /\bDIREXION\b/i,
+  /\bGRAYSCALE\b/i, /\bACQUISITION\s+CORP/i, /\bBLANK\s+CHECK\b/i,
+  /\bDEPOSITARY\b/i, /\bSTATUTORY\s+TRUST\b/i, /\bREIT\b/i
 ];
 
 function isRealCompany(name) {
@@ -50,14 +36,14 @@ const NEWS_QUERIES = [
 const NEWS_STOPWORDS = new Set([
   'The','A','An','US','U.S.','IPO','Wall','Street','New','York','Nasdaq','NYSE',
   'Reuters','Bloomberg','CNBC','Report','Exclusive','Sources','Why','How','What',
-  'Plans','Rare','Safety','Chinese','Firm','Say','Says','Backed'
+  'Plans','Rare','Safety','Chinese','Firm','Say','Says','Backed','Hong','Kong'
 ]);
 
 function extractCompany(headline) {
   let clean = headline.replace(/\s+-\s+[^-]+$/, '').trim();
   clean = clean.replace(/['\u2019]s\b/g, '');
 
-  const anchors = clean.match(/\b([A-Z][A-Za-z0-9&.\-]*(?:\s+[A-Z][A-Za-z0-9&.\-]*){0,2})\s+(?:firm|startup|maker|group|holdings)?\s*(?:plans|files|weighs|targets|eyes|seeks|hires|confidentially|IPO)/);
+  const anchors = clean.match(/\b([A-Z][A-Za-z0-9&.\-]*(?:\s+[A-Z][A-Za-z0-9&.\-]*){0,2})\s+(?:firm|startup|maker|group|holdings)?\s*(?:plans|files|weighs|targets|eyes|seeks|hires|confidentially)/);
   if (anchors && anchors[1]) {
     const candidate = anchors[1].split(/\s+/).filter(w => !NEWS_STOPWORDS.has(w)).join(' ');
     if (candidate.length >= 3) return candidate;
@@ -93,190 +79,4 @@ async function fetchForm(form) {
 
   const xml = await response.text();
   const entries = xml.split('<entry>').slice(1);
-  const results = [];
-
-  for (const entry of entries) {
-    const titleMatch = entry.match(/<title>([^<]*)<\/title>/);
-    const linkMatch = entry.match(/href="([^"]*)"/);
-    const dateMatch = entry.match(/<updated>([^<]*)<\/updated>/);
-    if (!titleMatch) continue;
-
-    const title = titleMatch[1];
-    const nameMatch = title.match(/^\S+\s+-\s+(.+?)\s*\(\d{7,10}\)/);
-    const cikMatch = title.match(/\((\d{7,10})\)/);
-    if (!nameMatch) continue;
-    if (!isRealCompany(nameMatch[1])) continue;
-
-    const meta = FORMS[form];
-    results.push({
-      name: nameMatch[1].trim(),
-      cik: cikMatch ? cikMatch[1] : null,
-      status: meta.status,
-      confidence: meta.confidence,
-      signal: meta.signal,
-      date: dateMatch ? dateMatch[1].slice(0, 10) : new Date().toISOString().slice(0, 10),
-      source: linkMatch ? linkMatch[1] : null
-    });
-  }
-
-  console.log('OK ' + form + ': ' + results.length + ' filings');
-  return results;
-}
-
-async function extractNamesWithGemini(headlines) {
-  const key = process.env.GEMINI_API_KEY;
-  if (!key) {
-    console.log('No GEMINI_API_KEY set, skipping AI extraction');
-    return null;
-  }
-  if (headlines.length === 0) return null;
-
-  const prompt = 'You are extracting IPO candidates from news headlines.\n\n'
-    + 'For each numbered headline, return the company that is going public.\n'
-    + 'Rules:\n'
-    + '- Return null unless a specific named company is going public.\n'
-    + '- Include foreign companies listing in the US (ADRs, F-1 filings, "US IPO", "New York listing").\n'
-    + '- Return null if the listing is on a non-US exchange only (Hong Kong, London, India, Tokyo, Shanghai).\n'
-    + '- Never return an exchange, city, country, month, or news outlet as the company.\n'
-    + '- Return the company name only, no descriptors.\n\n'
-    + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe","us":true},{"i":1,"company":null,"us":false}] '
-    + 'with no other text and no markdown fences.\n\n'
-    + headlines.map((h, i) => i + ': ' + h).join('\n');
-
-  const url = 'https://generativelanguage.googleapis.com/v1beta/models/'
-    + 'gemini-3-flash-preview:generateContent?key=' + key;
-
-  try {
-    const response = await fetch(url, {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({
-        contents: [{ parts: [{ text: prompt }] }],
-        generationConfig: { temperature: 0, maxOutputTokens: 4000 }
-      })
-    });
-
-    if (!response.ok) {
-      console.log('GEMINI FAILED: HTTP ' + response.status);
-      return null;
-    }
-
-    const data = await response.json();
-    const text = data.candidates[0].content.parts[0].text;
-    const cleaned = text.replace(/```json/g, '').replace(/```/g, '').trim();
-    const parsed = JSON.parse(cleaned);
-    console.log('OK gemini: parsed ' + parsed.length + ' headlines');
-    return parsed;
-  } catch (error) {
-    console.log('GEMINI ERROR: ' + error.message);
-    return null;
-  }
-}
-
-async function fetchNews() {
-  const results = [];
-
-  for (const query of NEWS_QUERIES) {
-    const url = 'https://news.google.com/rss/search?q='
-      + encodeURIComponent(query) + '&hl=en-US&gl=US&ceid=US:en';
-
-    try {
-      const response = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-      if (!response.ok) {
-        console.log('NEWS FAILED: HTTP ' + response.status);
-        continue;
-      }
-
-      const xml = await response.text();
-      const items = xml.split('<item>').slice(1);
-
-      for (const item of items) {
-        const titleMatch = item.match(/<title>(?:<!\[CDATA\[)?([\s\S]*?)(?:\]\]>)?<\/title>/);
-        const linkMatch = item.match(/<link>([\s\S]*?)<\/link>/);
-        const dateMatch = item.match(/<pubDate>([\s\S]*?)<\/pubDate>/);
-        if (!titleMatch) continue;
-
-        const headline = titleMatch[1].trim();
-
-        results.push({
-          name: extractCompany(headline),
-          cik: null,
-          status: 'rumored',
-          confidence: 35,
-          signal: headline.slice(0, 140),
-          date: dateMatch ? new Date(dateMatch[1]).toISOString().slice(0, 10)
-                          : new Date().toISOString().slice(0, 10),
-          source: linkMatch ? linkMatch[1].trim() : null
-        });
-      }
-    } catch (error) {
-      console.log('NEWS ERROR: ' + error.message);
-    }
-
-    await new Promise(resolve => setTimeout(resolve, 500));
-  }
-
-  const aiNames = await extractNamesWithGemini(results.map(r => r.signal));
-  if (aiNames) {
-    for (const item of aiNames) {
-      if (!results[item.i]) continue;
-      results[item.i].name = (item.company && item.us !== false) ? item.company : null;
-    }
-  }
-
-  const named = results.filter(r => r.name && isRealCompany(r.name));
-
-  const seen = new Set();
-  const unique = named.filter(item => {
-    const key = item.name.toLowerCase();
-    if (seen.has(key)) return false;
-    seen.add(key);
-    return true;
-  });
-
-  console.log('OK news: ' + unique.length + ' rumors from ' + results.length + ' headlines');
-  return unique;
-}
-
-async function main() {
-  const existing = JSON.parse(fs.readFileSync('data.json', 'utf8'));
-  const byKey = {};
-
-  for (const company of existing.companies || []) {
-    if (company.cik) byKey[company.cik + '|' + company.status] = company;
-  }
-
-  for (const form of Object.keys(FORMS)) {
-    const filings = await fetchForm(form);
-    for (const filing of filings) {
-      const key = (filing.cik || filing.name) + '|' + filing.status;
-      const prior = byKey[key];
-      if (!prior || filing.date >= prior.date) byKey[key] = filing;
-    }
-    await new Promise(resolve => setTimeout(resolve, 500));
-  }
-
-  const rumors = await fetchNews();
-  for (const rumor of rumors) {
-    const key = rumor.name.toLowerCase() + '|rumored';
-    if (!byKey[key]) byKey[key] = rumor;
-  }
-
-  const companies = Object.values(byKey)
-    .sort((a, b) => b.date.localeCompare(a.date))
-    .slice(0, 100);
-
-  const output = {
-    updated: new Date().toISOString(),
-    summary: existing.summary || '',
-    companies: companies
-  };
-
-  fs.writeFileSync('data.json', JSON.stringify(output, null, 2));
-  console.log('Wrote ' + companies.length + ' companies');
-}
-
-main().catch(error => {
-  console.error(error);
-  process.exit(1);
-});
+  const
