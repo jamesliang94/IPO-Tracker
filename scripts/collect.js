@@ -318,14 +318,13 @@ async function main() {
     const key = rumor.name.toLowerCase() + '|rumored';
     if (!byKey[key]) byKey[key] = rumor;
   }
-  
+
   const kalshi = await fetchKalshi();
   for (const market of kalshi) {
     const key = market.name.toLowerCase() + '|rumored';
     byKey[key] = market;
   }
 
-  const companies = Object.values(byKey)
   const companies = Object.values(byKey)
     .sort((a, b) => b.date.localeCompare(a.date))
     .slice(0, 100);
