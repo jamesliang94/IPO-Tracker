@@ -129,9 +129,13 @@ async function extractNamesWithGemini(headlines) {
   }
   if (headlines.length === 0) return null;
 
-  const prompt = 'For each numbered headline below, identify the company that is going public '
-    + 'or planning an IPO. Ignore exchanges (Nasdaq, NYSE), months, countries, and publication names. '
-    + 'If no specific company is going public, use null.\n\n'
+  const prompt = 'You are extracting IPO candidates from news headlines.\n\n'
+    + 'For each numbered headline, return the company that is going public.\n'
+    + 'Rules:\n'
+    + '- Return null unless a specific named company is going public.\n'
+    + '- Return null if the listing is on a non-US exchange (Hong Kong, London, India, Tokyo, etc).\n'
+    + '- Never return an exchange (Nasdaq, NYSE), a city, a country, a month, or a news outlet.\n'
+    + '- Return the company name only, no descriptors.\n\n'
     + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe"},{"i":1,"company":null}] '
     + 'with no other text and no markdown fences.\n\n'
     + headlines.map((h, i) => i + ': ' + h).join('\n');
