@@ -3,49 +3,117 @@
 <head>
   <title>IPO Tracker</title>
   <style>
-    body { font-family: system-ui, sans-serif; max-width: 800px; margin: 40px auto; padding: 0 20px; }
-    .summary { background: #f3f4f6; border-left: 3px solid #6b7280; padding: 14px 16px; margin: 20px 0 28px; line-height: 1.6; }
+    body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 40px auto; padding: 0 20px; color: #111; }
+    h1 { margin-bottom: 4px; }
+    .updated { color: #666; font-size: 13px; margin: 0 0 20px; }
+    .summary { background: #f3f4f6; border-left: 3px solid #6b7280; padding: 14px 16px; margin: 0 0 28px; line-height: 1.6; }
     .summary-label { font-size: 12px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin-bottom: 6px; }
-    .card { border: 1px solid #ddd; border-radius: 8px; padding: 16px; margin-bottom: 12px; }
-    .name { font-weight: 600; font-size: 18px; }
-    a.name { display: block; color: inherit; text-decoration: none; }
+
+    .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+    @media (max-width: 760px) { .columns { grid-template-columns: 1fr; } }
+
+    .col-head { font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin-bottom: 10px; padding-bottom: 6px; border-bottom: 1px solid #e5e7eb; }
+    .col-head span { color: #9ca3af; font-weight: 400; }
+
+    .card { border: 1px solid #ddd; border-radius: 8px; padding: 14px; margin-bottom: 10px; }
+    .card.filed { border-left: 3px solid #2563eb; }
+    .card.rumored { border-left: 3px solid #d97706; }
+    .card.priced { border-left: 3px solid #16a34a; }
+
+    .name { font-weight: 600; font-size: 16px; display: block; color: inherit; text-decoration: none; }
     a.name:hover { text-decoration: underline; color: #1e40af; }
-    .meta { color: #666; font-size: 14px; margin-top: 4px; }
-    .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 12px; }
-    .filed { background: #dbeafe; color: #1e40af; }
-    .rumored { background: #fef3c7; color: #92400e; }
-    .priced { background: #dcfce7; color: #166534; }
+    .signal { color: #444; font-size: 14px; margin-top: 5px; line-height: 1.45; }
+    .stamp { color: #888; font-size: 12px; margin-top: 7px; }
+    .empty { color: #9ca3af; font-size: 14px; font-style: italic; padding: 8px 0; }
+
+    details { margin-top: 32px; border-top: 1px solid #e5e7eb; padding-top: 16px; }
+    summary { cursor: pointer; font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; }
+    summary:hover { color: #111; }
+    .priced-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 24px; margin-top: 14px; }
+    @media (max-width: 760px) { .priced-grid { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body>
   <h1>IPO Tracker</h1>
-  <p id="updated">Loading...</p>
+  <p class="updated" id="updated">Loading...</p>
 
   <div class="summary">
     <div class="summary-label">Summary</div>
     <div id="summary"></div>
   </div>
 
-  <div id="list"></div>
+  <div class="columns">
+    <div>
+      <div class="col-head">Filed <span id="filed-count"></span></div>
+      <div id="filed"></div>
+    </div>
+    <div>
+      <div class="col-head">Rumored <span id="rumored-count"></span></div>
+      <div id="rumored"></div>
+    </div>
+  </div>
+
+  <details>
+    <summary id="priced-summary">Priced</summary>
+    <div class="priced-grid" id="priced"></div>
+  </details>
 
   <script>
+    function fmtStamp(iso) {
+      if (!iso) return '';
+      const d = new Date(iso);
+      if (isNaN(d)) return iso;
+      const days = Math.floor((Date.now() - d.getTime()) / 86400000);
+      const date = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+      if (days <= 0) return date + ' \u00b7 today';
+      if (days === 1) return date + ' \u00b7 yesterday';
+      return date + ' \u00b7 ' + days + ' days ago';
+    }
+
+    function buildCard(company) {
+      const card = document.createElement('div');
+      card.className = 'card ' + company.status;
+
+      const title = company.source
+        ? '<a class="name" href="' + company.source + '" target="_blank" rel="noopener">' + company.name + '</a>'
+        : '<span class="name">' + company.name + '</span>';
+
+      card.innerHTML = title
+        + '<div class="signal">' + (company.signal || '') + '</div>'
+        + '<div class="stamp">' + fmtStamp(company.date) + '</div>';
+      return card;
+    }
+
+    function render(list, containerId, countId, emptyText) {
+      const container = document.getElementById(containerId);
+      container.innerHTML = '';
+      if (list.length === 0) {
+        container.innerHTML = '<div class="empty">' + emptyText + '</div>';
+      } else {
+        list.forEach(company => container.appendChild(buildCard(company)));
+      }
+      if (countId) document.getElementById(countId).textContent = '(' + list.length + ')';
+    }
+
     fetch('data.json')
       .then(response => response.json())
       .then(data => {
-        document.getElementById('updated').textContent = 'Last updated: ' + data.updated;
-        document.getElementById('summary').textContent = data.summary || 'No summary available.';
-        const list = document.getElementById('list');
-        data.companies.forEach(company => {
-          const card = document.createElement('div');
-          card.className = 'card';
-          card.innerHTML =
-            (company.source
-              ? '<a class="name" href="' + company.source + '" target="_blank" rel="noopener">' + company.name + '</a>'
-              : '<div class="name">' + company.name + '</div>') +
-            '<span class="badge ' + company.status + '">' + company.status + '</span>' +
-            '<div class="meta">' + company.signal + ' &middot; ' + company.date + ' &middot; confidence ' + company.confidence + '%</div>';
-          list.appendChild(card);
-        });
+        document.getElementById('updated').textContent =
+          'Last updated ' + new Date(data.updated).toLocaleString();
+        document.getElementById('summary').textContent =
+          data.summary || 'No summary available.';
+
+        const all = (data.companies || [])
+          .slice()
+          .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+        render(all.filter(c => c.status === 'filed'), 'filed', 'filed-count', 'Nothing filed recently.');
+        render(all.filter(c => c.status === 'rumored'), 'rumored', 'rumored-count', 'No rumors tracked.');
+
+        const priced = all.filter(c => c.status === 'priced');
+        render(priced, 'priced', null, 'No priced deals.');
+        document.getElementById('priced-summary').textContent =
+          'Priced \u2014 ' + priced.length + ' deals';
       })
       .catch(error => {
         document.getElementById('updated').textContent = 'Could not load data.json';
