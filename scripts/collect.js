@@ -255,7 +255,46 @@ async function fetchNews() {
   console.log('OK news: ' + unique.length + ' rumors from ' + results.length + ' headlines');
   return unique;
 }
+async function fetchKalshi() {
+  const url = 'https://api.elections.kalshi.com/trade-api/v2/events/KXIPO-26?with_nested_markets=true';
+  const results = [];
 
+  try {
+    const response = await fetch(url, { headers: { 'Accept': 'application/json' } });
+    if (!response.ok) {
+      console.log('KALSHI FAILED: HTTP ' + response.status);
+      return [];
+    }
+
+    const data = await response.json();
+    const markets = (data.event && data.event.markets) || data.markets || [];
+
+    for (const market of markets) {
+      const label = market.yes_sub_title || market.subtitle || market.title || '';
+      if (!label) continue;
+
+      const price = market.last_price != null ? market.last_price
+                  : (market.yes_bid != null ? market.yes_bid : null);
+      if (price == null) continue;
+
+      results.push({
+        name: label.trim(),
+        cik: null,
+        status: 'rumored',
+        confidence: price,
+        signal: 'Kalshi: ' + price + '% chance of IPO in 2026',
+        date: new Date().toISOString().slice(0, 10),
+        source: 'https://kalshi.com/markets/kxipo/ipos/' + (market.ticker || 'KXIPO-26').toLowerCase()
+      });
+    }
+
+    console.log('OK kalshi: ' + results.length + ' markets');
+  } catch (error) {
+    console.log('KALSHI ERROR: ' + error.message);
+  }
+
+  return results;
+}
 async function main() {
   const existing = JSON.parse(fs.readFileSync('data.json', 'utf8'));
   const byKey = {};
@@ -279,7 +318,14 @@ async function main() {
     const key = rumor.name.toLowerCase() + '|rumored';
     if (!byKey[key]) byKey[key] = rumor;
   }
+  
+  const kalshi = await fetchKalshi();
+  for (const market of kalshi) {
+    const key = market.name.toLowerCase() + '|rumored';
+    byKey[key] = market;
+  }
 
+  const companies = Object.values(byKey)
   const companies = Object.values(byKey)
     .sort((a, b) => b.date.localeCompare(a.date))
     .slice(0, 100);
