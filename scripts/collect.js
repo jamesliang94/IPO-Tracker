@@ -108,18 +108,33 @@ async function fetchForm(form) {
   console.log('OK ' + form + ': ' + results.length + ' filings');
   return results;
 }
-
 async function callGemini(prompt) {
   const key = process.env.GEMINI_API_KEY;
   const url = 'https://generativelanguage.googleapis.com/v1beta/models/'
-    + 'gemini-3-flash-preview:generateContent?key=' + key;
+    + 'gemini-2.5-flash:generateContent?key=' + key;
 
   const response = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify({
       contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: { temperature: 0, maxOutputTokens: 8000 }
+      generationConfig: {
+        temperature: 0,
+        maxOutputTokens: 30000,
+        responseMimeType: 'application/json',
+        responseSchema: {
+          type: 'ARRAY',
+          items: {
+            type: 'OBJECT',
+            properties: {
+              i: { type: 'INTEGER' },
+              company: { type: 'STRING', nullable: true },
+              us: { type: 'BOOLEAN' }
+            },
+            required: ['i', 'company', 'us']
+          }
+        }
+      }
     })
   });
 
@@ -136,7 +151,7 @@ async function extractNamesWithGemini(headlines) {
   }
   if (headlines.length === 0) return null;
 
-  const BATCH = 40;
+  const BATCH = 20;
   const all = [];
   let failures = 0;
 
@@ -146,13 +161,12 @@ async function extractNamesWithGemini(headlines) {
     const prompt = 'You are extracting IPO candidates from news headlines.\n\n'
       + 'For each numbered headline, return the company that is going public.\n'
       + 'Rules:\n'
-      + '- Return null unless a specific named company is going public.\n'
-      + '- Include foreign companies listing in the US (ADRs, F-1 filings, "US IPO", "New York listing").\n'
-      + '- Return null if the listing is on a non-US exchange only (Hong Kong, London, India, Tokyo, Shanghai).\n'
+      + '- company must be null unless a specific named company is going public.\n'
+      + '- Include foreign companies listing in the US (ADRs, "US IPO", "New York listing"): us = true.\n'
+      + '- If the listing is on a non-US exchange only (Hong Kong, London, India, Tokyo, Shanghai): us = false.\n'
       + '- Never return an exchange, city, country, month, or news outlet as the company.\n'
-      + '- Return the company name only, no descriptors.\n\n'
-      + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe","us":true},{"i":1,"company":null,"us":false}] '
-      + 'with no other text and no markdown fences.\n\n'
+      + '- Return the company name only, no descriptors.\n'
+      + '- Return one object per headline, using the headline number as i.\n\n'
       + chunk.map((h, i) => i + ': ' + h).join('\n');
 
     try {
