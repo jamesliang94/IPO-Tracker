@@ -66,47 +66,49 @@ function extractCompany(headline) {
   return name.length >= 3 ? name : null;
 }
 
-async function fetchForm(form) {
-  const url = 'https://www.sec.gov/cgi-bin/browse-edgar'
-    + '?action=getcurrent&type=' + encodeURIComponent(form)
-    + '&dateb=&owner=include&count=40&output=atom';
-
-  const response = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
-  if (!response.ok) {
-    console.log('FAILED ' + form + ': HTTP ' + response.status);
-    return [];
-  }
-
-  const xml = await response.text();
-  const entries = xml.split('<entry>').slice(1);
+async function fetchKalshi() {
+  const url = 'https://api.elections.kalshi.com/trade-api/v2/events/KXIPO-26?with_nested_markets=true';
   const results = [];
 
-  for (const entry of entries) {
-    const titleMatch = entry.match(/<title>([^<]*)<\/title>/);
-    const linkMatch = entry.match(/href="([^"]*)"/);
-    const dateMatch = entry.match(/<updated>([^<]*)<\/updated>/);
-    if (!titleMatch) continue;
+  try {
+    const response = await fetch(url, { headers: { 'Accept': 'application/json' } });
+    if (!response.ok) {
+      console.log('KALSHI FAILED: HTTP ' + response.status);
+      return [];
+    }
 
-    const title = titleMatch[1];
-    const nameMatch = title.match(/^\S+\s+-\s+(.+?)\s*\(\d{7,10}\)/);
-    const cikMatch = title.match(/\((\d{7,10})\)/);
-    if (!nameMatch) continue;
-    if (!isRealCompany(nameMatch[1])) continue;
+    const data = await response.json();
+    const markets = (data.event && data.event.markets) || [];
 
-    const meta = FORMS[form];
-    results.push({
-      name: nameMatch[1].trim(),
-      cik: cikMatch ? cikMatch[1] : null,
-      status: meta.status,
-      confidence: meta.confidence,
-      signal: meta.signal,
-      date: dateMatch ? dateMatch[1].slice(0, 10) : new Date().toISOString().slice(0, 10),
-      source: linkMatch ? linkMatch[1] : null
-    });
+    for (const market of markets) {
+      if (market.status !== 'active') continue;
+
+      const name = (market.yes_sub_title || market.no_sub_title || '').trim();
+      if (!name) continue;
+
+      const raw = market.yes_bid_dollars || market.last_price_dollars || '0';
+      const pct = Math.round(parseFloat(raw) * 100);
+      if (!pct) continue;
+
+      results.push({
+        name: name,
+        cik: null,
+        status: 'rumored',
+        confidence: pct,
+        signal: 'Kalshi traders price ' + pct + '% odds of a 2026 IPO',
+        date: new Date().toISOString().slice(0, 10),
+        source: 'https://kalshi.com/markets/kxipo/ipos/kxipo-26'
+      });
+    }
+
+    results.sort((a, b) => b.confidence - a.confidence);
+    console.log('OK kalshi: ' + results.length + ' active markets');
+  } catch (error) {
+    console.log('KALSHI ERROR: ' + error.message);
   }
 
-  console.log('OK ' + form + ': ' + results.length + ' filings');
   return results;
+  
 }
 async function callGemini(prompt) {
   const key = process.env.GEMINI_API_KEY;
