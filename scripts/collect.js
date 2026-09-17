@@ -175,6 +175,8 @@ async function extractNamesWithGemini(headlines) {
       + '- Never return an exchange, city, country, month, or news outlet as the company.\n'
       + '- Return the company name only, no descriptors.\n'
       + '- Return one object per headline, using the headline number as i.\n\n'
+      + '- If a headline mentions several companies, return only the one whose IPO is the subject.\n'
+      + '- Strip all descriptors: "Chipmaker Altera" is "Altera", "AI startup Anthropic" is "Anthropic".\n'
       + chunk.map((h, i) => i + ': ' + h).join('\n');
 
     try {
