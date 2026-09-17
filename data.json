@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T15:59:52.234Z",
+  "updated": "2026-09-17T18:58:54.284Z",
   "summary": "",
   "companies": [
     {
@@ -30,11 +30,47 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2094989/000118518526004094/0001185185-26-004094-index.htm"
     },
     {
+      "name": "Star Integratia Ltd",
+      "cik": "0002099952",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2099952/000149315226043076/0001493152-26-043076-index.htm"
+    },
+    {
+      "name": "AM PM Group Ltd",
+      "cik": "0002049323",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2049323/000121390026100862/0001213900-26-100862-index.htm"
+    },
+    {
+      "name": "Star Fashion Culture Holdings Ltd",
+      "cik": "0002003061",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2003061/000121390026100856/0001213900-26-100856-index.htm"
+    },
+    {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 82,
-      "signal": "Kalshi traders price 82% odds of a 2026 IPO",
+      "confidence": 81,
+      "signal": "Kalshi traders price 81% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Databricks",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -42,8 +78,8 @@
       "name": "OpenAI",
       "cik": null,
       "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -60,8 +96,8 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 19,
-      "signal": "Kalshi traders price 19% odds of a 2026 IPO",
+      "confidence": 18,
+      "signal": "Kalshi traders price 18% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -102,15 +138,6 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Deel",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
       "name": "Ramp",
       "cik": null,
       "status": "rumored",
@@ -134,6 +161,15 @@
       "status": "rumored",
       "confidence": 4,
       "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Deel",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -175,15 +211,6 @@
     },
     {
       "name": "Anduril",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Databricks",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -874,33 +901,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226042435/0001493152-26-042435-index.htm"
-    },
-    {
-      "name": "QVC Group, Inc.",
-      "cik": "0001254699",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1254699/000110465926107125/0001104659-26-107125-index.htm"
-    },
-    {
-      "name": "Barrel Energy Inc.",
-      "cik": "0001631463",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1631463/000147793226005542/0001477932-26-005542-index.htm"
-    },
-    {
-      "name": "Brooks Automation",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
     }
   ]
 }
