@@ -33,9 +33,6 @@ const NEWS_QUERIES = [
   'IPO "filed confidentially" SEC',
   'startup "exploring an IPO"',
   '"considering an IPO" company',
-  'IPO "expected to list" Nasdaq NYSE',
-  '"public listing" company plans',
-  'company "kicks off" IPO roadshow',
   '"IPO" "early next year" company'
 ];
 
@@ -166,7 +163,7 @@ async function extractNamesWithGemini(headlines) {
   }
   if (headlines.length === 0) return null;
 
-  const BATCH = 25;
+  const BATCH = 60;
   const all = [];
   let failures = 0;
 
@@ -196,7 +193,7 @@ async function extractNamesWithGemini(headlines) {
       console.log('GEMINI batch at ' + start + ' failed: ' + error.message);
     }
 
-    await new Promise(r => setTimeout(r, 4000));
+    await new Promise(r => setTimeout(r, 8000));
   }
 
   console.log('OK gemini: parsed ' + all.length + ' of ' + headlines.length
@@ -365,9 +362,15 @@ async function main() {
     byKey[key] = market;
   }
 
-  const companies = Object.values(byKey)
+  const everything = Object.values(byKey);
+  const marketRows = everything.filter(c => /kalshi/i.test(c.signal || ''));
+  const rumorRows = everything.filter(c => c.status === 'rumored' && !/kalshi/i.test(c.signal || ''))
+    .sort((a, b) => ((b.firstSeen || b.date) || '').localeCompare((a.firstSeen || a.date) || ''))
+    .slice(0, 60);
+  const filingRows = everything.filter(c => c.status !== 'rumored')
     .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
-    .slice(0, 100);
+    .slice(0, 80);
+  const companies = marketRows.concat(rumorRows, filingRows);
 
   const output = {
     updated: new Date().toISOString(),
