@@ -260,6 +260,10 @@ async function fetchNews(watchlist) {
   }
 
   const aiNames = await extractNamesWithGemini(results.map(r => r.signal));
+  if (!aiNames) {
+    console.log('No AI extraction, keeping watchlist matches only');
+    for (const r of results) r.name = null;
+  }
   if (aiNames) {
     const seenIndexes = new Set(aiNames.map(a => a.i));
     for (const item of aiNames) {
