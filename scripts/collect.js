@@ -216,7 +216,7 @@ async function describeCompanies(names) {
   return out;
 }
 
-async function fetchNews() {
+async function fetchNews(watchlist) {
   const results = [];
 
   for (const query of NEWS_QUERIES) {
@@ -271,6 +271,14 @@ async function fetchNews() {
     }
   }
 
+  for (const r of results) {
+    if (r.name) continue;
+    const hit = (watchlist || []).find(w => new RegExp('\\b' + w.replace(/[.*+?^${}()|[\]\\]/g, '\\$&') + '\\b', 'i').test(r.signal || ''));
+    if (hit && /\bIPO\b|going public|public listing|S-1/i.test(r.signal || '')) {
+      r.name = hit;
+      r.confidence = 20;
+    }
+  }
   for (const r of results) {
     if (r.signal && NON_US_VENUE.test(r.signal) && !US_VENUE.test(r.signal)) {
       r.name = null;
@@ -362,7 +370,10 @@ async function main() {
     await new Promise(resolve => setTimeout(resolve, 500));
   }
 
-   const rumors = await fetchNews();
+  const kalshi = await fetchKalshi();
+  const watchlist = kalshi.map(m => m.name);
+
+  const rumors = await fetchNews(watchlist);
   for (const rumor of rumors) {
     const key = dedupeKey(rumor.name) + '|rumored';
     const prior = byKey[key];
@@ -376,12 +387,10 @@ async function main() {
     }
   }
 
-  const kalshi = await fetchKalshi();
   for (const market of kalshi) {
     const key = dedupeKey(market.name) + '|rumored';
     byKey[key] = market;
-  }
-
+  } 
   const everything = Object.values(byKey);
   const marketRows = everything.filter(c => /kalshi/i.test(c.signal || ''));
   const rumorRows = everything.filter(c => c.status === 'rumored' && !/kalshi/i.test(c.signal || ''))
