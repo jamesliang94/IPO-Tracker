@@ -29,7 +29,14 @@ const NEWS_QUERIES = [
   '"going public" "next year" startup',
   'IPO "as soon as" listing US',
   '"ADR" IPO "New York" listing',
-  'foreign company "US listing" IPO Nasdaq NYSE'
+  'foreign company "US listing" IPO Nasdaq NYSE',
+  'IPO "filed confidentially" SEC',
+  'startup "exploring an IPO"',
+  '"considering an IPO" company',
+  'IPO "expected to list" Nasdaq NYSE',
+  '"public listing" company plans',
+  'company "kicks off" IPO roadshow',
+  '"IPO" "early next year" company'
 ];
 
 const NEWS_STOPWORDS = new Set([
@@ -321,7 +328,11 @@ async function main() {
   const byKey = {};
 
   for (const company of existing.companies || []) {
-    if (company.cik) byKey[company.cik + '|' + company.status] = company;
+    if (/kalshi/i.test(company.signal || '')) continue;
+    const key = company.cik
+      ? company.cik + '|' + company.status
+      : dedupeKey(company.name) + '|' + company.status;
+    byKey[key] = company;
   }
 
   for (const form of Object.keys(FORMS)) {
@@ -334,10 +345,18 @@ async function main() {
     await new Promise(resolve => setTimeout(resolve, 500));
   }
 
-  const rumors = await fetchNews();
+   const rumors = await fetchNews();
   for (const rumor of rumors) {
     const key = dedupeKey(rumor.name) + '|rumored';
-    if (!byKey[key]) byKey[key] = rumor;
+    const prior = byKey[key];
+    if (prior) {
+      prior.signal = rumor.signal;
+      prior.source = rumor.source;
+      prior.date = rumor.date;
+    } else {
+      rumor.firstSeen = rumor.date;
+      byKey[key] = rumor;
+    }
   }
 
   const kalshi = await fetchKalshi();
