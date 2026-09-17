@@ -133,19 +133,7 @@ async function callGemini(prompt) {
       generationConfig: {
         temperature: 0,
         maxOutputTokens: 30000,
-        responseMimeType: 'application/json',
-        responseSchema: {
-          type: 'ARRAY',
-          items: {
-            type: 'OBJECT',
-            properties: {
-              i: { type: 'INTEGER' },
-              company: { type: 'STRING', nullable: true },
-              us: { type: 'BOOLEAN' }
-            },
-            required: ['i', 'company', 'us']
-          }
-        }
+        responseMimeType: 'application/json'
       }
     })
   });
@@ -199,6 +187,33 @@ async function extractNamesWithGemini(headlines) {
   console.log('OK gemini: parsed ' + all.length + ' of ' + headlines.length
     + ' headlines (' + failures + ' batch failures)');
   return all.length > 0 ? all : null;
+}
+
+async function describeCompanies(names) {
+  if (!process.env.GEMINI_API_KEY || names.length === 0) return {};
+  const out = {};
+  const BATCH = 40;
+
+  for (let start = 0; start < names.length; start += BATCH) {
+    const chunk = names.slice(start, start + BATCH);
+    const prompt = 'For each numbered company below, write what it does in at most 10 words. '
+      + 'Be factual and specific about the industry. If you do not know the company, return null.\n\n'
+      + 'Return ONLY a JSON array like [{"i":0,"desc":"Biotech developing cardiac therapies"},{"i":1,"desc":null}].\n\n'
+      + chunk.map((n, i) => i + ': ' + n).join('\n');
+
+    try {
+      const parsed = await callGemini(prompt);
+      for (const item of parsed) {
+        if (item.desc) out[chunk[item.i]] = item.desc;
+      }
+    } catch (error) {
+      console.log('DESC batch at ' + start + ' failed: ' + error.message);
+    }
+    await new Promise(r => setTimeout(r, 8000));
+  }
+
+  console.log('OK descriptions: ' + Object.keys(out).length + ' of ' + names.length);
+  return out;
 }
 
 async function fetchNews() {
@@ -261,7 +276,12 @@ async function fetchNews() {
       r.name = null;
     }
   }
-
+  
+  const cutoff = new Date(Date.now() - 90 * 86400000).toISOString().slice(0, 10);
+  for (const r of results) {
+    if (r.date && r.date < cutoff) r.name = null;
+  }
+  
   const named = results.filter(r => r.name && isRealCompany(r.name));
 
   const seen = new Set();
@@ -366,10 +386,18 @@ async function main() {
   const marketRows = everything.filter(c => /kalshi/i.test(c.signal || ''));
   const rumorRows = everything.filter(c => c.status === 'rumored' && !/kalshi/i.test(c.signal || ''))
     .sort((a, b) => ((b.firstSeen || b.date) || '').localeCompare((a.firstSeen || a.date) || ''))
+    .filter(c => (c.firstSeen || c.date || '') >= new Date(Date.now() - 90 * 86400000).toISOString().slice(0, 10))
     .slice(0, 60);
   const filingRows = everything.filter(c => c.status !== 'rumored')
     .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
     .slice(0, 80);
+  
+  const needDesc = filingRows.filter(c => !c.description).map(c => c.name);
+  const descriptions = await describeCompanies(needDesc);
+  for (const row of filingRows) {
+    if (descriptions[row.name]) row.description = descriptions[row.name];
+  }
+  
   const companies = marketRows.concat(rumorRows, filingRows);
 
   const output = {
