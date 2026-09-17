@@ -1,7 +1,268 @@
 {
-  "updated": "2026-09-16T19:44:21.470Z",
+  "updated": "2026-09-17T14:43:23.625Z",
   "summary": "",
   "companies": [
+    {
+      "name": "Sensei Harbor Corp.",
+      "cik": "0002112634",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2112634/000168316826007209/0001683168-26-007209-index.htm"
+    },
+    {
+      "name": "Tracx Logis Ltd.",
+      "cik": "0002114145",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026100785/0001213900-26-100785-index.htm"
+    },
+    {
+      "name": "Oura",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 96,
+      "signal": "Kalshi traders price 96% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Anthropic",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 84,
+      "signal": "Kalshi traders price 84% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "OpenAI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Airwallex",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Discord",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 20,
+      "signal": "Kalshi traders price 20% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Plaid",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 8,
+      "signal": "Kalshi traders price 8% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Skims",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 7,
+      "signal": "Kalshi traders price 7% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Kraken",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 5,
+      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Mistral AI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 5,
+      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Gopuff",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 5,
+      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Deel",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Ripple Labs",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Rippling",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Beast Industries",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Vanta",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Celonis",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Anduril",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Ramp",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Databricks",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Stripe",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Applied Intuition",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Glean",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "xAI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "DeepSeek",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Brex",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Anysphere (Cursor)",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Bloomberg",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
     {
       "name": "Cardiol Therapeutics Inc.",
       "cik": "0001702123",
@@ -48,13 +309,67 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1995704/000149315226042872/0001493152-26-042872-index.htm"
     },
     {
-      "name": "Syngenta Confidentially Files",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Syngenta Confidentially Files for Hong Kong IPO, Targeting at Least $5 Billion - finance.biggo.com",
+      "name": "Change Agents Corporation.",
+      "cik": "0001630212",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
       "date": "2026-09-16",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTWFtT2JXNjQxZlBPa0p2ZTBPUjFqbTkzT0s0enVTN0d4cHplTWVsc19sWkRLOFNhM2o4NE9CbHNJdDN5TUE2OFUwVW1jcUlTblZtdklKT2RkVklTSjRyNWEzejFaN1ZCNHdxWXNYekg3cm95NVE?oc=5"
+      "source": "https://www.sec.gov/Archives/edgar/data/1630212/000121390026100576/0001213900-26-100576-index.htm"
+    },
+    {
+      "name": "NuvOx Therapeutics, Inc.",
+      "cik": "0001966126",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/1966126/000121390026100586/0001213900-26-100586-index.htm"
+    },
+    {
+      "name": "Dror Ortho-Design, Inc.",
+      "cik": "0001282980",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/1282980/000121390026100567/0001213900-26-100567-index.htm"
+    },
+    {
+      "name": "Lower Cross Acquisitions Corp",
+      "cik": "0002147457",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2147457/000118518526004071/0001185185-26-004071-index.htm"
+    },
+    {
+      "name": "Lannister Mining Corp.",
+      "cik": "0001851535",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/1851535/000121390026100639/0001213900-26-100639-index.htm"
+    },
+    {
+      "name": "Koei Group Co., Ltd.",
+      "cik": "0002070087",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2070087/000149315226042913/0001493152-26-042913-index.htm"
+    },
+    {
+      "name": "STURM RUGER &amp; CO INC",
+      "cik": "0000095029",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/95029/000117494726000879/0001174947-26-000879-index.htm"
     },
     {
       "name": "Oceanhawk Acquisition II Corp.",
@@ -156,15 +471,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1649373/000110465926107804/0001104659-26-107804-index.htm"
     },
     {
-      "name": "Change Agents Corporation.",
-      "cik": "0001630212",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1630212/000121390026100214/0001213900-26-100214-index.htm"
-    },
-    {
       "name": "Bitari Inc",
       "cik": "0002091680",
       "status": "filed",
@@ -232,18 +538,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand - reuters.com",
+      "signal": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand - Reuters",
       "date": "2026-09-15",
       "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkFQajNXclRkalhsUnFQNTNSeW5wUzVvZU1aSUhITHItTTN2VW1yV2V4NGtzZ0xaa1NlcjFwZXotcldDRkt2cGRmbzExa1BycXVJMElxTHlwOGVaSGd2cDJmeWJGSm1xeXc0NzZ5akQydlBJa1lCVkJQajRiWmxzS2dZc0g1ZFdKSVlBOEFNZjZUU3M?oc=5"
-    },
-    {
-      "name": "Syngenta",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Syngenta files for Hong Kong IPO, aiming to raise at least $5 billion, sources say - reuters.com",
-      "date": "2026-09-15",
-      "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWXluWEpvOWJoTzMyMVVhWmZOS2ZfT1owOUZnLThYaHRvb2NfSEMtLTJkZVhxNlowaDNWWE4xTlhIazlSc0NaNFBWajE4UXhYeHJnb3VUYWcwVl9tbmFlOWljdG9kdUtFMzEzdTdULVA3RHc5eEJ5ZDE1SGV4eExEWmY0VWlEWHVCS2stOENaTk1LTHZFcTRiY0w4YS1VZkU4aUlWVzd1bGJYZ2p0TE02cC1lcFN5b3BjQUFwT0Y2LWl5UGpfM2V0dWVVazlCdTA?oc=5"
     },
     {
       "name": "Bamboo Insurance Services, Inc.",
@@ -520,27 +817,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic, OpenAI IPO paths diverge as firms sound alarm bells for civilization - investmentnews.com",
+      "signal": "Anthropic, OpenAI IPO paths diverge as firms sound alarm bells for civilization - InvestmentNews",
       "date": "2026-09-14",
       "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPdWNsN2FEMS1OckY4TUxNaDRwZ2NsbDNCeTFvZ1BmbGctdExIckRYMmdKUExId1gzWU50Z0FRV1ZmWUtDRlY3RVZ3NFVON1lUcS1jZm85RWpsTkhIcEZRMWVCajZUZm9HTE81OUpGVGpxcTZyRXB5UzlpeWJMR2FDU2lXRGxhLTUwaFVKOWw5T0ZJZTFQNmRLaTZncW9CQXc2OExtY0thUVRndjI4N1hka1ZYNFBHRXRPdllOV01TWQ?oc=5"
-    },
-    {
-      "name": "OpenAI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "OpenAI's IPO Plans Delayed Due to AI Safety Issues - finway.com.ua",
-      "date": "2026-09-13",
-      "source": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE03cVF1ZnB1UkxQUjVxZHZfRkJXU0tocms3clRBX0tYUGdVdUxnMUw4c0pXSUExdXRESUdsT0o0bUxpVDU5X2xibUg4OGN2YkRPdmVpamhKdnVJVEVIWHpWLVc4OA?oc=5"
-    },
-    {
-      "name": "Anthropic Opens Claude",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Anthropic Opens Claude Mythos To 150 Companies Just A Day After IPO Filing - Yellow.com",
-      "date": "2026-09-12",
-      "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOS2lkeEswemtVTW0xMzEyODM4WDNWYjlWTldVNXlPc3hVckE1bU9DWXZsSXRfQ1VTVmFfOUZ1VGxyb0RvWlhiektZUnRSUHk2Wjh1dEVHRGtpdGZ3bW5lalJfc0dOc3BtdHVUWm91V2hCeWt4ZU5YT2ltYzlDMjMzeEhvdFlLS28?oc=5"
     },
     {
       "name": "RUI Holdings Inc",
@@ -622,285 +901,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/1631463/000147793226005542/0001477932-26-005542-index.htm"
-    },
-    {
-      "name": "SeeQC, Inc.",
-      "cik": "0001779977",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026099300/0001213900-26-099300-index.htm"
-    },
-    {
-      "name": "Accelevation Holdings Corp.",
-      "cik": "0002141406",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141406/000162828026061542/0001628280-26-061542-index.htm"
-    },
-    {
-      "name": "DENISON MINES CORP.",
-      "cik": "0001063259",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1063259/000110465926107121/0001104659-26-107121-index.htm"
-    },
-    {
-      "name": "Lixiang Education Holding Co. Ltd.",
-      "cik": "0001814067",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1814067/000121390026099306/0001213900-26-099306-index.htm"
-    },
-    {
-      "name": "Air Water Ventures Ltd",
-      "cik": "0002092314",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/2092314/000121390026099277/0001213900-26-099277-index.htm"
-    },
-    {
-      "name": "iOThree Ltd",
-      "cik": "0001997637",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1997637/000121390026099264/0001213900-26-099264-index.htm"
-    },
-    {
-      "name": "SMITH &amp; NEPHEW PLC",
-      "cik": "0000845982",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/845982/000095010326013830/0000950103-26-013830-index.htm"
-    },
-    {
-      "name": "Eloxx Pharmaceuticals, Inc.",
-      "cik": "0001035354",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1035354/000119312526389422/0001193125-26-389422-index.htm"
-    },
-    {
-      "name": "Meey Global Corp",
-      "cik": "0002134106",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/2134106/000121390026099370/0001213900-26-099370-index.htm"
-    },
-    {
-      "name": "Einride AB",
-      "cik": "0002095096",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/2095096/000149315226042440/0001493152-26-042440-index.htm"
-    },
-    {
-      "name": "Smarter Web Company",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "The Smarter Web Company's IPO of Perpetual Shares - The Cryptonomist",
-      "date": "2026-09-11",
-      "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rLUFHdW92RUY1bHdZVTNkRlZ1RG1KTkF4VmZsa2xVRkZza2ZsbWRiRG5sY25zc1A4bUFXeEFGcllOT3hMa2FTZjNlNXRYVlRpdEJIeVV4YkZfc2J1MXJpNzNSeEI1ejRrOFZmc3lDTQ?oc=5"
-    },
-    {
-      "name": "Intel-Backed Altera Prepares",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Intel-Backed Altera Prepares $2 Billion-Plus IPO As Semiconductor Listings Rebound - Tekedia",
-      "date": "2026-09-11",
-      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPajNUSVA5SkJSQU0xQWJLQTZ6Uy04eHMxN1hDUTNaMUFObURzb3pFSUdqQVdQVG0tU3E2MkhUdFg4THF4ZDRnaXZvendHUHVqM0x3UmdCV1V3LXl2cnJzZWhlcXFfUE0yNlpwMUo0SnNfU3NNeFBMaUpNLW44a0xpY05wb3VLUjNJMndPa3ZNWlZVN0JhTTJONF80UmJZbVhfQW9ueTF1bmN4UQ?oc=5"
-    },
-    {
-      "name": "VenHub Global, Inc.",
-      "cik": "0001972234",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1972234/000121390026098864/0001213900-26-098864-index.htm"
-    },
-    {
-      "name": "Hometown Financial Group, Inc./MD",
-      "cik": "0002152644",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2152644/000119312526388025/0001193125-26-388025-index.htm"
-    },
-    {
-      "name": "Rafex Gold Corp.",
-      "cik": "0002152921",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2152921/000168316826007060/0001683168-26-007060-index.htm"
-    },
-    {
-      "name": "NewGenIvf Group Ltd",
-      "cik": "0001981662",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1981662/000121390026098823/0001213900-26-098823-index.htm"
-    },
-    {
-      "name": "3M CO",
-      "cik": "0000066740",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/66740/000110465926106711/0001104659-26-106711-index.htm"
-    },
-    {
-      "name": "Brooks Automation Files",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Brooks Automation Files Confidentially for IPO - WSJ",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQVS1DdU1PS3g3Q3hZcWp2SGM0LWJOd2JmX1plcUItaHYzRXFJSUhsMWptUjFLOU90VmxtLVkyUUtUa1FXUTVIMGZXcmxuNHlJY0h3LUFaVXNCS3l4SEVDenFXaWxSNkJxdjRvN2drOWpQTlZQZU81c2RzWDZobklXY1FyRzNaZm50elRidHlESGYyLWpPWXNrdjR3?oc=5"
-    },
-    {
-      "name": "Exclusive-Silver Lake Intel-backed",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Exclusive-Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - WTVB",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbnp1aXQyZXBWM3ltT2ZRRjNTTFZpMVlNT2VLdEY1VXFJd0gxQWhMWTZSTDVGeTl6ODIwQVZQaEQ3WUMwdkgxWmluUWpqMnhSSlQ2TllSVW5mcmtNRktZX0pJQndZQmloX0V4X290aDFiaUdQaUZVbWtnWTZjclEtU1ByakFQWWNlOERWOVZrU1UtM2I2WERWaS1Xc3N4QklOTnczYU54WVJxaktSUzNXVk43b1BYeEFqdHZLUEllU3BnTHd6d2dfZTkyRFRJZEhKNEdVclhucURTSVBIVXJr?oc=5"
-    },
-    {
-      "name": "EXCLUSIVE Silver Lake",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "EXCLUSIVE: Silver Lake, Intel-backed Altera prepares IPO that could raise over $2 billion as early as 2026, sources say - reuters.com",
-      "date": "2026-09-10",
-      "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWlhfdjkzd3dXZ3dqYVIxSW5HemVEb0EwdGUzWFBIUGJmWHpUN1dVWXBPeUJpQXh1SzJnQzhkbDJLSklhNlFZV1pZZFNPLXNMWVRXN0ZJeEF3eEw3ZnBDa0NHY3R3V1F2bTM0QU54TVFLMHZWdUo1WFNRMHg1NWJYbnFvMzlVODlndUhLcFR3X2c4WXNRdHRRbUowdEczWjl4Z0t0VDROWkl3TmdwdDNmNk1mRzlRWk9fbXc?oc=5"
-    },
-    {
-      "name": "AIxCrypto Holdings, Inc.",
-      "cik": "0001460702",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1460702/000149315226041886/0001493152-26-041886-index.htm"
-    },
-    {
-      "name": "Laser Photonics Corp",
-      "cik": "0001807887",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1807887/000149315226041875/0001493152-26-041875-index.htm"
-    },
-    {
-      "name": "Orion180 Insurance Group Inc.",
-      "cik": "0002124472",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2124472/000162828026061012/0001628280-26-061012-index.htm"
-    },
-    {
-      "name": "Stewards, Inc.",
-      "cik": "0001795851",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1795851/000166357726000264/0001663577-26-000264-index.htm"
-    },
-    {
-      "name": "BANK OF MONTREAL /CAN/",
-      "cik": "0000927971",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/927971/000121465926011498/0001214659-26-011498-index.htm"
-    },
-    {
-      "name": "Football Manager SPAC Inc.",
-      "cik": "0002133939",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2133939/000110465926106403/0001104659-26-106403-index.htm"
-    },
-    {
-      "name": "SOBR Safe, Inc.",
-      "cik": "0001425627",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226005494/0001477932-26-005494-index.htm"
-    },
-    {
-      "name": "StableCoinX Inc.",
-      "cik": "0002080215",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026098438/0001213900-26-098438-index.htm"
-    },
-    {
-      "name": "iPower Inc.",
-      "cik": "0001830072",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826007035/0001683168-26-007035-index.htm"
-    },
-    {
-      "name": "Pasqal Holding SA",
-      "cik": "0002119292",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2119292/000121390026098421/0001213900-26-098421-index.htm"
-    },
-    {
-      "name": "MapLight Therapeutics, Inc.",
-      "cik": "0001770069",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1770069/000119312526386648/0001193125-26-386648-index.htm"
     }
   ]
 }
