@@ -156,7 +156,7 @@
           .sort((a, b) => (b.confidence || 0) - (a.confidence || 0));
 
         const rest = all.filter(c => !isMarket(c))
-          .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+          .sort((a, b) => ((b.firstSeen || b.date) || '').localeCompare((a.firstSeen || a.date) || ''));
 
         renderColumn(rest.filter(c => c.status === 'filed'), 'filed', 'filed-count', 'Nothing filed recently.');
         renderColumn(rest.filter(c => c.status === 'rumored'), 'rumored', 'rumored-count', 'No rumors tracked.');
