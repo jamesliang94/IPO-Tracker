@@ -17,6 +17,7 @@
     .card.filed { border-left: 3px solid #2563eb; }
     .card.rumored { border-left: 3px solid #d97706; }
     .card.priced { border-left: 3px solid #16a34a; }
+    .card.market { border-left: 3px solid #7c3aed; }
 
     .name { font-weight: 600; font-size: 16px; display: block; color: inherit; text-decoration: none; }
     a.name:hover { text-decoration: underline; color: #1e40af; }
@@ -32,10 +33,10 @@
     summary::before { content: '\25b8  '; }
     details[open] summary::before { content: '\25be  '; }
 
-    .priced-block { margin-top: 32px; border-top: 1px solid #e5e7eb; padding-top: 12px; }
-    .priced-block summary { text-transform: uppercase; letter-spacing: 0.05em; }
-    .priced-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 24px; margin-top: 14px; }
-    @media (max-width: 760px) { .priced-grid { grid-template-columns: 1fr; } }
+    .block { margin-top: 32px; border-top: 1px solid #e5e7eb; padding-top: 12px; }
+    .block summary { text-transform: uppercase; letter-spacing: 0.05em; }
+    .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px 24px; margin-top: 14px; }
+    @media (max-width: 760px) { .grid2 { grid-template-columns: 1fr; } }
   </style>
 </head>
 <body>
@@ -53,15 +54,26 @@
     </div>
   </div>
 
-  <div class="priced-block">
+  <div class="block">
+    <details open>
+      <summary id="market-summary">Prediction markets</summary>
+      <div class="grid2" id="markets"></div>
+    </details>
+  </div>
+
+  <div class="block">
     <details>
       <summary id="priced-summary">Priced</summary>
-      <div class="priced-grid" id="priced"></div>
+      <div class="grid2" id="priced"></div>
     </details>
   </div>
 
   <script>
     const VISIBLE = 10;
+
+    function isMarket(company) {
+      return /kalshi/i.test(company.signal || '');
+    }
 
     function fmtStamp(iso) {
       if (!iso) return '';
@@ -74,16 +86,16 @@
       return date + ' \u00b7 ' + days + ' days ago';
     }
 
-       function buildCard(company) {
+    function buildCard(company) {
+      const market = isMarket(company);
       const card = document.createElement('div');
-      card.className = 'card ' + company.status;
+      card.className = 'card ' + (market ? 'market' : company.status);
 
       const title = company.source
         ? '<a class="name" href="' + company.source + '" target="_blank" rel="noopener">' + company.name + '</a>'
         : '<span class="name">' + company.name + '</span>';
 
-      const isMarket = /kalshi/i.test(company.signal || '');
-      const chance = isMarket && company.confidence != null
+      const chance = (market && company.confidence != null)
         ? '<span class="chance">' + company.confidence + '% chance</span>'
         : '';
 
@@ -93,11 +105,11 @@
         + '<div class="stamp">' + fmtStamp(company.date) + '</div>';
       return card;
     }
-    
+
     function renderColumn(list, containerId, countId, emptyText) {
       const container = document.getElementById(containerId);
       container.innerHTML = '';
-      document.getElementById(countId).textContent = '(' + list.length + ')';
+      if (countId) document.getElementById(countId).textContent = '(' + list.length + ')';
 
       if (list.length === 0) {
         container.innerHTML = '<div class="empty">' + emptyText + '</div>';
@@ -116,12 +128,20 @@
         rest.forEach(c => holder.appendChild(buildCard(c)));
         details.appendChild(holder);
         details.addEventListener('toggle', () => {
-          summary.textContent = details.open
-            ? 'Hide ' + rest.length
-            : 'Show ' + rest.length + ' more';
+          summary.textContent = details.open ? 'Hide ' + rest.length : 'Show ' + rest.length + ' more';
         });
         container.appendChild(details);
       }
+    }
+
+    function renderFlat(list, containerId, emptyText) {
+      const container = document.getElementById(containerId);
+      container.innerHTML = '';
+      if (list.length === 0) {
+        container.innerHTML = '<div class="empty">' + emptyText + '</div>';
+        return;
+      }
+      list.forEach(c => container.appendChild(buildCard(c)));
     }
 
     fetch('data.json')
@@ -130,21 +150,23 @@
         document.getElementById('updated').textContent =
           'Last updated ' + new Date(data.updated).toLocaleString();
 
-        const all = (data.companies || [])
-          .slice()
+        const all = (data.companies || []).slice();
+
+        const markets = all.filter(isMarket)
+          .sort((a, b) => (b.confidence || 0) - (a.confidence || 0));
+
+        const rest = all.filter(c => !isMarket(c))
           .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
-        renderColumn(all.filter(c => c.status === 'filed'), 'filed', 'filed-count', 'Nothing filed recently.');
-        renderColumn(all.filter(c => c.status === 'rumored'), 'rumored', 'rumored-count', 'No rumors tracked.');
+        renderColumn(rest.filter(c => c.status === 'filed'), 'filed', 'filed-count', 'Nothing filed recently.');
+        renderColumn(rest.filter(c => c.status === 'rumored'), 'rumored', 'rumored-count', 'No rumors tracked.');
 
-        const priced = all.filter(c => c.status === 'priced');
-        const pricedBox = document.getElementById('priced');
-        pricedBox.innerHTML = '';
-        if (priced.length === 0) {
-          pricedBox.innerHTML = '<div class="empty">No priced deals.</div>';
-        } else {
-          priced.forEach(c => pricedBox.appendChild(buildCard(c)));
-        }
+        renderFlat(markets, 'markets', 'No active markets.');
+        document.getElementById('market-summary').textContent =
+          'Prediction markets \u2014 ' + markets.length + ' on Kalshi';
+
+        const priced = rest.filter(c => c.status === 'priced');
+        renderFlat(priced, 'priced', 'No priced deals.');
         document.getElementById('priced-summary').textContent =
           'Priced \u2014 ' + priced.length + ' deals';
       })
