@@ -1,76 +1,13 @@
 {
-  "updated": "2026-09-17T18:58:54.284Z",
+  "updated": "2026-09-17T19:18:00.747Z",
   "summary": "",
   "companies": [
-    {
-      "name": "Sensei Harbor Corp.",
-      "cik": "0002112634",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-17",
-      "source": "https://www.sec.gov/Archives/edgar/data/2112634/000168316826007209/0001683168-26-007209-index.htm"
-    },
-    {
-      "name": "Tracx Logis Ltd.",
-      "cik": "0002114145",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-17",
-      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026100785/0001213900-26-100785-index.htm"
-    },
-    {
-      "name": "RUI Holdings Inc",
-      "cik": "0002094989",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-17",
-      "source": "https://www.sec.gov/Archives/edgar/data/2094989/000118518526004094/0001185185-26-004094-index.htm"
-    },
-    {
-      "name": "Star Integratia Ltd",
-      "cik": "0002099952",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-17",
-      "source": "https://www.sec.gov/Archives/edgar/data/2099952/000149315226043076/0001493152-26-043076-index.htm"
-    },
-    {
-      "name": "AM PM Group Ltd",
-      "cik": "0002049323",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-17",
-      "source": "https://www.sec.gov/Archives/edgar/data/2049323/000121390026100862/0001213900-26-100862-index.htm"
-    },
-    {
-      "name": "Star Fashion Culture Holdings Ltd",
-      "cik": "0002003061",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-17",
-      "source": "https://www.sec.gov/Archives/edgar/data/2003061/000121390026100856/0001213900-26-100856-index.htm"
-    },
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
       "confidence": 81,
       "signal": "Kalshi traders price 81% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Databricks",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -84,11 +21,11 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Oura",
+      "name": "Stripe",
       "cik": null,
       "status": "rumored",
-      "confidence": 96,
-      "signal": "Kalshi traders price 96% odds of a 2026 IPO",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -98,6 +35,15 @@
       "status": "rumored",
       "confidence": 18,
       "signal": "Kalshi traders price 18% odds of a 2026 IPO",
+      "date": "2026-09-17",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Oura",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 96,
+      "signal": "Kalshi traders price 96% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -219,7 +165,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Stripe",
+      "name": "Databricks",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -298,6 +244,219 @@
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
       "date": "2026-09-17",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Altera",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand - reuters.com",
+      "date": "2026-09-15",
+      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkFQajNXclRkalhsUnFQNTNSeW5wUzVvZU1aSUhITHItTTN2VW1yV2V4NGtzZ0xaa1NlcjFwZXotcldDRkt2cGRmbzExa1BycXVJMElxTHlwOGVaSGd2cDJmeWJGSm1xeXc0NzZ5akQydlBJa1lCVkJQajRiWmxzS2dZc0g1ZFdKSVlBOEFNZjZUU3M?oc=5"
+    },
+    {
+      "name": "SambaNova",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "SambaNova Stock: Whisking Toward an IPO? - Access IPOs",
+      "date": "2026-08-04",
+      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZOTBaanJRcy0zaG41WjItMjZiSmRnYzZZUUsyeDZ2a2hhcjlxWXN5WURCM2U3RFV5MTJQSXVTMVU1Z2liUDRqSlpWWV9VcDd0eDMyVUln?oc=5",
+      "firstSeen": "2026-08-04"
+    },
+    {
+      "name": "Inspire Brands",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Inspire Brands Files Confidentially for IPO, Eyes Up to $2 Billion - L’Express Franchise",
+      "date": "2026-06-08",
+      "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMWhXWlo0RHd4RmRhMjBoOWJxc0JlbFVSLWR4c0FTb2F6LTVwTTFGZ01vNUJDRzFjOEU3V1JHRUcxeWVsdzN0eDEzaW9sdGRTSFVQLWExNUcxSmh1VGtIazA3ZzVDOS1mQmxaN08zMXVUcmlyMDB1YmtmSW94S2xJZTAzZHpPWjVVcy1ZWThGUWNCaWRTR2FPcDZuUi1tREVDQXZTTlpqd1M5b3c?oc=5",
+      "firstSeen": "2026-06-08"
+    },
+    {
+      "name": "FalconX",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "FalconX Files for IPO – And It's a Very Different Company Than the One That Raised at $8 Billion - blockhead.co",
+      "date": "2026-05-29",
+      "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbmdEU0M5S0ZMYWRGRmQ5SzdtMkVMZ011dURocjlrWUstbVRoUHAtXy03MHNnc1VWUUotOFU3emtrcElpMWxlU1IyUVdub3NsUTZkdkJoT3VXS01JajdhSC03YWgwcnkxRmhreTc4anZYTkcwZWhNSEZ1OEp0QXAyaUpIVzBmVlE5bHdVNVBzMExoMEhJRFdwbkFvSWZnWkJpZi1GbkRTbFVVUQ?oc=5",
+      "firstSeen": "2026-05-29"
+    },
+    {
+      "name": "Blockchain.com",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Blockchain.com Confidentially Files For U.S. IPO, Joining Wave Of Crypto Listings - Bitcoin Magazine",
+      "date": "2026-05-21",
+      "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5PdWN0OWRCb3E2dUt4Q0NybHRCeXlfQVZ5V2lVdWhmZlZHMDZobzd0V0RJSFg1cnVmVWJ5WndfZ2NEczRlZzhOWXVZa0M2THNEZEEzRWRUYXN1WXVtVEFlTXZpT0Jnb2ZjTmFjVEkwMVktSm1mZEF5RURJblU?oc=5",
+      "firstSeen": "2026-05-21"
+    },
+    {
+      "name": "SpaceX",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "SpaceX Files Confidentially for Potential Record IPO - Sharecafe",
+      "date": "2026-04-02",
+      "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ3RneEVFbXpoX1l3SG8wSDViQlRRTzJ1d2VZa1EzZXo1OWxKQTk2a21JX0hUdXVyeFRxUExxQUdkU2NESzhKbldzSjlxamhUNUMtd05NTGFUZkV1dmh1bTYyd2l6QVc3RjVvYU1rWV95V2xkYnloN3d3Tmw4VmVUUkFYdkxTbllKb1BINWtsM1B1Uk9paG9uUQ?oc=5",
+      "firstSeen": "2026-04-02"
+    },
+    {
+      "name": "Medline",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Protective Medical Apparel Maker Medline Considering An IPO - Forbes",
+      "date": "2025-09-24",
+      "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNa1FVRDU5Rm5ZUDJMY0NlV3J1Qk4wU0RRUXNmM1Y4SnpEaUdrNnd0THcyMWcyQVo3SUpVVl9tNVFndU41Q1dUWldUVW9KSGNCaTJBMVh4M2JUTXZyLXd4UFZwYjhSbW5DVmF5aXRqSmdxb1RFNG50ZzdyTGQzbWhpdUJEcjFWMDkteEVUTUJ5X1NXLU1oTDBnSDRKb3ZTZTZqYTk0M1cydjVXVlNGc05PbFh3?oc=5",
+      "firstSeen": "2025-09-24"
+    },
+    {
+      "name": "Bullish",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Peter Thiel-Backed Bullish Joins Crypto IPO Wave with SEC Filing in the US - Yellow.com",
+      "date": "2025-06-11",
+      "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeTZpQnktYk1kRUdIeHQ0YUl5cUxRVzViNnllTEpJY2syTm5wR3FoeTYwekE0WU5XRVNNQzA4OGV3U1VQVnRZZHk4SjVCaFF6ckVoNThldTFMcWsxY1AyTVZUN1NUbjlZWXE2bHkxaWVwaWZlRFJZUHRhb2tyZlpwNnlGVHJLMTBuRTQta0JRRnhlZmdDRW9XYzJqVjhMeHM?oc=5",
+      "firstSeen": "2025-06-11"
+    },
+    {
+      "name": "Figma",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Figma confidentially files for IPO more than a year after ditching Adobe deal - cnbc.com",
+      "date": "2025-04-15",
+      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMW5BLU5aY2V5SVBXa00wUEJINFcwdDE3aTRGM18yRXBQTmpOZDlRSDVqRGV5YU5pM0tuZF82YzB1b1BnbTBCLVVqdm43S2xIZ0pGdnYycENIS3JVMDVYOEN6YlpCMjFNZ0pnOWVGNWJvOFh6bGVySUJWM09vakFwUERpaGRQTklJRDZka19ldWJIQWdjcmZoQ2Y5QWxWMmRZOHdOaVlYa9IBrAFBVV95cUxQbHVZUGhPbllHcVh6SU1taThmV3JnUWFYME5IWTV5WndQZHpielpvNnFzUkJFZ3d0MnJTY0FtZjZ0VWhONHZKdEZYbXluQVVFSW5WME05YnNuYzhCUEo2TjdwLUZ1aDBNd2pkVTFkNWNYTVRiaUdLT1ZHU0tsX2FsbjJlbGZCdFJVY1huYXNtU283YUJOMTRweFV1dE1nS3h4TE9SN0lfaHFMVWQw?oc=5",
+      "firstSeen": "2025-04-15"
+    },
+    {
+      "name": "Klarna",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Buy now, pay later provider Klarna says it filed confidentially for U.S. IPO - cnbc.com",
+      "date": "2024-11-13",
+      "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPLVlBeXc1Tzdoc1lkVzhLcm5mMU8yR0d4UXMtNlNZWTR6TC1lRnBIUC1XempaZURjdGJ3Z0V1TnlvMXZDTVNHUi1hVTZmRDYtNUl2OWNRV1lNb2NuazhacF94RVBvY0lZQWpyRW12bEU3bTFnTEFlaVk4S010UDJzeC01RmdXVmZ0NnRhdNIBkgFBVV95cUxPdHpZSkg3b1UtZ0RQeFdUaHc0MWpzemZjcThtdGJLZE5YZ3l1MElRd01oZG4wT1pEcmZaWWVnYkxEb3NJSUFNOTVJRHBGZFowUmdLRmNMeTZpLWxpVl9YVG1DdkpmZzk3aS1tSGdvNDFYc0U2VWwzWWxUc180Vld5UGFrRWwxRWYxNm1HTW1FYkxLZw?oc=5",
+      "firstSeen": "2024-11-13"
+    },
+    {
+      "name": "Specialty Building Products",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Specialty Building Products Is Said to Seek $750 Million in IPO - Bloomberg.com",
+      "date": "2024-07-30",
+      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRV9pcXBJYk9COFp5QWFLUGd5QkozTFo4X2NmNmFHQWpFbG1ZXzVHTDBQMDRSZjNlSnpIMWFTLVkyM2VpbG5Fei1WZGMzUVF3Qm5HU2Y0N0tjSHdZdzlzSjU0S0lCbWhkQkZleXB2TzFlaFhwSjdhUGUtLVgzbkV3b1VhaUdvRXgxd1QxSlB2ZUlpeDc2VHQzSlJsanVrQnJISFR4TWVKa1pIeHJzbHJtVGZ4aw?oc=5",
+      "firstSeen": "2024-07-30"
+    },
+    {
+      "name": "Viking Holdings",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Cruise Operator Viking Holdings Files Confidentially for US IPO - Bloomberg.com",
+      "date": "2024-02-23",
+      "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa3UzTWZDM2ZMUHV2YU9SLUk2SW1taHlGTkxnbFRnU2Q5M3J1cGl2TTRoNlRwQVY0MXlrM0dsbTlNN2NfWVhFaEpLSTBXLTN4Yzc3Y0NzQWpVSFVNWXZjVV81TDdTOEhUeGJFYnIwTEtsaUtsY0tnQVg3Snc4QWNNR1huSmFpM2pJODd1RlY1RjhHeXRONlhIY3hZNUZXZTZYaEpJNzNCblpxWmVsYlhJYUpXejE?oc=5",
+      "firstSeen": "2024-02-23"
+    },
+    {
+      "name": "Shein",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Fast Fashion Giant Shein Reportedly Filed Confidentially for US IPO - Investopedia",
+      "date": "2023-11-28",
+      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdGpZMmhKVUlibWFGellHZUJPN2pEQmttSF9DeHNhVWlyaTFBTkdIcjBYZmNDQk1EWTRJakdDdkZJN2RYTWN5ODVKY0lhWWpxd2cxX0RvdHI0Ukd5MG9zNVhUVWx2bXVmeG9uREZVaktxYUIycTFzcDZKX0lrdWtvOFdKaVB1LWRjdlVqZXJlY0xGOUpmOTFBYzNmTFdFSk93bGNCQnhPVQ?oc=5",
+      "firstSeen": "2023-11-28"
+    },
+    {
+      "name": "Tempus",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Groupon co-founder Lefkofsky's Tempus exploring an IPO - Crain's Chicago Business",
+      "date": "2021-11-02",
+      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQV9QQmZWY2d0SHJaQU9RZlJxX3M5WGhlRGh1bzhPSzRNQWVBUW50WmUwUkRZX1lJWFFxYnRuMlUyamZyUmpSYVdhcFZOSXVLbkp5cF9yZE9Jbi1JZ1VOLVk0SVBMMFhIQXBORUV4ZUF0YkxzYzk1TkxubXk0UzBKM1RTQ0VyYVg5OTg4bWRVTHhxV0RUdVptSFYxWQ?oc=5",
+      "firstSeen": "2021-11-02"
+    },
+    {
+      "name": "Flywire",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Flywire says it plans IPO, but files confidentially with SEC - The Business Journals",
+      "date": "2021-03-12",
+      "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZFppam9VNHRvclJTRFNDbU9aVDJzMzdOLXc0UVF0OUh1OFMtLXJISlUyMTVFUFdGZm5JTjlNek9vdVBMc3RkOXhpTlVhMWo3TDVRSW85WWE3VTlLeElOcHJPYnRtTWc4dnBTaVBRQVREZlVTd21tN2NrUzFnS2p1Y1hSWGVScGVXMHk4dU1pRml6MjdfMkwyRDJROGxadkVUV0JGYXN2d2U?oc=5",
+      "firstSeen": "2021-03-12"
+    },
+    {
+      "name": "Coinbase",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Crypto exchange Coinbase files for IPO with SEC - Banking Dive",
+      "date": "2020-12-18",
+      "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaVpBcDMxUWdQbGprLUE0bUJPSmlVQkxudnZMaXZCMTVRRmxIT0xKZFRuVHYwQmF1blVsUHJfUm0yS2Ffd3p1V1otYk00a3BMR1d4TjluelZyMlZzZlBCVUtjYTI3eHNFNWsyTUpvb2dIVWZUWlNfMmZYazlDXzItdUo3RlRDWGQ5bWJuOThBT19PQQ?oc=5",
+      "firstSeen": "2020-12-18"
+    },
+    {
+      "name": "Sensei Harbor Corp.",
+      "cik": "0002112634",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2112634/000168316826007209/0001683168-26-007209-index.htm"
+    },
+    {
+      "name": "Tracx Logis Ltd.",
+      "cik": "0002114145",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026100785/0001213900-26-100785-index.htm"
+    },
+    {
+      "name": "RUI Holdings Inc",
+      "cik": "0002094989",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2094989/000118518526004094/0001185185-26-004094-index.htm"
+    },
+    {
+      "name": "Star Integratia Ltd",
+      "cik": "0002099952",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2099952/000149315226043076/0001493152-26-043076-index.htm"
+    },
+    {
+      "name": "AM PM Group Ltd",
+      "cik": "0002049323",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2049323/000121390026100862/0001213900-26-100862-index.htm"
+    },
+    {
+      "name": "Star Fashion Culture Holdings Ltd",
+      "cik": "0002003061",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2003061/000121390026100856/0001213900-26-100856-index.htm"
     },
     {
       "name": "Cardiol Therapeutics Inc.",
@@ -568,15 +727,6 @@
       "signal": "F-1 amended",
       "date": "2026-09-15",
       "source": "https://www.sec.gov/Archives/edgar/data/2119287/000149315226042799/0001493152-26-042799-index.htm"
-    },
-    {
-      "name": "Altera",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Chipmaker Altera confidentially files for US IPO as investors set to gauge AI demand - reuters.com",
-      "date": "2026-09-15",
-      "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSkFQajNXclRkalhsUnFQNTNSeW5wUzVvZU1aSUhITHItTTN2VW1yV2V4NGtzZ0xaa1NlcjFwZXotcldDRkt2cGRmbzExa1BycXVJMElxTHlwOGVaSGd2cDJmeWJGSm1xeXc0NzZ5akQydlBJa1lCVkJQajRiWmxzS2dZc0g1ZFdKSVlBOEFNZjZUU3M?oc=5"
     },
     {
       "name": "Bamboo Insurance Services, Inc.",
