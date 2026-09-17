@@ -19,9 +19,8 @@ const EXCLUDE_PATTERNS = [
   /\bDEPOSITARY\b/i, /\bSTATUTORY\s+TRUST\b/i, /\bREIT\b/i
 ];
 
-function isRealCompany(name) {
-  return !EXCLUDE_PATTERNS.some(pattern => pattern.test(name));
-}
+const NON_US_VENUE = /\b(Hong Kong|HKEX|London|LSE|India|Mumbai|Tokyo|Shanghai|Shenzhen|Seoul|Toronto|TSX|ASX|Frankfurt|Euronext|Amsterdam|Saudi|Tadawul)\b/i;
+const US_VENUE = /\b(US|U\.S\.|American|New York|Nasdaq|NYSE|ADR|ADS)\b/i;
 
 const NEWS_QUERIES = [
   'company "plans IPO" 2026',
@@ -38,6 +37,14 @@ const NEWS_STOPWORDS = new Set([
   'Reuters','Bloomberg','CNBC','Report','Exclusive','Sources','Why','How','What',
   'Plans','Rare','Safety','Chinese','Firm','Say','Says','Backed','Hong','Kong'
 ]);
+
+function isRealCompany(name) {
+  return !EXCLUDE_PATTERNS.some(pattern => pattern.test(name));
+}
+
+function dedupeKey(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 12);
+}
 
 function extractCompany(headline) {
   let clean = headline.replace(/\s+-\s+[^-]+$/, '').trim();
@@ -66,54 +73,53 @@ function extractCompany(headline) {
   return name.length >= 3 ? name : null;
 }
 
-async function fetchKalshi() {
-  const url = 'https://api.elections.kalshi.com/trade-api/v2/events/KXIPO-26?with_nested_markets=true';
-  const results = [];
+async function fetchForm(form) {
+  const url = 'https://www.sec.gov/cgi-bin/browse-edgar'
+    + '?action=getcurrent&type=' + encodeURIComponent(form)
+    + '&dateb=&owner=include&count=40&output=atom';
 
-  try {
-    const response = await fetch(url, { headers: { 'Accept': 'application/json' } });
-    if (!response.ok) {
-      console.log('KALSHI FAILED: HTTP ' + response.status);
-      return [];
-    }
-
-    const data = await response.json();
-    const markets = (data.event && data.event.markets) || [];
-
-    for (const market of markets) {
-      if (market.status !== 'active') continue;
-
-      const name = (market.yes_sub_title || market.no_sub_title || '').trim();
-      if (!name) continue;
-
-      const raw = market.yes_bid_dollars || market.last_price_dollars || '0';
-      const pct = Math.round(parseFloat(raw) * 100);
-      if (!pct) continue;
-
-      results.push({
-        name: name,
-        cik: null,
-        status: 'rumored',
-        confidence: pct,
-        signal: 'Kalshi traders price ' + pct + '% odds of a 2026 IPO',
-        date: new Date().toISOString().slice(0, 10),
-        source: 'https://kalshi.com/markets/kxipo/ipos/kxipo-26'
-      });
-    }
-
-    results.sort((a, b) => b.confidence - a.confidence);
-    console.log('OK kalshi: ' + results.length + ' active markets');
-  } catch (error) {
-    console.log('KALSHI ERROR: ' + error.message);
+  const response = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+  if (!response.ok) {
+    console.log('FAILED ' + form + ': HTTP ' + response.status);
+    return [];
   }
 
+  const xml = await response.text();
+  const entries = xml.split('<entry>').slice(1);
+  const results = [];
+
+  for (const entry of entries) {
+    const titleMatch = entry.match(/<title>([^<]*)<\/title>/);
+    const linkMatch = entry.match(/href="([^"]*)"/);
+    const dateMatch = entry.match(/<updated>([^<]*)<\/updated>/);
+    if (!titleMatch) continue;
+
+    const title = titleMatch[1];
+    const nameMatch = title.match(/^\S+\s+-\s+(.+?)\s*\(\d{7,10}\)/);
+    const cikMatch = title.match(/\((\d{7,10})\)/);
+    if (!nameMatch) continue;
+    if (!isRealCompany(nameMatch[1])) continue;
+
+    const meta = FORMS[form];
+    results.push({
+      name: nameMatch[1].trim(),
+      cik: cikMatch ? cikMatch[1] : null,
+      status: meta.status,
+      confidence: meta.confidence,
+      signal: meta.signal,
+      date: dateMatch ? dateMatch[1].slice(0, 10) : new Date().toISOString().slice(0, 10),
+      source: linkMatch ? linkMatch[1] : null
+    });
+  }
+
+  console.log('OK ' + form + ': ' + results.length + ' filings');
   return results;
-  
 }
+
 async function callGemini(prompt) {
   const key = process.env.GEMINI_API_KEY;
   const url = 'https://generativelanguage.googleapis.com/v1beta/models/'
-        + 'gemini-3-flash-preview:generateContent?key=' + key;
+    + 'gemini-3-flash-preview:generateContent?key=' + key;
 
   const response = await fetch(url, {
     method: 'POST',
@@ -244,11 +250,17 @@ async function fetchNews() {
     }
   }
 
+  for (const r of results) {
+    if (r.signal && NON_US_VENUE.test(r.signal) && !US_VENUE.test(r.signal)) {
+      r.name = null;
+    }
+  }
+
   const named = results.filter(r => r.name && isRealCompany(r.name));
 
   const seen = new Set();
   const unique = named.filter(item => {
-    const key = item.name.toLowerCase();
+    const key = dedupeKey(item.name);
     if (seen.has(key)) return false;
     seen.add(key);
     return true;
@@ -257,6 +269,7 @@ async function fetchNews() {
   console.log('OK news: ' + unique.length + ' rumors from ' + results.length + ' headlines');
   return unique;
 }
+
 async function fetchKalshi() {
   const url = 'https://api.elections.kalshi.com/trade-api/v2/events/KXIPO-26?with_nested_markets=true';
   const results = [];
@@ -269,34 +282,38 @@ async function fetchKalshi() {
     }
 
     const data = await response.json();
-    const markets = (data.event && data.event.markets) || data.markets || [];
+    const markets = (data.event && data.event.markets) || [];
 
     for (const market of markets) {
-      const label = market.yes_sub_title || market.subtitle || market.title || '';
-      if (!label) continue;
+      if (market.status !== 'active') continue;
 
-      const price = market.last_price != null ? market.last_price
-                  : (market.yes_bid != null ? market.yes_bid : null);
-      if (price == null) continue;
+      const name = (market.yes_sub_title || market.no_sub_title || '').trim();
+      if (!name) continue;
+
+      const raw = market.yes_bid_dollars || market.last_price_dollars || '0';
+      const pct = Math.round(parseFloat(raw) * 100);
+      if (!pct) continue;
 
       results.push({
-        name: label.trim(),
+        name: name,
         cik: null,
         status: 'rumored',
-        confidence: price,
-        signal: 'Kalshi: ' + price + '% chance of IPO in 2026',
+        confidence: pct,
+        signal: 'Kalshi traders price ' + pct + '% odds of a 2026 IPO',
         date: new Date().toISOString().slice(0, 10),
-        source: 'https://kalshi.com/markets/kxipo/ipos/' + (market.ticker || 'KXIPO-26').toLowerCase()
+        source: 'https://kalshi.com/markets/kxipo/ipos/kxipo-26'
       });
     }
 
-    console.log('OK kalshi: ' + results.length + ' markets');
+    results.sort((a, b) => b.confidence - a.confidence);
+    console.log('OK kalshi: ' + results.length + ' active markets');
   } catch (error) {
     console.log('KALSHI ERROR: ' + error.message);
   }
 
   return results;
 }
+
 async function main() {
   const existing = JSON.parse(fs.readFileSync('data.json', 'utf8'));
   const byKey = {};
@@ -308,7 +325,7 @@ async function main() {
   for (const form of Object.keys(FORMS)) {
     const filings = await fetchForm(form);
     for (const filing of filings) {
-      const key = (filing.cik || filing.name) + '|' + filing.status;
+      const key = (filing.cik || dedupeKey(filing.name)) + '|' + filing.status;
       const prior = byKey[key];
       if (!prior || filing.date >= prior.date) byKey[key] = filing;
     }
@@ -317,18 +334,18 @@ async function main() {
 
   const rumors = await fetchNews();
   for (const rumor of rumors) {
-    const key = rumor.name.toLowerCase() + '|rumored';
+    const key = dedupeKey(rumor.name) + '|rumored';
     if (!byKey[key]) byKey[key] = rumor;
   }
 
   const kalshi = await fetchKalshi();
   for (const market of kalshi) {
-    const key = market.name.toLowerCase() + '|rumored';
+    const key = dedupeKey(market.name) + '|rumored';
     byKey[key] = market;
   }
 
   const companies = Object.values(byKey)
-    .sort((a, b) => b.date.localeCompare(a.date))
+    .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
     .slice(0, 100);
 
   const output = {
