@@ -121,37 +121,41 @@ async function fetchForm(form) {
 }
 
 async function callGemini(prompt) {
-  const key = process.env.GEMINI_API_KEY;
-  const url = 'https://generativelanguage.googleapis.com/v1beta/models/'
-    + 'gemini-flash-latest:generateContent?key=' + key;
+  const key = process.env.GROQ_API_KEY;
 
-  const response = await fetch(url, {
+  const response = await fetch('https://api.groq.com/openai/v1/chat/completions', {
     method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
+    headers: {
+      'Content-Type': 'application/json',
+      'Authorization': 'Bearer ' + key
+    },
     body: JSON.stringify({
-      contents: [{ parts: [{ text: prompt }] }],
-      generationConfig: {
-        temperature: 0,
-        maxOutputTokens: 30000,
-        responseMimeType: 'application/json'
-      }
+      model: 'llama-3.3-70b-versatile',
+      temperature: 0,
+      max_tokens: 8000,
+      response_format: { type: 'json_object' },
+      messages: [{
+        role: 'user',
+        content: prompt + '\n\nReturn a JSON object with a single key "results" whose value is the array.'
+      }]
     })
   });
 
   if (!response.ok) throw new Error('HTTP ' + response.status);
   const data = await response.json();
-  const text = data.candidates[0].content.parts[0].text;
-  return JSON.parse(text.replace(/```json/g, '').replace(/```/g, '').trim());
+  const text = data.choices[0].message.content;
+  const parsed = JSON.parse(text.replace(/```json/g, '').replace(/```/g, '').trim());
+  return Array.isArray(parsed) ? parsed : (parsed.results || []);
 }
 
 async function extractNamesWithGemini(headlines) {
-  if (!process.env.GEMINI_API_KEY) {
+ if (!process.env.GROQ_API_KEY) {
     console.log('No GEMINI_API_KEY set, skipping AI extraction');
     return null;
   }
   if (headlines.length === 0) return null;
 
-  const BATCH = 15;
+  const BATCH = 60;
   const all = [];
   let failures = 0;
 
@@ -181,7 +185,7 @@ async function extractNamesWithGemini(headlines) {
       console.log('GEMINI batch at ' + start + ' failed: ' + error.message);
     }
 
-    await new Promise(r => setTimeout(r, 3000));
+    await new Promise(r => setTimeout(r, 8000));
   }
 
   console.log('OK gemini: parsed ' + all.length + ' of ' + headlines.length
@@ -190,7 +194,7 @@ async function extractNamesWithGemini(headlines) {
 }
 
 async function describeCompanies(names) {
-  if (!process.env.GEMINI_API_KEY || names.length === 0) return {};
+  if (!process.env.GROQ_API_KEY || names.length === 0) return {};
   const out = {};
   const BATCH = 40;
 
