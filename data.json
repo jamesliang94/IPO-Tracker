@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T17:09:20.430Z",
+  "updated": "2026-09-18T17:55:48.362Z",
   "summary": "",
   "companies": [
     {
@@ -15,8 +15,8 @@
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 80,
-      "signal": "Kalshi traders price 80% odds of a 2026 IPO",
+      "confidence": 77,
+      "signal": "Kalshi traders price 77% odds of a 2026 IPO",
       "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
