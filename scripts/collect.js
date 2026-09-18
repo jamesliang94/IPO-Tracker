@@ -123,7 +123,7 @@ async function fetchForm(form) {
 async function callGemini(prompt) {
   const key = process.env.GEMINI_API_KEY;
   const url = 'https://generativelanguage.googleapis.com/v1beta/models/'
-    + 'gemini-3-flash-preview:generateContent?key=' + key;
+    + 'gemini-flash-latest:generateContent?key=' + key;
 
   const response = await fetch(url, {
     method: 'POST',
