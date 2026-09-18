@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17T20:08:02.670Z",
+  "updated": "2026-09-18T13:15:02.635Z",
   "summary": "",
   "companies": [
     {
@@ -8,232 +8,16 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 82,
-      "signal": "Kalshi traders price 82% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Oura",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 96,
-      "signal": "Kalshi traders price 96% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "DeepSeek",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Discord",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 18,
-      "signal": "Kalshi traders price 18% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Plaid",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 8,
-      "signal": "Kalshi traders price 8% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Skims",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 7,
-      "signal": "Kalshi traders price 7% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Kraken",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 5,
-      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Mistral AI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 5,
-      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Ramp",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Rippling",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Gopuff",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Deel",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Ripple Labs",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Beast Industries",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Vanta",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Celonis",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Anduril",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Databricks",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Stripe",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Applied Intuition",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Glean",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "xAI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Airwallex",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Brex",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-09-17",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Anysphere (Cursor)",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-09-17",
+      "confidence": 80,
+      "signal": "Kalshi traders price 80% odds of a 2026 IPO",
+      "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -242,7 +26,223 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-09-17",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "DeepSeek",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Oura",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 96,
+      "signal": "Kalshi traders price 96% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Discord",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 17,
+      "signal": "Kalshi traders price 17% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Kraken",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 10,
+      "signal": "Kalshi traders price 10% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Plaid",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 8,
+      "signal": "Kalshi traders price 8% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Skims",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 7,
+      "signal": "Kalshi traders price 7% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Mistral AI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 5,
+      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Rippling",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Gopuff",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Ripple Labs",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Ramp",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Beast Industries",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Vanta",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Celonis",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Deel",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Anduril",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Databricks",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Stripe",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Applied Intuition",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Glean",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "xAI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Airwallex",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Brex",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Anysphere (Cursor)",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -845,6 +845,24 @@
       "firstSeen": "2026-07-10"
     },
     {
+      "name": "SIYATA PTT",
+      "cik": "0002110025",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-18",
+      "source": "https://www.sec.gov/Archives/edgar/data/2110025/000121390026101154/0001213900-26-101154-index.htm"
+    },
+    {
+      "name": "Electra Therapeutics, Inc.",
+      "cik": "0002088082",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-18",
+      "source": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526394994/0001193125-26-394994-index.htm"
+    },
+    {
       "name": "Sensei Harbor Corp.",
       "cik": "0002112634",
       "status": "filed",
@@ -906,6 +924,114 @@
       "signal": "F-1 amended",
       "date": "2026-09-17",
       "source": "https://www.sec.gov/Archives/edgar/data/2134090/000110465926108544/0001104659-26-108544-index.htm"
+    },
+    {
+      "name": "Electra Therapeutics, Inc.",
+      "cik": "0002088082",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526394715/0001193125-26-394715-index.htm"
+    },
+    {
+      "name": "Glucotrack, Inc.",
+      "cik": "0001506983",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226043195/0001493152-26-043195-index.htm"
+    },
+    {
+      "name": "VME Companies, Inc.",
+      "cik": "0002113640",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2113640/000157587226000653/0001575872-26-000653-index.htm"
+    },
+    {
+      "name": "Alopexx, Inc.",
+      "cik": "0001880995",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/1880995/000121390026101026/0001213900-26-101026-index.htm"
+    },
+    {
+      "name": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+      "cik": "0000720762",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226043137/0001493152-26-043137-index.htm"
+    },
+    {
+      "name": "GeoVax Labs, Inc.",
+      "cik": "0000832489",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/832489/000143774926030676/0001437749-26-030676-index.htm"
+    },
+    {
+      "name": "Basel Medical Group Ltd",
+      "cik": "0002004489",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/2004489/000149315226043116/0001493152-26-043116-index.htm"
+    },
+    {
+      "name": "Aon North America, Inc.",
+      "cik": "0001977338",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/1977338/000119312526394554/0001193125-26-394554-index.htm"
+    },
+    {
+      "name": "Aon plc",
+      "cik": "0001808065",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/1808065/000119312526394554/0001193125-26-394554-index.htm"
+    },
+    {
+      "name": "Aon Global Holdings plc",
+      "cik": "0001807958",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/1807958/000119312526394554/0001193125-26-394554-index.htm"
+    },
+    {
+      "name": "Aon Corp",
+      "cik": "0001556748",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/1556748/000119312526394554/0001193125-26-394554-index.htm"
+    },
+    {
+      "name": "Aon plc",
+      "cik": "0000315293",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-09-17",
+      "source": "https://www.sec.gov/Archives/edgar/data/315293/000119312526394554/0001193125-26-394554-index.htm"
     },
     {
       "name": "Cardiol Therapeutics Inc.",
@@ -1124,15 +1250,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526004027/0001185185-26-004027-index.htm"
     },
     {
-      "name": "SIYATA PTT",
-      "cik": "0002110025",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2110025/000121390026100115/0001213900-26-100115-index.htm"
-    },
-    {
       "name": "Yi Feng Holdings Ltd.",
       "cik": "0002084038",
       "status": "filed",
@@ -1185,15 +1302,6 @@
       "signal": "S-1 amended",
       "date": "2026-09-14",
       "source": "https://www.sec.gov/Archives/edgar/data/2125355/000162828026061664/0001628280-26-061664-index.htm"
-    },
-    {
-      "name": "Electra Therapeutics, Inc.",
-      "cik": "0002088082",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526389755/0001193125-26-389755-index.htm"
     },
     {
       "name": "Laser Photonics Corp",
@@ -1455,51 +1563,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-11",
       "source": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326013811/0000950103-26-013811-index.htm"
-    },
-    {
-      "name": "New Fortress Energy Inc.",
-      "cik": "0001749723",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1749723/000174972326000120/0001749723-26-000120-index.htm"
-    },
-    {
-      "name": "Hao Feng Group Ltd.",
-      "cik": "0002120204",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/2120204/000118518526003939/0001185185-26-003939-index.htm"
-    },
-    {
-      "name": "Cuprina Holdings (Cayman) LTD",
-      "cik": "0001995704",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1995704/000149315226042322/0001493152-26-042322-index.htm"
-    },
-    {
-      "name": "HSBC HOLDINGS PLC",
-      "cik": "0001089113",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1089113/000162828026061501/0001628280-26-061501-index.htm"
-    },
-    {
-      "name": "DYADIC INTERNATIONAL INC",
-      "cik": "0001213809",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1213809/000149315226042435/0001493152-26-042435-index.htm"
     }
   ]
 }
