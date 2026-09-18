@@ -47,7 +47,10 @@ function isRealCompany(name) {
 }
 
 function dedupeKey(name) {
-  return name.toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 12);
+  return name.toLowerCase()
+    .replace(/^(the|a|an)\s+/, '')
+    .replace(/[^a-z0-9]/g, '')
+    .slice(0, 12);
 }
 
 function extractCompany(headline) {
