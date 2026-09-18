@@ -150,7 +150,7 @@ async function callGemini(prompt) {
 
 async function extractNamesWithGemini(headlines) {
  if (!process.env.GROQ_API_KEY) {
-    console.log('No GEMINI_API_KEY set, skipping AI extraction');
+    console.log('No GROQ_API_KEY set, skipping AI extraction');
     return null;
   }
   if (headlines.length === 0) return null;
