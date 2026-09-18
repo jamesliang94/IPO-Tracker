@@ -130,7 +130,7 @@ async function callGemini(prompt) {
       'Authorization': 'Bearer ' + key
     },
     body: JSON.stringify({
-      model: 'llama-3.3-70b-versatile',
+      model: 'model: 'openai/gpt-oss-20b',
       temperature: 0,
       max_tokens: 8000,
       response_format: { type: 'json_object' },
