@@ -155,7 +155,7 @@ async function extractNamesWithGemini(headlines) {
   }
   if (headlines.length === 0) return null;
 
-  const BATCH = 60;
+  const BATCH = 30;
   const all = [];
   let failures = 0;
 
@@ -185,7 +185,7 @@ async function extractNamesWithGemini(headlines) {
       console.log('GEMINI batch at ' + start + ' failed: ' + error.message);
     }
 
-    await new Promise(r => setTimeout(r, 8000));
+    await new Promise(r => setTimeout(r, 20000));
   }
 
   console.log('OK gemini: parsed ' + all.length + ' of ' + headlines.length
