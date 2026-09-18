@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T14:07:03.457Z",
+  "updated": "2026-09-18T17:09:20.430Z",
   "summary": "",
   "companies": [
     {
@@ -42,8 +42,8 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 14,
-      "signal": "Kalshi traders price 14% odds of a 2026 IPO",
+      "confidence": 16,
+      "signal": "Kalshi traders price 16% odds of a 2026 IPO",
       "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -84,11 +84,38 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Deel",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Rippling",
       "cik": null,
       "status": "rumored",
       "confidence": 4,
       "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Gopuff",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Ripple Labs",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
       "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -121,15 +148,6 @@
     },
     {
       "name": "Celonis",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-09-18",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Deel",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -201,15 +219,6 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Ripple Labs",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-09-18",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
       "name": "Brex",
       "cik": null,
       "status": "rumored",
@@ -220,15 +229,6 @@
     },
     {
       "name": "Anysphere (Cursor)",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-09-18",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Gopuff",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
@@ -839,8 +839,8 @@
       "name": "SIYATA PTT",
       "cik": "0002110025",
       "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
+      "confidence": 92,
+      "signal": "F-1 amended",
       "date": "2026-09-18",
       "source": "https://www.sec.gov/Archives/edgar/data/2110025/000121390026101154/0001213900-26-101154-index.htm"
     },
@@ -852,6 +852,24 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-18",
       "source": "https://www.sec.gov/Archives/edgar/data/2088082/000119312526394994/0001193125-26-394994-index.htm"
+    },
+    {
+      "name": "Amaero Inc.",
+      "cik": "0002141616",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-18",
+      "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526395150/0001193125-26-395150-index.htm"
+    },
+    {
+      "name": "Transten Global Group Ltd",
+      "cik": "0002018836",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-18",
+      "source": "https://www.sec.gov/Archives/edgar/data/2018836/000121390026101289/0001213900-26-101289-index.htm"
     },
     {
       "name": "Sensei Harbor Corp.",
@@ -1140,15 +1158,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-15",
       "source": "https://www.sec.gov/Archives/edgar/data/2143038/000118518526004010/0001185185-26-004010-index.htm"
-    },
-    {
-      "name": "Amaero Inc.",
-      "cik": "0002141616",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526391284/0001193125-26-391284-index.htm"
     },
     {
       "name": "LYC HEALTHCARE (CAYMAN) LTD",
@@ -1545,15 +1554,6 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1099590/000114036126036517/0001140361-26-036517-index.htm"
-    },
-    {
-      "name": "Rent the Runway, Inc.",
-      "cik": "0001468327",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-11",
-      "source": "https://www.sec.gov/Archives/edgar/data/1468327/000095010326013811/0000950103-26-013811-index.htm"
     }
   ]
 }
