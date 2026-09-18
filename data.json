@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T13:15:02.635Z",
+  "updated": "2026-09-18T14:07:03.457Z",
   "summary": "",
   "companies": [
     {
@@ -17,15 +17,6 @@
       "status": "rumored",
       "confidence": 80,
       "signal": "Kalshi traders price 80% odds of a 2026 IPO",
-      "date": "2026-09-18",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Bloomberg",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
       "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -51,8 +42,8 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 17,
-      "signal": "Kalshi traders price 17% odds of a 2026 IPO",
+      "confidence": 14,
+      "signal": "Kalshi traders price 14% odds of a 2026 IPO",
       "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -98,24 +89,6 @@
       "status": "rumored",
       "confidence": 4,
       "signal": "Kalshi traders price 4% odds of a 2026 IPO",
-      "date": "2026-09-18",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Gopuff",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
-      "date": "2026-09-18",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Ripple Labs",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
       "date": "2026-09-18",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -228,6 +201,15 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Ripple Labs",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Brex",
       "cik": null,
       "status": "rumored",
@@ -238,6 +220,15 @@
     },
     {
       "name": "Anysphere (Cursor)",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-09-18",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Gopuff",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
@@ -848,8 +839,8 @@
       "name": "SIYATA PTT",
       "cik": "0002110025",
       "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-18",
       "source": "https://www.sec.gov/Archives/edgar/data/2110025/000121390026101154/0001213900-26-101154-index.htm"
     },
