@@ -176,12 +176,16 @@ async function extractNamesWithGemini(headlines) {
       + '- Return one object per headline, using the headline number as i.\n\n'
       + '- If a headline mentions several companies, return only the one whose IPO is the subject.\n'
       + '- Strip all descriptors: "Chipmaker Altera" is "Altera", "AI startup Anthropic" is "Anthropic".\n'
+      + '- Use your own knowledge of the company. If it is a UK, EU, or Asian company with no US listing indication, set us = false.\n'
+      + '- "Perpetual shares", "tokenized shares", and crypto-exchange listings are not US IPOs: us = false.\n'
+      + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe","us":true,"sure":true},{"i":1,"company":null,"us":false,"sure":false}] '
+      + 'where "sure" is false if you cannot determine the listing venue from the headline or your knowledge.\n\n'
       + chunk.map((h, i) => i + ': ' + h).join('\n');
 
     try {
       const parsed = await callGemini(prompt);
       for (const item of parsed) {
-        all.push({ i: start + item.i, company: item.company, us: item.us });
+        all.push({ i: start + item.i, company: item.company, us: item.us, sure: item.sure });
       }
     } catch (error) {
       failures++;
