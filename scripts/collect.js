@@ -280,6 +280,7 @@ async function fetchNews(watchlist) {
     for (const item of aiNames) {
       if (!results[item.i]) continue;
       results[item.i].name = (item.company && item.us !== false) ? item.company : null;
+      if (results[item.i].name && item.sure === false) results[item.i].confidence = 15;
     }
     for (let i = 0; i < results.length; i++) {
       if (!seenIndexes.has(i)) results[i].name = null;
