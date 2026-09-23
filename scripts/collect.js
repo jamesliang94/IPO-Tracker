@@ -410,14 +410,16 @@ async function main() {
   } 
   const everything = Object.values(byKey);
   const marketRows = everything.filter(c => /kalshi/i.test(c.signal || ''));
+  const cutoff30 = new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10);
+  const liveNames = new Set(rumors.map(r => dedupeKey(r.name)));
   const rumorRows = everything.filter(c => c.status === 'rumored' && !/kalshi/i.test(c.signal || ''))
+    .filter(c => liveNames.has(dedupeKey(c.name)))
+    .filter(c => (c.firstSeen || c.date || '') >= cutoff30)
     .sort((a, b) => ((b.firstSeen || b.date) || '').localeCompare((a.firstSeen || a.date) || ''))
-    .filter(c => (c.firstSeen || c.date || '') >= new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10))
     .slice(0, 60);
   const filingRows = everything.filter(c => c.status !== 'rumored')
     .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
     .slice(0, 80);
-  
   const needDesc = filingRows.filter(c => !c.description).map(c => c.name);
   const descriptions = await describeCompanies(needDesc);
   for (const row of filingRows) {
