@@ -165,7 +165,7 @@ async function extractNamesWithGemini(headlines) {
   for (let start = 0; start < headlines.length; start += BATCH) {
     const chunk = headlines.slice(start, start + BATCH);
 
-    const prompt = 'You are extracting IPO candidates from news headlines.\n\n'
+  const prompt = 'You are extracting IPO candidates from news headlines.\n\n'
       + 'For each numbered headline, return the company that is going public.\n'
       + 'Rules:\n'
       + '- company must be null unless a specific named company is going public.\n'
@@ -173,15 +173,16 @@ async function extractNamesWithGemini(headlines) {
       + '- If the listing is on a non-US exchange only (Hong Kong, London, India, Tokyo, Shanghai): us = false.\n'
       + '- Never return an exchange, city, country, month, or news outlet as the company.\n'
       + '- Return the company name only, no descriptors.\n'
-      + '- Return one object per headline, using the headline number as i.\n\n'
+      + '- Return one object per headline, using the headline number as i.\n'
       + '- If a headline mentions several companies, return only the one whose IPO is the subject.\n'
       + '- Strip all descriptors: "Chipmaker Altera" is "Altera", "AI startup Anthropic" is "Anthropic".\n'
       + '- Use your own knowledge of the company. If it is a UK, EU, or Asian company with no US listing indication, set us = false.\n'
       + '- "Perpetual shares", "tokenized shares", and crypto-exchange listings are not US IPOs: us = false.\n'
+      + '- Set company to null if the IPO has already completed and the company is now publicly traded.\n\n'
       + 'Return ONLY a JSON array like [{"i":0,"company":"Stripe","us":true,"sure":true},{"i":1,"company":null,"us":false,"sure":false}] '
       + 'where "sure" is false if you cannot determine the listing venue from the headline or your knowledge.\n\n'
       + chunk.map((h, i) => i + ': ' + h).join('\n');
-
+   
     try {
       const parsed = await callGemini(prompt);
       for (const item of parsed) {
@@ -301,7 +302,7 @@ async function fetchNews(watchlist) {
     }
   }
   
-  const cutoff = new Date(Date.now() - 90 * 86400000).toISOString().slice(0, 10);
+  const cutoff = new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10);
   for (const r of results) {
     if (r.date && r.date < cutoff) r.name = null;
   }
@@ -411,7 +412,7 @@ async function main() {
   const marketRows = everything.filter(c => /kalshi/i.test(c.signal || ''));
   const rumorRows = everything.filter(c => c.status === 'rumored' && !/kalshi/i.test(c.signal || ''))
     .sort((a, b) => ((b.firstSeen || b.date) || '').localeCompare((a.firstSeen || a.date) || ''))
-    .filter(c => (c.firstSeen || c.date || '') >= new Date(Date.now() - 90 * 86400000).toISOString().slice(0, 10))
+    .filter(c => (c.firstSeen || c.date || '') >= new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10))
     .slice(0, 60);
   const filingRows = everything.filter(c => c.status !== 'rumored')
     .sort((a, b) => (b.date || '').localeCompare(a.date || ''))
