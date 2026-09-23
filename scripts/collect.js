@@ -158,7 +158,7 @@ async function extractNamesWithGemini(headlines) {
   }
   if (headlines.length === 0) return null;
 
-  const BATCH = 30;
+  const BATCH = 20;
   const all = [];
   let failures = 0;
 
@@ -193,7 +193,7 @@ async function extractNamesWithGemini(headlines) {
       console.log('GEMINI batch at ' + start + ' failed: ' + error.message);
     }
 
-    await new Promise(r => setTimeout(r, 20000));
+    await new Promise(r => setTimeout(r, 30000));
   }
 
   console.log('OK gemini: parsed ' + all.length + ' of ' + headlines.length
@@ -316,16 +316,16 @@ async function fetchNews(watchlist) {
       r.confidence = 20;
     }
   }
-    const candidates = [...new Set(results.filter(r => r.name).map(r => r.name))];
-  const publicSet = new Set();
-  for (const name of candidates) {
-    if (await isAlreadyPublic(name)) publicSet.add(name);
-    await new Promise(r => setTimeout(r, 150));
-  }
-  for (const r of results) {
-    if (r.name && publicSet.has(r.name)) r.name = null;
-  }
-  console.log('Dropped ' + publicSet.size + ' already-public companies');
+  // const candidates = [...new Set(results.filter(r => r.name).map(r => r.name))];
+  // const publicSet = new Set();
+  // for (const name of candidates) {
+  //   if (await isAlreadyPublic(name)) publicSet.add(name);
+  //   await new Promise(r => setTimeout(r, 150));
+  // }
+  // for (const r of results) {
+  //   if (r.name && publicSet.has(r.name)) r.name = null;
+  // }
+  // console.log('Dropped ' + publicSet.size + ' already-public companies');
   for (const r of results) {
     if (r.signal && NON_US_VENUE.test(r.signal) && !US_VENUE.test(r.signal)) {
       r.name = null;
