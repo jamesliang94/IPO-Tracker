@@ -228,6 +228,26 @@ async function describeCompanies(names) {
   return out;
 }
 
+async function isAlreadyPublic(name) {
+  const clean = name.replace(/[^A-Za-z0-9 ]/g, '').trim();
+  if (clean.length < 3) return false;
+
+  const url = 'https://efts.sec.gov/LATEST/search-index?q=%22' + encodeURIComponent(clean)
+    + '%22&forms=10-K,10-Q&dateRange=custom&startdt='
+    + new Date(Date.now() - 400 * 86400000).toISOString().slice(0, 10)
+    + '&enddt=' + new Date().toISOString().slice(0, 10);
+
+  try {
+    const response = await fetch(url, { headers: { 'User-Agent': USER_AGENT } });
+    if (!response.ok) return false;
+    const data = await response.json();
+    const hits = (data.hits && data.hits.total && data.hits.total.value) || 0;
+    return hits > 0;
+  } catch (error) {
+    return false;
+  }
+}
+
 async function fetchNews(watchlist) {
   const results = [];
 
@@ -296,6 +316,16 @@ async function fetchNews(watchlist) {
       r.confidence = 20;
     }
   }
+    const candidates = [...new Set(results.filter(r => r.name).map(r => r.name))];
+  const publicSet = new Set();
+  for (const name of candidates) {
+    if (await isAlreadyPublic(name)) publicSet.add(name);
+    await new Promise(r => setTimeout(r, 150));
+  }
+  for (const r of results) {
+    if (r.name && publicSet.has(r.name)) r.name = null;
+  }
+  console.log('Dropped ' + publicSet.size + ' already-public companies');
   for (const r of results) {
     if (r.signal && NON_US_VENUE.test(r.signal) && !US_VENUE.test(r.signal)) {
       r.name = null;
