@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:23:47.428Z",
+  "updated": "2026-09-23T18:39:29.720Z",
   "summary": "",
   "companies": [
     {
@@ -42,8 +42,8 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 18,
-      "signal": "Kalshi traders price 18% odds of a 2026 IPO",
+      "confidence": 17,
+      "signal": "Kalshi traders price 17% odds of a 2026 IPO",
       "date": "2026-09-23",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -338,196 +338,6 @@
       "firstSeen": "2026-08-24"
     },
     {
-      "name": "Scribe",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Scribe’s early-stage IPO standout defies biotech’s derisking trend - BioSpace",
-      "date": "2026-08-20",
-      "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWE5hSkpPenhqMEtzQlJRWTR0V2E2U1JOR2c4MjF3cndhT0dlcEhfQ2FLVEp2V2JpZm1KYkRTc0ZVb2Vxam1ZS3hkZzNqUnkyWFBFa0JNLWI2bUQ5bGJTRVF6VV9rVU1rYnROR0VLeGo0NEM0Nk5jOXdkTmxkRmp3WkNBV3dNUFdrdHV1UG9nM1hoWVI3MHNzVjN2al9PT0E?oc=5",
-      "firstSeen": "2026-08-20"
-    },
-    {
-      "name": "Kakao Mobility",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Kakao Mobility advances $1 billion US ADR listing with draft SEC filing - KED Global",
-      "date": "2026-08-20",
-      "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE9xRFN1RTk5Y2ZncXBmcl9vTm1KREtyNDBNdzBJcVFWZ3NXc0pPRWs2OWx3WVdpSDIyMW95TXZQUlNCbHcyR0lUNGIwNV9zX2hHeXVyN1VmcFQyMjlFTllyeWM2WUFsZmlQbXJhSzBkdG9hUQ?oc=5",
-      "firstSeen": "2026-08-20"
-    },
-    {
-      "name": "Vantage",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Vantage explores $100B IPO as four data center operators line up listings - SiliconANGLE",
-      "date": "2026-08-13",
-      "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMjR0aDZtNENWVGdOb3R6YzhUbXNWVE5yWm9CQld3dG4xVERsMXV4akFxMWtkV0hMdjEtX0RodGgxWWN5aktiWnprTjYzTHJLQmloMk5DVk9ua1F0VFVuMHNxSV8zQ0lmekNYNVVzZmR6aUlMTlZYNTVPYjRZblRqdVlKTmg2dlZGTjQ4QXJiTkxMcDltVUpvemU1bjNXSndGVWN4Zi13?oc=5",
-      "firstSeen": "2026-08-13"
-    },
-    {
-      "name": "Vantage Data Centers",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Vantage Data Centers explores IPO at US$100 billion valuation or sale, sources say - BNN Bloomberg",
-      "date": "2026-08-13",
-      "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOEtHeXpFSUNKeXQ0OWo0ZGY2RG5wVGFOelBvbTd4ZkFtRDMwQTVURHVNcm9SSldIcFo0cVBQOVhvSktvUUlEVW5KT0xFT1V3S3RISlVMYTJydnh5bnlGMHdtN08zTXVwdHUzSVh0LUJtbVUzLU44RDZEajJrcGlCQnFoSU5YU1YwNDNGY0pwUUVaLUJCLS1VUFhBVlIyVlJnOWg4YmNQRi1FR1BtbktiUzJPT1RYX1o5X0dfUHNGNWRqdkU4SlpYbEJydXg5bmpMV01FQUVmR0RvZw?oc=5",
-      "firstSeen": "2026-08-13"
-    },
-    {
-      "name": "DayOne",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Singapore-based data firm DayOne ‘confidentially files’ for $6.4b IPO in US - The Straits Times",
-      "date": "2026-08-11",
-      "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPaTFsSEgydEdDRkRBQXZoT3UtbVdlbEVUNTRDRVZqbUZvRURIRnA3d29BeVNxVU5NT2lMa0p4TmtabjAyMW5DcFE2WG1obi1SUjh3R3JURy05VWF0YXc4MTBTc3B3U08yYnVyaDRaN1ZvVy1BYVVCVUFybWNraVRwRG5WVkhvYVIwUGdaWEFjODdTV3Y3WjM0aDA3dWljSFcwaHRSeHdCaU5mTEQ4RGhrdzBtanRuZ2xaY2dCcVhockNFR3FRR3c?oc=5",
-      "firstSeen": "2026-08-11"
-    },
-    {
-      "name": "SambaNova",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "SambaNova Stock: Whisking Toward an IPO? - Access IPOs",
-      "date": "2026-08-04",
-      "source": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ZOTBaanJRcy0zaG41WjItMjZiSmRnYzZZUUsyeDZ2a2hhcjlxWXN5WURCM2U3RFV5MTJQSXVTMVU1Z2liUDRqSlpWWV9VcDd0eDMyVUln?oc=5",
-      "firstSeen": "2026-08-04"
-    },
-    {
-      "name": "Westinghouse",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Nuclear firm Westinghouse confidentially files for US IPO - The Spokesman-Review",
-      "date": "2026-07-31",
-      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZ2pvWGRaRnlTa3kxMDdFY3JUUEw5anFPWGhDMkpzc3M4eWRuUU93QVkzWTNHQjlWVW9yb2xzUWE0cDJxYVpjQVd6SXlDQ0ZxSF9EQmF1WmMwb213Sk9HR3JSdzN2eGtnU211S0E3WVhTSnkyclhLVk1fVjI4Y2hmelRfNHRCSWI5ZGVBdWJlZ05hYXdXS2tqV3c2dTdrUQ?oc=5",
-      "firstSeen": "2026-07-31"
-    },
-    {
-      "name": "Jersey Mike's",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Jersey Mike's IPO: JMKE stock opens below $23 price on NYSE - qz.com",
-      "date": "2026-07-30",
-      "source": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ydk5GYldPRW00YUVIaUFwb3NGTXlFLUNvOExOMXN0d05aOVBnTkdBZGpMdm9LdkZPbjBxTVF1bjVycE40SW1QOE9sOGhiRjBzeXNYbDk3RlVtdUEyWE8xa1RpOTM?oc=5",
-      "firstSeen": "2026-07-30"
-    },
-    {
-      "name": "GrubMarket",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Food Technology Firm GrubMarket Confidentially Files for U.S. IPO - The Packer",
-      "date": "2026-07-28",
-      "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTDRMSGxvZE9zSXNPZkYxWlJfMElhM2ZINGtJRGR0YXBOX0tvNjcweDlyZ2FiWkFuRDg5Ymp4Ql8xNW9McGNDUjduS004MnczZGF6NVFORnh3SHl4UndaWC1HLXl0dnBHU0FnQmVEVDhySkFNekFaNFNyT2pQSEF5Z0w2dHRUam81M3RWVndQdElqWU5LaFE?oc=5",
-      "firstSeen": "2026-07-28"
-    },
-    {
-      "name": "Moonshot",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "China’s Moonshot plans IPO in six months after AI breakthrough - The Japan Times",
-      "date": "2026-07-19",
-      "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNODRYbW5PU2M2SF9iZ0ZXa0VrYXd0SlFYOTJCczVnYlVkbGduOGVQUnBycm9CeFU4SHRxaEZ4dlhiRFoyWm9nVFpFTE9qTG9sWnBDeVoyYlh6Q0MzZ1lqbk5NQkl3X0d6QmVUMWhYMFM0b2VJNEVNYjBVRU05QS02RWx3?oc=5",
-      "firstSeen": "2026-07-19"
-    },
-    {
-      "name": "Wonder",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Exclusive: Marc Lore says Wonder is gearing up for an IPO after raising $650 million at a $9 billion valuation - Fortune",
-      "date": "2026-07-16",
-      "source": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX294eWNoTE45Wk81bm1EUWpYdlYyZTJMZWhzSVVyRnVFNEh6aHk3STNjQnphemd6eEwxZnVBQmxQQXpIbzFYQWkwYUlMX1V2R1pZc3lBYmVGMEc2N2cwLThrOWZ0TlhVWFVTQURxY1FndGhVbkR2X2wwUER3WThHYi1ablFoME13SjJTblFaYy1Bd1c1QVZyTG15V0tNNW5CZVM4X0xWV2Q5OHYtbXU3RVN5Nm9rYV82d3BYemdoNFRpWVU1TDFLZ2F6ZjVFNFg0UlNlY0RnRGhfRnZ0SG93MjY2WVdVU1FZbGc?oc=5",
-      "firstSeen": "2026-07-16"
-    },
-    {
-      "name": "Switch",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Data Center Firm Switch to File Confidentially for IPO - Bloomberg.com",
-      "date": "2026-08-07",
-      "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQVF8wWjF2QXZ0bkVuVDFzN3pJOGwxWkczcXJxVFdvSGRDeTZxMUlBWWlrSWs2R0V5T3JqMF9OVnFOUS1oX0p1aFJ1bS1BcFVmV2hVakl4OFZSajA3eUsyU3FpQngyXzNQT1FYOXlhWDJEVHF3NzRrQUxTcUdSYUNYOHQwejRQQ0NPQlFRend3Wm81TzZQbHpoc2IxUUZoLW14X0FHa3FIZUlIN1JNdjBDY3lwYw?oc=5",
-      "firstSeen": "2026-07-14"
-    },
-    {
-      "name": "SK hynix",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "SK Hynix U.S. IPO: Everything Memory Stock Investors Should Know About the New ADR - MarketWise",
-      "date": "2026-07-09",
-      "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORE5NWW9WTkJwVDBwR2ZmQ1NkXzIzVXl1ZXAyakc3LV9XMExOc2cwV2VETTV4dktNV1dIb2paU1pHb2Q5R05Yb1NiMl9QWU5kR1BRclJSSlNSTVBPS1liVVpfaDZLVm01bTdISFd5bE80cEkwMkxkYno3RXNSb29XRW1sSk5FV1c0S1V3OVRGVEpOQ0hxMlZiVlBFYkwxREM3Q3U3d1BXZHBLeUcw?oc=5",
-      "firstSeen": "2026-07-10"
-    },
-    {
-      "name": "Ennismore",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Accor Hires Banks for Ennismore’s U.S. IPO: Report - Skift",
-      "date": "2026-07-10",
-      "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUEV6dlFSUEV5VHJfZHIxa01ZTHpXZlVyQTlwTWgwcWI0UEEySnQwazA0U0M0TFJDc2dDbW8zNmo3dnFKcFVnak43R0tTd19RYjlBTmtFekVBTG84WUVLc19NWkZEMUpNZkNIcXFNc3ZDeGpWZ2lRelJYMkhDbjJ1aUJtRQ?oc=5",
-      "firstSeen": "2026-07-10"
-    },
-    {
-      "name": "Toss",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Toss Halts Nasdaq ADR Listing as South Korean Government Pressure Mounts - finance.biggo.com",
-      "date": "2026-07-06",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3WF9vdDd5dnNySzJfbUF4Z3dicDktV0ZLTDFXNXVqSlMyZ0JCdGhDYjFSay11NkU2NVdZVVdwUTAyMnN5dXEwQ1VWMnZRYVRiWFMtQXhMeFRYTjB2WUszLVo3QTNwWDg2WnhEdVFQVkVDRlR2aFE?oc=5",
-      "firstSeen": "2026-07-06"
-    },
-    {
-      "name": "Alopexx",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Cambridge biotech Alopexx files to go public with $30M IPO - The Business Journals",
-      "date": "2026-06-29",
-      "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9XNE9mR3RUWkFNQ09oMFRhRENmUWU1X3pjWjNFbHQ1VEZqbXZUR1FEbGlVaDVpWGJPblZqQmhtdWxrdHlFc2FHcDlyTmlud2hkbFV3MnNfMEdaMjZRR0QzeHhCX3FMRXltc290VXY0RjBic1RLVXNPbHNSSUEzUQ?oc=5",
-      "firstSeen": "2026-06-29"
-    },
-    {
-      "name": "Hub International",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Hub International Confidentially Files for U.S. Initial Public Offering - Program Business",
-      "date": "2026-06-29",
-      "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbTFRV3hTTjl2TXpJZ3Bfb3dsNDNOTHBOMEdlakROZzdONURQam9LYWcwek43bWp2R190M1NnSnJZa1NmSVpCM2RHVUJwdzNnZ2pmb3g5OEh3WEQ0cUhkUUdjTU9NdnRrM3l5VjktZGd0UVBfR25WbVlCSVRLTDVLUmlsc1pNVWl2ZC1yeDFiTnBzcmloWmhJbkZMdVp5cFIxcTVwa1J4SQ?oc=5",
-      "firstSeen": "2026-06-29"
-    },
-    {
-      "name": "SoftBank Group Corp",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "Why OpenAI's Listing Timeline Matters For SoftBank Stock - SOFTBANK GRP UNSP/ADR by Softbank Group Corp - Benzinga",
-      "date": "2026-06-26",
-      "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaDE4YzBQaWEzUkxIUGtUUkdHU0VqeGtNYTNGUnVZNlo3dTB4NjVzaGF6Z2NxdFFCeWt1dWt1VXVFeWY5TmpjVi1GR3hQMDVSNG5ZZWVzLTQyM0w0dThiUEtIa0RsNEwzZDd5dXRzeXY4UlpfZ29EbldRb3ZDMVFWTjRCNlJaV1p0dnM1MWhmODhyM2QxM1JWVzhzOENiY0RhQjE3b1BR?oc=5",
-      "firstSeen": "2026-06-26"
-    },
-    {
-      "name": "Carro",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 35,
-      "signal": "SoftBank-backed car marketplace Carro said to explore US IPO - report - TNGlobal",
-      "date": "2026-06-25",
-      "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNY3hrUk51cDYzdmtVMXpKNlNCS0lybmdQNlJDRlV1NjVjTHJ4OVpueldIRVlnUW1qVE9iUlJGYk1JT3haakVjZU81Y3V6UmZDbVFpNnFWamlvMVhPUUw0eEo2bUg0N0FpbDZUbVEtbEJpTE5ZSTJCeXJINHBzX2JlYlREQkJhS1oxaDRibHU5RjNrbjg5YlFmX2d3eEZVbWVwbUc2ZjdR?oc=5",
-      "firstSeen": "2026-06-25"
-    },
-    {
       "name": "ConnectM Technology Solutions, Inc.",
       "cik": "0001895249",
       "status": "filed",
@@ -554,7 +364,7 @@
       "signal": "S-1 amended",
       "date": "2026-09-22",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026102075/0001213900-26-102075-index.htm",
-      "description": "Quality control software for manufacturing processes"
+      "description": "Software for quality control and compliance"
     },
     {
       "name": "Accelevation Holdings Corp.",
@@ -622,7 +432,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-22",
       "source": "https://www.sec.gov/Archives/edgar/data/1371128/000149315226043738/0001493152-26-043738-index.htm",
-      "description": "Hydrogen fuel cell technology and infrastructure"
+      "description": "Hydrogen fuel production and distribution"
     },
     {
       "name": "Glow Holdings, Inc.",
@@ -670,7 +480,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-22",
       "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526397868/0001193125-26-397868-index.htm",
-      "description": "RNA editing therapeutics for genetic diseases"
+      "description": "RNA editing therapeutics for rare diseases"
     },
     {
       "name": "DFA INVESTMENT DIMENSIONS GROUP INC",
@@ -690,7 +500,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-22",
       "source": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026063013/0001628280-26-063013-index.htm",
-      "description": "Medical devices for orthopedic and trauma care"
+      "description": "Bone health medical devices and diagnostics"
     },
     {
       "name": "SB Energy, Inc.",
@@ -700,7 +510,7 @@
       "signal": "S-1 amended",
       "date": "2026-09-21",
       "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026062846/0001628280-26-062846-index.htm",
-      "description": "Renewable energy solutions and services"
+      "description": "Renewable energy generation and distribution"
     },
     {
       "name": "Rothe Development, Inc.",
@@ -729,7 +539,7 @@
       "signal": "S-1 amended",
       "date": "2026-09-21",
       "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526396007/0001193125-26-396007-index.htm",
-      "description": "RNA editing therapeutics for genetic diseases"
+      "description": "RNA editing therapeutics for rare diseases"
     },
     {
       "name": "KNOREX LTD.",
@@ -757,7 +567,7 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-21",
       "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226043505/0001493152-26-043505-index.htm",
-      "description": "Decarbonization technology for industrial processes"
+      "description": "Decarbonization technology solutions for industrial processes"
     },
     {
       "name": "Sprout Red International Ltd",
@@ -805,7 +615,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-09-21",
       "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526396704/0001193125-26-396704-index.htm",
-      "description": "Immunotherapy for cancer treatment"
+      "description": "Immunotherapy drug development for cancer"
     },
     {
       "name": "Vesicor Therapeutics, Inc.",
@@ -834,7 +644,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-21",
       "source": "https://www.sec.gov/Archives/edgar/data/1547580/000119312526396637/0001193125-26-396637-index.htm",
-      "description": "Special purpose acquisition company"
+      "description": "Special purpose acquisition company for investments"
     },
     {
       "name": "Amaero Inc.",
