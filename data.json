@@ -1,13 +1,13 @@
 {
-  "updated": "2026-09-23T20:03:50.760Z",
+  "updated": "2026-09-23T20:49:39.372Z",
   "summary": "",
   "companies": [
     {
-      "name": "Oura",
+      "name": "OpenAI",
       "cik": null,
       "status": "rumored",
-      "confidence": 95,
-      "signal": "Kalshi traders price 95% odds of a 2026 IPO",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
       "date": "2026-09-23",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -17,6 +17,24 @@
       "status": "rumored",
       "confidence": 77,
       "signal": "Kalshi traders price 77% odds of a 2026 IPO",
+      "date": "2026-09-23",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Oura",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 98,
+      "signal": "Kalshi traders price 98% odds of a 2026 IPO",
+      "date": "2026-09-23",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "DeepSeek",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
       "date": "2026-09-23",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -44,15 +62,6 @@
       "status": "rumored",
       "confidence": 5,
       "signal": "Kalshi traders price 5% odds of a 2026 IPO",
-      "date": "2026-09-23",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "OpenAI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
       "date": "2026-09-23",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -85,15 +94,6 @@
     },
     {
       "name": "Glean",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-09-23",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "DeepSeek",
       "cik": null,
       "status": "rumored",
       "confidence": 3,
@@ -228,6 +228,26 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Carro",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "SoftBank-backed Carro said to mull first dual Nasdaq-SGX IPO - theedgesingapore.com",
+      "date": "2026-09-23",
+      "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa3QzQWZhbVJGdXZmWkVjajZpX1BzZDZUWGItbG9iWFRURXlOd0NEckFPZ3B1QnZ1X1RycXU1cVFRaFBFNlZ3UjZlc19PUWJtajdISDBoclBtSTB0TndHa2hzYXY5ZDVSLVJmMmpQcVhKX0RIOEY5MUM0S0JvU1lURmVEemh2SVVpUDQyd2otMlFPTWllVWdGZmxTU25PTXR60gGmAUFVX3lxTFBQX2psRVAydWxsaTRXclVCd3ppWDN1bEx0b0NhUUNfZTNaWlAySXJDeVM1TzdfMU95aXU2NEY5TVhfNjNnMm9ZcTRVLVVSLUdoRDZkbk1ZVmtxaDVkTWR0a1FJdEVKT2NMRTdBMXZuTEpzZU5wY2hONGNreEhVZVVVQXdqN2dwWFhkcHNXZ3lXa3VtSl90OHpmbXJfTGN3X3VTdTRSQXc?oc=5",
+      "firstSeen": "2026-09-23"
+    },
+    {
+      "name": "ADARx",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "AbbVie-backed ADARx plans IPO to bankroll array of clinical-stage siRNA therapies - Fierce Biotech",
+      "date": "2026-09-06",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNlhyNnloMDBNbG5BYXlNTFNCYUVDVERUdjNSS1NFMFFhalAxZ1hIMGZyYlpWWHBDYVc1bDBCN2VVMWZ6TU9oYXk2UzFHQ1R5VXp4MG5fRmZIOWxMa0xnWGpEUHg3T28xWWt3clZDNkZoUlJ5WjhvbG5uUURrTV9oa180RVMxUzJDNHRCTmZ1QWI0NURYOEdERmFUMFV4aDgwZTEzSEdTUHdWakx3OFE?oc=5",
+      "firstSeen": "2026-09-06"
+    },
+    {
       "name": "CoVolt Power",
       "cik": null,
       "status": "rumored",
@@ -247,14 +267,31 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926109830/0001104659-26-109830-index.htm"
     },
     {
+      "name": "Basel Medical Group Ltd",
+      "cik": "0002004489",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-09-23",
+      "source": "https://www.sec.gov/Archives/edgar/data/2004489/000149315226043922/0001493152-26-043922-index.htm"
+    },
+    {
+      "name": "Wella Co",
+      "cik": "0002125056",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-09-23",
+      "source": "https://www.sec.gov/Archives/edgar/data/2125056/000162828026063205/0001628280-26-063205-index.htm"
+    },
+    {
       "name": "Tracx Logis Ltd.",
       "cik": "0002114145",
       "status": "filed",
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026102048/0001213900-26-102048-index.htm",
-      "description": "Logistics and supply chain management services"
+      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026102048/0001213900-26-102048-index.htm"
     },
     {
       "name": "SeeQC, Inc.",
@@ -263,8 +300,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026102075/0001213900-26-102075-index.htm",
-      "description": "Quality control software for manufacturing processes"
+      "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026102075/0001213900-26-102075-index.htm"
     },
     {
       "name": "Accelevation Holdings Corp.",
@@ -282,8 +318,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026062972/0001628280-26-062972-index.htm",
-      "description": "Genomics-based health screening and diagnostics"
+      "source": "https://www.sec.gov/Archives/edgar/data/1876431/000162828026062972/0001628280-26-062972-index.htm"
     },
     {
       "name": "Fitness Fanatics Ltd",
@@ -292,8 +327,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/2065232/000149315226043668/0001493152-26-043668-index.htm",
-      "description": "Retailer of fitness equipment and apparel"
+      "source": "https://www.sec.gov/Archives/edgar/data/2065232/000149315226043668/0001493152-26-043668-index.htm"
     },
     {
       "name": "Veri MedTech Holdings, Inc.",
@@ -302,8 +336,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/2078149/000109690626001407/0001096906-26-001407-index.htm",
-      "description": "Medical technology solutions for diagnostics and imaging"
+      "source": "https://www.sec.gov/Archives/edgar/data/2078149/000109690626001407/0001096906-26-001407-index.htm"
     },
     {
       "name": "Creatd, Inc.",
@@ -321,8 +354,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026102276/0001213900-26-102276-index.htm",
-      "description": "Digital signage and interactive display solutions"
+      "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026102276/0001213900-26-102276-index.htm"
     },
     {
       "name": "NewHydrogen, Inc.",
@@ -331,8 +363,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1371128/000149315226043738/0001493152-26-043738-index.htm",
-      "description": "Hydrogen fuel cell technology and infrastructure"
+      "source": "https://www.sec.gov/Archives/edgar/data/1371128/000149315226043738/0001493152-26-043738-index.htm"
     },
     {
       "name": "Glow Holdings, Inc.",
@@ -350,8 +381,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1875655/000149315226043710/0001493152-26-043710-index.htm",
-      "description": "Special purpose acquisition company for investments"
+      "source": "https://www.sec.gov/Archives/edgar/data/1875655/000149315226043710/0001493152-26-043710-index.htm"
     },
     {
       "name": "Spinnova Plc",
@@ -360,8 +390,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141512/000118518526004224/0001185185-26-004224-index.htm",
-      "description": "Sustainable fiber production from renewable resources"
+      "source": "https://www.sec.gov/Archives/edgar/data/2141512/000118518526004224/0001185185-26-004224-index.htm"
     },
     {
       "name": "Decent Holding Inc.",
@@ -379,8 +408,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526397868/0001193125-26-397868-index.htm",
-      "description": "RNA editing therapeutics for genetic diseases"
+      "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526397868/0001193125-26-397868-index.htm"
     },
     {
       "name": "DFA INVESTMENT DIMENSIONS GROUP INC",
@@ -389,8 +417,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/355437/000207184426001253/0002071844-26-001253-index.htm",
-      "description": "Investment management and advisory services"
+      "source": "https://www.sec.gov/Archives/edgar/data/355437/000207184426001253/0002071844-26-001253-index.htm"
     },
     {
       "name": "Nutex Health Inc.",
@@ -399,8 +426,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026063013/0001628280-26-063013-index.htm",
-      "description": "Medical devices for orthopedic and trauma care"
+      "source": "https://www.sec.gov/Archives/edgar/data/1479681/000162828026063013/0001628280-26-063013-index.htm"
     },
     {
       "name": "SB Energy, Inc.",
@@ -409,8 +435,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026062846/0001628280-26-062846-index.htm",
-      "description": "Renewable energy solutions and power generation"
+      "source": "https://www.sec.gov/Archives/edgar/data/2133037/000162828026062846/0001628280-26-062846-index.htm"
     },
     {
       "name": "Rothe Development, Inc.",
@@ -428,8 +453,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/2133022/000119312526396051/0001193125-26-396051-index.htm",
-      "description": "Wearable sleep and activity tracking technology"
+      "source": "https://www.sec.gov/Archives/edgar/data/2133022/000119312526396051/0001193125-26-396051-index.htm"
     },
     {
       "name": "ADARx Pharmaceuticals, Inc.",
@@ -438,8 +462,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526396007/0001193125-26-396007-index.htm",
-      "description": "RNA editing therapeutics for genetic diseases"
+      "source": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526396007/0001193125-26-396007-index.htm"
     },
     {
       "name": "KNOREX LTD.",
@@ -466,8 +489,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226043505/0001493152-26-043505-index.htm",
-      "description": "Decarbonization technology for industrial processes"
+      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226043505/0001493152-26-043505-index.htm"
     },
     {
       "name": "Sprout Red International Ltd",
@@ -485,8 +507,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/2131813/000114036126037195/0001140361-26-037195-index.htm",
-      "description": "Nuclear fusion technology development"
+      "source": "https://www.sec.gov/Archives/edgar/data/2131813/000114036126037195/0001140361-26-037195-index.htm"
     },
     {
       "name": "Hyliion Holdings Corp.",
@@ -495,8 +516,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/1759631/000162828026062808/0001628280-26-062808-index.htm",
-      "description": "Hybrid-electric trucking solutions"
+      "source": "https://www.sec.gov/Archives/edgar/data/1759631/000162828026062808/0001628280-26-062808-index.htm"
     },
     {
       "name": "ECOMINAS CORP.",
@@ -514,8 +534,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526396704/0001193125-26-396704-index.htm",
-      "description": "Immunotherapy drug development for cancer"
+      "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526396704/0001193125-26-396704-index.htm"
     },
     {
       "name": "Vesicor Therapeutics, Inc.",
@@ -524,8 +543,7 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/1993074/000182912626010292/0001829126-26-010292-index.htm",
-      "description": "Bladder cancer therapeutics development"
+      "source": "https://www.sec.gov/Archives/edgar/data/1993074/000182912626010292/0001829126-26-010292-index.htm"
     },
     {
       "name": "Amaero Inc.",
@@ -543,8 +561,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-09-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/1547580/000119312526396637/0001193125-26-396637-index.htm",
-      "description": "Special purpose acquisition company"
+      "source": "https://www.sec.gov/Archives/edgar/data/1547580/000119312526396637/0001193125-26-396637-index.htm"
     },
     {
       "name": "Amaero Inc.",
@@ -823,16 +840,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2112634/000168316826007209/0001683168-26-007209-index.htm"
     },
     {
-      "name": "Basel Medical Group Ltd",
-      "cik": "0002004489",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-17",
-      "source": "https://www.sec.gov/Archives/edgar/data/2004489/000149315226043116/0001493152-26-043116-index.htm",
-      "description": "Private medical group providing healthcare services in Switzerland"
-    },
-    {
       "name": "Aggreko Inc.",
       "cik": "0002134090",
       "status": "filed",
@@ -1010,16 +1017,6 @@
       "date": "2026-09-16",
       "source": "https://www.sec.gov/Archives/edgar/data/1702123/000110465926108132/0001104659-26-108132-index.htm",
       "description": "Biotech developing cardiovascular therapeutics"
-    },
-    {
-      "name": "World Road Inc.",
-      "cik": "0002049348",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2049348/000182912626010133/0001829126-26-010133-index.htm",
-      "description": "Philippine company building and operating toll roads"
     }
   ]
 }
