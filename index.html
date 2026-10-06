@@ -80,7 +80,7 @@
       const d = new Date(iso);
       if (isNaN(d)) return iso;
       const days = Math.floor((Date.now() - d.getTime()) / 86400000);
-      const date = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+      const date = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric', timeZone: 'America/New_York' });
       if (days <= 0) return date + ' \u00b7 today';
       if (days === 1) return date + ' \u00b7 yesterday';
       return date + ' \u00b7 ' + days + ' days ago';
@@ -148,8 +148,12 @@
       .then(response => response.json())
       .then(data => {
         document.getElementById('updated').textContent =
-          'Last updated ' + new Date(data.updated).toLocaleString();
-
+          'Last updated ' + new Date(data.updated).toLocaleString('en-US', {
+            timeZone: 'America/New_York',
+            dateStyle: 'medium',
+            timeStyle: 'short'
+          }) + ' ET';
+        
         const all = (data.companies || []).slice();
 
         const markets = all.filter(isMarket)
