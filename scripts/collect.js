@@ -23,19 +23,13 @@ const NON_US_VENUE = /\b(Hong Kong|HKEX|London|LSE|India|Mumbai|Tokyo|Shanghai|S
 const US_VENUE = /\b(US|U\.S\.|American|New York|Nasdaq|NYSE|ADR|ADS)\b/i;
 
 const NEWS_QUERIES = [
-  'company "plans IPO" 2026',
   'company "confidentially filed" IPO',
+  'company "plans IPO" 2026',
   '"IPO" "has hired" banks underwriters',
-  '"going public" "next year" startup',
-  'IPO "as soon as" listing US',
-  '"ADR" IPO "New York" listing',
-  'foreign company "US listing" IPO Nasdaq NYSE',
   'IPO "filed confidentially" SEC',
   'startup "exploring an IPO"',
-  '"considering an IPO" company',
-  '"IPO" "early next year" company'
+  '"ADR" IPO "New York" listing'
 ];
-
 const NEWS_STOPWORDS = new Set([
   'The','A','An','US','U.S.','IPO','Wall','Street','New','York','Nasdaq','NYSE',
   'Reuters','Bloomberg','CNBC','Report','Exclusive','Sources','Why','How','What',
@@ -157,8 +151,12 @@ async function extractNamesWithGemini(headlines) {
     return null;
   }
   if (headlines.length === 0) return null;
-
-  const BATCH = 20;
+  const MAX_HEADLINES = 150;
+  if (headlines.length > MAX_HEADLINES) {
+    console.log('Trimming ' + headlines.length + ' to ' + MAX_HEADLINES);
+    headlines = headlines.slice(0, MAX_HEADLINES);
+  }
+  const BATCH = 40;
   const all = [];
   let failures = 0;
 
@@ -193,7 +191,7 @@ async function extractNamesWithGemini(headlines) {
       console.log('GEMINI batch at ' + start + ' failed: ' + error.message);
     }
 
-    await new Promise(r => setTimeout(r, 30000));
+    await new Promise(r => set(r, 30000));
   }
 
   console.log('OK gemini: parsed ' + all.length + ' of ' + headlines.length
@@ -221,7 +219,7 @@ async function describeCompanies(names) {
     } catch (error) {
       console.log('DESC batch at ' + start + ' failed: ' + error.message);
     }
-    await new Promise(r => setTimeout(r, 8000));
+    await new Promise(r => set(r, 5000));
   }
 
   console.log('OK descriptions: ' + Object.keys(out).length + ' of ' + names.length);
@@ -288,9 +286,18 @@ async function fetchNews(watchlist) {
       console.log('NEWS ERROR: ' + error.message);
     }
 
-    await new Promise(resolve => setTimeout(resolve, 500));
+    await new Promise(resolve => set(resolve, 500));
   }
-
+  const seenHeadlines = new Set();
+  const deduped = results.filter(r => {
+    const key = (r.signal || '').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 60);
+    if (seenHeadlines.has(key)) return false;
+    seenHeadlines.add(key);
+    return true;
+  });
+  results.length = 0;
+  results.push(...deduped);
+  console.log('Deduped to ' + results.length + ' unique headlines');
   const aiNames = await extractNamesWithGemini(results.map(r => r.signal));
   if (!aiNames) {
     console.log('No AI extraction, keeping watchlist matches only');
@@ -320,7 +327,7 @@ async function fetchNews(watchlist) {
   // const publicSet = new Set();
   // for (const name of candidates) {
   //   if (await isAlreadyPublic(name)) publicSet.add(name);
-  //   await new Promise(r => setTimeout(r, 150));
+  //   await new Promise(r => set(r, 150));
   // }
   // for (const r of results) {
   //   if (r.name && publicSet.has(r.name)) r.name = null;
@@ -414,7 +421,7 @@ async function main() {
       const prior = byKey[key];
       if (!prior || filing.date >= prior.date) byKey[key] = filing;
     }
-    await new Promise(resolve => setTimeout(resolve, 500));
+    await new Promise(resolve => set(resolve, 500));
   }
 
   const kalshi = await fetchKalshi();
