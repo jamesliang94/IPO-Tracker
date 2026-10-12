@@ -3,7 +3,7 @@ name: Collect IPO data
 on:
  schedule:
     - cron: '0 12,15,18,21 * * 1-5'
-  workflow_dispatch:
+ workflow_dispatch:
 
 permissions:
   contents: write
