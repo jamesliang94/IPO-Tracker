@@ -421,7 +421,7 @@ async function main() {
       const prior = byKey[key];
       if (!prior || filing.date >= prior.date) byKey[key] = filing;
     }
-    await new Promise(resolve => set(resolve, 500));
+    await new Promise(resolve => setTimeout(resolve, 500));
   }
 
   const kalshi = await fetchKalshi();
