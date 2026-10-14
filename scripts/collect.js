@@ -4,6 +4,7 @@ const USER_AGENT = 'IPO Tracker jliang@themesetfs.com';
 
 const FORMS = {
   'S-1':     { status: 'filed',   confidence: 90, signal: 'S-1 filed with SEC' },
+  
   'S-1/A':   { status: 'filed',   confidence: 92, signal: 'S-1 amended' },
   'F-1':     { status: 'filed',   confidence: 90, signal: 'F-1 filed (foreign issuer)' },
   'F-1/A':   { status: 'filed',   confidence: 92, signal: 'F-1 amended' },
@@ -191,7 +192,7 @@ async function extractNamesWithGemini(headlines) {
       console.log('GEMINI batch at ' + start + ' failed: ' + error.message);
     }
 
-    await new Promise(r => set(r, 30000));
+    await new Promise(r => setTimeout(r, 5000));
   }
 
   console.log('OK gemini: parsed ' + all.length + ' of ' + headlines.length
@@ -219,7 +220,7 @@ async function describeCompanies(names) {
     } catch (error) {
       console.log('DESC batch at ' + start + ' failed: ' + error.message);
     }
-    await new Promise(r => set(r, 5000));
+    await new Promise(r => setTimeout(r, 5000));
   }
 
   console.log('OK descriptions: ' + Object.keys(out).length + ' of ' + names.length);
@@ -286,7 +287,7 @@ async function fetchNews(watchlist) {
       console.log('NEWS ERROR: ' + error.message);
     }
 
-    await new Promise(resolve => set(resolve, 500));
+    await new Promise(resolve => setTimeout(resolve, 500));
   }
   const seenHeadlines = new Set();
   const deduped = results.filter(r => {
