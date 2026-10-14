@@ -152,7 +152,7 @@ async function extractNamesWithGemini(headlines) {
     return null;
   }
   if (headlines.length === 0) return null;
-  const MAX_HEADLINES = 150;
+  const MAX_HEADLINES = 320;
   if (headlines.length > MAX_HEADLINES) {
     console.log('Trimming ' + headlines.length + ' to ' + MAX_HEADLINES);
     headlines = headlines.slice(0, MAX_HEADLINES);
@@ -451,7 +451,6 @@ async function main() {
   const cutoff30 = new Date(Date.now() - 30 * 86400000).toISOString().slice(0, 10);
   const liveNames = new Set(rumors.map(r => dedupeKey(r.name)));
   const rumorRows = everything.filter(c => c.status === 'rumored' && !/kalshi/i.test(c.signal || ''))
-    .filter(c => liveNames.has(dedupeKey(c.name)))
     .filter(c => (c.firstSeen || c.date || '') >= cutoff30)
     .sort((a, b) => ((b.firstSeen || b.date) || '').localeCompare((a.firstSeen || a.date) || ''))
     .slice(0, 60);
