@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-14T18:35:31.134Z",
+  "updated": "2026-10-14T20:32:16.951Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 71,
-      "signal": "Kalshi traders price 71% odds of a 2026 IPO",
+      "confidence": 69,
+      "signal": "Kalshi traders price 69% odds of a 2026 IPO",
       "date": "2026-10-14",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -237,6 +237,16 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Solidigm",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Solidigm's U.S. IPO Fuels Listing Controversy - 조선일보",
+      "date": "2026-09-26",
+      "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQS3RZS2tNYlRSWGFPbVhvdHRUSVFvVF9nVjJRQnpPOUZweWlqMlFrdXhjVjdqNVhuMkFuSW5IcHVnaFFWSDJsbmZ4QS1lRUxXMUo3VWtFRWxFcFRKVDFSNXIwUk5rbWV0V3NmQ0txbkprcEtSWDdwYWpxVFVwUVhHajhMYWRKUjJW?oc=5",
+      "firstSeen": "2026-09-26"
+    },
+    {
       "name": "Altera",
       "cik": null,
       "status": "rumored",
@@ -263,6 +273,33 @@
       "signal": "S-1 amended",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007832/0001683168-26-007832-index.htm"
+    },
+    {
+      "name": "FingerMotion, Inc.",
+      "cik": "0001602409",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226047000/0001493152-26-047000-index.htm"
+    },
+    {
+      "name": "Tattvance Corp",
+      "cik": "0002153476",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-10-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/2153476/000117152026000307/0001171520-26-000307-index.htm"
+    },
+    {
+      "name": "Lion Copper Corp.",
+      "cik": "0001339688",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-10-14",
+      "source": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326005337/0001062993-26-005337-index.htm"
     },
     {
       "name": "Glucotrack, Inc.",
@@ -481,15 +518,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1840102/000152013826000418/0001520138-26-000418-index.htm"
     },
     {
-      "name": "FingerMotion, Inc.",
-      "cik": "0001602409",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226046470/0001493152-26-046470-index.htm"
-    },
-    {
       "name": "Simwon America Corp.",
       "cik": "0001698506",
       "status": "filed",
@@ -595,7 +623,8 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2092592/000119312526418582/0001193125-26-418582-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2092592/000119312526418582/0001193125-26-418582-index.htm",
+      "description": "Health and wellness services provider, part of UnitedHealth Group"
     },
     {
       "name": "Retension Pharmaceuticals, Inc.",
@@ -704,7 +733,8 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141406/000162828026064097/0001628280-26-064097-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2141406/000162828026064097/0001628280-26-064097-index.htm",
+      "description": "Real estate investment trust focusing on commercial properties"
     },
     {
       "name": "T3 Defense Inc.",
@@ -763,7 +793,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026105921/0001213900-26-105921-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026105921/0001213900-26-105921-index.htm",
+      "description": "Manufacturer of personal protective equipment for healthcare and industrial markets"
     },
     {
       "name": "TOP Financial Group Ltd",
@@ -882,7 +913,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2083101/000121390026105126/0001213900-26-105126-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2083101/000121390026105126/0001213900-26-105126-index.htm",
+      "description": "Manufacturer of personal protective equipment for healthcare and industrial markets"
     },
     {
       "name": "Chilwa Minerals Ltd",
@@ -951,7 +983,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-09-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/2119287/000149315226044960/0001493152-26-044960-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2119287/000149315226044960/0001493152-26-044960-index.htm",
+      "description": "Real estate investment trust focusing on commercial properties"
     },
     {
       "name": "Metals Royalty Co Inc.",
@@ -982,26 +1015,6 @@
       "date": "2026-09-28",
       "source": "https://www.sec.gov/Archives/edgar/data/1131903/000121390026104117/0001213900-26-104117-index.htm",
       "description": "Private equity firm focusing on technology investments."
-    },
-    {
-      "name": "Polyrizon Ltd.",
-      "cik": "0001893645",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-09-28",
-      "source": "https://www.sec.gov/Archives/edgar/data/1893645/000121390026104062/0001213900-26-104062-index.htm",
-      "description": "Develops polymer-based materials for industrial applications."
-    },
-    {
-      "name": "HMH Holding Inc",
-      "cik": "0002021880",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-28",
-      "source": "https://www.sec.gov/Archives/edgar/data/2021880/000119312526405527/0001193125-26-405527-index.htm",
-      "description": "Holding company with diversified investments."
     }
   ]
 }
