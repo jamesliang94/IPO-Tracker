@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-15T16:26:56.349Z",
+  "updated": "2026-10-15T21:00:59.796Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 72,
-      "signal": "Kalshi traders price 72% odds of a 2026 IPO",
+      "confidence": 74,
+      "signal": "Kalshi traders price 74% odds of a 2026 IPO",
       "date": "2026-10-15",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -44,15 +44,6 @@
       "status": "rumored",
       "confidence": 5,
       "signal": "Kalshi traders price 5% odds of a 2026 IPO",
-      "date": "2026-10-15",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Kraken",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
       "date": "2026-10-15",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -183,6 +174,15 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Kraken",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-10-15",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Vanta",
       "cik": null,
       "status": "rumored",
@@ -272,7 +272,57 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526422334/0001193125-26-422334-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526422334/0001193125-26-422334-index.htm",
+      "description": "Provides air quality monitoring and analytics solutions"
+    },
+    {
+      "name": "Iambic Therapeutics, Inc.",
+      "cik": "0001997038",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-10-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526422865/0001193125-26-422865-index.htm",
+      "description": "Develops immuno-oncology therapies for cancer treatment"
+    },
+    {
+      "name": "MED-X, INC.",
+      "cik": "0001620704",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226006268/0001477932-26-006268-index.htm"
+    },
+    {
+      "name": "Cashlin",
+      "cik": "0002155673",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-10-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2155673/000168316826007889/0001683168-26-007889-index.htm",
+      "description": "Provides cash management and payment solutions for SMBs"
+    },
+    {
+      "name": "Hao Feng Group Ltd.",
+      "cik": "0002120204",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/2120204/000118518526004773/0001185185-26-004773-index.htm",
+      "description": "Manufactures steel and construction materials in China"
+    },
+    {
+      "name": "FreightCar America, Inc.",
+      "cik": "0001320854",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-10-15",
+      "source": "https://www.sec.gov/Archives/edgar/data/1320854/000121390026109877/0001213900-26-109877-index.htm",
+      "description": "Leases and manages rail freight cars in North America"
     },
     {
       "name": "Bitari Inc",
@@ -282,7 +332,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526004746/0001185185-26-004746-index.htm",
-      "description": "Blockchain-based digital asset platform"
+      "description": "Provides digital marketing and web development services"
     },
     {
       "name": "ACTUATE THERAPEUTICS, INC.",
@@ -292,7 +342,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007832/0001683168-26-007832-index.htm",
-      "description": "Develops cell-based immunotherapies for cancer treatment"
+      "description": "Develops cellular therapies for neurodegenerative disorders"
     },
     {
       "name": "FingerMotion, Inc.",
@@ -302,7 +352,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226047000/0001493152-26-047000-index.htm",
-      "description": "Hand gesture recognition technology for AR/VR and mobile"
+      "description": "Creates hand motion tracking hardware for AR/VR applications"
     },
     {
       "name": "Tattvance Corp",
@@ -312,7 +362,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/2153476/000117152026000307/0001171520-26-000307-index.htm",
-      "description": "Develops immune-oncology therapies for cancer"
+      "description": "Provides digital transformation consulting services"
     },
     {
       "name": "Lion Copper Corp.",
@@ -322,7 +372,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326005337/0001062993-26-005337-index.htm",
-      "description": "Copper exploration and mining company"
+      "description": "Explores and develops copper mining projects in Canada"
     },
     {
       "name": "GEORGIA BANKING CO INC",
@@ -332,7 +382,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926115863/0001104659-26-115863-index.htm",
-      "description": "Retail banking and financial services in Georgia"
+      "description": "Provides banking and financial services in Georgia, USA"
     },
     {
       "name": "Green Circle Decarbonize Technology Ltd",
@@ -342,7 +392,7 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047046/0001493152-26-047046-index.htm",
-      "description": "Provides decarbonization technologies for industrial processes"
+      "description": "Develops decarbonization technologies for industrial processes"
     },
     {
       "name": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
@@ -352,7 +402,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926115873/0001104659-26-115873-index.htm",
-      "description": "Industrial real estate investment trust"
+      "description": "Invests in and manages industrial real estate properties"
     },
     {
       "name": "Glucotrack, Inc.",
@@ -362,7 +412,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/1506983/000149315226046915/0001493152-26-046915-index.htm",
-      "description": "Develops continuous glucose monitoring devices"
+      "description": "Develops continuous glucose monitoring systems for diabetes care"
     },
     {
       "name": "Alternative Ballistics Corp",
@@ -371,7 +421,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1834868/000149315226046881/0001493152-26-046881-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1834868/000149315226046881/0001493152-26-046881-index.htm",
+      "description": "Provides ballistic testing and protective equipment solutions"
     },
     {
       "name": "KiNRG, Inc.",
@@ -381,7 +432,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/95572/000121390026109090/0001213900-26-109090-index.htm",
-      "description": "Provides solar and energy storage solutions"
+      "description": "Offers renewable energy consulting and project development"
     },
     {
       "name": "Apex Treasury Corp II",
@@ -391,7 +442,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/2159678/000121390026108751/0001213900-26-108751-index.htm",
-      "description": "Treasury and financial services provider"
+      "description": "Provides treasury and cash management services"
     },
     {
       "name": "Arxis, Inc.",
@@ -401,7 +452,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/2093536/000119312526419718/0001193125-26-419718-index.htm",
-      "description": "Develops gene therapies for rare diseases"
+      "description": "Delivers cloud-based ERP solutions for businesses"
     },
     {
       "name": "WeShop Holdings Ltd",
@@ -411,7 +462,7 @@
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/2048271/000149315226046878/0001493152-26-046878-index.htm",
-      "description": "Social commerce platform for online shopping"
+      "description": "Operates an online marketplace for consumer goods"
     },
     {
       "name": "LandBridge Corp",
@@ -421,7 +472,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/1995807/000119312526420567/0001193125-26-420567-index.htm",
-      "description": "Land acquisition and development company"
+      "description": "Acquires and develops land for commercial projects"
     },
     {
       "name": "CITY THERAPEUTICS, INC.",
@@ -431,17 +482,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926115485/0001104659-26-115485-index.htm",
-      "description": "Develops cell therapies for cancer treatment"
-    },
-    {
-      "name": "Iambic Therapeutics, Inc.",
-      "cik": "0001997038",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526420387/0001193125-26-420387-index.htm",
-      "description": "Develops immune-oncology therapies for cancer"
+      "description": "Develops cellular immunotherapies for cancer treatment"
     },
     {
       "name": "INTERNATIONAL BANCSHARES CORP",
@@ -451,7 +492,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/315709/000110465926115337/0001104659-26-115337-index.htm",
-      "description": "Regional bank offering financial services"
+      "description": "Provides banking and investment services"
     },
     {
       "name": "Xponential Fitness, Inc.",
@@ -461,7 +502,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/1802156/000119312526419698/0001193125-26-419698-index.htm",
-      "description": "Operates fitness club franchises"
+      "description": "Operates fitness clubs and health centers"
     },
     {
       "name": "Skydance Corp",
@@ -491,7 +532,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-09",
       "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226046657/0001493152-26-046657-index.htm",
-      "description": "Develops non-invasive sleep apnea monitoring devices"
+      "description": "Develops non-invasive patient monitoring devices"
     },
     {
       "name": "VME Companies, Inc.",
@@ -611,7 +652,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-09",
       "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926114815/0001104659-26-114815-index.htm",
-      "description": "Develops cell therapies for cancer treatment"
+      "description": "Develops cellular immunotherapies for cancer treatment"
     },
     {
       "name": "Kainan Holding Group Ltd",
@@ -620,7 +661,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2120528/000157587226000686/0001575872-26-000686-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2120528/000157587226000686/0001575872-26-000686-index.htm",
+      "description": "Engages in real estate development and construction services"
     },
     {
       "name": "OPAY Ltd",
@@ -1011,46 +1053,6 @@
       "date": "2026-09-29",
       "source": "https://www.sec.gov/Archives/edgar/data/2095509/000121390026104541/0001213900-26-104541-index.htm",
       "description": "Provides technical services for mining operations."
-    },
-    {
-      "name": "FORD MOTOR CREDIT CO LLC",
-      "cik": "0000038009",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/38009/000003800926000090/0000038009-26-000090-index.htm",
-      "description": "Auto financing company for Ford vehicles."
-    },
-    {
-      "name": "DYNEX CAPITAL INC",
-      "cik": "0000826675",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000110/0000826675-26-000110-index.htm",
-      "description": "Private equity firm investing in growth companies."
-    },
-    {
-      "name": "DFA INVESTMENT DIMENSIONS GROUP INC",
-      "cik": "0000355437",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-09-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/355437/000207184426001301/0002071844-26-001301-index.htm",
-      "description": "Investment management firm offering portfolio solutions."
-    },
-    {
-      "name": "Velos Acquisition I Corp.",
-      "cik": "0002016072",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/2016072/000121390026104746/0001213900-26-104746-index.htm",
-      "description": "Special purpose acquisition company (SPAC) seeking merger."
     }
   ]
 }
