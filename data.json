@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T20:35:54.358Z",
+  "updated": "2026-10-16T23:18:16.204Z",
   "summary": "",
   "companies": [
     {
@@ -24,8 +24,8 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 10,
-      "signal": "Kalshi traders price 10% odds of a 2026 IPO",
+      "confidence": 8,
+      "signal": "Kalshi traders price 8% odds of a 2026 IPO",
       "date": "2026-10-16",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -358,6 +358,51 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2083345/000121390026110121/0001213900-26-110121-index.htm"
     },
     {
+      "name": "CITY THERAPEUTICS, INC.",
+      "cik": "0002143850",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116636/0001104659-26-116636-index.htm"
+    },
+    {
+      "name": "SOBR Safe, Inc.",
+      "cik": "0001425627",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226006309/0001477932-26-006309-index.htm"
+    },
+    {
+      "name": "AMAZE HOLDINGS, INC.",
+      "cik": "0001880343",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226047417/0001493152-26-047417-index.htm"
+    },
+    {
+      "name": "PEPSICO INC",
+      "cik": "0000077476",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/77476/000110465926116649/0001104659-26-116649-index.htm"
+    },
+    {
+      "name": "NatWest Group plc",
+      "cik": "0000844150",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/844150/000095010326015725/0000950103-26-015725-index.htm"
+    },
+    {
       "name": "KBAT Group Inc.",
       "cik": "0002033315",
       "status": "filed",
@@ -586,16 +631,6 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/1995807/000119312526420567/0001193125-26-420567-index.htm"
-    },
-    {
-      "name": "CITY THERAPEUTICS, INC.",
-      "cik": "0002143850",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926115485/0001104659-26-115485-index.htm",
-      "description": "Cell therapy company developing regenerative treatments"
     },
     {
       "name": "INTERNATIONAL BANCSHARES CORP",
@@ -1006,46 +1041,6 @@
       "date": "2026-10-01",
       "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026105921/0001213900-26-105921-index.htm",
       "description": "Manufacturer of personal protective equipment for healthcare and industrial markets"
-    },
-    {
-      "name": "TOP Financial Group Ltd",
-      "cik": "0001848275",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/1848275/000121390026105817/0001213900-26-105817-index.htm",
-      "description": "Provides financial services and investment"
-    },
-    {
-      "name": "Runway Growth Finance Corp.",
-      "cik": "0001653384",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/1653384/000119312526410774/0001193125-26-410774-index.htm",
-      "description": "Offers growth financing to startups"
-    },
-    {
-      "name": "WISeSat.Space Holdings Corp.",
-      "cik": "0002101411",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/2101411/000121390026105818/0001213900-26-105818-index.htm",
-      "description": "Develops satellite and space technology"
-    },
-    {
-      "name": "Primagrove Ltd",
-      "cik": "0002138135",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2138135/000121390026104919/0001213900-26-104919-index.htm",
-      "description": "Develops sustainable forestry and timber products."
     }
   ]
 }
