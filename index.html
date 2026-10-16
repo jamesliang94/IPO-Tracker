@@ -3,11 +3,12 @@
 <head>
   <title>IPO Tracker</title>
   <style>
-    body { font-family: system-ui, sans-serif; max-width: 1100px; margin: 40px auto; padding: 0 20px; color: #111; }
+    body { font-family: system-ui, sans-serif; max-width: 1400px; margin: 40px auto; padding: 0 20px; color: #111; }
     h1 { margin-bottom: 4px; }
     .updated { color: #666; font-size: 13px; margin: 0 0 24px; }
 
-    .columns { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; }
+    .columns { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 20px; }
+    @media (max-width: 1100px) { .columns { grid-template-columns: 1fr 1fr; } }
     @media (max-width: 760px) { .columns { grid-template-columns: 1fr; } }
 
     .col-head { font-size: 13px; text-transform: uppercase; letter-spacing: 0.05em; color: #6b7280; margin-bottom: 10px; padding-bottom: 6px; border-bottom: 1px solid #e5e7eb; }
@@ -22,6 +23,7 @@
     .name { font-weight: 600; font-size: 16px; display: block; color: inherit; text-decoration: none; }
     a.name:hover { text-decoration: underline; color: #1e40af; }
     .chance { display: inline-block; margin-top: 6px; padding: 2px 8px; border-radius: 12px; font-size: 12px; font-weight: 600; background: #ede9fe; color: #5b21b6; }
+    .desc { color: #6b7280; font-size: 13px; margin-top: 4px; font-style: italic; }
     .signal { color: #444; font-size: 14px; margin-top: 5px; line-height: 1.45; }
     .stamp { color: #888; font-size: 12px; margin-top: 7px; }
     .empty { color: #9ca3af; font-size: 14px; font-style: italic; padding: 8px 0; }
@@ -45,6 +47,10 @@
 
   <div class="columns">
     <div>
+      <div class="col-head">Priced <span id="priced-count"></span></div>
+      <div id="priced"></div>
+    </div>
+    <div>
       <div class="col-head">Filed <span id="filed-count"></span></div>
       <div id="filed"></div>
     </div>
@@ -58,13 +64,6 @@
     <details open>
       <summary id="market-summary">Prediction markets</summary>
       <div class="grid2" id="markets"></div>
-    </details>
-  </div>
-
-  <div class="block">
-    <details>
-      <summary id="priced-summary">Priced</summary>
-      <div class="grid2" id="priced"></div>
     </details>
   </div>
 
@@ -99,10 +98,13 @@
         ? '<span class="chance">' + company.confidence + '% chance</span>'
         : '';
 
-      card.innerHTML = title
-        + chance
+      const desc = company.description
+        ? '<div class="desc">' + company.description + '</div>'
+        : '';
+
+      card.innerHTML = title + chance + desc
         + '<div class="signal">' + (company.signal || '') + '</div>'
-        + '<div class="stamp">' + fmtStamp(company.date) + '</div>';
+        + '<div class="stamp">' + fmtStamp(company.firstSeen || company.date) + '</div>';
       return card;
     }
 
@@ -134,16 +136,6 @@
       }
     }
 
-    function renderFlat(list, containerId, emptyText) {
-      const container = document.getElementById(containerId);
-      container.innerHTML = '';
-      if (list.length === 0) {
-        container.innerHTML = '<div class="empty">' + emptyText + '</div>';
-        return;
-      }
-      list.forEach(c => container.appendChild(buildCard(c)));
-    }
-
     fetch('data.json')
       .then(response => response.json())
       .then(data => {
@@ -153,7 +145,7 @@
             dateStyle: 'medium',
             timeStyle: 'short'
           }) + ' ET';
-        
+
         const all = (data.companies || []).slice();
 
         const markets = all.filter(isMarket)
@@ -162,17 +154,19 @@
         const rest = all.filter(c => !isMarket(c))
           .sort((a, b) => ((b.firstSeen || b.date) || '').localeCompare((a.firstSeen || a.date) || ''));
 
+        renderColumn(rest.filter(c => c.status === 'priced'), 'priced', 'priced-count', 'No priced deals.');
         renderColumn(rest.filter(c => c.status === 'filed'), 'filed', 'filed-count', 'Nothing filed recently.');
         renderColumn(rest.filter(c => c.status === 'rumored'), 'rumored', 'rumored-count', 'No rumors tracked.');
 
-        renderFlat(markets, 'markets', 'No active markets.');
+        const marketBox = document.getElementById('markets');
+        marketBox.innerHTML = '';
+        if (markets.length === 0) {
+          marketBox.innerHTML = '<div class="empty">No active markets.</div>';
+        } else {
+          markets.forEach(c => marketBox.appendChild(buildCard(c)));
+        }
         document.getElementById('market-summary').textContent =
           'Prediction markets \u2014 ' + markets.length + ' on Kalshi';
-
-        const priced = rest.filter(c => c.status === 'priced');
-        renderFlat(priced, 'priced', 'No priced deals.');
-        document.getElementById('priced-summary').textContent =
-          'Priced \u2014 ' + priced.length + ' deals';
       })
       .catch(error => {
         document.getElementById('updated').textContent = 'Could not load data.json';
