@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-16T13:13:32.459Z",
+  "updated": "2026-10-16T16:12:09.832Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 73,
-      "signal": "Kalshi traders price 73% odds of a 2026 IPO",
+      "confidence": 70,
+      "signal": "Kalshi traders price 70% odds of a 2026 IPO",
       "date": "2026-10-16",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -247,6 +247,16 @@
       "firstSeen": "2026-09-29"
     },
     {
+      "name": "Fidelis Partnership",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Fidelis Partnership plans IPO - Royal Gazette | Bermuda",
+      "date": "2026-09-28",
+      "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUk5VS2kzQVlJRUlCVTNzRm44S1ZCSWc1TzQtRi1KMDFBOEpfeXk5UEJlMmxlTWMwMmc4dTBlaGZxeld6eTh3cndWWkVZeEFFQ2tabnZDR214SHdmckNUZ25ja2JLQzFlR015QVlDMUh5QTlHckJFMV96aEV6V2Z1cWVIcDhweEl3c2w0TmZVZHRjOEhJb0w0V0JESTRZQQ?oc=5",
+      "firstSeen": "2026-09-28"
+    },
+    {
       "name": "Solidigm",
       "cik": null,
       "status": "rumored",
@@ -257,6 +267,16 @@
       "firstSeen": "2026-09-26"
     },
     {
+      "name": "Altera",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Altera Files Confidentially for a US IPO That Could Raise $2 Billion - Startup Fortune",
+      "date": "2026-09-23",
+      "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVVNQZVJQZHRLRmhIa25qc25CclpqbHZHUHdHTDQxUkRZNDViZ1kzQVlpNDBpNTVYSTRIcHJvZXNBWGt0ZkVFZllKQWw1bUtsSVFWYUxreHNMMWZ3REZWaEcxZHRuZGNFU3BTUFlqNjFpd2Y0c3NBX1RQbGhYZm1vbEM4QVB4b2Z3MWlscFUtQU45c0V0ZzRCV3haUQ?oc=5",
+      "firstSeen": "2026-09-23"
+    },
+    {
       "name": "CGL Logistics Holdings Ltd",
       "cik": "0001934387",
       "status": "filed",
@@ -264,7 +284,7 @@
       "signal": "F-1 amended",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm",
-      "description": "Logistics and transportation services provider"
+      "description": "Logistics and supply chain services provider"
     },
     {
       "name": "CECO ENVIRONMENTAL CORP",
@@ -274,7 +294,26 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/3197/000119312526423397/0001193125-26-423397-index.htm",
-      "description": "Environmental remediation and waste management services"
+      "description": "Environmental waste management and recycling services"
+    },
+    {
+      "name": "FG Holdings Ltd",
+      "cik": "0002004385",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2004385/000121390026110077/0001213900-26-110077-index.htm"
+    },
+    {
+      "name": "Robin Energy Ltd.",
+      "cik": "0002039060",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm",
+      "description": "Renewable energy development and operations"
     },
     {
       "name": "KBAT Group Inc.",
@@ -292,8 +331,7 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526422334/0001193125-26-422334-index.htm",
-      "description": "Aerospace component manufacturing and design"
+      "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526422334/0001193125-26-422334-index.htm"
     },
     {
       "name": "Iambic Therapeutics, Inc.",
@@ -303,7 +341,7 @@
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-15",
       "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526422865/0001193125-26-422865-index.htm",
-      "description": "Biotech developing immuno-oncology therapies"
+      "description": "Biopharmaceutical company developing rare disease therapies"
     },
     {
       "name": "MED-X, INC.",
@@ -313,7 +351,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-15",
       "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226006268/0001477932-26-006268-index.htm",
-      "description": "Medical device manufacturing"
+      "description": "Medical device manufacturer specializing in orthopedic implants"
     },
     {
       "name": "Cashlin",
@@ -341,7 +379,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-15",
       "source": "https://www.sec.gov/Archives/edgar/data/1320854/000121390026109877/0001213900-26-109877-index.htm",
-      "description": "Freight car manufacturing and leasing"
+      "description": "Manufactures and sells freight cars for rail transport"
     },
     {
       "name": "CITY THERAPEUTICS, INC.",
@@ -351,7 +389,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-15",
       "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm",
-      "description": "Cell therapy development for regenerative medicine"
+      "description": "Cell therapy company developing regenerative treatments"
     },
     {
       "name": "iPower Inc.",
@@ -360,8 +398,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826007908/0001683168-26-007908-index.htm",
-      "description": "Renewable energy solutions provider"
+      "source": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826007908/0001683168-26-007908-index.htm"
     },
     {
       "name": "NOCOPI TECHNOLOGIES INC/MD/",
@@ -389,7 +426,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007832/0001683168-26-007832-index.htm",
-      "description": "Cell therapy platform for regenerative medicine"
+      "description": "Develops therapeutics for neurodegenerative disorders"
     },
     {
       "name": "FingerMotion, Inc.",
@@ -398,8 +435,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226047000/0001493152-26-047000-index.htm",
-      "description": "Hand therapy device manufacturer"
+      "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226047000/0001493152-26-047000-index.htm"
     },
     {
       "name": "Tattvance Corp",
@@ -418,7 +454,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326005337/0001062993-26-005337-index.htm",
-      "description": "Copper mining and exploration"
+      "description": "Copper mining and exploration company"
     },
     {
       "name": "GEORGIA BANKING CO INC",
@@ -428,7 +464,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926115863/0001104659-26-115863-index.htm",
-      "description": "Retail banking services"
+      "description": "Retail banking and financial services"
     },
     {
       "name": "Green Circle Decarbonize Technology Ltd",
@@ -438,7 +474,7 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047046/0001493152-26-047046-index.htm",
-      "description": "Decarbonization technology solutions"
+      "description": "Develops decarbonization technologies for industrial processes"
     },
     {
       "name": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
@@ -448,7 +484,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-14",
       "source": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926115873/0001104659-26-115873-index.htm",
-      "description": "Industrial real estate investment"
+      "description": "Industrial real estate investment trust"
     },
     {
       "name": "Glucotrack, Inc.",
@@ -526,7 +562,7 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926115485/0001104659-26-115485-index.htm",
-      "description": "Cell therapy development for regenerative medicine"
+      "description": "Cell therapy company developing regenerative treatments"
     },
     {
       "name": "INTERNATIONAL BANCSHARES CORP",
@@ -1027,26 +1063,6 @@
       "date": "2026-09-30",
       "source": "https://www.sec.gov/Archives/edgar/data/1054102/000149315226045187/0001493152-26-045187-index.htm",
       "description": "Develops therapies for rare diseases."
-    },
-    {
-      "name": "GEN Restaurant Group, Inc.",
-      "cik": "0001891856",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1891856/000119312526409268/0001193125-26-409268-index.htm",
-      "description": "Operates restaurant chain."
-    },
-    {
-      "name": "Ambitious Entertainment, Inc.",
-      "cik": "0001900851",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1900851/000149315226045063/0001493152-26-045063-index.htm",
-      "description": "Develops and publishes video games."
     }
   ]
 }
