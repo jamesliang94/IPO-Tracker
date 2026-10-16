@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-16T16:12:09.832Z",
+  "updated": "2026-10-16T20:35:54.358Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 70,
-      "signal": "Kalshi traders price 70% odds of a 2026 IPO",
+      "confidence": 71,
+      "signal": "Kalshi traders price 71% odds of a 2026 IPO",
       "date": "2026-10-16",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -147,15 +147,6 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "xAI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
       "name": "Airwallex",
       "cik": null,
       "status": "rumored",
@@ -237,6 +228,15 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "xAI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-10-16",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Blockchain.com",
       "cik": null,
       "status": "rumored",
@@ -283,8 +283,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm",
-      "description": "Logistics and supply chain services provider"
+      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm"
     },
     {
       "name": "CECO ENVIRONMENTAL CORP",
@@ -293,8 +292,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/3197/000119312526423397/0001193125-26-423397-index.htm",
-      "description": "Environmental waste management and recycling services"
+      "source": "https://www.sec.gov/Archives/edgar/data/3197/000119312526423397/0001193125-26-423397-index.htm"
     },
     {
       "name": "FG Holdings Ltd",
@@ -312,8 +310,52 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm",
-      "description": "Renewable energy development and operations"
+      "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm"
+    },
+    {
+      "name": "WhiteHawk Minerals Corp.",
+      "cik": "0001921603",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526424097/0001193125-26-424097-index.htm"
+    },
+    {
+      "name": "Talyxor Corp",
+      "cik": "0002150122",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2150122/000215012226000004/0002150122-26-000004-index.htm"
+    },
+    {
+      "name": "RZ Wellness Ltd",
+      "cik": "0002130959",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2130959/000213095926000008/0002130959-26-000008-index.htm"
+    },
+    {
+      "name": "Evmand Corp",
+      "cik": "0002136571",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2136571/000213657126000007/0002136571-26-000007-index.htm"
+    },
+    {
+      "name": "Optimal AI Ltd",
+      "cik": "0002083345",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-16",
+      "source": "https://www.sec.gov/Archives/edgar/data/2083345/000121390026110121/0001213900-26-110121-index.htm"
     },
     {
       "name": "KBAT Group Inc.",
@@ -340,8 +382,7 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526422865/0001193125-26-422865-index.htm",
-      "description": "Biopharmaceutical company developing rare disease therapies"
+      "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526422865/0001193125-26-422865-index.htm"
     },
     {
       "name": "MED-X, INC.",
@@ -350,8 +391,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226006268/0001477932-26-006268-index.htm",
-      "description": "Medical device manufacturer specializing in orthopedic implants"
+      "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226006268/0001477932-26-006268-index.htm"
     },
     {
       "name": "Cashlin",
@@ -378,8 +418,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1320854/000121390026109877/0001213900-26-109877-index.htm",
-      "description": "Manufactures and sells freight cars for rail transport"
+      "source": "https://www.sec.gov/Archives/edgar/data/1320854/000121390026109877/0001213900-26-109877-index.htm"
     },
     {
       "name": "CITY THERAPEUTICS, INC.",
@@ -388,8 +427,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm",
-      "description": "Cell therapy company developing regenerative treatments"
+      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm"
     },
     {
       "name": "iPower Inc.",
@@ -425,8 +463,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007832/0001683168-26-007832-index.htm",
-      "description": "Develops therapeutics for neurodegenerative disorders"
+      "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007832/0001683168-26-007832-index.htm"
     },
     {
       "name": "FingerMotion, Inc.",
@@ -453,8 +490,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326005337/0001062993-26-005337-index.htm",
-      "description": "Copper mining and exploration company"
+      "source": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326005337/0001062993-26-005337-index.htm"
     },
     {
       "name": "GEORGIA BANKING CO INC",
@@ -463,8 +499,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926115863/0001104659-26-115863-index.htm",
-      "description": "Retail banking and financial services"
+      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926115863/0001104659-26-115863-index.htm"
     },
     {
       "name": "Green Circle Decarbonize Technology Ltd",
@@ -473,8 +508,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047046/0001493152-26-047046-index.htm",
-      "description": "Develops decarbonization technologies for industrial processes"
+      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047046/0001493152-26-047046-index.htm"
     },
     {
       "name": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
@@ -483,8 +517,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926115873/0001104659-26-115873-index.htm",
-      "description": "Industrial real estate investment trust"
+      "source": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926115873/0001104659-26-115873-index.htm"
     },
     {
       "name": "Glucotrack, Inc.",
@@ -955,16 +988,6 @@
       "description": "Provides uranium royalties to mining companies"
     },
     {
-      "name": "WhiteHawk Minerals Corp.",
-      "cik": "0001921603",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526410790/0001193125-26-410790-index.htm",
-      "description": "Explores and develops mineral resources"
-    },
-    {
       "name": "POP GLOBAL ACQUISITION Ltd",
       "cik": "0002150455",
       "status": "filed",
@@ -1023,46 +1046,6 @@
       "date": "2026-09-30",
       "source": "https://www.sec.gov/Archives/edgar/data/2138135/000121390026104919/0001213900-26-104919-index.htm",
       "description": "Develops sustainable forestry and timber products."
-    },
-    {
-      "name": "DarkIris Inc.",
-      "cik": "0002058584",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2058584/000149315226045008/0001493152-26-045008-index.htm",
-      "description": "AI-powered cybersecurity threat detection platform"
-    },
-    {
-      "name": "NewGenIvf Group Ltd",
-      "cik": "0001981662",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1981662/000121390026104917/0001213900-26-104917-index.htm",
-      "description": "Operates fertility clinics and reproductive services."
-    },
-    {
-      "name": "CitroTech Inc.",
-      "cik": "0000894556",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/894556/000168316826007510/0001683168-26-007510-index.htm",
-      "description": "Provides technology solutions for citrus growers."
-    },
-    {
-      "name": "INTERPACE BIOSCIENCES, INC.",
-      "cik": "0001054102",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-09-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1054102/000149315226045187/0001493152-26-045187-index.htm",
-      "description": "Develops therapies for rare diseases."
     }
   ]
 }
