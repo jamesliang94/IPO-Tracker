@@ -1,14 +1,14 @@
 {
-  "updated": "2026-10-16T23:18:16.204Z",
+  "updated": "2026-10-19T18:25:46.833Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 71,
-      "signal": "Kalshi traders price 71% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "confidence": 72,
+      "signal": "Kalshi traders price 72% odds of a 2026 IPO",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -17,7 +17,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -26,7 +26,7 @@
       "status": "rumored",
       "confidence": 8,
       "signal": "Kalshi traders price 8% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -35,16 +35,7 @@
       "status": "rumored",
       "confidence": 5,
       "signal": "Kalshi traders price 5% odds of a 2026 IPO",
-      "date": "2026-10-16",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Oura",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -53,7 +44,7 @@
       "status": "rumored",
       "confidence": 3,
       "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -62,7 +53,7 @@
       "status": "rumored",
       "confidence": 3,
       "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -71,7 +62,16 @@
       "status": "rumored",
       "confidence": 3,
       "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Oura",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -80,7 +80,7 @@
       "status": "rumored",
       "confidence": 3,
       "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -89,7 +89,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -98,7 +98,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -107,7 +107,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -116,7 +116,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -125,7 +125,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -134,7 +134,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -143,7 +143,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -152,7 +152,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -161,7 +161,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -170,7 +170,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -179,7 +179,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -188,7 +188,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -197,7 +197,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -206,7 +206,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -215,16 +215,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Anysphere (Cursor)",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -233,7 +224,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -277,22 +268,34 @@
       "firstSeen": "2026-09-23"
     },
     {
+      "name": "ACTUATE THERAPEUTICS, INC.",
+      "cik": "0001652935",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-19",
+      "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007941/0001683168-26-007941-index.htm",
+      "description": "Biotech developing cardiac therapies"
+    },
+    {
+      "name": "AKANDA CORP.",
+      "cik": "0001888014",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-19",
+      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026110457/0001213900-26-110457-index.htm",
+      "description": "Software provider for oil and gas data analytics"
+    },
+    {
       "name": "CGL Logistics Holdings Ltd",
       "cik": "0001934387",
       "status": "filed",
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm"
-    },
-    {
-      "name": "CECO ENVIRONMENTAL CORP",
-      "cik": "0000003197",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/3197/000119312526423397/0001193125-26-423397-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm",
+      "description": "Logistics and transportation services provider"
     },
     {
       "name": "FG Holdings Ltd",
@@ -310,7 +313,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm",
+      "description": "Renewable energy developer, solar and wind projects"
     },
     {
       "name": "WhiteHawk Minerals Corp.",
@@ -319,7 +323,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526424097/0001193125-26-424097-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526424097/0001193125-26-424097-index.htm",
+      "description": "Mining exploration for copper and gold"
     },
     {
       "name": "Talyxor Corp",
@@ -328,7 +333,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2150122/000215012226000004/0002150122-26-000004-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2150122/000215012226000004/0002150122-26-000004-index.htm",
+      "description": "Biotech developing oncology therapeutics"
     },
     {
       "name": "RZ Wellness Ltd",
@@ -364,7 +370,8 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116636/0001104659-26-116636-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116636/0001104659-26-116636-index.htm",
+      "description": "Biotech developing cardiovascular disease therapies"
     },
     {
       "name": "SOBR Safe, Inc.",
@@ -382,25 +389,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226047417/0001493152-26-047417-index.htm"
-    },
-    {
-      "name": "PEPSICO INC",
-      "cik": "0000077476",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/77476/000110465926116649/0001104659-26-116649-index.htm"
-    },
-    {
-      "name": "NatWest Group plc",
-      "cik": "0000844150",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/844150/000095010326015725/0000950103-26-015725-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226047417/0001493152-26-047417-index.htm",
+      "description": "Digital marketing and e-commerce solutions provider"
     },
     {
       "name": "KBAT Group Inc.",
@@ -409,25 +399,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2033315/000121390026109663/0001213900-26-109663-index.htm"
-    },
-    {
-      "name": "Amaero Inc.",
-      "cik": "0002141616",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141616/000119312526422334/0001193125-26-422334-index.htm"
-    },
-    {
-      "name": "Iambic Therapeutics, Inc.",
-      "cik": "0001997038",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1997038/000119312526422865/0001193125-26-422865-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2033315/000121390026109663/0001213900-26-109663-index.htm",
+      "description": "Battery technology and lithium-ion solutions"
     },
     {
       "name": "MED-X, INC.",
@@ -436,7 +409,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226006268/0001477932-26-006268-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226006268/0001477932-26-006268-index.htm",
+      "description": "Medical device company developing diagnostic tools"
     },
     {
       "name": "Cashlin",
@@ -457,22 +431,14 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2120204/000118518526004773/0001185185-26-004773-index.htm"
     },
     {
-      "name": "FreightCar America, Inc.",
-      "cik": "0001320854",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/1320854/000121390026109877/0001213900-26-109877-index.htm"
-    },
-    {
       "name": "CITY THERAPEUTICS, INC.",
       "cik": "0002143850",
       "status": "filed",
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-15",
-      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm",
+      "description": "Biotech developing cardiovascular disease therapies"
     },
     {
       "name": "iPower Inc.",
@@ -502,22 +468,14 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526004746/0001185185-26-004746-index.htm"
     },
     {
-      "name": "ACTUATE THERAPEUTICS, INC.",
-      "cik": "0001652935",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007832/0001683168-26-007832-index.htm"
-    },
-    {
       "name": "FingerMotion, Inc.",
       "cik": "0001602409",
       "status": "filed",
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226047000/0001493152-26-047000-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1602409/000149315226047000/0001493152-26-047000-index.htm",
+      "description": "Motion capture technology for gaming and VR"
     },
     {
       "name": "Tattvance Corp",
@@ -529,22 +487,14 @@
       "source": "https://www.sec.gov/Archives/edgar/data/2153476/000117152026000307/0001171520-26-000307-index.htm"
     },
     {
-      "name": "Lion Copper Corp.",
-      "cik": "0001339688",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1339688/000106299326005337/0001062993-26-005337-index.htm"
-    },
-    {
       "name": "GEORGIA BANKING CO INC",
       "cik": "0001070965",
       "status": "filed",
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926115863/0001104659-26-115863-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926115863/0001104659-26-115863-index.htm",
+      "description": "Banking and financial services company"
     },
     {
       "name": "Green Circle Decarbonize Technology Ltd",
@@ -553,16 +503,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047046/0001493152-26-047046-index.htm"
-    },
-    {
-      "name": "INNOVATIVE INDUSTRIAL PROPERTIES INC",
-      "cik": "0001677576",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-14",
-      "source": "https://www.sec.gov/Archives/edgar/data/1677576/000110465926115873/0001104659-26-115873-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1926293/000149315226047046/0001493152-26-047046-index.htm",
+      "description": "Decarbonization technology provider"
     },
     {
       "name": "Glucotrack, Inc.",
@@ -612,55 +554,6 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-13",
       "source": "https://www.sec.gov/Archives/edgar/data/2093536/000119312526419718/0001193125-26-419718-index.htm"
-    },
-    {
-      "name": "WeShop Holdings Ltd",
-      "cik": "0002048271",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-10-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/2048271/000149315226046878/0001493152-26-046878-index.htm",
-      "description": "Online marketplace platform"
-    },
-    {
-      "name": "LandBridge Corp",
-      "cik": "0001995807",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1995807/000119312526420567/0001193125-26-420567-index.htm"
-    },
-    {
-      "name": "INTERNATIONAL BANCSHARES CORP",
-      "cik": "0000315709",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/315709/000110465926115337/0001104659-26-115337-index.htm",
-      "description": "Investment banking services"
-    },
-    {
-      "name": "Xponential Fitness, Inc.",
-      "cik": "0001802156",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1802156/000119312526419698/0001193125-26-419698-index.htm",
-      "description": "Fitness club franchise operator"
-    },
-    {
-      "name": "Skydance Corp",
-      "cik": "0002041610",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2041610/000110465926114888/0001104659-26-114888-index.htm",
-      "description": "Produces films, television, and digital media content."
     },
     {
       "name": "SeeQC, Inc.",
@@ -863,36 +756,6 @@
       "description": "Develops cell-based immunotherapies for cancer"
     },
     {
-      "name": "DarkIris Inc.",
-      "cik": "0002058584",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2058584/000149315226046431/0001493152-26-046431-index.htm",
-      "description": "AI-powered cybersecurity threat detection platform"
-    },
-    {
-      "name": "Origin Bancorp, Inc.",
-      "cik": "0001516912",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1516912/000151691226000060/0001516912-26-000060-index.htm",
-      "description": "Regional bank offering financial services"
-    },
-    {
-      "name": "Evernorth Holdings Inc.",
-      "cik": "0002092592",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2092592/000119312526418582/0001193125-26-418582-index.htm",
-      "description": "Provides integrated healthcare services and solutions"
-    },
-    {
       "name": "Retension Pharmaceuticals, Inc.",
       "cik": "0002002988",
       "status": "filed",
@@ -983,16 +846,6 @@
       "description": "Logistics and supply chain solutions"
     },
     {
-      "name": "Accelevation Holdings Corp.",
-      "cik": "0002141406",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141406/000162828026064097/0001628280-26-064097-index.htm",
-      "description": "Real estate investment trust focusing on commercial properties"
-    },
-    {
       "name": "T3 Defense Inc.",
       "cik": "0001787518",
       "status": "filed",
@@ -1021,26 +874,6 @@
       "date": "2026-10-01",
       "source": "https://www.sec.gov/Archives/edgar/data/2143673/000149315226045386/0001493152-26-045386-index.htm",
       "description": "Provides uranium royalties to mining companies"
-    },
-    {
-      "name": "POP GLOBAL ACQUISITION Ltd",
-      "cik": "0002150455",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/2150455/000118518526004481/0001185185-26-004481-index.htm",
-      "description": "Special purpose acquisition company"
-    },
-    {
-      "name": "AKANDA CORP.",
-      "cik": "0001888014",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026105921/0001213900-26-105921-index.htm",
-      "description": "Manufacturer of personal protective equipment for healthcare and industrial markets"
     }
   ]
 }
