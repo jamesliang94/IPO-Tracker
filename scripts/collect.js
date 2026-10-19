@@ -462,8 +462,16 @@ async function main() {
   for (const row of filingRows) {
     if (descriptions[row.name]) row.description = descriptions[row.name];
   }
-  
-  const companies = marketRows.concat(rumorRows, filingRows);
+
+      const registered = new Set(
+    everything.filter(c => c.status === 'filed' && c.cik).map(c => c.cik)
+  );
+  for (const row of filingRows) {
+    if (row.status === 'priced' && row.cik && !registered.has(row.cik)) {
+      row.status = 'drop';
+    }
+  }
+     const companies = marketRows.concat(rumorRows, filingRows.filter(c => c.status !== 'drop'));
 
   const output = {
     updated: new Date().toISOString(),
