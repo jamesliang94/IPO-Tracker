@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T19:57:14.857Z",
+  "updated": "2026-10-20T21:20:36.785Z",
   "summary": "",
   "companies": [
     {
@@ -303,6 +303,24 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-20",
       "source": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066384/0001628280-26-066384-index.htm"
+    },
+    {
+      "name": "T3 Defense Inc.",
+      "cik": "0001787518",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1787518/000118518526004865/0001185185-26-004865-index.htm"
+    },
+    {
+      "name": "Megan Holdings Ltd.",
+      "cik": "0001995075",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-10-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1995075/000121390026111041/0001213900-26-111041-index.htm"
     },
     {
       "name": "ACTUATE THERAPEUTICS, INC.",
@@ -904,16 +922,6 @@
       "date": "2026-10-02",
       "source": "https://www.sec.gov/Archives/edgar/data/715837/000121390026106329/0001213900-26-106329-index.htm",
       "description": "Logistics and supply chain solutions"
-    },
-    {
-      "name": "T3 Defense Inc.",
-      "cik": "0001787518",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-01",
-      "source": "https://www.sec.gov/Archives/edgar/data/1787518/000118518526004526/0001185185-26-004526-index.htm",
-      "description": "Provides defense technology solutions"
     },
     {
       "name": "VSEE HEALTH, INC.",
