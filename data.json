@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T16:27:30.061Z",
+  "updated": "2026-10-20T19:57:14.857Z",
   "summary": "",
   "companies": [
     {
@@ -284,8 +284,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066381/0001628280-26-066381-index.htm",
-      "description": "Biotech developing cardiac therapies"
+      "source": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066381/0001628280-26-066381-index.htm"
     },
     {
       "name": "Lixiang Education Holding Co. Ltd.",
@@ -294,8 +293,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/1814067/000121390026110833/0001213900-26-110833-index.htm",
-      "description": "Education services provider in China"
+      "source": "https://www.sec.gov/Archives/edgar/data/1814067/000121390026110833/0001213900-26-110833-index.htm"
     },
     {
       "name": "Lycia Therapeutics, Inc.",
@@ -304,8 +302,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066384/0001628280-26-066384-index.htm",
-      "description": "Biotech developing cardiac therapies"
+      "source": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066384/0001628280-26-066384-index.htm"
     },
     {
       "name": "ACTUATE THERAPEUTICS, INC.",
@@ -314,8 +311,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007941/0001683168-26-007941-index.htm",
-      "description": "Biopharma developing metabolic disease therapeutics"
+      "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007941/0001683168-26-007941-index.htm"
     },
     {
       "name": "AKANDA CORP.",
@@ -324,8 +320,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026110457/0001213900-26-110457-index.htm",
-      "description": "Digital health platform for patient engagement"
+      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026110457/0001213900-26-110457-index.htm"
     },
     {
       "name": "AIAI Holdings Corp",
@@ -334,8 +329,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/2096362/000149315226047623/0001493152-26-047623-index.htm",
-      "description": "AI solutions provider for enterprises"
+      "source": "https://www.sec.gov/Archives/edgar/data/2096362/000149315226047623/0001493152-26-047623-index.htm"
     },
     {
       "name": "iStep Learning plc",
@@ -344,8 +338,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/2100713/000121390026110742/0001213900-26-110742-index.htm",
-      "description": "EdTech company offering digital learning platforms"
+      "source": "https://www.sec.gov/Archives/edgar/data/2100713/000121390026110742/0001213900-26-110742-index.htm"
     },
     {
       "name": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
@@ -354,8 +347,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226047667/0001493152-26-047667-index.htm",
-      "description": "Develops non-invasive medical monitoring devices"
+      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226047667/0001493152-26-047667-index.htm"
     },
     {
       "name": "BioAtla, Inc.",
@@ -364,8 +356,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/1826892/000153949726002711/0001539497-26-002711-index.htm",
-      "description": "Biotech developing antibody therapeutics for cancer"
+      "source": "https://www.sec.gov/Archives/edgar/data/1826892/000153949726002711/0001539497-26-002711-index.htm"
     },
     {
       "name": "CGL Logistics Holdings Ltd",
@@ -374,8 +365,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm",
-      "description": "Logistics and supply chain management services"
+      "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm"
     },
     {
       "name": "FG Holdings Ltd",
@@ -393,8 +383,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm",
-      "description": "Renewable energy developer focusing on solar and wind"
+      "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm"
     },
     {
       "name": "WhiteHawk Minerals Corp.",
@@ -403,8 +392,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526424097/0001193125-26-424097-index.htm",
-      "description": "Mineral exploration and development company"
+      "source": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526424097/0001193125-26-424097-index.htm"
     },
     {
       "name": "Talyxor Corp",
@@ -413,8 +401,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2150122/000215012226000004/0002150122-26-000004-index.htm",
-      "description": "Biotech developing rare disease therapeutics"
+      "source": "https://www.sec.gov/Archives/edgar/data/2150122/000215012226000004/0002150122-26-000004-index.htm"
     },
     {
       "name": "RZ Wellness Ltd",
@@ -423,8 +410,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2130959/000213095926000008/0002130959-26-000008-index.htm",
-      "description": "Wellness company providing health and fitness services"
+      "source": "https://www.sec.gov/Archives/edgar/data/2130959/000213095926000008/0002130959-26-000008-index.htm"
     },
     {
       "name": "Evmand Corp",
@@ -442,8 +428,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2083345/000121390026110121/0001213900-26-110121-index.htm",
-      "description": "AI company offering optimization and analytics solutions"
+      "source": "https://www.sec.gov/Archives/edgar/data/2083345/000121390026110121/0001213900-26-110121-index.htm"
     },
     {
       "name": "CITY THERAPEUTICS, INC.",
@@ -452,8 +437,7 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116636/0001104659-26-116636-index.htm",
-      "description": "Biopharma developing cardiovascular therapeutics"
+      "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116636/0001104659-26-116636-index.htm"
     },
     {
       "name": "SOBR Safe, Inc.",
@@ -462,8 +446,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226006309/0001477932-26-006309-index.htm",
-      "description": "Cybersecurity solutions provider"
+      "source": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226006309/0001477932-26-006309-index.htm"
     },
     {
       "name": "AMAZE HOLDINGS, INC.",
