@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-20T00:08:20.940Z",
+  "updated": "2026-10-20T16:27:30.061Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 68,
-      "signal": "Kalshi traders price 68% odds of a 2026 IPO",
+      "confidence": 71,
+      "signal": "Kalshi traders price 71% odds of a 2026 IPO",
       "date": "2026-10-20",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -24,8 +24,8 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 8,
-      "signal": "Kalshi traders price 8% odds of a 2026 IPO",
+      "confidence": 10,
+      "signal": "Kalshi traders price 10% odds of a 2026 IPO",
       "date": "2026-10-20",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -40,6 +40,15 @@
     },
     {
       "name": "Oura",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 5,
+      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
+      "date": "2026-10-20",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Plaid",
       "cik": null,
       "status": "rumored",
       "confidence": 4,
@@ -58,15 +67,6 @@
     },
     {
       "name": "Deel",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-10-20",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Plaid",
       "cik": null,
       "status": "rumored",
       "confidence": 3,
@@ -258,6 +258,16 @@
       "firstSeen": "2026-09-26"
     },
     {
+      "name": "PMI Electro",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "KKR-backed PMI Electro confidentially files for IPO; e-bus maker operates 3,300 buses across 34 cities - Moneycontrol.com",
+      "date": "2026-09-25",
+      "source": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOU013N1ZZWGZZdkIybXpUTU5fOWtzckVBck14dTE3Sk1nSE40VkpKM3FwTjd4XzBjLXdQY3FNTGl3UFRuZUtGMGJtdEYtbHdacWl5dHgxT1o0TTJweVFwdGZQYzlnMmpZbHBRblRLZy1NQjBkbE9ISlBMOF95VzI0a19vVlJGbzMyUUREdHp0Q0lBTUhhcDFETWtRQ0pPYU5ETlF3WGczOUdab0NnWDdxdV94R2NYWkZ4M01LZENWdVVNT0MyYUJvY0xReXliLS1MRE13Tks0MW9qd3VvVnVhaVFfbHZMT2YyYmh2ckNzVdIB9AFBVV95cUxNOE1Bc3hWMmRBUjU2dTJYdV81ZnVma2RVMWdqcTMwRzZLYjdzZUlLQllkQllzTGNCZ0ZicDR3b3Z6M2NPQ3JhQ29FamEyYzdaUFhIdmZTMnZvYm5BSWlFMXE4SDBwaU9NZ2N0Tk9iTXhiSjZzMFl6bWwyLWhKVVFldHhidExiVjJnYXA4QUNuM1g2elliTXZpZ2ZDb2lIeVNONUtIXzNxd09hOUhSOWVmd0lQVm1OcXVtaVVRZmJ0dmVybmZ6X1l1SHd0X0g5WjJxZm5yc3RmanV6X0pzZ3RPMDR3SVZZQ2NuVnhFQmNieURISzUy?oc=5",
+      "firstSeen": "2026-09-25"
+    },
+    {
       "name": "Altera",
       "cik": null,
       "status": "rumored",
@@ -268,6 +278,36 @@
       "firstSeen": "2026-09-23"
     },
     {
+      "name": "Lycia Therapeutics, Inc.",
+      "cik": "0001806540",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066381/0001628280-26-066381-index.htm",
+      "description": "Biotech developing cardiac therapies"
+    },
+    {
+      "name": "Lixiang Education Holding Co. Ltd.",
+      "cik": "0001814067",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1814067/000121390026110833/0001213900-26-110833-index.htm",
+      "description": "Education services provider in China"
+    },
+    {
+      "name": "Lycia Therapeutics, Inc.",
+      "cik": "0001806540",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-10-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1806540/000162828026066384/0001628280-26-066384-index.htm",
+      "description": "Biotech developing cardiac therapies"
+    },
+    {
       "name": "ACTUATE THERAPEUTICS, INC.",
       "cik": "0001652935",
       "status": "filed",
@@ -275,7 +315,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-19",
       "source": "https://www.sec.gov/Archives/edgar/data/1652935/000168316826007941/0001683168-26-007941-index.htm",
-      "description": "Biotech developing cardiac therapies"
+      "description": "Biopharma developing metabolic disease therapeutics"
     },
     {
       "name": "AKANDA CORP.",
@@ -285,7 +325,7 @@
       "signal": "F-1 amended",
       "date": "2026-10-19",
       "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026110457/0001213900-26-110457-index.htm",
-      "description": "Digital marketing and e-commerce solutions provider"
+      "description": "Digital health platform for patient engagement"
     },
     {
       "name": "AIAI Holdings Corp",
@@ -294,7 +334,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/2096362/000149315226047623/0001493152-26-047623-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2096362/000149315226047623/0001493152-26-047623-index.htm",
+      "description": "AI solutions provider for enterprises"
     },
     {
       "name": "iStep Learning plc",
@@ -304,7 +345,27 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-19",
       "source": "https://www.sec.gov/Archives/edgar/data/2100713/000121390026110742/0001213900-26-110742-index.htm",
-      "description": "EdTech company providing digital learning solutions"
+      "description": "EdTech company offering digital learning platforms"
+    },
+    {
+      "name": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+      "cik": "0000720762",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-19",
+      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226047667/0001493152-26-047667-index.htm",
+      "description": "Develops non-invasive medical monitoring devices"
+    },
+    {
+      "name": "BioAtla, Inc.",
+      "cik": "0001826892",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-10-19",
+      "source": "https://www.sec.gov/Archives/edgar/data/1826892/000153949726002711/0001539497-26-002711-index.htm",
+      "description": "Biotech developing antibody therapeutics for cancer"
     },
     {
       "name": "CGL Logistics Holdings Ltd",
@@ -314,7 +375,7 @@
       "signal": "F-1 amended",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/1934387/000149315226047322/0001493152-26-047322-index.htm",
-      "description": "Logistics and supply chain solutions provider"
+      "description": "Logistics and supply chain management services"
     },
     {
       "name": "FG Holdings Ltd",
@@ -323,8 +384,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2004385/000121390026110077/0001213900-26-110077-index.htm",
-      "description": "Financial services holding company"
+      "source": "https://www.sec.gov/Archives/edgar/data/2004385/000121390026110077/0001213900-26-110077-index.htm"
     },
     {
       "name": "Robin Energy Ltd.",
@@ -334,7 +394,7 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2039060/000114036126039848/0001140361-26-039848-index.htm",
-      "description": "Renewable energy development company"
+      "description": "Renewable energy developer focusing on solar and wind"
     },
     {
       "name": "WhiteHawk Minerals Corp.",
@@ -344,7 +404,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/1921603/000119312526424097/0001193125-26-424097-index.htm",
-      "description": "Mining company focusing on copper and gold"
+      "description": "Mineral exploration and development company"
     },
     {
       "name": "Talyxor Corp",
@@ -354,7 +414,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2150122/000215012226000004/0002150122-26-000004-index.htm",
-      "description": "Biotech developing therapies for rare diseases"
+      "description": "Biotech developing rare disease therapeutics"
     },
     {
       "name": "RZ Wellness Ltd",
@@ -364,7 +424,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2130959/000213095926000008/0002130959-26-000008-index.htm",
-      "description": "Wellness and health services provider"
+      "description": "Wellness company providing health and fitness services"
     },
     {
       "name": "Evmand Corp",
@@ -373,8 +433,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2136571/000213657126000007/0002136571-26-000007-index.htm",
-      "description": "Medical device manufacturer"
+      "source": "https://www.sec.gov/Archives/edgar/data/2136571/000213657126000007/0002136571-26-000007-index.htm"
     },
     {
       "name": "Optimal AI Ltd",
@@ -384,7 +443,7 @@
       "signal": "F-1 amended",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2083345/000121390026110121/0001213900-26-110121-index.htm",
-      "description": "AI solutions and consulting company"
+      "description": "AI company offering optimization and analytics solutions"
     },
     {
       "name": "CITY THERAPEUTICS, INC.",
@@ -394,7 +453,7 @@
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116636/0001104659-26-116636-index.htm",
-      "description": "Biotech developing cardiovascular therapies"
+      "description": "Biopharma developing cardiovascular therapeutics"
     },
     {
       "name": "SOBR Safe, Inc.",
@@ -413,8 +472,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226047417/0001493152-26-047417-index.htm",
-      "description": "Digital marketing and e-commerce solutions provider"
+      "source": "https://www.sec.gov/Archives/edgar/data/1880343/000149315226047417/0001493152-26-047417-index.htm"
     },
     {
       "name": "KBAT Group Inc.",
@@ -464,7 +522,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-10-15",
       "source": "https://www.sec.gov/Archives/edgar/data/2143850/000110465926116363/0001104659-26-116363-index.htm",
-      "description": "Biotech developing cardiovascular therapies"
+      "description": "Biopharma developing cardiovascular therapeutics"
     },
     {
       "name": "iPower Inc.",
@@ -593,16 +651,6 @@
       "date": "2026-10-09",
       "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026108447/0001213900-26-108447-index.htm",
       "description": "Offers quality control solutions for semiconductor manufacturing."
-    },
-    {
-      "name": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
-      "cik": "0000720762",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226046657/0001493152-26-046657-index.htm",
-      "description": "Non-invasive medical monitoring device manufacturer"
     },
     {
       "name": "VME Companies, Inc.",
