@@ -1,7 +1,25 @@
 {
-  "updated": "2026-10-26T13:14:50.985Z",
+  "updated": "2026-10-26T18:21:06.958Z",
   "summary": "",
   "companies": [
+    {
+      "name": "Anthropic",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 92,
+      "signal": "Kalshi traders price 92% odds of a 2026 IPO",
+      "date": "2026-10-26",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "OpenAI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-10-26",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
     {
       "name": "Bloomberg",
       "cik": null,
@@ -12,29 +30,11 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Anthropic",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 89,
-      "signal": "Kalshi traders price 89% odds of a 2026 IPO",
-      "date": "2026-10-26",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
       "name": "Discord",
       "cik": null,
       "status": "rumored",
       "confidence": 7,
       "signal": "Kalshi traders price 7% odds of a 2026 IPO",
-      "date": "2026-10-26",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Kraken",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
       "date": "2026-10-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -57,16 +57,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Gopuff",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
-      "date": "2026-10-26",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Celonis",
+      "name": "Kraken",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -93,7 +84,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Rippling",
+      "name": "Airwallex",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -102,7 +93,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Airwallex",
+      "name": "Gopuff",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -139,6 +130,15 @@
     },
     {
       "name": "Vanta",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-10-26",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "Celonis",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
@@ -201,7 +201,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "OpenAI",
+      "name": "Brex",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
@@ -210,7 +210,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Brex",
+      "name": "Rippling",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
@@ -348,6 +348,15 @@
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-26",
       "source": "https://www.sec.gov/Archives/edgar/data/2103076/000119312526430979/0001193125-26-430979-index.htm"
+    },
+    {
+      "name": "GEORGIA BANKING CO INC",
+      "cik": "0001070965",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-26",
+      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926118704/0001104659-26-118704-index.htm"
     },
     {
       "name": "Lycia Therapeutics, Inc.",
@@ -631,16 +640,6 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-20",
       "source": "https://www.sec.gov/Archives/edgar/data/1995075/000121390026111041/0001213900-26-111041-index.htm"
-    },
-    {
-      "name": "GEORGIA BANKING CO INC",
-      "cik": "0001070965",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926117474/0001104659-26-117474-index.htm",
-      "description": "Banking institution in Georgia"
     },
     {
       "name": "Helio Corp /FL/",
