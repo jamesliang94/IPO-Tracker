@@ -1,13 +1,13 @@
 {
-  "updated": "2026-10-28T17:57:48.809Z",
+  "updated": "2026-10-28T22:24:14.632Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 90,
-      "signal": "Kalshi traders price 90% odds of a 2026 IPO",
+      "confidence": 92,
+      "signal": "Kalshi traders price 92% odds of a 2026 IPO",
       "date": "2026-10-28",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -24,8 +24,8 @@
       "name": "Kraken",
       "cik": null,
       "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "confidence": 4,
+      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
       "date": "2026-10-28",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -276,6 +276,33 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-28",
       "source": "https://www.sec.gov/Archives/edgar/data/2123920/000121390026113189/0001213900-26-113189-index.htm"
+    },
+    {
+      "name": "Starton Holdings, Inc.",
+      "cik": "0002049977",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-28",
+      "source": "https://www.sec.gov/Archives/edgar/data/2049977/000121390026113388/0001213900-26-113388-index.htm"
+    },
+    {
+      "name": "Glow Holdings, Inc.",
+      "cik": "0001114859",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-28",
+      "source": "https://www.sec.gov/Archives/edgar/data/1114859/000168316826008135/0001683168-26-008135-index.htm"
+    },
+    {
+      "name": "707 Cayman Holdings Ltd.",
+      "cik": "0002018222",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-28",
+      "source": "https://www.sec.gov/Archives/edgar/data/2018222/000149315226049083/0001493152-26-049083-index.htm"
     },
     {
       "name": "Heroic Empire Acquisition Ltd",
@@ -581,7 +608,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/2145089/000119312526430315/0001193125-26-430315-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2145089/000119312526430315/0001193125-26-430315-index.htm",
+      "description": "Biotech developing cardiac regenerative therapies"
     },
     {
       "name": "Onfolio Holdings, Inc",
@@ -590,7 +618,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/1825452/000121390026112189/0001213900-26-112189-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1825452/000121390026112189/0001213900-26-112189-index.htm",
+      "description": "Fintech platform for investment portfolio management"
     },
     {
       "name": "reAlpha Tech Corp.",
@@ -718,7 +747,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1787518/000118518526004932/0001185185-26-004932-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1787518/000118518526004932/0001185185-26-004932-index.htm",
+      "description": "Defense contractor developing missile defense systems"
     },
     {
       "name": "Boxlight Corp",
@@ -727,7 +757,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-22",
-      "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026111803/0001213900-26-111803-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026111803/0001213900-26-111803-index.htm",
+      "description": "Technology company producing digital signage and interactive displays"
     },
     {
       "name": "PBT Land &amp; Minerals, Inc.",
@@ -756,7 +787,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-21",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141583/000110465926117853/0001104659-26-117853-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2141583/000110465926117853/0001104659-26-117853-index.htm",
+      "description": "Hospitality platform for event ticketing and venue management"
     },
     {
       "name": "Our Bond, Inc.",
@@ -965,26 +997,6 @@
       "date": "2026-10-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2136571/000213657126000007/0002136571-26-000007-index.htm",
       "description": "Develops wearable medical devices for patient monitoring."
-    },
-    {
-      "name": "Optimal AI Ltd",
-      "cik": "0002083345",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2083345/000121390026110121/0001213900-26-110121-index.htm",
-      "description": "Provides AI-driven optimization and analytics."
-    },
-    {
-      "name": "SOBR Safe, Inc.",
-      "cik": "0001425627",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226006309/0001477932-26-006309-index.htm",
-      "description": "Develops safety solutions for industrial environments."
     }
   ]
 }
