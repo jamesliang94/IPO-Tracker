@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T00:39:42.060Z",
+  "updated": "2026-10-30T17:47:22.827Z",
   "summary": "",
   "companies": [
     {
@@ -138,15 +138,6 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Databricks",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-10-30",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
       "name": "Stripe",
       "cik": null,
       "status": "rumored",
@@ -240,14 +231,49 @@
       "firstSeen": "2026-10-19"
     },
     {
+      "name": "Duke Holding Inc.",
+      "cik": "0002079000",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-10-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/2079000/000121390026114238/0001213900-26-114238-index.htm"
+    },
+    {
+      "name": "Timwood Holdings Ltd",
+      "cik": "0002092291",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/2092291/000118518526005095/0001185185-26-005095-index.htm"
+    },
+    {
+      "name": "HomesToLife Ltd",
+      "cik": "0002023153",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-10-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226049373/0001493152-26-049373-index.htm"
+    },
+    {
+      "name": "Bitari Inc",
+      "cik": "0002091680",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-10-30",
+      "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526005084/0001185185-26-005084-index.htm"
+    },
+    {
       "name": "GEORGIA BANKING CO INC",
       "cik": "0001070965",
       "status": "priced",
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-10-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926119890/0001104659-26-119890-index.htm",
-      "description": "Regional bank offering retail and commercial banking services."
+      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926119890/0001104659-26-119890-index.htm"
     },
     {
       "name": "MED-X, INC.",
@@ -265,8 +291,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226049198/0001493152-26-049198-index.htm",
-      "description": "Wave energy technology developer generating electricity from ocean waves."
+      "source": "https://www.sec.gov/Archives/edgar/data/1378140/000149315226049198/0001493152-26-049198-index.htm"
     },
     {
       "name": "Megan Holdings Ltd.",
@@ -284,8 +309,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/2124080/000119312526436938/0001193125-26-436938-index.htm",
-      "description": "Neurotechnology company developing brain-computer interface devices."
+      "source": "https://www.sec.gov/Archives/edgar/data/2124080/000119312526436938/0001193125-26-436938-index.htm"
     },
     {
       "name": "Abits Group Inc",
@@ -303,8 +327,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/2044950/000162828026068311/0001628280-26-068311-index.htm",
-      "description": "Biotech developing regenerative therapies for musculoskeletal disorders."
+      "source": "https://www.sec.gov/Archives/edgar/data/2044950/000162828026068311/0001628280-26-068311-index.htm"
     },
     {
       "name": "Stratum Holdings Corp.",
@@ -331,8 +354,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/2142104/000121390026113816/0001213900-26-113816-index.htm",
-      "description": "Construction services provider for commercial and residential projects."
+      "source": "https://www.sec.gov/Archives/edgar/data/2142104/000121390026113816/0001213900-26-113816-index.htm"
     },
     {
       "name": "Tracx Logis Ltd.",
@@ -341,8 +363,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-29",
-      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026113844/0001213900-26-113844-index.htm",
-      "description": "Logistics solutions provider specializing in supply chain management."
+      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026113844/0001213900-26-113844-index.htm"
     },
     {
       "name": "Hacker Interstellar Inc.",
@@ -360,8 +381,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-28",
-      "source": "https://www.sec.gov/Archives/edgar/data/2123920/000121390026113189/0001213900-26-113189-index.htm",
-      "description": "Media network providing digital content and advertising."
+      "source": "https://www.sec.gov/Archives/edgar/data/2123920/000121390026113189/0001213900-26-113189-index.htm"
     },
     {
       "name": "Starton Holdings, Inc.",
@@ -397,8 +417,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-28",
-      "source": "https://www.sec.gov/Archives/edgar/data/2133939/000110465926119778/0001104659-26-119778-index.htm",
-      "description": "Special purpose acquisition company targeting football management industry."
+      "source": "https://www.sec.gov/Archives/edgar/data/2133939/000110465926119778/0001104659-26-119778-index.htm"
     },
     {
       "name": "NuvOx Therapeutics, Inc.",
@@ -407,8 +426,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-28",
-      "source": "https://www.sec.gov/Archives/edgar/data/1966126/000121390026113463/0001213900-26-113463-index.htm",
-      "description": "Biotech developing therapies targeting oxidative stress disorders."
+      "source": "https://www.sec.gov/Archives/edgar/data/1966126/000121390026113463/0001213900-26-113463-index.htm"
     },
     {
       "name": "Heroic Empire Acquisition Ltd",
@@ -949,36 +967,6 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-10-20",
       "source": "https://www.sec.gov/Archives/edgar/data/1995075/000121390026111041/0001213900-26-111041-index.htm"
-    },
-    {
-      "name": "Helio Corp /FL/",
-      "cik": "0001953988",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/1953988/000168316826008001/0001683168-26-008001-index.htm",
-      "description": "Develops and operates solar power generation facilities."
-    },
-    {
-      "name": "Ealixir, Inc.",
-      "cik": "0000832370",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/832370/000121390026111109/0001213900-26-111109-index.htm",
-      "description": "Cell-based therapies for cancer and autoimmune diseases"
-    },
-    {
-      "name": "POWERDYNE INTERNATIONAL, INC.",
-      "cik": "0001435617",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/1435617/000149315226047799/0001493152-26-047799-index.htm",
-      "description": "Provides power generation and renewable energy solutions."
     }
   ]
 }
