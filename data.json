@@ -1,22 +1,13 @@
 {
-  "updated": "2026-11-05T01:20:12.581Z",
+  "updated": "2026-11-05T19:38:31.297Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 92,
-      "signal": "Kalshi traders price 92% odds of a 2026 IPO",
-      "date": "2026-11-05",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "OpenAI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "confidence": 76,
+      "signal": "Kalshi traders price 76% odds of a 2026 IPO",
       "date": "2026-11-05",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -30,6 +21,15 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Kraken",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 3,
+      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "date": "2026-11-05",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Skims",
       "cik": null,
       "status": "rumored",
@@ -39,7 +39,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Kraken",
+      "name": "Plaid",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -48,7 +48,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Plaid",
+      "name": "Oura",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -156,6 +156,15 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "OpenAI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-11-05",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Brex",
       "cik": null,
       "status": "rumored",
@@ -201,13 +210,24 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Oura",
+      "name": "Wonder",
       "cik": null,
       "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "confidence": 35,
+      "signal": "Marc Lore's Wonder confidentially files for IPO - CNBC",
       "date": "2026-11-05",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRm9VamxKVTBzRVFLbThDa3I2UGFpemtZNU1nX3ZVVENlbU85OW9DVHhpRldMdFgtTnZMLXhoQmg1YmJUSllwUlhGUDhlVUpaN1dyRjl6cUFVby12ZncwdGhnS19kOExnRm1HdFpoSk50OUYxcnfSAXtBVV95cUxNVVVnbjZ1N25BQnZldWRQMU93ckdiZ3pReV9DUFk2dlBDdU1hdkZNREQ3S1ppTXlmVTA0am93X1Q3cTVwU00yeTlJRk1XalhTSW84eloxSUZnZlVBTEhoS29lM1NkcEFrZERLRjNJbEl5ZXZiMWVrX3RTNms?oc=5",
+      "firstSeen": "2026-11-05"
+    },
+    {
+      "name": "Wonder Group",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Wonder Group Quietly Preps An IPO As It Eyes Drones - Finimize",
+      "date": "2026-11-05",
+      "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUU9rWjBwLUhlU3NVT2xkTURhcl9vR0UyaWl4czlWQ1dfbS1peTQycWl4SU1SV21mVWR0NjNWQVg1ODNKb1VrTVhrYzVScVZFWS1BN0M4V3hCMzBBMkxubmx0LXAwcjZIcWpGV3pKWGJ5TjB3Rl9BMWNxLUp5NXc1RjU0eUVfdTg?oc=5",
+      "firstSeen": "2026-11-05"
     },
     {
       "name": "Crescent Energy",
@@ -230,6 +250,16 @@
       "firstSeen": "2026-10-22"
     },
     {
+      "name": "NodThera",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 35,
+      "signal": "Rebranded NodThera plans IPO to fund NLRP3 inhibitor’s push toward approval - Fierce Biotech",
+      "date": "2026-10-22",
+      "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNLWRrZWI1bzF2QXRyU0VtV3RQWFNxMHlhbF90cnUzWkt1Mlc4WHZab2xxNW05SHVMTXF1Wk1iQXR5RDJNVnFpMkc4T0lIcUhGVWprOG1HX3N2TDJnd2Z4dnlnTGFUVTMtR09BTHdyWHlUY3hobmFTZHdpTGZ4X2REWFdoYlRDeERKR3gyNklZSks2RWFoUVFSNGhvMV9tc1VtR05vVjB3bGVRVkc5aEE?oc=5",
+      "firstSeen": "2026-10-22"
+    },
+    {
       "name": "Nscale",
       "cik": null,
       "status": "rumored",
@@ -240,6 +270,85 @@
       "firstSeen": "2026-10-19"
     },
     {
+      "name": "Parabolic Technologies, Inc.",
+      "cik": "0001826011",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226050176/0001493152-26-050176-index.htm",
+      "description": "Develops parabolic solar concentrator technology for renewable energy"
+    },
+    {
+      "name": "707 Cayman Holdings Ltd.",
+      "cik": "0002018222",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/2018222/000149315226050177/0001493152-26-050177-index.htm"
+    },
+    {
+      "name": "SOBR Safe, Inc.",
+      "cik": "0001425627",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/1425627/000147793226006693/0001477932-26-006693-index.htm",
+      "description": "Manufactures safe and security solutions for businesses"
+    },
+    {
+      "name": "Holvek Technologies Corp",
+      "cik": "0002161470",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/2161470/000216147026000002/0002161470-26-000002-index.htm",
+      "description": "Develops technology for oil and gas exploration"
+    },
+    {
+      "name": "Rezera Inc.",
+      "cik": "0002141583",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/2141583/000110465926122953/0001104659-26-122953-index.htm",
+      "description": "Provides hospitality booking and reservation management platform"
+    },
+    {
+      "name": "CAMECO CORP",
+      "cik": "0001009001",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/1009001/000119312526449410/0001193125-26-449410-index.htm",
+      "description": "Uranium mining and production company"
+    },
+    {
+      "name": "Guitar Group Ltd",
+      "cik": "0002127447",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/2127447/000118518526005201/0001185185-26-005201-index.htm",
+      "description": "Sells guitars and musical instruments"
+    },
+    {
+      "name": "INTERPACE BIOSCIENCES, INC.",
+      "cik": "0001054102",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-11-05",
+      "source": "https://www.sec.gov/Archives/edgar/data/1054102/000149315226050057/0001493152-26-050057-index.htm",
+      "description": "Develops immunotherapy drugs for cancer treatment"
+    },
+    {
       "name": "Janus Living, Inc.",
       "cik": "0002100805",
       "status": "filed",
@@ -247,7 +356,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-11-04",
       "source": "https://www.sec.gov/Archives/edgar/data/2100805/000110465926122669/0001104659-26-122669-index.htm",
-      "description": "Invests in senior living real estate properties."
+      "description": "Offers home health care and senior living services"
     },
     {
       "name": "Churchill Capital Corp XIV",
@@ -257,7 +366,17 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-11-04",
       "source": "https://www.sec.gov/Archives/edgar/data/2128984/000121390026115921/0001213900-26-115921-index.htm",
-      "description": "SPAC for mergers and acquisitions."
+      "description": "Special purpose acquisition company (SPAC)"
+    },
+    {
+      "name": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+      "cik": "0000720762",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-04",
+      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226050023/0001493152-26-050023-index.htm",
+      "description": "Develops non-invasive medical monitoring devices"
     },
     {
       "name": "Masonglory Ltd",
@@ -275,7 +394,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/2065232/000149315226049736/0001493152-26-049736-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2065232/000149315226049736/0001493152-26-049736-index.htm",
+      "description": "Sells fitness equipment and apparel"
     },
     {
       "name": "Tracx Logis Ltd.",
@@ -284,7 +404,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026115596/0001213900-26-115596-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2114145/000121390026115596/0001213900-26-115596-index.htm",
+      "description": "Provides logistics and supply chain solutions"
     },
     {
       "name": "Fitness Champs Holdings Ltd",
@@ -293,7 +414,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-03",
-      "source": "https://www.sec.gov/Archives/edgar/data/2023796/000149315226049826/0001493152-26-049826-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2023796/000149315226049826/0001493152-26-049826-index.htm",
+      "description": "Operates fitness clubs and wellness centers"
     },
     {
       "name": "GeoVax Labs, Inc.",
@@ -303,7 +425,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-11-03",
       "source": "https://www.sec.gov/Archives/edgar/data/832489/000143774926034729/0001437749-26-034729-index.htm",
-      "description": "Biotech developing vaccines using engineered microbes."
+      "description": "Develops vaccines using engineered bacterial vectors"
     },
     {
       "name": "HomesToLife Ltd",
@@ -312,7 +434,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-02",
-      "source": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226049584/0001493152-26-049584-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226049584/0001493152-26-049584-index.htm",
+      "description": "Real estate investment trust focusing on residential properties"
     },
     {
       "name": "Anthropic, PBC",
@@ -331,7 +454,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-02",
-      "source": "https://www.sec.gov/Archives/edgar/data/2013320/000149315226049615/0001493152-26-049615-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2013320/000149315226049615/0001493152-26-049615-index.htm",
+      "description": "Manufactures industrial equipment and machinery"
     },
     {
       "name": "Ja-Lika Corp",
@@ -340,7 +464,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-02",
-      "source": "https://www.sec.gov/Archives/edgar/data/2158764/000117152026000318/0001171520-26-000318-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2158764/000117152026000318/0001171520-26-000318-index.htm",
+      "description": "Provides technology solutions for oil and gas"
     },
     {
       "name": "VCI Global Ltd",
@@ -349,7 +474,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-02",
-      "source": "https://www.sec.gov/Archives/edgar/data/1930510/000121390026115124/0001213900-26-115124-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1930510/000121390026115124/0001213900-26-115124-index.htm",
+      "description": "Offers global logistics and supply chain services"
     },
     {
       "name": "Duke Holding Inc.",
@@ -367,7 +493,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2092291/000118518526005095/0001185185-26-005095-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2092291/000118518526005095/0001185185-26-005095-index.htm",
+      "description": "Produces and sells timber and wood products"
     },
     {
       "name": "Bitari Inc",
@@ -376,7 +503,8 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526005084/0001185185-26-005084-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526005084/0001185185-26-005084-index.htm",
+      "description": "Develops technology for oil and gas exploration"
     },
     {
       "name": "Aspen Neuroscience, Inc.",
@@ -395,7 +523,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1879403/000121390026114379/0001213900-26-114379-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1879403/000121390026114379/0001213900-26-114379-index.htm",
+      "description": "Provides technology solutions for oil and gas"
     },
     {
       "name": "Bambusa Therapeutics, Inc.",
@@ -434,7 +563,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226049479/0001493152-26-049479-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226049479/0001493152-26-049479-index.htm",
+      "description": "Develops technology for oil and gas operations"
     },
     {
       "name": "Capstone Holding Corp.",
@@ -446,22 +576,14 @@
       "source": "https://www.sec.gov/Archives/edgar/data/887151/000143774926034247/0001437749-26-034247-index.htm"
     },
     {
-      "name": "Parabolic Technologies, Inc.",
-      "cik": "0001826011",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226049469/0001493152-26-049469-index.htm"
-    },
-    {
       "name": "Ionetix Corp / DE /",
       "cik": "0002108121",
       "status": "filed",
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2108121/000121390026114512/0001213900-26-114512-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2108121/000121390026114512/0001213900-26-114512-index.htm",
+      "description": "Provides technology solutions for oil and gas"
     },
     {
       "name": "BIO KEY INTERNATIONAL INC",
@@ -481,7 +603,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-30",
       "source": "https://www.sec.gov/Archives/edgar/data/1054102/000149315226049456/0001493152-26-049456-index.htm",
-      "description": "Develops gene therapies for rare diseases."
+      "description": "Develops immunotherapy drugs for cancer treatment"
     },
     {
       "name": "iPower Inc.",
@@ -490,7 +612,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826008203/0001683168-26-008203-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1830072/000168316826008203/0001683168-26-008203-index.htm",
+      "description": "Provides power solutions for oil and gas"
     },
     {
       "name": "Exascale Labs Holdings Inc.",
@@ -499,7 +622,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626011834/0001829126-26-011834-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2109869/000182912626011834/0001829126-26-011834-index.htm",
+      "description": "Provides exascale computing solutions for AI, HPC, and quantum"
     },
     {
       "name": "Velos Acquisition I Corp.",
@@ -508,7 +632,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2016072/000121390026114335/0001213900-26-114335-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2016072/000121390026114335/0001213900-26-114335-index.htm",
+      "description": "SPAC targeting technology or related sector acquisitions"
     },
     {
       "name": "NorthStar Earth &amp; Space Enterprises, Inc.",
@@ -627,7 +752,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-10-28",
-      "source": "https://www.sec.gov/Archives/edgar/data/2049977/000121390026113388/0001213900-26-113388-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2049977/000121390026113388/0001213900-26-113388-index.htm",
+      "description": "Invests in and manages technology and consumer businesses"
     },
     {
       "name": "Glow Holdings, Inc.",
@@ -638,16 +764,6 @@
       "date": "2026-10-28",
       "source": "https://www.sec.gov/Archives/edgar/data/1114859/000168316826008135/0001683168-26-008135-index.htm",
       "description": "Digital health platform for women's health and wellness"
-    },
-    {
-      "name": "707 Cayman Holdings Ltd.",
-      "cik": "0002018222",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-10-28",
-      "source": "https://www.sec.gov/Archives/edgar/data/2018222/000149315226049083/0001493152-26-049083-index.htm",
-      "description": "Cayman Islands-based investment holding company"
     },
     {
       "name": "Football Manager SPAC Inc.",
@@ -796,7 +912,7 @@
       "signal": "S-1 amended",
       "date": "2026-10-26",
       "source": "https://www.sec.gov/Archives/edgar/data/2091680/000118518526004983/0001185185-26-004983-index.htm",
-      "description": "Biotech developing cancer immunotherapies"
+      "description": "Develops technology for oil and gas exploration"
     },
     {
       "name": "LIS Technologies Inc",
@@ -817,75 +933,6 @@
       "date": "2026-10-26",
       "source": "https://www.sec.gov/Archives/edgar/data/2091349/000119312526431033/0001193125-26-431033-index.htm",
       "description": "Biotech developing immunotherapeutic agents for cancer."
-    },
-    {
-      "name": "OPAY Ltd",
-      "cik": "0002103076",
-      "status": "priced",
-      "confidence": 98,
-      "signal": "Exchange registration, listing imminent",
-      "date": "2026-10-26",
-      "source": "https://www.sec.gov/Archives/edgar/data/2103076/000119312526430979/0001193125-26-430979-index.htm",
-      "description": "Digital payment platform enabling cross-border transactions."
-    },
-    {
-      "name": "GEORGIA BANKING CO INC",
-      "cik": "0001070965",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-26",
-      "source": "https://www.sec.gov/Archives/edgar/data/1070965/000110465926118704/0001104659-26-118704-index.htm",
-      "description": "Banking company"
-    },
-    {
-      "name": "Greenland Mines Ltd",
-      "cik": "0001907223",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-26",
-      "source": "https://www.sec.gov/Archives/edgar/data/1907223/000121390026112563/0001213900-26-112563-index.htm",
-      "description": "Gold mining company exploring and developing Greenland deposits."
-    },
-    {
-      "name": "Londonla Inc.",
-      "cik": "0002146369",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-26",
-      "source": "https://www.sec.gov/Archives/edgar/data/2146369/000147793226006459/0001477932-26-006459-index.htm"
-    },
-    {
-      "name": "Traws Pharma, Inc.",
-      "cik": "0001130598",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-26",
-      "source": "https://www.sec.gov/Archives/edgar/data/1130598/000110465926118813/0001104659-26-118813-index.htm",
-      "description": "Biopharmaceutical company developing oncology therapeutics."
-    },
-    {
-      "name": "Aimei Health Technology II Co., Ltd.",
-      "cik": "0002045931",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-26",
-      "source": "https://www.sec.gov/Archives/edgar/data/2045931/000192998026000558/0001929980-26-000558-index.htm",
-      "description": "Health technology firm focusing on AI-driven diagnostics."
-    },
-    {
-      "name": "FireFly Robotics, Inc.",
-      "cik": "0001660851",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-26",
-      "source": "https://www.sec.gov/Archives/edgar/data/1660851/000149315226048609/0001493152-26-048609-index.htm",
-      "description": "Robotics company developing autonomous drone solutions."
     }
   ]
 }
