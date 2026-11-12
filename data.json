@@ -1,22 +1,13 @@
 {
-  "updated": "2026-11-12T02:08:58.157Z",
+  "updated": "2026-11-12T19:37:54.437Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 98,
-      "signal": "Kalshi traders price 98% odds of a 2026 IPO",
-      "date": "2026-11-12",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Kraken",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 3,
-      "signal": "Kalshi traders price 3% odds of a 2026 IPO",
+      "confidence": 97,
+      "signal": "Kalshi traders price 97% odds of a 2026 IPO",
       "date": "2026-11-12",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -24,13 +15,13 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "confidence": 5,
+      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
       "date": "2026-11-12",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "DeepSeek",
+      "name": "Kraken",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
@@ -147,6 +138,15 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Rippling",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-11-12",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Glean",
       "cik": null,
       "status": "rumored",
@@ -166,6 +166,15 @@
     },
     {
       "name": "Plaid",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-11-12",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
+      "name": "DeepSeek",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
@@ -241,6 +250,42 @@
       "date": "2026-10-19",
       "source": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5LMlotSEliZ1IzRTZ5c1FFZWlvajZueWYzOHhMM0Qya2FZNGZxaDJNd2RRXzMyZ2prQWE3d3lFZ3huc2dhT19RZUZpNXozbjBVSk5ocGdwdmp0RHVPV28zcEczYnZFXzZRX0IyaQ?oc=5",
       "firstSeen": "2026-10-19"
+    },
+    {
+      "name": "vVARDIS Holding AG",
+      "cik": "0001907709",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-12",
+      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043309/0001140361-26-043309-index.htm"
+    },
+    {
+      "name": "FireFly Robotics, Inc.",
+      "cik": "0001660851",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-12",
+      "source": "https://www.sec.gov/Archives/edgar/data/1660851/000149315226051283/0001493152-26-051283-index.htm"
+    },
+    {
+      "name": "Uptrend Holdings Ltd",
+      "cik": "0002046370",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-12",
+      "source": "https://www.sec.gov/Archives/edgar/data/2046370/000121390026118316/0001213900-26-118316-index.htm"
+    },
+    {
+      "name": "vVARDIS Holding AG",
+      "cik": "0001907709",
+      "status": "priced",
+      "confidence": 98,
+      "signal": "Exchange registration, listing imminent",
+      "date": "2026-11-12",
+      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043327/0001140361-26-043327-index.htm"
     },
     {
       "name": "Anthropic, PBC",
@@ -367,6 +412,24 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-10",
       "source": "https://www.sec.gov/Archives/edgar/data/2048740/000121390026117945/0001213900-26-117945-index.htm"
+    },
+    {
+      "name": "Cycurion, Inc.",
+      "cik": "0001868419",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-10",
+      "source": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226051044/0001493152-26-051044-index.htm"
+    },
+    {
+      "name": "Jingrui Wang Pu Holdings Group Ltd.",
+      "cik": "0001998284",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-10",
+      "source": "https://www.sec.gov/Archives/edgar/data/1998284/000110465926125497/0001104659-26-125497-index.htm"
     },
     {
       "name": "Rezera Inc.",
@@ -563,15 +626,6 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-06",
       "source": "https://www.sec.gov/Archives/edgar/data/2136246/000121390026116798/0001213900-26-116798-index.htm"
-    },
-    {
-      "name": "vVARDIS Holding AG",
-      "cik": "0001907709",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126042406/0001140361-26-042406-index.htm"
     },
     {
       "name": "Rezera Inc.",
@@ -826,66 +880,6 @@
       "signal": "S-1 amended",
       "date": "2026-10-30",
       "source": "https://www.sec.gov/Archives/edgar/data/2079000/000121390026114238/0001213900-26-114238-index.htm"
-    },
-    {
-      "name": "Timwood Holdings Ltd",
-      "cik": "0002092291",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2092291/000118518526005095/0001185185-26-005095-index.htm",
-      "description": "Produces and sells timber and wood products"
-    },
-    {
-      "name": "Stratum Holdings Corp.",
-      "cik": "0001879403",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1879403/000121390026114379/0001213900-26-114379-index.htm",
-      "description": "Provides technology solutions for oil and gas"
-    },
-    {
-      "name": "Evernorth Holdings Inc.",
-      "cik": "0002092592",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/2092592/000162828026068609/0001628280-26-068609-index.htm",
-      "description": "Provides integrated health services and care management."
-    },
-    {
-      "name": "MOBIX LABS, INC",
-      "cik": "0001855467",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1855467/000149315226049479/0001493152-26-049479-index.htm",
-      "description": "Develops technology for oil and gas operations"
-    },
-    {
-      "name": "Capstone Holding Corp.",
-      "cik": "0000887151",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/887151/000143774926034247/0001437749-26-034247-index.htm",
-      "description": "Special purpose acquisition company (SPAC)"
-    },
-    {
-      "name": "BIO KEY INTERNATIONAL INC",
-      "cik": "0001019034",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-10-30",
-      "source": "https://www.sec.gov/Archives/edgar/data/1019034/000143774926034238/0001437749-26-034238-index.htm",
-      "description": "Develops diagnostic and therapeutic products."
     }
   ]
 }
