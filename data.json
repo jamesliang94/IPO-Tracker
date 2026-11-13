@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-13T01:42:34.048Z",
+  "updated": "2026-11-13T19:17:16.625Z",
   "summary": "",
   "companies": [
     {
       "name": "Anthropic",
       "cik": null,
       "status": "rumored",
-      "confidence": 97,
-      "signal": "Kalshi traders price 97% odds of a 2026 IPO",
+      "confidence": 98,
+      "signal": "Kalshi traders price 98% odds of a 2026 IPO",
       "date": "2026-11-13",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -15,8 +15,8 @@
       "name": "Discord",
       "cik": null,
       "status": "rumored",
-      "confidence": 4,
-      "signal": "Kalshi traders price 4% odds of a 2026 IPO",
+      "confidence": 5,
+      "signal": "Kalshi traders price 5% odds of a 2026 IPO",
       "date": "2026-11-13",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
@@ -165,7 +165,7 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
-      "name": "Plaid",
+      "name": "Oura",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
@@ -198,7 +198,7 @@
       "confidence": 35,
       "signal": "Marc Lore's Wonder confidentially files for IPO - CNBC",
       "date": "2026-11-05",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRm9VamxKVTBzRVFLbThDa3I2UGFpemtZNU1nX3ZVVENlbU85OW9DVHhpRldMdFgtTnZMLXhoQmg1YmJUSllwUlhGUDhlVUpaN1dyRjl6cUFVby12ZncwdGhnS19kOExnRm1HdFpoSk50OUYxcnc?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRm9VamxKVTBzRVFLbThDa3I2UGFpemtZNU1nX3ZVVENlbU85OW9DVHhpRldMdFgtTnZMLXhoQmg1YmJUSllwUlhGUDhlVUpaN1dyRjl6cUFVby12ZncwdGhnS19kOExnRm1HdFpoSk50OUYxcnfSAXtBVV95cUxNVVVnbjZ1N25BQnZldWRQMU93ckdiZ3pReV9DUFk2dlBDdU1hdkZNREQ3S1ppTXlmVTA0am93X1Q3cTVwU00yeTlJRk1XalhTSW84eloxSUZnZlVBTEhoS29lM1NkcEFrZERLRjNJbEl5ZXZiMWVrX3RTNms?oc=5",
       "firstSeen": "2026-11-05"
     },
     {
@@ -252,14 +252,49 @@
       "firstSeen": "2026-10-19"
     },
     {
+      "name": "Wella Co",
+      "cik": "0002125056",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-13",
+      "source": "https://www.sec.gov/Archives/edgar/data/2125056/000162828026073693/0001628280-26-073693-index.htm"
+    },
+    {
+      "name": "ELT Design Holdings Ltd",
+      "cik": "0002088223",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-13",
+      "source": "https://www.sec.gov/Archives/edgar/data/2088223/000208822326000004/0002088223-26-000004-index.htm"
+    },
+    {
+      "name": "Tattvance Corp",
+      "cik": "0002153476",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-13",
+      "source": "https://www.sec.gov/Archives/edgar/data/2153476/000117152026000334/0001171520-26-000334-index.htm"
+    },
+    {
+      "name": "707 Cayman Holdings Ltd.",
+      "cik": "0002018222",
+      "status": "priced",
+      "confidence": 99,
+      "signal": "Final prospectus filed, deal priced",
+      "date": "2026-11-13",
+      "source": "https://www.sec.gov/Archives/edgar/data/2018222/000149315226051641/0001493152-26-051641-index.htm"
+    },
+    {
       "name": "vVARDIS Holding AG",
       "cik": "0001907709",
       "status": "filed",
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043309/0001140361-26-043309-index.htm",
-      "description": "Develops cardiovascular implantable medical devices."
+      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043309/0001140361-26-043309-index.htm"
     },
     {
       "name": "FireFly Robotics, Inc.",
@@ -268,8 +303,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/1660851/000149315226051283/0001493152-26-051283-index.htm",
-      "description": "Builds autonomous mobile robots for industrial logistics."
+      "source": "https://www.sec.gov/Archives/edgar/data/1660851/000149315226051283/0001493152-26-051283-index.htm"
     },
     {
       "name": "Uptrend Holdings Ltd",
@@ -278,8 +312,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/2046370/000121390026118316/0001213900-26-118316-index.htm",
-      "description": "Provides digital marketing and e-commerce solutions."
+      "source": "https://www.sec.gov/Archives/edgar/data/2046370/000121390026118316/0001213900-26-118316-index.htm"
     },
     {
       "name": "vVARDIS Holding AG",
@@ -288,8 +321,7 @@
       "confidence": 98,
       "signal": "Exchange registration, listing imminent",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043327/0001140361-26-043327-index.htm",
-      "description": "Develops cardiovascular implantable medical devices."
+      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043327/0001140361-26-043327-index.htm"
     },
     {
       "name": "LORENZO DEVELOPMENTS INC.",
@@ -298,8 +330,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/2071166/000121390026118959/0001213900-26-118959-index.htm",
-      "description": "Philippine real estate developer of residential and commercial projects."
+      "source": "https://www.sec.gov/Archives/edgar/data/2071166/000121390026118959/0001213900-26-118959-index.htm"
     },
     {
       "name": "Nscale plc",
@@ -308,8 +339,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/0001193125-26-458722-index.htm",
-      "description": "Provides digital transformation and technology consulting services."
+      "source": "https://www.sec.gov/Archives/edgar/data/2110365/000119312526458722/0001193125-26-458722-index.htm"
     },
     {
       "name": "Nauticus Robotics, Inc.",
@@ -318,8 +348,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/1849820/000121390026118997/0001213900-26-118997-index.htm",
-      "description": "Develops autonomous underwater vehicles for marine research."
+      "source": "https://www.sec.gov/Archives/edgar/data/1849820/000121390026118997/0001213900-26-118997-index.htm"
     },
     {
       "name": "Rothe Development, Inc.",
@@ -328,8 +357,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/2108671/000149315226051345/0001493152-26-051345-index.htm",
-      "description": "Manufactures hydraulic and pneumatic industrial equipment."
+      "source": "https://www.sec.gov/Archives/edgar/data/2108671/000149315226051345/0001493152-26-051345-index.htm"
     },
     {
       "name": "Aggreko Inc.",
@@ -338,8 +366,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/2134090/000110465926126335/0001104659-26-126335-index.htm",
-      "description": "Provides temporary power and temperature control solutions."
+      "source": "https://www.sec.gov/Archives/edgar/data/2134090/000110465926126335/0001104659-26-126335-index.htm"
     },
     {
       "name": "Anthropic, PBC",
@@ -348,8 +375,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm",
-      "description": "Develops safe and interpretable large language models."
+      "source": "https://www.sec.gov/Archives/edgar/data/2130357/000162828026072484/0001628280-26-072484-index.htm"
     },
     {
       "name": "Ionetix Corp / DE /",
@@ -358,8 +384,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2108121/000121390026117736/0001213900-26-117736-index.htm",
-      "description": "Produces power electronics for electric vehicles."
+      "source": "https://www.sec.gov/Archives/edgar/data/2108121/000121390026117736/0001213900-26-117736-index.htm"
     },
     {
       "name": "Boxlight Corp",
@@ -368,8 +393,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026117784/0001213900-26-117784-index.htm",
-      "description": "Provides digital learning and interactive display solutions."
+      "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026117784/0001213900-26-117784-index.htm"
     },
     {
       "name": "HYDROFARM HOLDINGS GROUP, INC.",
@@ -378,8 +402,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926036233/0001437749-26-036233-index.htm",
-      "description": "Operates hydroponic farming and vertical agriculture."
+      "source": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926036233/0001437749-26-036233-index.htm"
     },
     {
       "name": "VME Companies, Inc.",
@@ -388,8 +411,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2113640/000157587226000779/0001575872-26-000779-index.htm",
-      "description": "Manufactures vacuum pumps and pressure equipment."
+      "source": "https://www.sec.gov/Archives/edgar/data/2113640/000157587226000779/0001575872-26-000779-index.htm"
     },
     {
       "name": "DataMeds AI, Inc.",
@@ -398,8 +420,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226050986/0001493152-26-050986-index.htm",
-      "description": "Applies AI to medical data for drug discovery."
+      "source": "https://www.sec.gov/Archives/edgar/data/2030763/000149315226050986/0001493152-26-050986-index.htm"
     },
     {
       "name": "Agility Robotics, Inc.",
@@ -408,8 +429,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026118025/0001213900-26-118025-index.htm",
-      "description": "Builds legged robots for logistics and industrial tasks."
+      "source": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026118025/0001213900-26-118025-index.htm"
     },
     {
       "name": "American Barrick Gold Corp",
@@ -418,8 +438,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2162540/000119312526455481/0001193125-26-455481-index.htm",
-      "description": "Gold mining and exploration company."
+      "source": "https://www.sec.gov/Archives/edgar/data/2162540/000119312526455481/0001193125-26-455481-index.htm"
     },
     {
       "name": "Fly-E Group, Inc.",
@@ -428,8 +447,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1975940/000121390026117613/0001213900-26-117613-index.htm",
-      "description": "Develops electric aircraft and aviation technology."
+      "source": "https://www.sec.gov/Archives/edgar/data/1975940/000121390026117613/0001213900-26-117613-index.htm"
     },
     {
       "name": "GrowHub Ltd",
@@ -438,8 +456,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2024114/000149315226051020/0001493152-26-051020-index.htm",
-      "description": "Provides digital platform connecting farmers and suppliers."
+      "source": "https://www.sec.gov/Archives/edgar/data/2024114/000149315226051020/0001493152-26-051020-index.htm"
     },
     {
       "name": "Rubico Inc.",
@@ -448,8 +465,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1943421/000117184326007339/0001171843-26-007339-index.htm",
-      "description": "Offers digital marketing and e-commerce solutions."
+      "source": "https://www.sec.gov/Archives/edgar/data/1943421/000117184326007339/0001171843-26-007339-index.htm"
     },
     {
       "name": "TOP SHIPS INC.",
@@ -458,8 +474,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326007338/0001171843-26-007338-index.htm",
-      "description": "Provides vessel chartering and maritime logistics services."
+      "source": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326007338/0001171843-26-007338-index.htm"
     },
     {
       "name": "Aiways Automobile Europe GmbH",
@@ -468,8 +483,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2049203/000121390026117945/0001213900-26-117945-index.htm",
-      "description": "Manufactures electric vehicles in Europe."
+      "source": "https://www.sec.gov/Archives/edgar/data/2049203/000121390026117945/0001213900-26-117945-index.htm"
     },
     {
       "name": "EUROEV Holdings Ltd",
@@ -478,8 +492,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/2048740/000121390026117945/0001213900-26-117945-index.htm",
-      "description": "Develops electric vehicle charging infrastructure."
+      "source": "https://www.sec.gov/Archives/edgar/data/2048740/000121390026117945/0001213900-26-117945-index.htm"
     },
     {
       "name": "Cycurion, Inc.",
@@ -488,8 +501,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226051044/0001493152-26-051044-index.htm",
-      "description": "Provides cybersecurity threat intelligence and solutions."
+      "source": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226051044/0001493152-26-051044-index.htm"
     },
     {
       "name": "Jingrui Wang Pu Holdings Group Ltd.",
@@ -498,8 +510,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1998284/000110465926125497/0001104659-26-125497-index.htm",
-      "description": "Manufactures power modules and electronic components."
+      "source": "https://www.sec.gov/Archives/edgar/data/1998284/000110465926125497/0001104659-26-125497-index.htm"
     },
     {
       "name": "Rezera Inc.",
@@ -675,7 +686,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026116829/0001213900-26-116829-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1779977/000121390026116829/0001213900-26-116829-index.htm",
+      "description": "Software for radiology image quality control and compliance"
     },
     {
       "name": "UC Automotive Holdings Inc.",
@@ -684,7 +696,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/2144445/000121390026116925/0001213900-26-116925-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2144445/000121390026116925/0001213900-26-116925-index.htm",
+      "description": "Distributor of automotive parts and accessories"
     },
     {
       "name": "BEHNEH Ltd",
@@ -712,7 +725,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/2137779/000119312526452284/0001193125-26-452284-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2137779/000119312526452284/0001193125-26-452284-index.htm",
+      "description": "Contract research organization providing biotech and pharma services"
     },
     {
       "name": "Parabolic Technologies, Inc.",
@@ -722,7 +736,7 @@
       "signal": "S-1 filed with SEC",
       "date": "2026-11-05",
       "source": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226050176/0001493152-26-050176-index.htm",
-      "description": "High-power laser systems developer for industrial applications."
+      "description": "Manufacturer of parabolic antennas for satellite communications"
     },
     {
       "name": "707 Cayman Holdings Ltd.",
@@ -821,7 +835,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-05",
-      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026116544/0001213900-26-116544-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026116544/0001213900-26-116544-index.htm",
+      "description": "AI-driven data analytics platform for financial services"
     },
     {
       "name": "Parabolic Technologies, Inc.",
@@ -830,7 +845,8 @@
       "confidence": 99,
       "signal": "Final prospectus filed, deal priced",
       "date": "2026-11-05",
-      "source": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226050319/0001493152-26-050319-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1826011/000149315226050319/0001493152-26-050319-index.htm",
+      "description": "Manufacturer of parabolic antennas for satellite communications"
     },
     {
       "name": "Janus Living, Inc.",
@@ -859,7 +875,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-04",
-      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226050023/0001493152-26-050023-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/720762/000149315226050023/0001493152-26-050023-index.htm",
+      "description": "Develops non-invasive medical monitoring devices"
     },
     {
       "name": "Masonglory Ltd",
