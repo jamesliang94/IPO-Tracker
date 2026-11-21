@@ -1,14 +1,23 @@
 {
-  "updated": "2026-11-20T19:40:42.739Z",
+  "updated": "2026-11-21T01:59:58.691Z",
   "summary": "",
   "companies": [
+    {
+      "name": "OpenAI",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-11-21",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
     {
       "name": "Discord",
       "cik": null,
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -17,7 +26,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -26,7 +35,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -35,7 +44,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -44,7 +53,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -53,7 +62,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -62,7 +71,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -71,7 +80,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -80,7 +89,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -89,7 +98,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -98,7 +107,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -107,16 +116,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "OpenAI",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -125,7 +125,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -134,7 +134,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -143,7 +143,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -152,7 +152,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-20",
+      "date": "2026-11-21",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -161,7 +161,7 @@
       "status": "rumored",
       "confidence": 35,
       "signal": "Anthropic Plans IPO Live Stream With Amodei, JPMorgan CEO Dimon - Bloomberg.com",
-      "date": "2026-11-10",
+      "date": "2026-11-09",
       "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxON0dvR3VWQlk1NERKbUVWRndYdFJKeU9IUmR2UHRUanVEQkw1WVJwY1A5Wk9uOTk1b0k2cUFwVXFEM1d3MUJlNkRMUDNORklnNjdyTktNM0N0cWtKXy0zZ3Nfb3JlcTNZMUNBMWJjbHdvTXlmeXoxSUNYOTF3VUJPRUJ0VHZ2QmtFV1N5Y0FnTVBNY0NvaHoxMjBoMVktNjhiSzFhQzUtNExnVkNwZmNWRm90NA?oc=5",
       "firstSeen": "2026-11-09"
     },
@@ -251,6 +251,114 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-20",
       "source": "https://www.sec.gov/Archives/edgar/data/1998560/000121390026122381/0001213900-26-122381-index.htm"
+    },
+    {
+      "name": "ConnectM Technology Solutions, Inc.",
+      "cik": "0001895249",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926130675/0001104659-26-130675-index.htm"
+    },
+    {
+      "name": "TruGolf Holdings, Inc.",
+      "cik": "0001857086",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1857086/000149315226053580/0001493152-26-053580-index.htm"
+    },
+    {
+      "name": "ContextLogic Holdings Inc.",
+      "cik": "0002064307",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/2064307/000119312526470479/0001193125-26-470479-index.htm"
+    },
+    {
+      "name": "BIO KEY INTERNATIONAL INC",
+      "cik": "0001019034",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1019034/000143774926037921/0001437749-26-037921-index.htm"
+    },
+    {
+      "name": "bioAffinity Technologies, Inc.",
+      "cik": "0001712762",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226053519/0001493152-26-053519-index.htm"
+    },
+    {
+      "name": "Forge Nano Holdings, Inc.",
+      "cik": "0002101833",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/2101833/000110465926130613/0001104659-26-130613-index.htm"
+    },
+    {
+      "name": "Aptevo Therapeutics Inc.",
+      "cik": "0001671584",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1671584/000119312526470268/0001193125-26-470268-index.htm"
+    },
+    {
+      "name": "Inmune Bio Inc.",
+      "cik": "0001711754",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1711754/000121390026122693/0001213900-26-122693-index.htm"
+    },
+    {
+      "name": "Tongda International Group Co., Ltd",
+      "cik": "0002095898",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/2095898/000109991026000317/0001099910-26-000317-index.htm"
+    },
+    {
+      "name": "Tactical Resources Corp.",
+      "cik": "0002041208",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/2041208/000121390026122721/0001213900-26-122721-index.htm"
+    },
+    {
+      "name": "AKANDA CORP.",
+      "cik": "0001888014",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/1888014/000121390026122719/0001213900-26-122719-index.htm"
+    },
+    {
+      "name": "PHAOS TECHNOLOGY HOLDINGS (CAYMAN) Ltd",
+      "cik": "0002024258",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-20",
+      "source": "https://www.sec.gov/Archives/edgar/data/2024258/000149315226053494/0001493152-26-053494-index.htm"
     },
     {
       "name": "Anthropic, PBC",
@@ -803,136 +911,6 @@
       "date": "2026-11-10",
       "source": "https://www.sec.gov/Archives/edgar/data/1296484/000117184326007338/0001171843-26-007338-index.htm",
       "description": "Provides shipping and logistics services."
-    },
-    {
-      "name": "Cycurion, Inc.",
-      "cik": "0001868419",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1868419/000149315226051044/0001493152-26-051044-index.htm",
-      "description": "Industrial cybersecurity platform protecting critical infrastructure."
-    },
-    {
-      "name": "Jingrui Wang Pu Holdings Group Ltd.",
-      "cik": "0001998284",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-10",
-      "source": "https://www.sec.gov/Archives/edgar/data/1998284/000110465926125497/0001104659-26-125497-index.htm",
-      "description": "Manufactures industrial equipment and machinery."
-    },
-    {
-      "name": "Rezera Inc.",
-      "cik": "0002141583",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2141583/000110465926124074/0001104659-26-124074-index.htm",
-      "description": "Provides digital health platform for patient engagement."
-    },
-    {
-      "name": "WINDWARD BIO GROUP AG",
-      "cik": "0002145089",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2145089/000119312526452536/0001193125-26-452536-index.htm",
-      "description": "Biotechnology company developing gene therapies"
-    },
-    {
-      "name": "Focus Media Network Ltd",
-      "cik": "0002123920",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/2123920/000121390026117373/0001213900-26-117373-index.htm",
-      "description": "Provides digital media and advertising services."
-    },
-    {
-      "name": "Blue Laser Fusion, Inc.",
-      "cik": "0001938570",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1938570/000119312526453492/0001193125-26-453492-index.htm",
-      "description": "Develops laser fusion technology for energy applications."
-    },
-    {
-      "name": "ConnectM Technology Solutions, Inc.",
-      "cik": "0001895249",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1895249/000110465926124071/0001104659-26-124071-index.htm",
-      "description": "Offers IT consulting and managed services."
-    },
-    {
-      "name": "Evaxion A/S",
-      "cik": "0001828253",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-09",
-      "source": "https://www.sec.gov/Archives/edgar/data/1828253/000117184326007254/0001171843-26-007254-index.htm",
-      "description": "Develops mRNA-based therapeutics for diseases."
-    },
-    {
-      "name": "HomesToLife Ltd",
-      "cik": "0002023153",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/2023153/000149315226050358/0001493152-26-050358-index.htm",
-      "description": "Real estate investment company focusing on residential properties"
-    },
-    {
-      "name": "Bogd FT Ltd",
-      "cik": "0002113733",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/2113733/000121390026116779/0001213900-26-116779-index.htm",
-      "description": "Provides fintech services and solutions."
-    },
-    {
-      "name": "Neo-Concept International Group Holdings Ltd",
-      "cik": "0001916331",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/1916331/000118518526005219/0001185185-26-005219-index.htm",
-      "description": "Digital signage and interactive solutions provider."
-    },
-    {
-      "name": "Simwon America Corp.",
-      "cik": "0001698506",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/1698506/000121390026116984/0001213900-26-116984-index.htm",
-      "description": "AI medical imaging solutions provider."
-    },
-    {
-      "name": "EXOZYMES INC.",
-      "cik": "0002010788",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-06",
-      "source": "https://www.sec.gov/Archives/edgar/data/2010788/000149315226050521/0001493152-26-050521-index.htm",
-      "description": "Biotech developing industrial enzymes."
     }
   ]
 }
