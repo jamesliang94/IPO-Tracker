@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T21:59:48.261Z",
+  "updated": "2026-11-25T21:09:56.157Z",
   "summary": "",
   "companies": [
     {
@@ -8,7 +8,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -17,7 +17,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -26,7 +26,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -35,7 +35,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -44,7 +44,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -53,7 +53,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -62,7 +62,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -71,7 +71,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -80,7 +80,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -89,7 +89,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -98,7 +98,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -152,14 +152,103 @@
       "firstSeen": "2026-11-02"
     },
     {
+      "name": "bioAffinity Technologies, Inc.",
+      "cik": "0001712762",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226054208/0001493152-26-054208-index.htm"
+    },
+    {
+      "name": "Hydro One Holdings Ltd",
+      "cik": "0001742574",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1742574/000119312526477968/0001193125-26-477968-index.htm"
+    },
+    {
+      "name": "Hydro One Ltd",
+      "cik": "0001712356",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1712356/000119312526477968/0001193125-26-477968-index.htm"
+    },
+    {
+      "name": "EON Resources Inc.",
+      "cik": "0001842556",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1842556/000121390026124137/0001213900-26-124137-index.htm"
+    },
+    {
+      "name": "Kalohexis, Inc.",
+      "cik": "0002135148",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/2135148/000149315226054198/0001493152-26-054198-index.htm"
+    },
+    {
+      "name": "DarkPulse, Inc.",
+      "cik": "0000866439",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/866439/000168316826009139/0001683168-26-009139-index.htm"
+    },
+    {
+      "name": "ALGOBIZZ Ltd",
+      "cik": "0002136084",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/2136084/000121390026124049/0001213900-26-124049-index.htm"
+    },
+    {
+      "name": "SU Group Holdings Ltd",
+      "cik": "0001969863",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1969863/000175392626002255/0001753926-26-002255-index.htm"
+    },
+    {
+      "name": "Zeta Network Group",
+      "cik": "0001747661",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1747661/000121390026123925/0001213900-26-123925-index.htm"
+    },
+    {
+      "name": "Timwood Holdings Ltd",
+      "cik": "0002092291",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/2092291/000118518526005610/0001185185-26-005610-index.htm"
+    },
+    {
       "name": "Koil Energy Solutions, Inc.",
       "cik": "0001110607",
       "status": "filed",
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/1110607/000168316826009099/0001683168-26-009099-index.htm",
-      "description": "Renewable energy solutions provider focusing on solar and storage."
+      "source": "https://www.sec.gov/Archives/edgar/data/1110607/000168316826009099/0001683168-26-009099-index.htm"
     },
     {
       "name": "Alopexx, Inc.",
@@ -168,8 +257,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/1880995/000121390026123702/0001213900-26-123702-index.htm",
-      "description": "Medical device company developing ocular drug delivery system."
+      "source": "https://www.sec.gov/Archives/edgar/data/1880995/000121390026123702/0001213900-26-123702-index.htm"
     },
     {
       "name": "BEASLEY BROADCAST GROUP INC",
@@ -178,8 +266,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/1099160/000119312526475735/0001193125-26-475735-index.htm",
-      "description": "Broadcasting company operating radio and television stations."
+      "source": "https://www.sec.gov/Archives/edgar/data/1099160/000119312526475735/0001193125-26-475735-index.htm"
     },
     {
       "name": "Elmet Group Co.",
@@ -188,8 +275,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026123658/0001213900-26-123658-index.htm",
-      "description": "Manufacturer of industrial machinery for automotive sector."
+      "source": "https://www.sec.gov/Archives/edgar/data/2101698/000121390026123658/0001213900-26-123658-index.htm"
     },
     {
       "name": "TryHard Holdings Ltd",
@@ -198,8 +284,7 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/2044241/000149315226054023/0001493152-26-054023-index.htm",
-      "description": "Video game developer and publisher."
+      "source": "https://www.sec.gov/Archives/edgar/data/2044241/000149315226054023/0001493152-26-054023-index.htm"
     },
     {
       "name": "Koei Group Co., Ltd.",
@@ -208,8 +293,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/2070087/000149315226053976/0001493152-26-053976-index.htm",
-      "description": "Japanese video game developer known for strategy titles."
+      "source": "https://www.sec.gov/Archives/edgar/data/2070087/000149315226053976/0001493152-26-053976-index.htm"
     },
     {
       "name": "Focus Media Network Ltd",
@@ -218,8 +302,7 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/2123920/000121390026123456/0001213900-26-123456-index.htm",
-      "description": "Digital media network providing content and advertising."
+      "source": "https://www.sec.gov/Archives/edgar/data/2123920/000121390026123456/0001213900-26-123456-index.htm"
     },
     {
       "name": "Fitness Fanatics Ltd",
@@ -228,8 +311,52 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-24",
-      "source": "https://www.sec.gov/Archives/edgar/data/2065232/000149315226053883/0001493152-26-053883-index.htm",
-      "description": "Retailer of fitness equipment and apparel."
+      "source": "https://www.sec.gov/Archives/edgar/data/2065232/000149315226053883/0001493152-26-053883-index.htm"
+    },
+    {
+      "name": "Expion Energy, Inc.",
+      "cik": "0001894954",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000445/0001903596-26-000445-index.htm"
+    },
+    {
+      "name": "Patriot Mobile Inc.",
+      "cik": "0002148546",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "S-1 amended",
+      "date": "2026-11-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/2148546/000110465926131695/0001104659-26-131695-index.htm"
+    },
+    {
+      "name": "BIOVIE INC.",
+      "cik": "0001580149",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/1580149/000152013826000524/0001520138-26-000524-index.htm"
+    },
+    {
+      "name": "Guitar Group Ltd",
+      "cik": "0002127447",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/2127447/000118518526005604/0001185185-26-005604-index.htm"
+    },
+    {
+      "name": "ROZE AI INC.",
+      "cik": "0002075335",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-24",
+      "source": "https://www.sec.gov/Archives/edgar/data/2075335/000121390026123776/0001213900-26-123776-index.htm"
     },
     {
       "name": "Regen BioPharma Inc",
@@ -238,8 +365,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/1589150/000149315226053831/0001493152-26-053831-index.htm",
-      "description": "Biotech developing regenerative therapies for musculoskeletal disorders."
+      "source": "https://www.sec.gov/Archives/edgar/data/1589150/000149315226053831/0001493152-26-053831-index.htm"
     },
     {
       "name": "PGGC Technology Holding Group Inc.",
@@ -248,8 +374,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/2159455/000152013826000519/0001520138-26-000519-index.htm",
-      "description": "Technology holding group with diversified investments."
+      "source": "https://www.sec.gov/Archives/edgar/data/2159455/000152013826000519/0001520138-26-000519-index.htm"
     },
     {
       "name": "LIBERTYSTREAM INFRASTRUCTURE PARTNERS INC.",
@@ -258,8 +383,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/2107904/000162828026075512/0001628280-26-075512-index.htm",
-      "description": "Private equity firm investing in infrastructure assets."
+      "source": "https://www.sec.gov/Archives/edgar/data/2107904/000162828026075512/0001628280-26-075512-index.htm"
     },
     {
       "name": "Biointra, Corp",
@@ -268,8 +392,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/2053365/000205336526000010/0002053365-26-000010-index.htm",
-      "description": "Biotech developing intrathecal drug delivery systems."
+      "source": "https://www.sec.gov/Archives/edgar/data/2053365/000205336526000010/0002053365-26-000010-index.htm"
     },
     {
       "name": "HYDROFARM HOLDINGS GROUP, INC.",
@@ -278,8 +401,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926038103/0001437749-26-038103-index.htm",
-      "description": "Renewable energy company specializing in hydroelectric power."
+      "source": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926038103/0001437749-26-038103-index.htm"
     },
     {
       "name": "Earlens Corp",
@@ -288,8 +410,7 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/1490171/000119312526472933/0001193125-26-472933-index.htm",
-      "description": "Medical device company creating drug-delivering contact lenses."
+      "source": "https://www.sec.gov/Archives/edgar/data/1490171/000119312526472933/0001193125-26-472933-index.htm"
     },
     {
       "name": "CLEARONE INC",
@@ -298,8 +419,7 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/840715/000175392626002234/0001753926-26-002234-index.htm",
-      "description": "Video conferencing and audio solutions provider."
+      "source": "https://www.sec.gov/Archives/edgar/data/840715/000175392626002234/0001753926-26-002234-index.htm"
     },
     {
       "name": "LIS Technologies Inc",
@@ -370,16 +490,6 @@
       "date": "2026-11-20",
       "source": "https://www.sec.gov/Archives/edgar/data/1019034/000143774926037921/0001437749-26-037921-index.htm",
       "description": "Biotech company developing gene therapies."
-    },
-    {
-      "name": "bioAffinity Technologies, Inc.",
-      "cik": "0001712762",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-20",
-      "source": "https://www.sec.gov/Archives/edgar/data/1712762/000149315226053519/0001493152-26-053519-index.htm",
-      "description": "Biotech developing affinity purification technologies."
     },
     {
       "name": "Forge Nano Holdings, Inc.",
@@ -668,26 +778,6 @@
       "description": "Medical supply company selling healthcare products."
     },
     {
-      "name": "Hydro One Holdings Ltd",
-      "cik": "0001742574",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1742574/000119312526463426/0001193125-26-463426-index.htm",
-      "description": "Canadian electricity utility company."
-    },
-    {
-      "name": "Hydro One Ltd",
-      "cik": "0001712356",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1712356/000119312526463426/0001193125-26-463426-index.htm",
-      "description": "Electricity distribution company in Ontario."
-    },
-    {
       "name": "Gold Stone Technical Inc.",
       "cik": "0002095509",
       "status": "filed",
@@ -728,16 +818,6 @@
       "description": "Robotics company building legged robots."
     },
     {
-      "name": "Expion Energy, Inc.",
-      "cik": "0001894954",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1894954/000190359626000437/0001903596-26-000437-index.htm",
-      "description": "Renewable energy company focusing on solar and storage."
-    },
-    {
       "name": "Encore Medical, Inc.",
       "cik": "0001838003",
       "status": "filed",
@@ -776,76 +856,6 @@
       "date": "2026-11-13",
       "source": "https://www.sec.gov/Archives/edgar/data/2125056/000162828026073693/0001628280-26-073693-index.htm",
       "description": "Cosmetics and hair care product manufacturer"
-    },
-    {
-      "name": "ELT Design Holdings Ltd",
-      "cik": "0002088223",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/2088223/000208822326000004/0002088223-26-000004-index.htm",
-      "description": "Electronic design and manufacturing services provider"
-    },
-    {
-      "name": "Tattvance Corp",
-      "cik": "0002153476",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/2153476/000117152026000334/0001171520-26-000334-index.htm",
-      "description": "AI-driven analytics technology company."
-    },
-    {
-      "name": "SHF Holdings, Inc.",
-      "cik": "0001854963",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1854963/000149315226051855/0001493152-26-051855-index.htm",
-      "description": "Holding company for real estate investments."
-    },
-    {
-      "name": "CloudDepots Holdings Inc.",
-      "cik": "0002108686",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/2108686/000121390026119865/0001213900-26-119865-index.htm",
-      "description": "Cloud storage and data management solutions"
-    },
-    {
-      "name": "WESTWATER RESOURCES, INC.",
-      "cik": "0000839470",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/839470/000110465926127070/0001104659-26-127070-index.htm",
-      "description": "Mining company extracting copper and gold"
-    },
-    {
-      "name": "Creative Global Technology Holdings Ltd",
-      "cik": "0001967822",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-11-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/1967822/000121390026119795/0001213900-26-119795-index.htm",
-      "description": "Technology holding company focusing on digital solutions"
-    },
-    {
-      "name": "vVARDIS Holding AG",
-      "cik": "0001907709",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-12",
-      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043309/0001140361-26-043309-index.htm",
-      "description": "Holding company for AI medical imaging solutions."
     }
   ]
 }
