@@ -1,14 +1,23 @@
 {
-  "updated": "2026-11-25T21:09:56.157Z",
+  "updated": "2026-11-26T21:01:01.524Z",
   "summary": "",
   "companies": [
+    {
+      "name": "Discord",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 2,
+      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
+      "date": "2026-11-26",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
     {
       "name": "Beast Industries",
       "cik": null,
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -17,7 +26,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -26,7 +35,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -35,7 +44,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -44,7 +53,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -53,7 +62,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -62,16 +71,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Discord",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -80,7 +80,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -89,7 +89,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -98,7 +98,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-25",
+      "date": "2026-11-26",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -240,6 +240,42 @@
       "signal": "F-1 amended",
       "date": "2026-11-25",
       "source": "https://www.sec.gov/Archives/edgar/data/2092291/000118518526005610/0001185185-26-005610-index.htm"
+    },
+    {
+      "name": "DATA I/O CORP",
+      "cik": "0000351998",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/351998/000119312526478540/0001193125-26-478540-index.htm"
+    },
+    {
+      "name": "BIOTRICITY INC.",
+      "cik": "0001630113",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1630113/000149315226054303/0001493152-26-054303-index.htm"
+    },
+    {
+      "name": "CSTS Enterprises Inc.",
+      "cik": "0002101280",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "S-1 filed with SEC",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/2101280/000149315226054262/0001493152-26-054262-index.htm"
+    },
+    {
+      "name": "Indrocorp Technologies Inc.",
+      "cik": "0001889417",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1889417/000117184326007729/0001171843-26-007729-index.htm"
     },
     {
       "name": "Koil Energy Solutions, Inc.",
@@ -610,16 +646,6 @@
       "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226007188/0001477932-26-007188-index.htm"
     },
     {
-      "name": "DATA I/O CORP",
-      "cik": "0000351998",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/351998/000119312526468831/0001193125-26-468831-index.htm",
-      "description": "Semiconductor company designing high-performance analog and mixed-signal ICs."
-    },
-    {
       "name": "BirchBioMed Inc.",
       "cik": "0001670747",
       "status": "filed",
@@ -758,16 +784,6 @@
       "description": "Copper mining exploration company."
     },
     {
-      "name": "vVARDIS Holding AG",
-      "cik": "0001907709",
-      "status": "priced",
-      "confidence": 99,
-      "signal": "Final prospectus filed, deal priced",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1907709/000114036126043938/0001140361-26-043938-index.htm",
-      "description": "Holding company for AI medical imaging solutions."
-    },
-    {
       "name": "Medline Inc.",
       "cik": "0002046386",
       "status": "filed",
@@ -806,56 +822,6 @@
       "date": "2026-11-16",
       "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026121027/0001213900-26-121027-index.htm",
       "description": "Digital signage and interactive display solutions provider."
-    },
-    {
-      "name": "Agility Robotics, Inc.",
-      "cik": "0002074973",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2074973/000121390026120832/0001213900-26-120832-index.htm",
-      "description": "Robotics company building legged robots."
-    },
-    {
-      "name": "Encore Medical, Inc.",
-      "cik": "0001838003",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1838003/000110465926128582/0001104659-26-128582-index.htm",
-      "description": "Medical device company developing chronic pain treatment."
-    },
-    {
-      "name": "Core Specialty Insurance Holdings, Inc.",
-      "cik": "0001834261",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "S-1 filed with SEC",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1834261/000162828026074231/0001628280-26-074231-index.htm",
-      "description": "Specialty insurance holding company."
-    },
-    {
-      "name": "First Phosphate Corp.",
-      "cik": "0001490078",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1490078/000118518526005482/0001185185-26-005482-index.htm",
-      "description": "Phosphate mining company exploring Canadian deposits."
-    },
-    {
-      "name": "Wella Co",
-      "cik": "0002125056",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-13",
-      "source": "https://www.sec.gov/Archives/edgar/data/2125056/000162828026073693/0001628280-26-073693-index.htm",
-      "description": "Cosmetics and hair care product manufacturer"
     }
   ]
 }
