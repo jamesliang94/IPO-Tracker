@@ -29,7 +29,11 @@ const NEWS_QUERIES = [
   '"IPO" "has hired" banks underwriters',
   'IPO "filed confidentially" SEC',
   'startup "exploring an IPO"',
-  '"ADR" IPO "New York" listing'
+  '"ADR" IPO "New York" listing',
+  'startup IPO "as early as" 2027',
+  '"eyeing an IPO" company valuation',
+  'company "IPO candidate" private valuation',
+  '"ahead of a potential IPO" startup'
 ];
 const NEWS_STOPWORDS = new Set([
   'The','A','An','US','U.S.','IPO','Wall','Street','New','York','Nasdaq','NYSE',
@@ -152,7 +156,7 @@ async function extractNamesWithGemini(headlines) {
     return null;
   }
   if (headlines.length === 0) return null;
-  const MAX_HEADLINES = 320;
+  const MAX_HEADLINES = 500;
   if (headlines.length > MAX_HEADLINES) {
     console.log('Trimming ' + headlines.length + ' to ' + MAX_HEADLINES);
     headlines = headlines.slice(0, MAX_HEADLINES);
@@ -167,7 +171,9 @@ async function extractNamesWithGemini(headlines) {
   const prompt = 'You are extracting IPO candidates from news headlines.\n\n'
       + 'For each numbered headline, return the company that is going public.\n'
       + 'Rules:\n'
-      + '- company must be null unless a specific named company is going public.\n'
+      + '- Return the company if it is going public OR is credibly reported as a future IPO candidate '
+      + '(exploring, considering, in talks, eyeing, expected to list, preparing).\n'
+      + '- Still return null for pure market commentary with no specific company advancing toward a listing.\n'
       + '- Include foreign companies listing in the US (ADRs, "US IPO", "New York listing"): us = true.\n'
       + '- If the listing is on a non-US exchange only (Hong Kong, London, India, Tokyo, Shanghai): us = false.\n'
       + '- Never return an exchange, city, country, month, or news outlet as the company.\n'
