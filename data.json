@@ -1,16 +1,7 @@
 {
-  "updated": "2026-11-27T03:36:20.570Z",
+  "updated": "2026-11-27T15:34:34.426Z",
   "summary": "",
   "companies": [
-    {
-      "name": "Discord",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 2,
-      "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-11-27",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
     {
       "name": "Kraken",
       "cik": null,
@@ -57,6 +48,15 @@
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
+      "name": "Discord",
+      "cik": null,
+      "status": "rumored",
+      "confidence": 1,
+      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
+      "date": "2026-11-27",
+      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
+    },
+    {
       "name": "Rippling",
       "cik": null,
       "status": "rumored",
@@ -79,9 +79,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Anthropic’s IPO filing lays out a plan to ‘revolutionize every area of human endeavor’ with AI - The Verge",
-      "date": "2026-10-26",
-      "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDJaaWU1VjBlLS1CeDRlSFF5eTFrSVI1c0JrR1VaWVhwOGNubnlzcmxJaU1uZEN0Y1RJZjRHQXMwU1FpUWsxQ01xYmdBOWdzQjFWLVdiTDVlTWtScUJUcHZzcjd1RDBYMGpZc2FfR3cyYUtrVXNPeGREbjdYZVN0Q0JDLWZiM1lrdDI4bDY3Uks4UFBTODJYYmd3?oc=5",
+      "signal": "Anthropic Prepares to Push Ahead With IPO Despite Market Jitters - WSJ",
+      "date": "2026-11-09",
+      "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRlNNX2c5SGV4WXdpZ2Utb2NzU0NhVlpUM3MwWEZ3bFdyVHZ5cDZGbnJSWVpEelJrZ0tCQTZrNjUyRTFaLW1JeGxucWtvcEJwOXUyQkwzUkpPQUNEYTFobG9qc3oyTVhHb1VCeDRPck1xU2lla1NtMlY5VkExdmJobDJ6U01LbHgzYjZFTmFHYzFCVjRfM1VxRVJIeE40d3REMXlqT01qQnh5TEg1?oc=5",
       "firstSeen": "2026-11-09"
     },
     {
@@ -109,9 +109,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Marc Lore's Wonder Group confidentially files for US IPO - Reuters",
+      "signal": "Marc Lore's Wonder confidentially files for IPO - CNBC",
       "date": "2026-11-05",
-      "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTnlIQ0hVQ29sUEUxWUtXY0NnME1uZC1XdkliZWRTMTNJMHVpZ05pTnBJY2ludlVORDF1blh6RzFKeGRQMDVxR2NOMnNXYzg1UVJIY0w5YjFYSXVsQjdSVG5CMEZEMmtfSUZEeFpKbDIyd2hjNDY4dGMxRllIeHRLMnVvSkhla2pOazVLcVpvOU9CWW5BOEt1bjZvNjY?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRm9VamxKVTBzRVFLbThDa3I2UGFpemtZNU1nX3ZVVENlbU85OW9DVHhpRldMdFgtTnZMLXhoQmg1YmJUSllwUlhGUDhlVUpaN1dyRjl6cUFVby12ZncwdGhnS19kOExnRm1HdFpoSk50OUYxcnfSAXtBVV95cUxNVVVnbjZ1N25BQnZldWRQMU93ckdiZ3pReV9DUFk2dlBDdU1hdkZNREQ3S1ppTXlmVTA0am93X1Q3cTVwU00yeTlJRk1XalhTSW84eloxSUZnZlVBTEhoS29lM1NkcEFrZERLRjNJbEl5ZXZiMWVrX3RTNms?oc=5",
       "firstSeen": "2026-11-05"
     },
     {
@@ -123,6 +123,15 @@
       "date": "2026-11-02",
       "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOLVRDUmY2SHgzU1phTnBWQS1BaExPZW1MbThMclVBSXhHbzJJak1FZUF4b2lBcW92NHp0QzZud1pLTzg1bkhQRXcxTGlxSHRXcTQ5U3k0RkFGTm5laUdsN2pWZjdDdFViSnl3dmMwd2p2c0p0ZFhEME9iMGw1a1l3SUNKTnQ1dGpMVVRZYnEtb1FiZVFt?oc=5",
       "firstSeen": "2026-11-02"
+    },
+    {
+      "name": "B &amp; T Global Holding Ltd.",
+      "cik": "0002156248",
+      "status": "filed",
+      "confidence": 92,
+      "signal": "F-1 amended",
+      "date": "2026-11-27",
+      "source": "https://www.sec.gov/Archives/edgar/data/2156248/000149315226054330/0001493152-26-054330-index.htm"
     },
     {
       "name": "bioAffinity Technologies, Inc.",
@@ -249,6 +258,24 @@
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-25",
       "source": "https://www.sec.gov/Archives/edgar/data/1889417/000117184326007729/0001171843-26-007729-index.htm"
+    },
+    {
+      "name": "Decent Holding Inc.",
+      "cik": "0001958133",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1958133/000118518526005623/0001185185-26-005623-index.htm"
+    },
+    {
+      "name": "GREENPOWER MOTOR Co INC.",
+      "cik": "0001584547",
+      "status": "filed",
+      "confidence": 90,
+      "signal": "F-1 filed (foreign issuer)",
+      "date": "2026-11-25",
+      "source": "https://www.sec.gov/Archives/edgar/data/1584547/000106299326006297/0001062993-26-006297-index.htm"
     },
     {
       "name": "Koil Energy Solutions, Inc.",
@@ -392,7 +419,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/2107904/000162828026075512/0001628280-26-075512-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2107904/000162828026075512/0001628280-26-075512-index.htm",
+      "description": "Invests in data center and fiber infrastructure assets."
     },
     {
       "name": "Biointra, Corp",
@@ -401,7 +429,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/2053365/000205336526000010/0002053365-26-000010-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2053365/000205336526000010/0002053365-26-000010-index.htm",
+      "description": "Develops intravascular imaging systems for cardiovascular procedures."
     },
     {
       "name": "HYDROFARM HOLDINGS GROUP, INC.",
@@ -410,7 +439,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926038103/0001437749-26-038103-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1695295/000143774926038103/0001437749-26-038103-index.htm",
+      "description": "Operates hydroponic farms for sustainable agriculture."
     },
     {
       "name": "Earlens Corp",
@@ -771,36 +801,6 @@
       "date": "2026-11-16",
       "source": "https://www.sec.gov/Archives/edgar/data/2046386/000119312526461946/0001193125-26-461946-index.htm",
       "description": "Medical supply company selling healthcare products."
-    },
-    {
-      "name": "Gold Stone Technical Inc.",
-      "cik": "0002095509",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "F-1 amended",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2095509/000121390026120404/0001213900-26-120404-index.htm",
-      "description": "Technology consulting and services company."
-    },
-    {
-      "name": "B &amp; T Global Holding Ltd.",
-      "cik": "0002156248",
-      "status": "filed",
-      "confidence": 90,
-      "signal": "F-1 filed (foreign issuer)",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/2156248/000149315226051984/0001493152-26-051984-index.htm",
-      "description": "Holding company for diversified businesses."
-    },
-    {
-      "name": "Boxlight Corp",
-      "cik": "0001624512",
-      "status": "filed",
-      "confidence": 92,
-      "signal": "S-1 amended",
-      "date": "2026-11-16",
-      "source": "https://www.sec.gov/Archives/edgar/data/1624512/000121390026121027/0001213900-26-121027-index.htm",
-      "description": "Digital signage and interactive display solutions provider."
     }
   ]
 }
