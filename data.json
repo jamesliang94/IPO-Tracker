@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26T21:01:01.524Z",
+  "updated": "2026-11-27T03:36:20.570Z",
   "summary": "",
   "companies": [
     {
@@ -8,16 +8,7 @@
       "status": "rumored",
       "confidence": 2,
       "signal": "Kalshi traders price 2% odds of a 2026 IPO",
-      "date": "2026-11-26",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Beast Industries",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -26,7 +17,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -35,7 +26,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -44,7 +35,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -53,16 +44,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "Ramp",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -71,7 +53,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -80,7 +62,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -89,16 +71,7 @@
       "status": "rumored",
       "confidence": 1,
       "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
-      "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
-    },
-    {
-      "name": "DeepSeek",
-      "cik": null,
-      "status": "rumored",
-      "confidence": 1,
-      "signal": "Kalshi traders price 1% odds of a 2026 IPO",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "source": "https://kalshi.com/markets/kxipo/ipos/kxipo-26"
     },
     {
@@ -126,9 +99,9 @@
       "cik": null,
       "status": "rumored",
       "confidence": 35,
-      "signal": "Marc Lore's Wonder confidentially files for IPO - CNBC",
+      "signal": "Wonder confidentially files for IPO as food delivery group seeks next funding phase - Traders Union",
       "date": "2026-11-05",
-      "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zRm9VamxKVTBzRVFLbThDa3I2UGFpemtZNU1nX3ZVVENlbU85OW9DVHhpRldMdFgtTnZMLXhoQmg1YmJUSllwUlhGUDhlVUpaN1dyRjl6cUFVby12ZncwdGhnS19kOExnRm1HdFpoSk50OUYxcnfSAXtBVV95cUxNVVVnbjZ1N25BQnZldWRQMU93ckdiZ3pReV9DUFk2dlBDdU1hdkZNREQ3S1ppTXlmVTA0am93X1Q3cTVwU00yeTlJRk1XalhTSW84eloxSUZnZlVBTEhoS29lM1NkcEFrZERLRjNJbEl5ZXZiMWVrX3RTNms?oc=5",
+      "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaER1WmRkU09oUFpwN1N0X2pWLXpSR0w0bDlHX2dwc2I1UkZpRS1HRjhkWWhXbFNrUEprdU1YcFo1MEZnTmFESDhqcDlaUzg4RGVRNVNjX0V0M1pJcE9RNWF0MjlQVlNWSzZSdDVLTkxMMmJqdVpQdnNOY1dqTWRVVExBTk5VeFFVRVRTdQ?oc=5",
       "firstSeen": "2026-11-05"
     },
     {
@@ -446,7 +419,8 @@
       "confidence": 90,
       "signal": "S-1 filed with SEC",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/1490171/000119312526472933/0001193125-26-472933-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1490171/000119312526472933/0001193125-26-472933-index.htm",
+      "description": "Implantable drug delivery system for chronic pain management"
     },
     {
       "name": "CLEARONE INC",
@@ -455,7 +429,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-23",
-      "source": "https://www.sec.gov/Archives/edgar/data/840715/000175392626002234/0001753926-26-002234-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/840715/000175392626002234/0001753926-26-002234-index.htm",
+      "description": "Ultrasound therapy device for tinnitus and hearing disorders"
     },
     {
       "name": "LIS Technologies Inc",
@@ -634,7 +609,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/2049323/000121390026122098/0001213900-26-122098-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2049323/000121390026122098/0001213900-26-122098-index.htm",
+      "description": "Property management services for residential and commercial real estate"
     },
     {
       "name": "MED-X, INC.",
@@ -643,7 +619,8 @@
       "confidence": 92,
       "signal": "S-1 amended",
       "date": "2026-11-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226007188/0001477932-26-007188-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1620704/000147793226007188/0001477932-26-007188-index.htm",
+      "description": "Medical device company developing electrotherapy for chronic pain"
     },
     {
       "name": "BirchBioMed Inc.",
@@ -672,7 +649,8 @@
       "confidence": 92,
       "signal": "F-1 amended",
       "date": "2026-11-19",
-      "source": "https://www.sec.gov/Archives/edgar/data/2128185/000162828026075089/0001628280-26-075089-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/2128185/000162828026075089/0001628280-26-075089-index.htm",
+      "description": "Financial services company offering investment and wealth management"
     },
     {
       "name": "Medline Inc.",
@@ -701,7 +679,8 @@
       "confidence": 90,
       "signal": "F-1 filed (foreign issuer)",
       "date": "2026-11-18",
-      "source": "https://www.sec.gov/Archives/edgar/data/1873454/000173112226001464/0001731122-26-001464-index.htm"
+      "source": "https://www.sec.gov/Archives/edgar/data/1873454/000173112226001464/0001731122-26-001464-index.htm",
+      "description": "IoT company developing smart home and lighting solutions"
     },
     {
       "name": "Anthropic, PBC",
